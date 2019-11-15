@@ -1,0 +1,85 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: yes
+    fig_caption: yes
+  html_document: default
+always_allow_html: yes
+geometry: margin=1in
+documentclass: article
+header-includes:
+  - \setlength{\parindent}{2em}
+  - \setlength{\parskip}{0em}
+  - \usepackage{setspace, booktabs}
+---
+
+\doublespacing
+
+\large Alex Kramer \hfill PSYCH 613
+\par
+\begin{center}{\huge Problem Set 3}\end{center}
+\par
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+require(reshape2)
+library(tidyverse)
+library(broom)
+library(dplyr)
+library(RColorBrewer)
+```
+
+```{r, include=TRUE, echo=TRUE}
+    # Read in data
+    df.yuuka   <- data.frame(read.table("dependencies/YukaKinoshita木下ゆうか/YukaKinoshita木下ゆうか_dependencies.csv", header=TRUE, sep=","))
+    df.hikakin <- data.frame(read.table("dependencies/HikakinTV/HikakinTV_dependencies.csv", header=TRUE, sep=","))
+    df.fischers <- data.frame(read.table("dependencies/Fischer's-フィッシャーズ-/Fischer's-フィッシャーズ-_dependencies.csv", header=TRUE, sep=","))
+    df.hajime <- data.frame(read.table("dependencies/はじめしゃちょー(Hajime)/はじめしゃちょー(Hajime)_dependencies.csv", header=TRUE, sep=","))
+    df.riku <- data.frame(read.table("dependencies/SUSHI-RAMEN【Riku】/SUSHI-RAMEN【Riku】_dependencies.csv", header=TRUE, sep=","))
+```
+
+```{r}
+    df.all <- dplyr::bind_rows(list("Yuuka Kinoshita"=df.yuuka, "HikakinTV"=df.hikakin, "Fischer's"=df.fischers, "Hajime Shacho"=df.hajime, "SUSHI-RAMEN (Riku)"=df.riku), .id = 'channel')
+  df.all
+```
+
+```{r, include=TRUE, echo=TRUE}
+      # Calculate squared sentence length to match Futrell et al.
+      df.all$sent_len_sq   <- df.all$num_dependencies * df.all$num_dependencies
+
+      # Convert dataframe to "long" format wrt. original and random lengths
+      df.all.long <- melt(df.all ,  id.vars = c('channel', 'video_id', 'sentence_id', 'num_dependencies', 'sent_len_sq'), variable.name = 'baseline') %>% filter(value < 300, baseline != "dep_total_optimal")
+```
+
+``````{r, include=TRUE, echo=TRUE}
+      # Plot by channel
+      ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=channel)) + 
+        #geom_point(alpha = 0.1) +
+        geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+        facet_wrap(.~channel) + 
+        labs(x="Sentence Length", y="Total Dependency Length", title="Observed and Random Dependency Lengths per Channel by Sentence Length") + 
+        scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = "colour")
+
+      ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=baseline)) + 
+        #geom_point(alpha = 0.1) +
+        geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+        labs(x="Sentence Length", y="Total Dependency Length", title="Observed and Random Dependency Lengths by Sentence Length") + 
+        scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = "colour")
+```
+
+```{r}
+  df.all.12 <- df.all.long %>% filter(num_dependencies == 12)
+  ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", border=F) + 
+     labs(x="Dependency Length", y="Frequency", title="Dependency Lengths for Sentences of Length 12") + 
+     scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = c("colour", "fill"))
+  
+  df.all.12 <- df.all.long %>% filter(num_dependencies == 12)
+  ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", border=F) + 
+        facet_wrap(.~channel) + 
+        labs(x="Dependency Length", y="Frequency", title="Dependency Lengths for Sentences of Length 12 by Channel") + 
+        scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = c("colour", "fill"))
+  
+  
+```
