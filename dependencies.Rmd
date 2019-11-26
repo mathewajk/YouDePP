@@ -28,10 +28,10 @@ require(reshape2)
 library(tidyverse)
 library(broom)
 library(dplyr)
-library(RColorBrewer)
+library(ghibli)
 ```
 
-```{r, include=TRUE, echo=TRUE}
+```{r, include=FALSE}
     # Read in data
     df.yuuka   <- data.frame(read.table("dependencies/YukaKinoshita木下ゆうか/YukaKinoshita木下ゆうか_dependencies.csv", header=TRUE, sep=","))
     df.hikakin <- data.frame(read.table("dependencies/HikakinTV/HikakinTV_dependencies.csv", header=TRUE, sep=","))
@@ -40,46 +40,81 @@ library(RColorBrewer)
     df.riku <- data.frame(read.table("dependencies/SUSHI-RAMEN【Riku】/SUSHI-RAMEN【Riku】_dependencies.csv", header=TRUE, sep=","))
 ```
 
-```{r}
+```{r, include=FALSE}
     df.all <- dplyr::bind_rows(list("Yuuka Kinoshita"=df.yuuka, "HikakinTV"=df.hikakin, "Fischer's"=df.fischers, "Hajime Shacho"=df.hajime, "SUSHI-RAMEN (Riku)"=df.riku), .id = 'channel')
-  df.all
 ```
 
-```{r, include=TRUE, echo=TRUE}
-      # Calculate squared sentence length to match Futrell et al.
-      df.all$sent_len_sq   <- df.all$num_dependencies * df.all$num_dependencies
+```{r, include=FALSE}
+  # Calculate squared sentence length to match Futrell et al.
+  df.all$sent_len_sq   <- df.all$num_dependencies * df.all$num_dependencies
 
-      # Convert dataframe to "long" format wrt. original and random lengths
-      df.all.long <- melt(df.all ,  id.vars = c('channel', 'video_id', 'sentence_id', 'num_dependencies', 'sent_len_sq'), variable.name = 'baseline') %>% filter(value < 300, baseline != "dep_total_optimal")
+  # Convert dataframe to "long" format wrt. original and random lengths
+  df.all.long <- melt(df.all ,  id.vars = c('channel', 'video_id', 'sentence_id', 'num_dependencies', 'sent_len_sq'), variable.name = 'baseline') %>% filter(value > 5 & value < 300)
+  
+  df.all.long$baseline <- factor(df.all.long$baseline, levels=c("dep_total_random", "dep_total_optimal", "dep_total_true"))
+  df.observed <- df.all.long %>% filter(baseline=="dep_total_true")
 ```
 
-``````{r, include=TRUE, echo=TRUE}
-      # Plot by channel
-      ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=channel)) + 
-        #geom_point(alpha = 0.1) +
-        geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-        facet_wrap(.~channel) + 
-        labs(x="Sentence Length", y="Total Dependency Length", title="Observed and Random Dependency Lengths per Channel by Sentence Length") + 
-        scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = "colour")
-
-      ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=baseline)) + 
-        #geom_point(alpha = 0.1) +
-        geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-        labs(x="Sentence Length", y="Total Dependency Length", title="Observed and Random Dependency Lengths by Sentence Length") + 
-        scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = "colour")
+```{r, include=TRUE, echo=FALSE}
+  # Plot by channel
+  dep.by.channel.g <- ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=value, x=num_dependencies, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    facet_wrap(.~channel)
+  dep.by.channel.g
 ```
 
-```{r}
+```{r, include=FALSE}
+ggsave("dependencies_by_channel.svg", plot=dep.by.channel.g, device="svg", dpi = 300)
+ggsave("dependencies_by_channel.png", plot=dep.by.channel.g, device="png", dpi = 300)
+```
+
+```{r, include=TRUE, echo=FALSE}
+  all.dependencies.g <- ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=value, x=num_dependencies, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed"))
+  all.dependencies.g
+```
+
+```{r, include=FALSE}
+ggsave("all_dependencies.svg", plot=all.dependencies.g, device="svg", dpi = 300)
+ggsave("all_dependencies.png", plot=all.dependencies.g, device="png", dpi = 300)
+```
+
+```{r, include=TRUE, echo=FALSE}
   df.all.12 <- df.all.long %>% filter(num_dependencies == 12)
-  ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", border=F) + 
-     labs(x="Dependency Length", y="Frequency", title="Dependency Lengths for Sentences of Length 12") + 
-     scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = c("colour", "fill"))
-  
-  df.all.12 <- df.all.long %>% filter(num_dependencies == 12)
-  ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", border=F) + 
-        facet_wrap(.~channel) + 
-        labs(x="Dependency Length", y="Frequency", title="Dependency Lengths for Sentences of Length 12 by Channel") + 
-        scale_color_brewer(palette = "Set1", name = "", labels = c("Observed", "Random"), aesthetics = c("colour", "fill"))
-  
-  
+  hist.12.all.g <- ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
+    labs(x="Dependency Length", y="Frequency", title="") + 
+    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
+  hist.12.all.g
+```
+
+```{r, include=FALSE}
+ggsave("hist_12_all.svg", plot=hist.12.all.g, device="svg", dpi = 300)
+ggsave("hist_12_all.png", plot=hist.12.all.g, device="png", dpi = 300)
+```
+
+```{r, include=TRUE, echo=FALSE}
+  hist.12.channel.g <- ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
+    facet_wrap(.~channel) + 
+    labs(x="Dependency Length", y="Frequency", title="") + 
+    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
+  hist.12.channel.g
+```
+
+```{r, include=FALSE}
+ggsave("hist_12_by_channel.svg", plot=hist.12.channel.g, device="svg", dpi = 300)
+ggsave("hist_12_by_channel.png", plot=hist.12.channel.g, device="png", dpi = 300)
 ```
