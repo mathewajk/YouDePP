@@ -30,19 +30,45 @@ def process_files(nlp, files, channel, start):
                         outfile.write("{0}, {1}, {2}, {3}, {4}, {5}\n".format(vid_count, sent_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies))
     print("Processed {0} files".format(len(files)))
 
-def linearize_optimal(node):
+def linearize_optimal(node, indent="", right = True, n="0", verbose=False):
     if not len(node['children']):
+        if(verbose):
+            print(indent + n + " Found terminal node: {0}".format(node['child']))
         return [(node['parent'], node['relation'], node['child'])]
     else:
+
         chunk = [(node['parent'], node['relation'], node['child'])]
+        root_pos = 0
+
         sorted_children = node['children']
-        sorted_children.sort(key=weight)
+        sorted_children.sort(key=weight, reverse=True)
+
+        total_weight = weight(node)
+        weight_left = 0
+        weight_right = 0
+
+        if verbose:
+            print(indent + n + " Found intermediate node {0} with total weight {1}".format(node['child'], total_weight))
 
         for i in range(0, len(sorted_children)):
-            if i % 2:
-                chunk.append(linearize_optimal(sorted_children[i]))
-            else:
-                chunk.insert(0, linearize_optimal(sorted_children[i]))
+            weight_cur = weight(sorted_children[i])
+            if (i % 2 and right) or (not i % 2 and not right):
+                # Add the largest child to the right of the parent, then swap directions
+                chunk.insert(root_pos + 1, linearize_optimal(sorted_children[i], indent + "  ", False, n + "." + str(i), verbose))
+                weight_right += weight_cur
+                if verbose:
+                    print(indent + n + " Added child of weight {0} to RIGHT".format(weight_cur))
+            else: # Add largest to left and swap
+                chunk.insert(root_pos, linearize_optimal(sorted_children[i], indent + "  ", True,  n + "." + str(i), verbose))
+                if verbose:
+                    print(indent + "Added child of weight {0} to LEFT".format(weight_cur))
+                weight_left += weight_cur
+                root_pos = root_pos + 1
+
+            if verbose:
+                print(indent + n + " Current left weight: {0} Current right weight: {1}".format(weight_left, weight_right))
+                print()
+
         return chunk
 
 def linearize_random(node):
@@ -68,7 +94,9 @@ def linearize_random(node):
         return chunk
 
 def weight(node):
-    return len(node['children']) + sum(map(weight, node['children']))
+    if not len(node['children']):
+        return 1
+    return 1 + sum(map(weight, node['children']))
 
 def iter_flatten(iterable):
   it = iter(iterable)
@@ -106,11 +134,12 @@ def get_dependency_length(dependency, indices):
         return abs(indices[governor.index] - indices[child.index])
 
 def dependencies(doc, i):
+    count_bad = 0
     sent_id = 0
     for sentence in doc.sentences:
         sent_id += 1
 
-        true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] != "punct"]
+        true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
         num_dependencies = len(true_dependencies)
 
         if(num_dependencies < 1 or num_dependencies > 50):
@@ -140,19 +169,31 @@ def dependencies(doc, i):
             dep_total_random += get_dependency_length(random_dep, random_indices)
 
         if(dep_total_true < dep_total_optimal):
+            sentence.print_dependencies()
+            count_bad += 1
             print("True: {0}, Optimal: {1}, Random: {2}, Total dependencies: {3}".format(dep_total_true, dep_total_optimal, dep_total_random, num_dependencies))
-
-        yield (sent_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies)
+            optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0], verbose=True)))
+            for node in optimal_dependencies:
+                print(node[2])
+            print(optimal_indices)
+        else:
+            yield (sent_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies)
+    print(count_bad)
 
 def process_lines(f):
      for line in f:
          if not re.search("^[0-9]", line):
-             tmp = line.split("：")
-             for utterance in tmp:
-                 no_weird_punct = "。".join([str for str in re.split("[！？!?.]", utterance)])
-                 no_etc = "".join([str for str in re.split("[～、()（）【】「」\[\]\n]", no_weird_punct) if str != ""])
-                 if(no_etc):
-                     yield no_etc
+             line = line.replace("はじめ）", "")
+             line = line.replace("たなっち）", "")
+             line = line.replace("ト）", "")
+             no_weird_punct = "。".join([str for str in re.split("[　！？!?.…]", line)])
+             no_etc = "".join([str for str in re.split("[wｗ～、()（）【】《》「」\[\]\n]", no_weird_punct) if str != ""])
+             if(no_etc):
+                no_attr = re.split("[：:]", no_etc)
+                if len(no_attr) > 1:
+                    yield ("".join(no_attr[1:]))
+                else:
+                    yield no_etc
 
 if __name__ == '__main__':
     main(argv[1:])
