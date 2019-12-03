@@ -4,31 +4,45 @@ from glob import glob
 from os.path import exists, join
 from os import makedirs, getcwd
 
-def main(argv):
-    sub_files = glob(join("subtitles", argv[0], "*.srt"))
+def main(channel):
+    subtitle_files = glob(join("subtitles", channel, "*.srt"))
     nlp = stanfordnlp.Pipeline(lang="ja")
-    process_files(nlp, sub_files, argv[0], int(argv[1]))
+    process_files(channel, subtitle_files, nlp)
 
-def process_files(nlp, files, channel, start):
-    if not exists(join("dependencies", channel)):
-        makedirs(join("dependencies", channel))
+def process_files(channel, subtitle_files, nlp):
 
-    with open(join("dependencies", channel, channel + "_dependencies.csv"), "w") as outfile:
-        outfile.write("video_id, sentence_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies\n")
-        vid_count = 0
-        for f in files:
-            vid_count += 1
-            if(vid_count < start):
-                continue
-            with open(f, "r") as subfile:
-                print("Processing: {0}".format(f))
-                processed_lines = list(process_lines(subfile))
+    dep_path = join("dependencies", channel)
+    if not exists(dep_path):
+        makedirs(dep_path)
+
+    observed_fn = join(dep_path, channel + "_observed_dependencies.csv")
+    optimal_fn  = join(dep_path, channel + "_optimal_dependencies.csv")
+    random_fn   = join(dep_path, channel + "_random_dependencies.csv")
+
+    with open(observed_fn, "w") as observed_out,
+         open(optimal_fn,  'w') as optimal_out,
+         open(random_fn,   'w') as random_out:
+
+        out_files = (observed_out, optimal_out, random_out)
+        header = "video_id, sentence_id, dep_length, total_length\n"
+
+        for f in out_files:
+            f.write(header)
+
+        video_id = 0
+        for subtitle_fn in subtitle_files:
+            with open(subtitle_fn, "r") as subtitle_in:
+                print("Processing: {0}".format(subtitle_in))
+
+                video_id += 1
+                processed_lines = list(process_lines(subtitle_in))
                 print("Found {0} lines".format(len(processed_lines)))
+
                 if len(processed_lines) != 0:
                     nlp_processed = nlp("。".join(processed_lines))
-                    for (sent_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies) in dependencies(nlp_processed, vid_count):
-                        outfile.write("{0}, {1}, {2}, {3}, {4}, {5}\n".format(vid_count, sent_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies))
-    print("Processed {0} files".format(len(files)))
+                    process_dependencies(video_id, nlp_processed, observed_out, optimal_out, random_out)
+
+    print("Processed {0} files".format(vid_count))
 
 def linearize_optimal(node, indent="", right = True, n="0", verbose=False):
     if not len(node['children']):
@@ -79,19 +93,25 @@ def linearize_random(node):
     else:
         chunk = []
         random_children = node['children']
-        random.shuffle(random_children)
+        random.shuffle(random_children) # Order children randomly
 
-        for child in random_children:
-            i = random.randint(0,2) # Coinflip
-            if i:
-                chunk.append(linearize_random(child))
-            else:
-                chunk.insert(0, linearize_random(child))
-
-        i = random.randint(0, len(chunk))
-        chunk.insert(i, (node['parent'], node['relation'], node['child']))
+        for child in random_children: # Randomize each child and append it
+            chunk.append(linearize_random(child))
+        chunk.insert(random.randint(0, len(chunk)), (node['parent'], node['relation'], node['child'])) # Randomly place head
 
         return chunk
+
+def process_random(video_id, sent_id, num_dependencies, dependency_tree, random_out):
+
+    for i in range(0, 100):
+        dep_total_random = 0
+        random_dependencies =  list(iter_flatten(linearize_random(dependency_tree[0])))
+        random_indices = {}
+        for i in range (0, len(random_dependencies)):
+            random_indices.update({random_dependencies[i][2].index: i + 1})
+        for random_dep in random_dependencies:
+            dep_total_random += get_dependency_length(random_dep, random_indices)
+        random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
 
 def weight(node):
     if not len(node['children']):
@@ -133,8 +153,7 @@ def get_dependency_length(dependency, indices):
     else:
         return abs(indices[governor.index] - indices[child.index])
 
-def dependencies(doc, i):
-    count_bad = 0
+def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     sent_id = 0
     for sentence in doc.sentences:
         sent_id += 1
@@ -152,33 +171,26 @@ def dependencies(doc, i):
             continue
 
         optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0])))
-        random_dependencies =  list(iter_flatten(linearize_random(dependency_tree[0])))
-        dependencies = list(zip(true_dependencies, optimal_dependencies, random_dependencies))
+        dependencies = list(zip(true_dependencies, optimal_dependencies))
 
         true_indices, optimal_indices, random_indices = ({}, {}, {})
         for i in range (0, len(dependencies)):
             true_indices.update({true_dependencies[i][2].index: i + 1})
             optimal_indices.update({optimal_dependencies[i][2].index: i + 1})
-            random_indices.update({random_dependencies[i][2].index: i + 1})
 
-        dep_total_true, dep_total_random, dep_total_optimal = (0, 0, 0)
+        dep_total_true, dep_total_optimal = (0, 0)
 
-        for (true_dep, optimal_dep, random_dep) in dependencies:
+        for (true_dep, optimal_dep) in dependencies:
             dep_total_true += get_dependency_length(true_dep, true_indices)
             dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
-            dep_total_random += get_dependency_length(random_dep, random_indices)
 
-        if(dep_total_true < dep_total_optimal):
-            sentence.print_dependencies()
+        process_random(video_id, sent_id, num_dependencies, dependency_tree, random_out)
+
+        if(dep_total_optimal > dep_total_true):
             count_bad += 1
-            print("True: {0}, Optimal: {1}, Random: {2}, Total dependencies: {3}".format(dep_total_true, dep_total_optimal, dep_total_random, num_dependencies))
-            optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0], verbose=True)))
-            for node in optimal_dependencies:
-                print(node[2])
-            print(optimal_indices)
-        else:
-            yield (sent_id, dep_total_true, dep_total_optimal, dep_total_random, num_dependencies)
-    print(count_bad)
+
+        observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
+        optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
 
 def process_lines(f):
      for line in f:
@@ -196,4 +208,4 @@ def process_lines(f):
                     yield no_etc
 
 if __name__ == '__main__':
-    main(argv[1:])
+    main(argv[1])
