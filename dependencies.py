@@ -3,13 +3,14 @@ from sys import argv
 from glob import glob
 from os.path import exists, join
 from os import makedirs, getcwd
+from sys import stdout
 
 def main(channel):
-    subtitle_files = glob(join("subtitles", channel, "*.srt"))
+    subtitles_fns = glob(join("subtitles", channel, "*.srt"))
     nlp = stanfordnlp.Pipeline(lang="ja")
-    process_files(channel, subtitle_files, nlp)
+    process_files(channel, subtitles_fns, nlp)
 
-def process_files(channel, subtitle_files, nlp):
+def process_files(channel, subtitles_fns, nlp):
 
     dep_path = join("dependencies", channel)
     if not exists(dep_path):
@@ -19,8 +20,8 @@ def process_files(channel, subtitle_files, nlp):
     optimal_fn  = join(dep_path, channel + "_optimal_dependencies.csv")
     random_fn   = join(dep_path, channel + "_random_dependencies.csv")
 
-    with open(observed_fn, "w") as observed_out,
-         open(optimal_fn,  'w') as optimal_out,
+    with open(observed_fn, "w") as observed_out, \
+         open(optimal_fn,  'w') as optimal_out,  \
          open(random_fn,   'w') as random_out:
 
         out_files = (observed_out, optimal_out, random_out)
@@ -30,58 +31,39 @@ def process_files(channel, subtitle_files, nlp):
             f.write(header)
 
         video_id = 0
-        for subtitle_fn in subtitle_files:
-            with open(subtitle_fn, "r") as subtitle_in:
-                print("Processing: {0}".format(subtitle_in))
+        for subtitles_fn in subtitles_fns:
+            with open(subtitles_fn, "r") as subtitles_in:
+                print("Processing: {0}".format(subtitles_in))
 
                 video_id += 1
-                processed_lines = list(process_lines(subtitle_in))
-                print("Found {0} lines".format(len(processed_lines)))
+                preprocessed_subtitles = list(preprocess_subtitles(subtitles_in))
+                print("Found {0} lines".format(len(preprocessed_subtitles)))
 
-                if len(processed_lines) != 0:
-                    nlp_processed = nlp("。".join(processed_lines))
-                    process_dependencies(video_id, nlp_processed, observed_out, optimal_out, random_out)
+                if len(preprocessed_subtitles) != 0:
+                    nlp_subtitles = nlp("。".join(preprocessed_subtitles))
+                    process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
 
-    print("Processed {0} files".format(vid_count))
+    print("Processed {0} files".format(video_id))
 
-def linearize_optimal(node, indent="", right = True, n="0", verbose=False):
+def linearize_optimal(node, right=True):
+
     if not len(node['children']):
-        if(verbose):
-            print(indent + n + " Found terminal node: {0}".format(node['child']))
         return [(node['parent'], node['relation'], node['child'])]
-    else:
 
-        chunk = [(node['parent'], node['relation'], node['child'])]
-        root_pos = 0
+    else:
 
         sorted_children = node['children']
         sorted_children.sort(key=weight, reverse=True)
+        chunk = [(node['parent'], node['relation'], node['child'])]
 
-        total_weight = weight(node)
-        weight_left = 0
-        weight_right = 0
-
-        if verbose:
-            print(indent + n + " Found intermediate node {0} with total weight {1}".format(node['child'], total_weight))
-
+        root_pos = 0
         for i in range(0, len(sorted_children)):
             weight_cur = weight(sorted_children[i])
-            if (i % 2 and right) or (not i % 2 and not right):
-                # Add the largest child to the right of the parent, then swap directions
-                chunk.insert(root_pos + 1, linearize_optimal(sorted_children[i], indent + "  ", False, n + "." + str(i), verbose))
-                weight_right += weight_cur
-                if verbose:
-                    print(indent + n + " Added child of weight {0} to RIGHT".format(weight_cur))
+            if (i % 2 and right) or (not i % 2 and not right): # Add the largest child to the right of the parent, then swap directions
+                chunk.insert(root_pos + 1, linearize_optimal(sorted_children[i], False))
             else: # Add largest to left and swap
-                chunk.insert(root_pos, linearize_optimal(sorted_children[i], indent + "  ", True,  n + "." + str(i), verbose))
-                if verbose:
-                    print(indent + "Added child of weight {0} to LEFT".format(weight_cur))
-                weight_left += weight_cur
+                chunk.insert(root_pos, linearize_optimal(sorted_children[i], True))
                 root_pos = root_pos + 1
-
-            if verbose:
-                print(indent + n + " Current left weight: {0} Current right weight: {1}".format(weight_left, weight_right))
-                print()
 
         return chunk
 
@@ -92,26 +74,39 @@ def linearize_random(node):
 
     else:
         chunk = []
-        random_children = node['children']
-        random.shuffle(random_children) # Order children randomly
-
-        for child in random_children: # Randomize each child and append it
+        for child in node['children']: # Randomize each child and append it
             chunk.append(linearize_random(child))
-        chunk.insert(random.randint(0, len(chunk)), (node['parent'], node['relation'], node['child'])) # Randomly place head
+        chunk.append((node['parent'], node['relation'], node['child']))
+        random.shuffle(chunk)
 
         return chunk
 
-def process_random(video_id, sent_id, num_dependencies, dependency_tree, random_out):
+def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out):
+
+    min = 1000
+    max = 0
 
     for i in range(0, 100):
+
         dep_total_random = 0
-        random_dependencies =  list(iter_flatten(linearize_random(dependency_tree[0])))
         random_indices = {}
-        for i in range (0, len(random_dependencies)):
-            random_indices.update({random_dependencies[i][2].index: i + 1})
+
+        random_dependencies =  list(iter_flatten(linearize_random(dependency_tree[0])))
+        for j in range (0, len(random_dependencies)):
+            random_indices.update({random_dependencies[j][2].index: j + 1})
+
         for random_dep in random_dependencies:
             dep_total_random += get_dependency_length(random_dep, random_indices)
+
+        if dep_total_random > max:
+            max = dep_total_random
+        if dep_total_random < min:
+            min = dep_total_random
+
         random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
+
+    if num_dependencies > 5:
+        print("Range of random deps: [{0}, {1}]".format(min, max))
 
 def weight(node):
     if not len(node['children']):
@@ -184,15 +179,18 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
             dep_total_true += get_dependency_length(true_dep, true_indices)
             dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
 
-        process_random(video_id, sent_id, num_dependencies, dependency_tree, random_out)
+        process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out)
 
         if(dep_total_optimal > dep_total_true):
             count_bad += 1
+        if num_dependencies > 5:
+            print("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}".format(dep_total_true, dep_total_optimal, video_id, sent_id))
+            print()
 
         observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
         optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
 
-def process_lines(f):
+def preprocess_subtitles(f):
      for line in f:
          if not re.search("^[0-9]", line):
              line = line.replace("はじめ）", "")
