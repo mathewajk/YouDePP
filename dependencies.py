@@ -86,6 +86,7 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
     min = 1000
     max = 0
 
+    total_linearization_length = 0
     for i in range(0, 100):
 
         dep_total_random = 0
@@ -103,10 +104,13 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
         if dep_total_random < min:
             min = dep_total_random
 
-        random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
+        total_linearization_length += dep_total_random
 
     if num_dependencies > 5:
         print("Range of random deps: [{0}, {1}]".format(min, max))
+
+    average_dep_length = total_linearization_length/100
+    random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, average_dep_length, num_dependencies))
 
 def weight(node):
     if not len(node['children']):
