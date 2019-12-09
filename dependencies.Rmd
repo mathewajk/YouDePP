@@ -14,13 +14,6 @@ header-includes:
   - \usepackage{setspace, booktabs}
 ---
 
-\doublespacing
-
-\large Alex Kramer \hfill PSYCH 613
-\par
-\begin{center}{\huge Problem Set 3}\end{center}
-\par
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
@@ -31,56 +24,90 @@ library(dplyr)
 library(ghibli)
 ```
 
-```{r, include=FALSE}
-    # Read in data
-    df.yuuka   <- data.frame(read.table("dependencies/YukaKinoshita木下ゆうか/YukaKinoshita木下ゆうか_dependencies.csv", header=TRUE, sep=","))
-    df.hikakin <- data.frame(read.table("dependencies/HikakinTV/HikakinTV_dependencies.csv", header=TRUE, sep=","))
-    df.fischers <- data.frame(read.table("dependencies/Fischer's-フィッシャーズ-/Fischer's-フィッシャーズ-_dependencies.csv", header=TRUE, sep=","))
-    df.hajime <- data.frame(read.table("dependencies/はじめしゃちょー(Hajime)/はじめしゃちょー(Hajime)_dependencies.csv", header=TRUE, sep=","))
-    df.riku <- data.frame(read.table("dependencies/SUSHI-RAMEN【Riku】/SUSHI-RAMEN【Riku】_dependencies.csv", header=TRUE, sep=","))
+```{r yuuka_data, include=FALSE}
+    df.yuuka.observed <- data.frame(read.table("dependencies/YukaKinoshita木下ゆうか/YukaKinoshita木下ゆうか_observed_dependencies.csv",
+                                                  header=TRUE, sep=","))
+    df.yuuka.optimal  <- data.frame(read.table("dependencies/YukaKinoshita木下ゆうか/YukaKinoshita木下ゆうか_optimal_dependencies.csv",
+                                                 header=TRUE, sep=","))
+    df.yuuka.random   <- data.frame(read.table("dependencies/YukaKinoshita木下ゆうか/YukaKinoshita木下ゆうか_random_dependencies.csv",
+                                                header=TRUE, sep=","))
+    df.yuuka <- bind_rows(list("Observed"=df.yuuka.observed, "Optimal"=df.yuuka.optimal, "Random"=df.yuuka.random),  .id = 'baseline')
+```
+
+```{r hikakin_data, include=FALSE}
+    df.hikakin.observed <- data.frame(read.table("dependencies/HikakinTV/HikakinTV_observed_dependencies.csv", header=TRUE, sep=","))
+    df.hikakin.optimal  <- data.frame(read.table("dependencies/HikakinTV/HikakinTV_optimal_dependencies.csv",  header=TRUE, sep=","))
+    df.hikakin.random   <- data.frame(read.table("dependencies/HikakinTV/HikakinTV_random_dependencies.csv",   header=TRUE, sep=","))
+    df.hikakin <- bind_rows(list("Observed"=df.hikakin.observed, "Optimal"=df.hikakin.optimal, "Random"=df.hikakin.random),  .id = 'baseline')
+```
+
+```{r fischers_data, include=FALSE}
+    df.fischers.observed <- data.frame(read.table("dependencies/Fischer's-フィッシャーズ-/Fischer's-フィッシャーズ-_observed_dependencies.csv", header=TRUE, sep=","))
+    df.fischers.optimal  <- data.frame(read.table("dependencies/Fischer's-フィッシャーズ-/Fischer's-フィッシャーズ-_optimal_dependencies.csv", header=TRUE, sep=","))
+    df.fischers.random   <- data.frame(read.table("dependencies/Fischer's-フィッシャーズ-/Fischer's-フィッシャーズ-_random_dependencies.csv", header=TRUE, sep=","))
+    df.fischers <- bind_rows(list("Observed"=df.fischers.observed, "Optimal"=df.fischers.optimal, "Random"=df.fischers.random),  .id = 'baseline')
+```
+
+```{r fischers_data, include=FALSE}
+    df.riku.observed <- data.frame(read.table("dependencies/SUSHI-RAMEN【Riku】/SUSHI-RAMEN【Riku】_observed_dependencies.csv", header=TRUE, sep=","))
+    df.riku.optimal  <- data.frame(read.table("dependencies/SUSHI-RAMEN【Riku】/SUSHI-RAMEN【Riku】_optimal_dependencies.csv", header=TRUE, sep=","))
+    df.riku.random   <- data.frame(read.table("dependencies/SUSHI-RAMEN【Riku】/SUSHI-RAMEN【Riku】_random_dependencies.csv", header=TRUE, sep=","))
+    df.riku <- bind_rows(list("Observed"=df.riku.observed, "Optimal"=df.riku.optimal, "Random"=df.riku.random),  .id = 'baseline')
 ```
 
 ```{r, include=FALSE}
-    df.all <- dplyr::bind_rows(list("Yuuka Kinoshita"=df.yuuka, "HikakinTV"=df.hikakin, "Fischer's"=df.fischers, "Hajime Shacho"=df.hajime, "SUSHI-RAMEN (Riku)"=df.riku), .id = 'channel')
+    df.hajime.observed <- data.frame(read.table("dependencies/はじめしゃちょー(Hajime)/はじめしゃちょー(Hajime)_observed_dependencies.csv", header=TRUE, sep=","))
+    df.hajime.optimal  <- data.frame(read.table("dependencies/はじめしゃちょー(Hajime)/はじめしゃちょー(Hajime)_optimal_dependencies.csv", header=TRUE, sep=","))
+    df.hajime.random   <- data.frame(read.table("dependencies/はじめしゃちょー(Hajime)/はじめしゃちょー(Hajime)_random_dependencies.csv", header=TRUE, sep=","))
+    df.hajime <- bind_rows(list("Observed"=df.hajime.observed, "Optimal"=df.hajime.optimal, "Random"=df.hajime.random),  .id = 'baseline')
 ```
 
 ```{r, include=FALSE}
+    df.all <- bind_rows(list("Yuuka Kinoshita"=df.yuuka, 
+                             "Fischer's"=df.fischers,
+                             "SUSHI-RAMEN"=df.riku, 
+                             "Hajime Shacho"=df.hajime, 
+                             "HikakinTV"=df.hikakin), .id = 'channel') 
+```
+
+```{r, include=TRUE}
   # Calculate squared sentence length to match Futrell et al.
-  df.all$sent_len_sq   <- df.all$num_dependencies * df.all$num_dependencies
-
-  # Convert dataframe to "long" format wrt. original and random lengths
-  df.all.long <- melt(df.all ,  id.vars = c('channel', 'video_id', 'sentence_id', 'num_dependencies', 'sent_len_sq'), variable.name = 'baseline') %>% filter(value > 5 & value < 300)
-  
-  df.all.long$baseline <- factor(df.all.long$baseline, levels=c("dep_total_random", "dep_total_optimal", "dep_total_true"))
-  df.observed <- df.all.long %>% filter(baseline=="dep_total_true")
+  df.all$sent_len_sq   <- df.all$total_length * df.all$total_length
+  df.all$baseline <- factor(df.all$baseline, levels=c("Random", "Optimal", "Observed")) 
+  df.all.filtered <- df.all %>% filter(dep_length > 5 & dep_length < 400)
+  df.all.observed <- df.all.filtered %>% filter(baseline=="Observed")
+  df.all.avg <- df.all.filtered %>% group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length))
+  df.all.observed.avg <- df.all.filtered %>% filter(baseline=="Observed")
 ```
 
 ```{r, include=TRUE, echo=FALSE}
   # Plot by channel
-  dep.by.channel.g <- ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=channel)) + 
-    stat_bin_hex(data=df.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
-                 aes(y=value, x=num_dependencies, fill=..density..)) +
+  dep.by.channel.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    theme(legend.position="bottom") +
     facet_wrap(.~channel)
   dep.by.channel.g
 ```
 
-```{r, include=FALSE}
-ggsave("dependencies_by_channel.svg", plot=dep.by.channel.g, device="svg", dpi = 300)
-ggsave("dependencies_by_channel.png", plot=dep.by.channel.g, device="png", dpi = 300)
+```{r, include=TRUE}
+ggsave("dependencies_by_channel.svg", plot=dep.by.channel.g, device="svg", width=10, dpi = 300)
+ggsave("dependencies_by_channel.png", plot=dep.by.channel.g, device="png", width=10, dpi = 300)
 ```
 
 ```{r, include=TRUE, echo=FALSE}
-  all.dependencies.g <- ggplot(df.all.long, aes(y=value, x=num_dependencies, color=baseline, group=baseline)) + 
-    stat_bin_hex(data=df.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
-                 aes(y=value, x=num_dependencies, fill=..density..)) +
+  all.dependencies.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
-    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed"))
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) + 
+    theme(legend.position="bottom")
   all.dependencies.g
 ```
 
@@ -90,12 +117,13 @@ ggsave("all_dependencies.png", plot=all.dependencies.g, device="png", dpi = 300)
 ```
 
 ```{r, include=TRUE, echo=FALSE}
-  df.all.12 <- df.all.long %>% filter(num_dependencies == 12)
-  hist.12.all.g <- ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + 
+  df.all.12 <- df.all %>% filter(total_length == 12)
+  hist.12.all.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
     labs(x="Dependency Length", y="Frequency", title="") + 
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
-                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
+    theme(legend.position="bottom")
   hist.12.all.g
 ```
 
@@ -105,16 +133,71 @@ ggsave("hist_12_all.png", plot=hist.12.all.g, device="png", dpi = 300)
 ```
 
 ```{r, include=TRUE, echo=FALSE}
-  hist.12.channel.g <- ggplot(data=df.all.12, aes(y=frequency, x=value, fill=baseline, color=baseline)) + 
+  hist.12.channel.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
     facet_wrap(.~channel) + 
-    labs(x="Dependency Length", y="Frequency", title="") + 
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
-                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
+    labs(x="Dependency Length", y="Frequency", title="")
   hist.12.channel.g
 ```
 
 ```{r, include=FALSE}
-ggsave("hist_12_by_channel.svg", plot=hist.12.channel.g, device="svg", dpi = 300)
-ggsave("hist_12_by_channel.png", plot=hist.12.channel.g, device="png", dpi = 300)
+ggsave("hist_12_by_channel.svg", plot=hist.12.channel.g, device="svg", width=10, dpi = 300)
+ggsave("hist_12_by_channel.png", plot=hist.12.channel.g, device="png", width=10, dpi = 300)
+```
+
+```{r}
+library(lemon)
+
+  all.dependencies.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x)), show.legend = FALSE) + 
+    labs(title="", x="", y="", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed"))
+  
+  # Plot by channel
+  dep.by.channel.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x)), show.legend=FALSE) + 
+    labs(title="", x="", y="", color="") + 
+    theme(legend.position="top") +
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    facet_wrap(.~channel)
+  
+  g <- grid.arrange(all.dependencies.g, dep.by.channel.g, ncol=2, left="Total Dependency Length", bottom="Sentence Length", widths=unit(c(3,6), c("in", "in")))
+
+```
+
+```{r}
+  hist.12.channel.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", show.legend=FALSE) + 
+    facet_wrap(.~channel) + 
+    labs(x="", y="", title="",color="", fill="") + 
+    theme(legend.position="top") +
+    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
+
+  hist.12.all.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", show.legend=FALSE) + 
+    labs(x="", y="", title="",color="", fill="") + 
+    theme(legend.position="bottom") +
+    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+                      labels = c("Rand", "Opt", "Obs"), aesthetics = c("colour", "fill"))
+  g2 <- grid.arrange(hist.12.all.g, hist.12.channel.g, ncol=2, left="Frequency", bottom="Total Dependency Length", widths=unit(c(3,6), c("in", "in")))
+```
+
+```{r}
+require(grid)
+require(gridExtra)
+grid.draw(g)
+ggsave("all_dependencies_with_chan_plot.png", plot=g, width=10, height=5, device="png", dpi=300)
+
+grid.draw(g2)
+ggsave("hist_12_with_chan_plot.png", plot=g2, width=10,  height=5, device="png", dpi=300)
+
 ```
