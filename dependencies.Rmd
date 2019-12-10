@@ -17,6 +17,7 @@ header-includes:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
+library(gridExtra)
 require(reshape2)
 library(tidyverse)
 library(broom)
@@ -63,11 +64,19 @@ library(ghibli)
 ```
 
 ```{r, include=FALSE}
+    df.tokai.observed <- data.frame(read.table("dependencies/東海オンエア/東海オンエア_observed_dependencies.csv", header=TRUE, sep=","))
+    df.tokai.optimal  <- data.frame(read.table("dependencies/東海オンエア/東海オンエア_optimal_dependencies.csv", header=TRUE, sep=","))
+    df.tokai.random   <- data.frame(read.table("dependencies/東海オンエア/東海オンエア_random_dependencies.csv", header=TRUE, sep=","))
+    df.tokai <- bind_rows(list("Observed"=df.tokai.observed, "Optimal"=df.tokai.optimal, "Random"=df.tokai.random),  .id = 'baseline')
+```
+
+```{r, include=FALSE}
     df.all <- bind_rows(list("Yuuka Kinoshita"=df.yuuka, 
                              "Fischer's"=df.fischers,
                              "SUSHI-RAMEN"=df.riku, 
                              "Hajime Shacho"=df.hajime, 
-                             "HikakinTV"=df.hikakin), .id = 'channel') 
+                             "HikakinTV"=df.hikakin,
+                             "TokaiOnAir"=df.tokai), .id = 'channel') 
 ```
 
 ```{r, include=TRUE}
@@ -148,9 +157,7 @@ ggsave("hist_12_by_channel.png", plot=hist.12.channel.g, device="png", width=10,
 ```
 
 ```{r}
-library(lemon)
-
-  all.dependencies.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+all.dependencies.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
     stat_bin_hex(data=df.all.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
@@ -158,8 +165,8 @@ library(lemon)
     labs(title="", x="", y="", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed"))
   
-  # Plot by channel
-  dep.by.channel.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+# Plot by channel
+dep.by.channel.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
     stat_bin_hex(data=df.all.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
@@ -169,12 +176,12 @@ library(lemon)
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
     facet_wrap(.~channel)
   
-  g <- grid.arrange(all.dependencies.g, dep.by.channel.g, ncol=2, left="Total Dependency Length", bottom="Sentence Length", widths=unit(c(3,6), c("in", "in")))
+g <- grid.arrange(all.dependencies.g, dep.by.channel.g, ncol=2, left="Total Dependency Length", bottom="Sentence Length", widths=unit(c(3,6), c("in", "in")))
 
 ```
 
 ```{r}
-  hist.12.channel.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+hist.12.channel.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", show.legend=FALSE) + 
     facet_wrap(.~channel) + 
     labs(x="", y="", title="",color="", fill="") + 
@@ -182,13 +189,13 @@ library(lemon)
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
                       labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
 
-  hist.12.all.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+hist.12.all.g <- ggplot(data=df.all.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", show.legend=FALSE) + 
     labs(x="", y="", title="",color="", fill="") + 
     theme(legend.position="bottom") +
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
                       labels = c("Rand", "Opt", "Obs"), aesthetics = c("colour", "fill"))
-  g2 <- grid.arrange(hist.12.all.g, hist.12.channel.g, ncol=2, left="Frequency", bottom="Total Dependency Length", widths=unit(c(3,6), c("in", "in")))
+g2 <- grid.arrange(hist.12.all.g, hist.12.channel.g, ncol=2, left="Frequency", bottom="Total Dependency Length", widths=unit(c(3,6), c("in", "in")))
 ```
 
 ```{r}
