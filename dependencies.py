@@ -41,7 +41,7 @@ def process_files(channel, subtitles_fns, nlp):
 
                 if len(preprocessed_subtitles) != 0:
                     nlp_subtitles = nlp("。".join(preprocessed_subtitles))
-                    process_dependencies(channel, video_id, nlp_subtitles, observed_out, optimal_out, random_out)
+                    process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
 
     print("Processed {0} files".format(video_id))
 
@@ -81,13 +81,12 @@ def linearize_random(node):
 
         return chunk
 
-def process_random(dependency_tree):
+def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out):
 
     min = 1000
     max = 0
 
-    total_linearization_length = 0
-    for i in range(0, 100):
+    for i in range(0, 20):
 
         dep_total_random = 0
         random_indices = {}
@@ -104,12 +103,10 @@ def process_random(dependency_tree):
         if dep_total_random < min:
             min = dep_total_random
 
-        total_linearization_length += dep_total_random
+        random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
 
-    print("Range of random deps: [{0}, {1}]".format(min, max))
-    average_dep_length = total_linearization_length/100
-
-    return average_dep_length
+    if num_dependencies > 5:
+        print("Range of random deps: [{0}, {1}]".format(min, max))
 
 def weight(node):
     if not len(node['children']):
@@ -151,7 +148,7 @@ def get_dependency_length(dependency, indices):
     else:
         return abs(indices[governor.index] - indices[child.index])
 
-def process_dependencies(channel, video_id, doc, observed_out, optimal_out, random_out):
+def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     sent_id = 0
     for sentence in doc.sentences:
         sent_id += 1
@@ -182,17 +179,16 @@ def process_dependencies(channel, video_id, doc, observed_out, optimal_out, rand
             dep_total_true += get_dependency_length(true_dep, true_indices)
             dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
 
-        dep_avg_total_random = process_random(dependency_tree)
+        process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out)
 
         if(dep_total_optimal > dep_total_true):
             count_bad += 1
+        if num_dependencies > 5:
+            print("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}".format(dep_total_true, dep_total_optimal, video_id, sent_id))
+            print()
 
-        print("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}, Random: {4}".format(dep_total_true, dep_total_optimal, video_id, sent_id, dep_avg_total_random))
-        print()
-
-        observed_out.write("{0}, {1}, {2}, {3}, {4}\n".format(channel, video_id, sent_id, dep_total_true, num_dependencies))
-        optimal_out.write("{0}, {1}, {2}, {3}, {4}\n".format(channel, video_id, sent_id, dep_total_optimal, num_dependencies))
-        random_out.write("{0}, {1}, {2}, {3}, {4}\n".format(channel, video_id, sent_id, dep_avg_total_random, num_dependencies))
+        observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
+        optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
 
 def preprocess_subtitles(f):
      for line in f:
