@@ -1,70 +1,89 @@
-import requests
-from os.path import exists, join
-from os import makedirs, getcwd
+from pytube import YouTube
+from os import makedirs, getcwd, path
 from time import sleep
 from sys import argv
-from bs4 import BeautifulSoup
+import argparse
+import logging
 
-def write_subs(url, title, channel, type):
-    subs = requests.get(url)
-    with open(join("subtitles", channel, title.replace("/", "-") + "." + type.lower()), 'wb') as outfile:
-        outfile.write(subs.content)
 
-def main(argv):
+def write_subs(channel, video, id, url, subtitles):
+    with open(path.join("subtitles", channel, video.title.replace("/", "-") + ".srt"), 'w') as outfile:
+        try:
+            outfile.write(subtitles.generate_srt_captions())
+        except KeyError:
+            logging.warning("Video {0}: Could not parse XML for {1} ({2})".format(id, url, title))
+
+
+def get_subs(channel, id, url, language):
+
     try:
-        file, channel, type, language = argv[1:]
-    except:
-        print("Usage: [url file] [channel] [subtitle filetype] [language]")
+        video = YouTube(url)
+    except KeyError as e:
+        logging.warning("Video {0}: Could not retrieve URL ({1})".format(id, url))
         return 0
 
+    caption_dict = {caption.name: caption for caption in  video.captions.all()}
+
+    try:
+        write_subs(channel, video, id, url, caption_dict[language])
+    except KeyError as e:
+        logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
+        return 0
+    finally:
+        logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
+        return int(video.player_config_args['player_response']['videoDetails']['lengthSeconds']
+
+
+def main(args):
+
     cwd = getcwd()
-    if not exists(join(cwd, channel)):
-        makedirs(join(cwd, channel))
+    if not path.exists(path.join(cwd, "subtitles", args.channel)):
+        makedirs(path.join(cwd, "subtitles", args.channel))
 
-    with open(file, "r") as video_file:
-        print("Processing videos from channel {0} in file {1}".format(channel, file))
-        print("Looking for subs in {0} format and in language {1}".format(type, language))
+    print("Processing videos from channel {0} in language {1}".format(args.channel, args.language))
+    if(args.r):
+        print("Resuming from video {0}".format(args.r))
 
-        found_count = 0
-        total_count = 0
-        total_time = 0.0
+    # Metadata
+    found_count, total_count, total_time = (0, 0, 0)
 
-        for line in video_file:
+    with open(args.file, "r") as video_file:
+
+        for line in list(video_file)[args.r:]:
+
+            url, label = line.strip('\n').split("\t")
+            subbed_length = get_subs(args.channel, total_count + args.r, url, args.language)
+
+            if subbed_length:
+                total_time = total_time + subbed_length
+                found_count = found_count + 1
+                logging.info("Total time (running): {0}".format(total_time))
+
             total_count += 1
             if total_count % 50 == 0:
                 print("Processed {0} URLs...".format(total_count))
-            title, url, time = line.strip('\n').split("\t")
 
-            sub_downpage = requests.get("https://downsub.com/?url=" + url)
-            soup = BeautifulSoup(sub_downpage.content, 'html.parser')
-
-            # Look for language in the subtitle region (delimited by "Or translate from <b>English</b> into:")
-            try:
-                language_div = soup.find('b', text="English").find_previous('div', text=language)
-            except AttributeError as e: # No subtitles
-                continue
-
-            if language_div is not None:
-                print("Manual subs found for {0} (title: {1})".format(url, title))
-                found_count += 1
-
-                # The element before the language name contains subtitle links
-                download_tags = language_div.previous_sibling
-
-                # <a> elements contain the url, <span> elements contain the file type
-                download_links = [tag.get('href') for tag in download_tags.find_all('a')]
-                download_types = [tag.next_element for tag in download_tags.find_all('span', class_='badge')]
-                download_dict = dict(zip(download_types, download_links))
-
-                # Add video length to total sub time
-                total_time += float(time.strip('\n'))
-
-                # Download the subtitles
-                write_subs(download_dict[type], title, channel, type)
-
-            sleep(5) # Don't flood the server
+            # Be considerate!
+            sleep(10)
 
         print("Found {0} subtitled videos (out of {1} videos) totaling {2} minutes".format(found_count, total_count, total_time))
 
+
 if __name__ == '__main__':
-    main(argv)
+    parser = argparse.ArgumentParser(description='Download available manual subtitles from a list of YouTube videos.')
+
+    parser.add_argument('file',     type=str, help='a file containing the URLs')
+    parser.add_argument('channel',  type=str, help='a friendly name for the channel')
+    parser.add_argument('language', type=str, help='desired output language for the subtitles')
+    parser.add_argument('--r',      type=int, metavar='N', nargs='?', default=0, help='resume downloading from Nth video')
+    parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
+
+    args = parser.parse_args()
+
+    if(args.log):
+        logging.basicConfig(filename=(args.channel + '.log'),level=logging.DEBUG)
+
+    logging.info("Call: {0}".format(args))
+    logging.info("BEGIN DOWNLOAD\n----------")
+
+    main(args)
