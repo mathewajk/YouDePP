@@ -1,6 +1,6 @@
 from sys import argv
 from time import sleep
-from os.path import join
+from os import path
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -43,36 +43,11 @@ def get_links(driver, url, cutoff):
         elements = driver.find_elements_by_xpath('//*[@id="video-title"]')
         return [(element.get_attribute('href'), element.get_attribute('aria-label'))  for element in elements]
 
-
-def parse_length(yt_string):
-    time_string = yt_string.split()
-
-    prev = time_string[0]
-    hours, min, sec = (0, 0, 0)
-    for item in time_string[1:]:
-        if item == '時間':
-            hours = prev
-        elif item == '分':
-            min = prev
-        elif item == '秒':
-            sec = prev
-        else:
-            prev = item
-
-    return int(hours) * 60 + int(min) + (int(sec)/60)
-
-
 def save_videos(links, channel_name):
-    with open(join("channel_data", channel_name + '.txt', 'w', encoding="utf-8") as out_file:
+    with open(path.join("channel_data", channel_name + '.txt'), 'w', encoding="utf-8") as out_file:
         for link in links:
             url, label = link
-            title, remainder = label.split(' 作成者: ')
-
-            remainder_noauth = remainder.split('前 ')[1]
-            length = parse_length(remainder_noauth)
-
-            out_file.write("{0}\t{1}\t{2:.{round}f}\n".format(title, url, length, round=3))
-
+            out_file.write("{0}\t{1}\n".format(url, label))
 
 def main(argv):
 
