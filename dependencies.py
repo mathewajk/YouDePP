@@ -1,18 +1,24 @@
-import stanfordnlp, random, re
+import stanfordnlp, random, re, argparse, logging, emoji
 from sys import argv
 from glob import glob
 from os.path import exists, join
 from os import makedirs, getcwd
 from sys import stdout
 
-def main(channel):
-    subtitles_fns = glob(join("subtitles", channel, "*.srt"))
-    nlp = stanfordnlp.Pipeline(lang="ja")
-    process_files(channel, subtitles_fns, nlp)
 
-def process_files(channel, subtitles_fns, nlp):
+def remove_emoji(text):
+    return emoji.get_emoji_regexp().sub(u'', text)
 
-    dep_path = join("dependencies", channel)
+
+def main(args):
+    subtitles_fns = glob(join("subtitles", args.language, args.channel, "*.srt"))
+    nlp = stanfordnlp.Pipeline(lang=args.language)
+    process_files(args.channel, args.language, subtitles_fns, nlp)
+
+
+def process_files(channel, language, subtitles_fns, nlp):
+
+    dep_path = join("dependencies", language, channel)
     if not exists(dep_path):
         makedirs(dep_path)
 
@@ -32,18 +38,21 @@ def process_files(channel, subtitles_fns, nlp):
 
         video_id = 0
         for subtitles_fn in subtitles_fns:
+
+            logging.info("Processing: {0}".format(subtitles_fn))
             with open(subtitles_fn, "r") as subtitles_in:
-                print("Processing: {0}".format(subtitles_in))
 
                 video_id += 1
-                preprocessed_subtitles = list(preprocess_subtitles(subtitles_in))
-                print("Found {0} lines".format(len(preprocessed_subtitles)))
+                preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
+
+                logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
 
                 if len(preprocessed_subtitles) != 0:
                     nlp_subtitles = nlp("。".join(preprocessed_subtitles))
                     process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
 
-    print("Processed {0} files".format(video_id))
+    logging.info("Processed {0} files".format(video_id))
+
 
 def linearize_optimal(node, right=True):
 
@@ -86,7 +95,7 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
     min = 1000
     max = 0
 
-    for i in range(0, 20):
+    for i in range(0, 25):
 
         dep_total_random = 0
         random_indices = {}
@@ -106,12 +115,14 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
         random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
 
     if num_dependencies > 5:
-        print("Range of random deps: [{0}, {1}]".format(min, max))
+        logging.info("Range of random deps: [{0}, {1}]".format(min, max))
+
 
 def weight(node):
     if not len(node['children']):
         return 1
     return 1 + sum(map(weight, node['children']))
+
 
 def iter_flatten(iterable):
   it = iter(iterable)
@@ -141,12 +152,14 @@ def tree(dependencies):
             children.append(node)
     return forest
 
+
 def get_dependency_length(dependency, indices):
     (governor, rel, child) = dependency
     if rel == 'root':
         return 0
     else:
         return abs(indices[governor.index] - indices[child.index])
+
 
 def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     sent_id = 0
@@ -162,13 +175,13 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         try:
             dependency_tree = tree(true_dependencies)
         except:
-            print("Warning: tree construction failed for sentence {0}".format(sent_id))
+            logging.warning("Tree construction failed for sentence {0}".format(sent_id))
             continue
 
         optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0])))
         dependencies = list(zip(true_dependencies, optimal_dependencies))
 
-        true_indices, optimal_indices, random_indices = ({}, {}, {})
+        true_indices, optimal_indices = ({}, {})
         for i in range (0, len(dependencies)):
             true_indices.update({true_dependencies[i][2].index: i + 1})
             optimal_indices.update({optimal_dependencies[i][2].index: i + 1})
@@ -179,31 +192,68 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
             dep_total_true += get_dependency_length(true_dep, true_indices)
             dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
 
+        if(dep_total_optimal > dep_total_true):
+            logging.critical("Observed dependencies shorter than optimal!")
+
         process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out)
 
         if(dep_total_optimal > dep_total_true):
             count_bad += 1
         if num_dependencies > 5:
-            print("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}".format(dep_total_true, dep_total_optimal, video_id, sent_id))
-            print()
+            logging.info("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}".format(dep_total_true, dep_total_optimal, video_id, sent_id))
 
         observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
         optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
 
-def preprocess_subtitles(f):
-     for line in f:
-         if not re.search("^[0-9]", line):
-             line = line.replace("はじめ）", "")
-             line = line.replace("たなっち）", "")
-             line = line.replace("ト）", "")
-             no_weird_punct = "。".join([str for str in re.split("[　！？!?.…]", line)])
-             no_etc = "".join([str for str in re.split("[wｗ～、()（）【】《》「」\[\]\n]", no_weird_punct) if str != ""])
-             if(no_etc):
-                no_attr = re.split("[：:]", no_etc)
-                if len(no_attr) > 1:
-                    yield ("".join(no_attr[1:]))
-                else:
-                    yield no_etc
+
+def preprocess_subtitles_ja(f):
+    for line in f:
+
+        # Remove newline
+        line = remove_emoji(line.strip())
+
+        if line and not re.search("^[0-9]", line):
+
+                line = line.replace("（笑", "")
+
+                line = re.sub(r'（[^)]*）', '', line)
+                line = re.sub(r'（[^)]*\)', '', line) # For some reason sometimes the wrong paren is used...
+                line = re.sub(r'\([^)]*\)', '', line) # Just in case...
+
+                close_paren = line.find("）")
+                open_paren = line.find("（")
+
+                if close_paren < open_paren and close_paren != -1: # Unmatched close paren is probably speaker attrib.
+                    line = line[close_paren+1:]
+                if open_paren > -1 and close_paren == -1: # Unmatched open paren is probably followed by nonsense
+                    line = line[:open_paren]
+
+                line = re.sub("[♫♡♥♪→↑↖↓←”wｗW⇓\〜\~()（）【】《》「」\[\]\n]", "", line)
+                line = re.sub("[　！‼？!?.…]", "。", line)
+
+                if(line):
+                    if(line[-1] != '。' and line[-1] != '、'):
+                        line += '。'
+                    no_attr = re.split("[：:]", line)
+                    if len(no_attr) > 1:
+                        yield ("".join(no_attr[1:]))
+                    else:
+                        yield line
+
 
 if __name__ == '__main__':
-    main(argv[1])
+    parser = argparse.ArgumentParser(description='Download available manual subtitles from a list of YouTube videos.')
+
+    parser.add_argument('channel',  type=str, help='a friendly name for the channel')
+    parser.add_argument('language',  type=str, help='language code')
+    parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
+
+    args = parser.parse_args()
+
+    if(args.log):
+        logging.basicConfig(filename=(args.channel + '.log'),level=logging.DEBUG)
+
+    logging.info("Call: {0}".format(args))
+    logging.info("BEGIN PARSE\n----------")
+
+    main(args)

@@ -5,3 +5,4 @@
 .Rhistory
 backups/
 *.ipynb*
+*_random_dependencies.csv
