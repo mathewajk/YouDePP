@@ -16,6 +16,8 @@ header-includes:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(lme4)
+library(lmerTest)
 library(ggplot2)
 library(gridExtra)
 require(reshape2)
@@ -80,13 +82,42 @@ library(ghibli)
 ```
 
 ```{r, include=TRUE}
-  # Calculate squared sentence length to match Futrell et al.
+  # Calculate squared sentence length to match Futrell et al.: better predictor than raw length
   df.all$sent_len_sq   <- df.all$total_length * df.all$total_length
+
+  # Create index variables: ri = 1 if random; 0 else, mi = 1 if optimal; 0 else
   df.all$baseline <- factor(df.all$baseline, levels=c("Random", "Optimal", "Observed")) 
+  df.all <- df.all %>% mutate(ri = as.integer(baseline == "Random"), mi = as.integer(baseline == "Optimal"))
+  
+  # Filter out high and low ends for graphing
   df.all.filtered <- df.all %>% filter(dep_length > 5 & dep_length < 400)
+  
+  # Observed deps for density hexagons
   df.all.observed <- df.all.filtered %>% filter(baseline=="Observed")
+  
+  # Average deps for fitted scatter plots
   df.all.avg <- df.all.filtered %>% group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length))
   df.all.observed.avg <- df.all.filtered %>% filter(baseline=="Observed")
+  
+  head(df.all, 5)
+```
+
+```{r linear_model, include=TRUE}
+temp <- df.all %>% filter(channel == "Yuuka Kinoshita", baseline != "Optimal")
+
+# Structural model: y_i = β_0 + S_0 + β_1l_2^s + (β_2 + S_2)r_i + β_3r_il_2^s + e_i
+# β_0 = slope, β_1, β_2,  β_3 = fixed eff., S_0, S_2 = random eff. of sent, r_i = ind. var. for random, m_i = ind. var. for optimal
+
+# Compute models with and without beta3
+dependency.model.b3 <- lmer(dep_length ~ sent_len_sq + (1+ri|sentence_id) + ri:sent_len_sq, data=temp)
+dependency.model.nob3 <- lmer(dep_length ~ sent_len_sq + (1+ri|sentence_id), data=temp)
+
+# Summarize models
+summary(dependency.model.b3)
+summary(dependency.model.nob3)
+
+# Compare models
+anova(dependency.model.b3,dependency.model.nob3)
 ```
 
 ```{r, include=TRUE, echo=FALSE}
@@ -108,15 +139,28 @@ ggsave("dependencies_by_channel.svg", plot=dep.by.channel.g, device="svg", width
 ggsave("dependencies_by_channel.png", plot=dep.by.channel.g, device="png", width=10, dpi = 300)
 ```
 
-```{r, include=TRUE, echo=FALSE}
+```{r aggregate_ling, include=TRUE}
   all.dependencies.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
     stat_bin_hex(data=df.all.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
-    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) + 
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
     theme(legend.position="bottom")
+  all.dependencies.g
+```
+
+```{r quantile_plots, include=TRUE, echo=FALSE}
+  all.dependencies.g <- ggplot(df.all.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=avg_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_quantile(aes(color = ..quantile..)) +
+    scale_color_ghibli_c("PonyoMedium") + 
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    theme(legend.position="bottom") +
+    facet_grid(.~baseline)
   all.dependencies.g
 ```
 
