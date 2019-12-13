@@ -1,6 +1,7 @@
 from sys import argv
 from time import sleep
 from os import path
+import logging, argparse
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -35,7 +36,7 @@ def get_links(driver, url, cutoff):
     finally:
         # Scroll to the bottom of the page to load videos
         count = 0
-        while count < cutoff and scroll_channel(driver, 4):
+        while (cutoff == -1 or count < cutoff) and scroll_channel(driver, 4):
             count += 1
             print("Loading... ({0})".format(count))
 
@@ -43,27 +44,42 @@ def get_links(driver, url, cutoff):
         elements = driver.find_elements_by_xpath('//*[@id="video-title"]')
         return [(element.get_attribute('href'), element.get_attribute('aria-label'))  for element in elements]
 
-def save_videos(links, channel_name):
-    with open(path.join("channel_data", channel_name + '.txt'), 'w', encoding="utf-8") as out_file:
+def save_videos(links, language, channel_name):
+    with open(path.join("channel_data", language, channel_name + '.txt'), 'w', encoding="utf-8") as out_file:
         for link in links:
             url, label = link
             out_file.write("{0}\t{1}\n".format(url, label))
 
-def main(argv):
+def main(args):
 
-    url, cutoff = argv[1:]
-    channel_name = url.split('/')[-2]
+    channel_name = args.url.split('/')[-2]
 
-    print("Gathering videos from channel: " + channel_name)
+    logging.info("Gathering videos from channel: " + args.channel)
 
     # Run the webdriver and get video urls
     driver = webdriver.Firefox()
-    links = get_links(driver, url, int(cutoff))
+    links = get_links(driver, args.url, args.cutoff)
     driver.quit()
 
-    print("Found {0} videos".format(str(len(links))))
+    logging.info("Found {0} videos".format(str(len(links))))
 
-    save_videos(links, channel_name)
+    save_videos(links, args.language, args.channel)
 
 if __name__ == '__main__':
-    main(argv)
+    parser = argparse.ArgumentParser(description='Scrape video URLs from a YouTube channel.')
+
+    parser.add_argument('url',      type=str, help='URL pointing to the channel\'s videos')
+    parser.add_argument('channel',  type=str, help='a friendly name for the channel')
+    parser.add_argument('language', type=str, help='language code')
+    parser.add_argument('cutoff',   type=int, default=-1, help='number of times to scroll the page')
+    parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
+
+    args = parser.parse_args()
+
+    if(args.log):
+        logging.basicConfig(filename=(args.channel + '_scrape.log'),level=logging.DEBUG)
+
+    logging.info("Call: {0}".format(args))
+    logging.info("BEGIN YT SCRAPE\n----------")
+
+    main(args)

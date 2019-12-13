@@ -12,6 +12,8 @@ def remove_emoji(text):
 
 def main(args):
     subtitles_fns = glob(join("subtitles", args.language, args.channel, "*.srt"))
+    sort(subtitles_fns)
+
     nlp = stanfordnlp.Pipeline(lang=args.language)
     process_files(args.channel, args.language, subtitles_fns, nlp)
 
@@ -43,7 +45,10 @@ def process_files(channel, language, subtitles_fns, nlp):
             with open(subtitles_fn, "r") as subtitles_in:
 
                 video_id += 1
-                preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
+                if language == 'ja':
+                    preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
+                elif language == 'ru':
+                    preprocessed_subtitles = list(preprocess_subtitles_ru(subtitles_in))
 
                 logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
 
@@ -90,12 +95,13 @@ def linearize_random(node):
 
         return chunk
 
+
 def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out):
 
     min = 1000
     max = 0
 
-    for i in range(0, 25):
+    for i in range(0, 10):
 
         dep_total_random = 0
         random_indices = {}
@@ -107,10 +113,10 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
         for random_dep in random_dependencies:
             dep_total_random += get_dependency_length(random_dep, random_indices)
 
-        if dep_total_random > max:
-            max = dep_total_random
-        if dep_total_random < min:
-            min = dep_total_random
+            if dep_total_random > max:
+                max = dep_total_random
+            if dep_total_random < min:
+                min = dep_total_random
 
         random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
 
@@ -205,20 +211,42 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
         optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
 
-
-def preprocess_subtitles_ja(f):
-    for line in f:
-
-        # Remove newline
-        line = remove_emoji(line.strip())
+def preprocess_subtitles_ru(subtitles):
+    for line in subtitles:
 
         if line and not re.search("^[0-9]", line):
 
+            line = remove_emoji(line.strip())
+            line = line.replace(":D", "")
+            line = line.replace(":)", "")
+
+            line = re.sub(r'\([^)]*\)', '', line) # Remove parens
+            line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
+            line = re.sub("[♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
+            line = re.sub("[!?]", ".", line)
+
+            if(line):
+                if(line[-1] != '.' and line[-1] != ','):
+                    line += '.'
+                no_attr = re.split("[:]", line)
+                if len(no_attr) > 1:
+                    yield ("".join(no_attr[1:]))
+                else:
+                    yield line
+
+
+def preprocess_subtitles_ja(subtitles):
+    for line in subtitles:
+
+        if line and not re.search("^[0-9]", line):
+
+                line = remove_emoji(line.strip())
                 line = line.replace("（笑", "")
 
                 line = re.sub(r'（[^)]*）', '', line)
                 line = re.sub(r'（[^)]*\)', '', line) # For some reason sometimes the wrong paren is used...
                 line = re.sub(r'\([^)]*\)', '', line) # Just in case...
+                line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
 
                 close_paren = line.find("）")
                 open_paren = line.find("（")
@@ -242,7 +270,7 @@ def preprocess_subtitles_ja(f):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Download available manual subtitles from a list of YouTube videos.')
+    parser = argparse.ArgumentParser(description='Parse dependencies from a set of subtitle files.')
 
     parser.add_argument('channel',  type=str, help='a friendly name for the channel')
     parser.add_argument('language',  type=str, help='language code')
@@ -251,7 +279,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if(args.log):
-        logging.basicConfig(filename=(args.channel + '.log'),level=logging.DEBUG)
+        logging.basicConfig(filename=(args.channel + '_dependencies.log'),level=logging.DEBUG)
 
     logging.info("Call: {0}".format(args))
     logging.info("BEGIN PARSE\n----------")

@@ -1,17 +1,19 @@
+import argparse, logging
 from pytube import YouTube
+from pytube import exceptions
+
 from os import makedirs, getcwd, path
 from time import sleep
 from sys import argv
-import argparse
-import logging
-
 
 def write_subs(channel, video, id, url, subtitles):
+
     with open(path.join("subtitles", channel, video.title.replace("/", "-") + ".srt"), 'w') as outfile:
+
         try:
             outfile.write(subtitles.generate_srt_captions())
         except KeyError:
-            logging.warning("Video {0}: Could not parse XML for {1} ({2})".format(id, url, title))
+            logging.critical("Video {0}: Could not parse XML for {1} ({2})".format(id, url, video.title))
 
 
 def get_subs(channel, id, url, language):
@@ -21,17 +23,22 @@ def get_subs(channel, id, url, language):
     except KeyError as e:
         logging.warning("Video {0}: Could not retrieve URL ({1})".format(id, url))
         return 0
+    except exceptions.VideoUnavailable as e:
+        logging.warning("Video {0}: Video unavailable ({1})".format(id, url))
+        return 0
+    except:
+        logging.critical("Video {0}: An unexpected error occured ({1})".format(id, url))
+        return 0
 
     caption_dict = {caption.name: caption for caption in  video.captions.all()}
 
-    try:
+    if language in caption_dict.keys():
         write_subs(channel, video, id, url, caption_dict[language])
-    except KeyError as e:
+        logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
+        return int(video.player_config_args['player_response']['videoDetails']['lengthSeconds'])
+    else:
         logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
         return 0
-    finally:
-        logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
-        return int(video.player_config_args['player_response']['videoDetails']['lengthSeconds']
 
 
 def main(args):
@@ -64,9 +71,9 @@ def main(args):
                 print("Processed {0} URLs...".format(total_count))
 
             # Be considerate!
-            sleep(10)
+            sleep(5)
 
-        print("Found {0} subtitled videos (out of {1} videos) totaling {2} minutes".format(found_count, total_count, total_time))
+        print("Found {0} subtitled videos (out of {1} videos) totaling {2} seconds".format(found_count, total_count, total_time))
 
 
 if __name__ == '__main__':
@@ -75,13 +82,14 @@ if __name__ == '__main__':
     parser.add_argument('file',     type=str, help='a file containing the URLs')
     parser.add_argument('channel',  type=str, help='a friendly name for the channel')
     parser.add_argument('language', type=str, help='desired output language for the subtitles')
+    parser.add_argument('code',     type=str, help='language code')
     parser.add_argument('--r',      type=int, metavar='N', nargs='?', default=0, help='resume downloading from Nth video')
     parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
 
     args = parser.parse_args()
 
     if(args.log):
-        logging.basicConfig(filename=(args.channel + '.log'),level=logging.DEBUG)
+        logging.basicConfig(filename=(args.channel + '_subtitles.log'),level=logging.DEBUG)
 
     logging.info("Call: {0}".format(args))
     logging.info("BEGIN DOWNLOAD\n----------")
