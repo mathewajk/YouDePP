@@ -12,7 +12,6 @@ def remove_emoji(text):
 
 def main(args):
     subtitles_fns = glob(join("subtitles", args.language, args.channel, "*.srt"))
-    sort(subtitles_fns)
 
     nlp = stanfordnlp.Pipeline(lang=args.language)
     process_files(args.channel, args.language, subtitles_fns, nlp)
@@ -175,7 +174,7 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
         num_dependencies = len(true_dependencies)
 
-        if(num_dependencies < 1 or num_dependencies > 50):
+        if(num_dependencies < 5 or num_dependencies > 25):
             continue
 
         try:
