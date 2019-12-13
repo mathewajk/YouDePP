@@ -1,0 +1,319 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: yes
+    fig_caption: yes
+    number_sections: true
+  html_document: default
+always_allow_html: yes
+geometry: margin=1in
+documentclass: article
+header-includes:
+  - \setlength{\parindent}{2em}
+  - \setlength{\parskip}{0em}
+  - \usepackage{setspace, booktabs, minted, fancyhdr, titling, fontspec}
+  - \setromanfont[SmallCapsFont={Baskerville Small Caps SSi}]{Baskerville}
+  - \usepackage[backend=biber, authordate, natbib, giveninits=true]{biblatex-chicago}
+  - \bibliography{792_final}
+---
+
+```{r setup, include=FALSE}
+library(kableExtra)
+library(dplyr)
+
+options(tinytex.engine_args = '-shell-escape')
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Alex Kramer}
+\chead{LING 792 Write-up}
+\rhead{Dec. 2019}
+\cfoot{\thepage}
+
+\renewcommand{\headrulewidth}{0.2pt}
+
+\renewcommand*{\postnotedelim}{\addcolon}
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+
+\onehalfspacing
+
+\setlength{\droptitle}{-2em}
+
+\begin{center}
+	{\huge Generating Cross-Linguistic Spoken Dependency Corpora via YouTube Subtitles}
+\end{center}
+
+<!-- End Header -->
+<!---------------->
+<!---------------->
+
+\section{Background}
+
+\subsection{Continuous versus discrete variables in typology}
+
+An accurate understanding of cross-linguistic variation and its sources requires an accurate typology. However, large-scale typological databases such as WALS \autocite{dryer2013world} and AUTOTYP \autocite{bickel2017autotyp} classify the world's languages using categorical, or \emph{type-based} \autocite{levshinaTokenbasedTypologyWord2019a}, variables, which are necessarily reductive. This reduction biases such typologies toward including only those features that lend themselves to discrete analysis, and further, toward features with a bimodal distribution \autocite[77]{walchliDataReductionTypology2009}. As a result, languages whose features fall at the poles of these distributions are well-classified, while those in-between are not \autocite[91]{walchliDataReductionTypology2009}. Similarly, the classifications given to continuous features will only be accurate to the extent that they happen to fit a bimodal distribution \autocite[78, 91]{walchliDataReductionTypology2009}.
+
+The data reduction caused by the use of categorical features can be mitigated by considering continuous measures where they are more accurate than, or complementary to, categorical variables. Such measures can be obtained through \emph{token-based typology}, which considers "the tokens of linguistic unites or structures observed in language use, as approximated by corpora", as well as "aggregate variables derived from the distributions of usage tokens, such as entropy, complexity, average dependency length, etc" \autocite[534]{levshinaTokenbasedTypologyWord2019a}. These measures reflect language-internal variation with respect to the particular corpus being analyzed and allow languages to be compared along a continuum, rather than placing them into discrete categories that may conflate different sources of variation and different underlying patterns.
+
+
+\subsection{Word order typology}
+
+Token-based typology has been of growing interest to typologists, driven by the increasing availability of both manually-tagged corpus data and the on-going development of automatic machine-learning driven POS taggers and dependency parcers, such as SpaCy (https://spacy.io/), StanfordNLP \autocite{qi2018universal}, and UDPipe \autocite{udpipe2017}. Through corpora, researchers have been able to examine the accuracy of discrete typologies with respect to word order and number marking \autocite{walchliDataReductionTypology2009}, head direction \autocite{liuDependencyDirectionMeans2010}, dependency length minimization \autocite{futrellLargescaleEvidenceDependency2015} and word order entropy \autocite{futrellQuantifyingWordOrder2015, levshinaTokenbasedTypologyWord2019a}.
+
+A common thread betwen the above studies is their focus on word order. Word order has traditionally been treated as discrete; WALS and AUTOTYP both categorize languages with respect to "dominant" word order, which can be specified as one of the six logical word orders (SVO, OVS, SOV, OSV, VSO, VOS), as verb position alone (Vxx, xxV, xVx) or as "no dominant order (WALS)"/"free" (AUTOTYP). WALS determines word order from corpora when possible, defining "dominant word order" as the order that occurs at least twice as frequently as the next-most-frequent order; otherwise, grammars are consulted. AUTOTYP employs data only from grammars. Importantly, grammars are themselves a source of data reduction \autocite[77--78]{walchliDataReductionTypology2009}; one thus might expect WALS to report dominant word order more accurately than AUTOTYP for languages for which corpora are available.
+
+AUTOTYP additionally classifies languages as "free", "flexible", or "rigid". However, flexibility here refers only to \emph{structural} flexibility, such that a language like German, which is V-2, will be classified as flexible, while a language like Korean, which is typically SOV but allows for all orders given an appropriate discourse conext \autocite{namboodiripadEnglishdominantKoreanspeakersShow2017}, will be classified as "rigid". Furthermore, as \citet{walchliDataReductionTypology2009} notes, the languages that are classified by WALS as having "no dominant order" do not form a coherent group (88--89); the languages classified as "flexible" or "free" by AUTOTYP are similarly heterogeneous.
+
+Using continuous, corpus-based measures to quantify word order variation not only helps to avoid the use of uninformative categories, but also to capture word order variation that arises from different sources (e.g. discourse-mediated orders versus structurally-required orders). At the same time, they risk conflating these different sources; thus, it may be that word order is best understood by considering discrete and continuous measures \emph{together}, and that both discrete and continuous variable can serve as useful predictors when examining the factors that affect cross-linguistic word order variation and language-internal word order flexibility. 
+
+Corpus-based typological work is not without issues. Drawbacks to the above-cited corpus studies include (1) the modality of the corpus data and (2) comparability across corpora. The corpora employed in these studies are predominantly written, and in the case of \citet{walchliDataReductionTypology2009}, they are all translations of the same original text. A priori, there is no reason to expect written and spoken corpora, or even different types of written or spoken corpora, to reveal the same paterns, as they are subject to different constraints. Indeed, \citet{biberUsingRegisterDiversifiedCorpora1993} finds that corpora containing different modalities and registers make greater or lesser use of structures such as relative clauses, which would affect measures such as dependency length.
+
+Furthermore, although many of the corpora in these studies utilize the Universal Dependencies tagging format, other formats are used, as well, which may have consequences for these measures. (For example, whether function words are treated as heads or dependents will shorten or lengthen dependencies, respectively.) It is not always clear whether head-dependent relationships have been normalized across the corpora used in these studies, thus calling their cross-linguistic comparisons into question.
+
+This project aims to tackle both the lack of spoken data and the issue of cross-linguistic comparability by developing a framework for constructing corpora of informal spoken language through YouTube subtitles. Numerous online tools and code libraries have been developed to allow for the easy downloading of YouTube subtitles, making them a fairly accessible source of data. Subtitles can then be passed through a dependency parsing pipeline (here, StanfordNLP) that uses a standardized tagging format, ensuring that different languages are tagged in a comparable manner.
+
+In developing and testing this framework, I have focused on Japanese and Russian, both of which allow for discourse-mediated flexibility but are typically classified as rigid SOV and rigid SVO, respecively. To get an intial sense of how this data differs from written language and more formal speech, I consider dependency length minimization using the same method as \citet{futrellLargescaleEvidenceDependency2015}. This study found that more
+head-final languages like Japanese, Korean, and Turkish showed less minimization than more
+head-initial languages, such as Russian; the Japanese corpus, notably, consisted of transcribed speech, but this speech was collected in a formal setting. I hypothesize that this pattern will not hold in informal spoken data, which allows for more word order flexibility and greater use of depency-length-reducing phenomena such as argument-drop than do written sources.
+
+
+
+\section{Methods}
+
+\subsection{Building the subtitle corpus}
+
+The top YouTube channels for each language were manually determined on the basis of total subscribers. Of these channels, the top five channels that featured a significant amount of dialogue were selected for analysis. A list of videos for each channel was generated using Selenium to load each channel's "Videos" page and scrape the videos' URLS.
+
+\begin{minted}[linenos,tabsize=2,breaklines]{python}
+from time import sleep
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+def get_links(driver, url, cutoff):
+
+    driver.get(url)
+
+    try:
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'items')))
+    finally:
+        count = 0
+        while count < cutoff and scroll_channel(driver, 5):
+            count += 1
+
+        elements = driver.find_elements_by_xpath('//*[@id="video-title"]')
+        return [(element.get_attribute('href'), element.get_attribute('aria-label'))  for element in elements]
+\end{minted}
+
+Channels were scrolled either until there were no more videos to load or until a user-defined cutoff was reached. In the most recent iteration of the data, I set the cutoff to 50 scrolls; this resulted in a max of about 1500 URLs per channel.
+
+\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def scroll_channel(driver, pause_time):
+    last_height = driver.execute_script('return document.querySelector("#page-manager").scrollHeight')
+    driver.execute_script('window.scrollTo(0, document.querySelector("#page-manager").scrollHeight);')
+    
+    sleep(pause_time)
+    
+    new_height = driver.execute_script('return document.querySelector("#page-manager").scrollHeight')
+    if new_height == last_height:
+        return 0
+    return 1
+\end{minted}
+
+
+Somewhat unexpectedly, Japanese videos were more likely to be subtitled than Russian videos, and the top Japanese channels had more videos overall than the top Russian channels (Tables \ref{sub_totals} and \ref{lang_totals}). Japanese speech is overrepresented in the data by a ratio of approximately 3:2.
+
+```{r include=TRUE, echo=FALSE}
+subtitle_totals <- data.frame(read.table(text="Language, ChannelName, Rank, URLsScraped, SubbedVideos, SubbedTimeSeconds
+Japanese, Hajime Shachoo, 1, 1530, 864, 265724
+Japanese, HikakinTV, 2, 1528, 250, 109806
+Japanese, Fischers, 3, 1523, 676, 272108
+Japanese, Yuka Kinoshita, 4, 1516, 813, 329794
+Japanese, Tokai On Air, 6, 1468, 164, 97588
+Russian, TheBrianMaps, 5, 396, 163, 64625
+Russian, AdamThomasMoran, 8, 528, 59, 30828
+Russian, Wylsacom, 14, 1527, 107, 66183
+Russian, Maryana Ro, 16, 150, 41, 15057
+Russian, NTV, 19, 1528, 137, 383920
+Russian, This is Horosho, 25, 861, 260, 82227", header=TRUE, sep=","))
+
+channel_totals <- subtitle_totals %>% mutate(Proportion = SubbedVideos/URLsScraped)
+language_totals <- subtitle_totals %>% group_by(Language) %>% summarise(URLsScraped=sum(URLsScraped), SubbedVideos = sum(SubbedVideos), SubbedTimeHours = sum(SubbedTimeSeconds)/60/60, Proportion = SubbedVideos/URLsScraped)
+
+channel_totals %>%
+  kable(format = "latex",
+        booktabs = T,
+        label = "sub_totals",
+        col.names = c("Language", "Channel", "Rank", "URLs Scraped", "Subbed Videos", "Subbed Time (seconds)", "Proportion"),
+        caption = "Total subtitled videos by channel",
+        ) %>% kable_styling(latex_options = c("hold_position"))
+
+language_totals %>%
+  kable(format = "latex",
+        booktabs = T,
+        label = "lang_totals",
+        col.names = c("Language", "URLs Scraped", "Subbed Videos", "Subbed Time (hours)", "Proportion"),
+        caption = "Total subtitled videos by language",
+        ) %>% kable_styling(latex_options = c("hold_position")) %>% collapse_rows(columns = 1, valign = "middle")
+```
+
+After a list of videos was collected, the URLs were processed using the `pytube` module, which provides access to the videos' captions, including whether these captions are auto-generated or manually produced. This distinction is critical, as many videos now include auto-generated captions, but the auto-generation feature still performs quite poorly. Unhelpfully, YouTube does not differentiate auto-generated and manually-entered subtitles on the basis of language code (that is, requesting subs with the code 'ja' will variably return either manual or auto-generated subtitless if both are available). Many of the available subtitle-downloading tools are insufficient in that they assume the distinction between auto-generated and manually-entered subtitles doesn't matter; `pytube` was chosen because it generates a list of captions that differentiates between these two types. However, `pytube` has its own drawbacks: it is not very stable and is not regularly maintained to be up-to-date with changes to YouTube. As such, loading videos or their subtitles sometimes fails for no clear reason.
+
+Before refactoring to use `pytube`, I had written my own code to scrape `www.downsub.com`, which is a website that provides access to YouTube subtitles through its own interface. However, this website has recently updated to use JavaScript to load all pages, and there is no straightforward way to determine the download URLs that point to a given video's subtitles, which are encrypted, thus forcing the switch. I may in the future switch to using the YouTube API (which comes with its own issues) in order to have more direct conrol over the stability of the code.
+
+\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def get_subs(channel, id, url, language):
+
+    try:
+        video = YouTube(url)
+    except KeyError as e:
+        logging.warning("Video {0}: Could not retrieve URL ({1})".format(id, url))
+        return 0
+    except exceptions.VideoUnavailable as e:
+        logging.warning("Video {0}: Video unavailable ({1})".format(id, url))
+        return 0
+    except:
+        logging.critical("Video {0}: An unexpected error occured ({1})".format(id, url))
+        return 0
+
+    caption_dict = {caption.name: caption for caption in  video.captions.all()}
+
+    if language in caption_dict.keys():
+        write_subs(channel, video, id, url, caption_dict[language])
+        logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
+        return int(video.player_config_args['player_response']['videoDetails']['lengthSeconds'])
+    else:
+        logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
+        return 0
+\end{minted}
+
+
+\subsection{Analyzing the corpus}
+
+Downloaded subtitles were pre-processed to remove symbols, emojis, and other features of informal captions that cause trouble for StanfordNLP, such as unusual punctuation or lack of punctuation. Additional processing is done to remove speaker attributions and parentheticals. Unfortunately, this pre-processing is an initial source of error in the data. In particular, subtitlers do not all follow the same conventions in delineating utterances: some write one complete senence per line; others break up sentences across lines. Some use punctuation, but most do not. As an initial heuristic, I have assumed that each line is one sentence and added punction where appropriate to aid the parser, which assumes that all sentences end with periods. However, this heuristic will artificially deflate dependency lengths whenever an individual line contians less than a full sentence and fails to indicate this with a comma.
+
+\begin{minted}[linenos,tabsize=2,breaklines]{python}
+import emoji
+import re
+
+def preprocess_subtitles_ja(subtitles):
+    for line in subtitles:
+        if line and not re.search("^[0-9]", line):
+
+                line = remove_emoji(line.strip())
+
+                line = re.sub(r'（[^)]*）', '', line) # Remove Japanese parens
+                line = re.sub(r'\([^)]*\)', '', line) # Remove English parens
+                line = re.sub(r'<[^)]*>',   '', line) # Remove HTML decorations
+                line = re.sub(r'（[^)]*\)', '', line) # Sometimes the wrong close paren is used
+            
+                close_paren = line.find("）")
+                open_paren = line.find("（")
+                
+                # Unmatched close paren is usually speaker attribution
+                # Need to remove this so it's not parsed as something strange
+                if close_paren > -1: 
+                    line = line[close_paren+1:]
+                    
+                # Unmatched open paren is usually followed by sound effects or jibberish
+                if open_paren > -1: 
+                    line = line[:open_paren]
+
+                # Remove symbols: can probably condense this
+                line = re.sub("[♫♡♥♪→↑↖↓←”wｗW⇓〜\~【】《》「」\[\]\n]", "", line)
+                
+                # Remove odd punctuation: need something more comprehensive?
+                line = re.sub("[　！‼？!?.…]", "。", line)
+
+                if(line):
+                    if(line[-1] != '。' and line[-1] != '、'):
+                        line += '。'
+                        
+                    # Sometimes speakers are delimited with : instead
+                    line_no_speaker = re.split("[：:]", line)
+                    if len(line_no_speaker) > 1:
+                        yield ("".join(no_speaker[1:]))
+                    else:
+                        yield line
+\end{minted}
+
+Russian subtitles were less likely to contain extraneous characters, but similar to Japanese subtitles, it was rare that sentences were demarcated by periods. Thus, the Russian subtitles were subject to less heavy processing overall, but nonetheless suffer from the same issue of deflated dependency lengths.
+
+\begin{minted}[linenos,tabsize=2,breaklines]{python}
+for line in subtitles:
+        if line and not re.search("^[0-9]", line):
+
+            line = remove_emoji(line.strip())
+            line = line.replace(":D", "")
+            line = line.replace(":)", "")
+
+            line = re.sub(r'\([^)]*\)', '', line) # Remove parens
+            line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
+            line = re.sub("[♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
+            line = re.sub("[!?]", ".", line)
+
+            if(line):
+                if(line[-1] != '.' and line[-1] != ','):
+                    line += '.'
+                no_attr = re.split("[:]", line)
+                if len(no_attr) > 1:
+                    yield ("".join(no_attr[1:]))
+                else:
+                    yield line
+\end{minted}
+
+After preprocessing, the subtitles were parsed using the StanfordNLP pipeline. This step inroduces another layer of error/variability: the parser has an easier time with Russian because there are many things to facilitate parsing that are not optional in speech (case marking, also spaces). Japanese text is more diffcult first, due to lack of spaces, second, due to the optionality of case marking in informal speech, and third, because the parser is not trained to recognize non-canonical orders beyond OSV, and can only recognize OSV reliably when case marking is present. 
+
+\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def process_files(channel, language, subtitles_fns, nlp):
+
+    dep_path = join("dependencies", language, channel)
+    if not exists(dep_path):
+        makedirs(dep_path)
+
+    observed_fn = join(dep_path, channel + "_observed_dependencies.csv")
+    optimal_fn  = join(dep_path, channel + "_optimal_dependencies.csv")
+    random_fn   = join(dep_path, channel + "_random_dependencies.csv")
+
+    with open(observed_fn, "w") as observed_out, \
+         open(optimal_fn,  'w') as optimal_out,  \
+         open(random_fn,   'w') as random_out:
+
+        out_files = (observed_out, optimal_out, random_out)
+        header = "video_id, sentence_id, dep_length, total_length\n"
+
+        for f in out_files:
+            f.write(header)
+
+        video_id = 0
+        for subtitles_fn in subtitles_fns:
+
+            logging.info("Processing: {0}".format(subtitles_fn))
+            with open(subtitles_fn, "r") as subtitles_in:
+
+                video_id += 1
+                preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
+
+                logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
+
+                if len(preprocessed_subtitles) != 0:
+                    nlp_subtitles = nlp("。".join(preprocessed_subtitles))
+                    process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
+
+    logging.info("Processed {0} files".format(video_id))
+\end{minted}
+
+
+
+\section{Results}
+
+Below are graphs of...
+
+
+
+\section{Discussion}
