@@ -1,10 +1,26 @@
+FINISHED COUNTS
+----------
 channel_name channel_alias  rank  urls_scraped  subs_scraped total_time_s language
-はじめしゃちょー (Hajime) 0214mex 1 1530  0 0 ja
-HikakinTV HikakinTV 2 1528  0 0 ja
-Fischer's-フィッシャーズ-  MASAIandHamzael 3 1523  0 0 ja
+はじめしゃちょー (Hajime) 0214mex 1 1530  864 265724 ja
+HikakinTV HikakinTV 2 1528  250 109806 ja
+Fischer's-フィッシャーズ-  MASAIandHamzael 3 1523  676 272108 ja
+Yuka Kinoshita木下ゆうか kinoyuu0204 4 1516  813 329794 ja
+東海オンエア  TokaiOnAir  6 1468  164 97588 ja
 
-Yuka Kinoshita木下ゆうか kinoyuu0204 4 989
-東海オンエア  TokaiOnAir  6 987
+TheBrianMaps  TheBrianMaps  5 396 163 64625 ru
+AdamThomasMoran AdamThomasMoran 8 528 59 30828 ru
+Wylsacom  Wylsacom  14  1527  107 66183 ru
+Аид [VyacheslavOO]  VyacheslavOO  15  1529  0 0 ru
+Maryana Ro  MRilakkuma  16  150 41 15057 ru
+Sasha Spilberg  SaySasha  18  339 0 0 ru
+Адвокат Егоров  advocatttt  91  -1  44  26343  ru
+This is Хорошо  ThisIsHorosho 25  861 260 82227 ru
+
+НТВ ntvru 19   1528 0 0 ru
+
+OTHER COUNTS
+----------
+channel_name channel_alias  rank  urls_scraped  subs_scraped total_time_s language
 SUSHI RAMEN【Riku】 UCljYHFazflmGaDr5Lo90KmA  7 417
 水溜りボンド  UCpOjLndjOqMoffA-fr8cbKA  12  990
 HikakinGames HikakinGames 10  975
@@ -20,4 +36,3 @@ A.I.Channel UC4YaOt1yT-ZeyB0OmxHgolA  26  745
 ワタナベマホト UC4Au2QrbfaSjHPSdk5tUBeg  29  792
 おるたなChannel torokeroTV  36  540 0 0 ja
 東海オンエアの控え室  TokaiHikaesitsu 40  987 0 0 ja
-AdamThomasMoran AdamThomasMoran 8 528 0 0 ru
