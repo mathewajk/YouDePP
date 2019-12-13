@@ -6,3 +6,12 @@
 backups/
 *.ipynb*
 *_random_dependencies.csv
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.xml
+*minted*
+*.out
+*.pdf
+*.tex
