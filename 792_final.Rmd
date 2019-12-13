@@ -88,13 +88,7 @@ head-initial languages, such as Russian; the Japanese corpus, notably, consisted
 
 The top YouTube channels for each language were manually determined on the basis of total subscribers. Of these channels, the top five channels that featured a significant amount of dialogue were selected for analysis. A list of videos for each channel was generated using Selenium to load each channel's "Videos" page and scrape the videos' URLS.
 
-\begin{minted}[linenos,tabsize=2,breaklines]{python}
-from time import sleep
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def get_links(driver, url, cutoff):
 
     driver.get(url)
@@ -108,11 +102,11 @@ def get_links(driver, url, cutoff):
 
         elements = driver.find_elements_by_xpath('//*[@id="video-title"]')
         return [(element.get_attribute('href'), element.get_attribute('aria-label'))  for element in elements]
-\end{minted}
+\end{minted}\vspace{2em}
 
 Channels were scrolled either until there were no more videos to load or until a user-defined cutoff was reached. In the most recent iteration of the data, I set the cutoff to 50 scrolls; this resulted in a max of about 1500 URLs per channel.
 
-\begin{minted}[linenos,tabsize=2,breaklines]{python}
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def scroll_channel(driver, pause_time):
     last_height = driver.execute_script('return document.querySelector("#page-manager").scrollHeight')
     driver.execute_script('window.scrollTo(0, document.querySelector("#page-manager").scrollHeight);')
@@ -123,7 +117,7 @@ def scroll_channel(driver, pause_time):
     if new_height == last_height:
         return 0
     return 1
-\end{minted}
+\end{minted}\vspace{2em}
 
 
 Somewhat unexpectedly, Japanese videos were more likely to be subtitled than Russian videos, and the top Japanese channels had more videos overall than the top Russian channels (Tables \ref{sub_totals} and \ref{lang_totals}). Japanese speech is overrepresented in the data by a ratio of approximately 3:2.
@@ -166,7 +160,7 @@ After a list of videos was collected, the URLs were processed using the `pytube`
 
 Before refactoring to use `pytube`, I had written my own code to scrape `www.downsub.com`, which is a website that provides access to YouTube subtitles through its own interface. However, this website has recently updated to use JavaScript to load all pages, and there is no straightforward way to determine the download URLs that point to a given video's subtitles, which are encrypted, thus forcing the switch. I may in the future switch to using the YouTube API (which comes with its own issues) in order to have more direct conrol over the stability of the code.
 
-\begin{minted}[linenos,tabsize=2,breaklines]{python}
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def get_subs(channel, id, url, language):
 
     try:
@@ -190,22 +184,19 @@ def get_subs(channel, id, url, language):
     else:
         logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
         return 0
-\end{minted}
+\end{minted}\vspace{2em}
 
 
 \subsection{Analyzing the corpus}
 
 Downloaded subtitles were pre-processed to remove symbols, emojis, and other features of informal captions that cause trouble for StanfordNLP, such as unusual punctuation or lack of punctuation. Additional processing is done to remove speaker attributions and parentheticals. Unfortunately, this pre-processing is an initial source of error in the data. In particular, subtitlers do not all follow the same conventions in delineating utterances: some write one complete senence per line; others break up sentences across lines. Some use punctuation, but most do not. As an initial heuristic, I have assumed that each line is one sentence and added punction where appropriate to aid the parser, which assumes that all sentences end with periods. However, this heuristic will artificially deflate dependency lengths whenever an individual line contians less than a full sentence and fails to indicate this with a comma.
 
-\begin{minted}[linenos,tabsize=2,breaklines]{python}
-import emoji
-import re
-
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def preprocess_subtitles_ja(subtitles):
     for line in subtitles:
         if line and not re.search("^[0-9]", line):
 
-                line = remove_emoji(line.strip())
+                line = emoji.remove_emoji(line.strip())
 
                 line = re.sub(r'（[^)]*）', '', line) # Remove Japanese parens
                 line = re.sub(r'\([^)]*\)', '', line) # Remove English parens
@@ -240,12 +231,13 @@ def preprocess_subtitles_ja(subtitles):
                         yield ("".join(no_speaker[1:]))
                     else:
                         yield line
-\end{minted}
+\end{minted}\vspace{2em}
 
 Russian subtitles were less likely to contain extraneous characters, but similar to Japanese subtitles, it was rare that sentences were demarcated by periods. Thus, the Russian subtitles were subject to less heavy processing overall, but nonetheless suffer from the same issue of deflated dependency lengths.
 
-\begin{minted}[linenos,tabsize=2,breaklines]{python}
-for line in subtitles:
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def preprocess_subtitles_ru(subtitles):
+    for line in subtitles:
         if line and not re.search("^[0-9]", line):
 
             line = remove_emoji(line.strip())
@@ -265,11 +257,11 @@ for line in subtitles:
                     yield ("".join(no_attr[1:]))
                 else:
                     yield line
-\end{minted}
+\end{minted}\vspace{2em}
 
 After preprocessing, the subtitles were parsed using the StanfordNLP pipeline. This step inroduces another layer of error/variability: the parser has an easier time with Russian because there are many things to facilitate parsing that are not optional in speech (case marking, also spaces). Japanese text is more diffcult first, due to lack of spaces, second, due to the optionality of case marking in informal speech, and third, because the parser is not trained to recognize non-canonical orders beyond OSV, and can only recognize OSV reliably when case marking is present. 
 
-\begin{minted}[linenos,tabsize=2,breaklines]{python}
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def process_files(channel, language, subtitles_fns, nlp):
 
     dep_path = join("dependencies", language, channel)
@@ -292,27 +284,159 @@ def process_files(channel, language, subtitles_fns, nlp):
 
         video_id = 0
         for subtitles_fn in subtitles_fns:
-
-            logging.info("Processing: {0}".format(subtitles_fn))
             with open(subtitles_fn, "r") as subtitles_in:
 
                 video_id += 1
                 preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
 
-                logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
-
                 if len(preprocessed_subtitles) != 0:
                     nlp_subtitles = nlp("。".join(preprocessed_subtitles))
                     process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
+\end{minted}\vspace{2em}
 
-    logging.info("Processed {0} files".format(video_id))
-\end{minted}
+Finally, the total dependency length of each parsed sentence was calculated. Following \citet{futrellLargescaleEvidenceDependency2015}, this measure is simply the sum of the lengths of all dependencies in the sentence. Ultimately, only sentences greater than length 5 and less than length 25 were considered. This served to both reduce the amount of data being generated and limit conclusions to sentence lengths for which a reasonable numnber of observations was available.
 
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
+    sent_id = 0
+    for sentence in doc.sentences:
+        sent_id += 1
+
+        true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
+        num_dependencies = len(true_dependencies)
+
+        if(num_dependencies < 5 or num_dependencies > 25):
+            continue
+
+        try:
+            dependency_tree = tree(true_dependencies)
+        except:
+            logging.warning("Tree construction failed for sentence {0}".format(sent_id))
+            continue
+
+        optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0])))
+        dependencies = list(zip(true_dependencies, optimal_dependencies))
+
+        true_indices, optimal_indices = ({}, {})
+        for i in range (0, len(dependencies)):
+            true_indices.update({true_dependencies[i][2].index: i + 1})
+            optimal_indices.update({optimal_dependencies[i][2].index: i + 1})
+
+        dep_total_true, dep_total_optimal = (0, 0)
+
+        for (true_dep, optimal_dep) in dependencies:
+            dep_total_true += get_dependency_length(true_dep, true_indices)
+            dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
+
+        process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out)
+
+        if(dep_total_optimal > dep_total_true):
+            count_bad += 1
+        if num_dependencies > 5:
+            logging.info("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}".format(dep_total_true, dep_total_optimal, video_id, sent_id))
+
+        observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
+        optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
+
+def iter_flatten(iterable):
+  it = iter(iterable)
+  for e in it:
+    if isinstance(e, list):
+      for f in iter_flatten(e):
+        yield f
+    else:
+      yield e
+
+def tree(dependencies):
+    nodes={}
+    for i in dependencies:
+        parent, rel, child = i
+        nodes[child] = {"parent": parent, "child": child, "relation": rel, "children": []}
+
+    forest = []
+    for i in dependencies:
+        parent, rel, child = i
+        node = nodes[child]
+
+        if rel == 'root': # this should be the Root Node
+                forest.append(node)
+        else:
+            parent = nodes[parent]
+            children = parent['children']
+            children.append(node)
+    return forest
+    
+\end{minted}\vspace{2em}
+
+In addition to the actual (i.e., observed) total dependency length, a random baseline and optimal baseline were calculated. The random baseline was calculated as follows: For each head, the head and its dependents were ordered randomly. This process was then repeated with each dependent as a head until no dependents remained.
+
+For each sentence, 10 random baselines were calculated, as opposed to the 100 calculated in \citet{futrellLargescaleEvidenceDependency2015}, to reduce the volume of data being generated. Subsets of the data for which 1, 25, and 100 random baselines were calculated all showed a similar pattern.
+
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def linearize_random(node):
+
+    if not len(node['children']):
+        return [(node['parent'], node['relation'], node['child'])]
+
+    else:
+        chunk = []
+        for child in node['children']: # Randomize each child and append it
+            chunk.append(linearize_random(child))
+        chunk.append((node['parent'], node['relation'], node['child']))
+        random.shuffle(chunk)
+
+        return chunk
+        
+def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out):
+    for i in range(0, 10):
+
+        dep_total_random = 0
+        random_indices = {}
+
+        random_dependencies =  list(iter_flatten(linearize_random(dependency_tree[0])))
+        for j in range (0, len(random_dependencies)):
+            random_indices.update({random_dependencies[j][2].index: j + 1})
+
+        for random_dep in random_dependencies:
+            dep_total_random += get_dependency_length(random_dep, random_indices)
+
+        random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
+\end{minted}\vspace{2em}
+
+Optimal baselines were generated in the following manner \autocite{gildeaOptimizingGrammarsMinimum}: For each head, order its dependents by weight, where weight is defined as the total number of children contained under the dependent. Place the dependents on alternating sides of the head in order of weight, such that the heaviest dependents are the farthest from the head. The link between the head and its parent node is treated as a special child that is placed opposite the head's longest real child.
+
+\vspace{2em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
+def linearize_optimal(node, right=True):
+
+    if not len(node['children']):
+        return [(node['parent'], node['relation'], node['child'])]
+
+    else:
+
+        sorted_children = node['children']
+        sorted_children.sort(key=weight, reverse=True)
+        chunk = [(node['parent'], node['relation'], node['child'])]
+
+        root_pos = 0
+        for i in range(0, len(sorted_children)):
+            weight_cur = weight(sorted_children[i])
+            if (i % 2 and right) or (not i % 2 and not right): # Add the largest child to the right of the parent, then swap directions
+                chunk.insert(root_pos + 1, linearize_optimal(sorted_children[i], False))
+            else: # Add largest to left and swap
+                chunk.insert(root_pos, linearize_optimal(sorted_children[i], True))
+                root_pos = root_pos + 1
+
+        return chunk
+        
+def weight(node):
+    if not len(node['children']):
+        return 1
+    return 1 + sum(map(weight, node['children']))
+\end{minted}\vspace{2em}
 
 
 \section{Results}
 
-Below are graphs of...
 
 
 
