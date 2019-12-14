@@ -14,13 +14,15 @@ header-includes:
   - \setlength{\parskip}{0em}
   - \usepackage{setspace, booktabs, minted, fancyhdr, titling, fontspec}
   - \setromanfont[SmallCapsFont={Baskerville Small Caps SSi}]{Baskerville}
-  - \usepackage[backend=biber, authordate, natbib, giveninits=true]{apa}
+  - \usepackage[backend=biber, authordate, natbib, giveninits=true]{biblatex-chicago}
   - \bibliography{792_final}
 ---
 
 ```{r setup, include=FALSE}
 library(kableExtra)
 library(dplyr)
+library(ggplot2)
+library(ghibli)
 
 options(tinytex.engine_args = '-shell-escape')
 knitr::opts_chunk$set(echo = TRUE)
@@ -93,7 +95,7 @@ df.all.jp$sent_len_sq   <- df.all.jp$total_length * df.all.jp$total_length
 
 # Create index variables: ri = 1 if random; 0 else, mi = 1 if optimal; 0 else
 df.all.jp$baseline <- factor(df.all.jp$baseline, levels=c("Random", "Optimal", "Observed")) 
-df.all.jp <- df.all.jp %>% mutate(ri = as.integer(baseline == "Random"), mi = as.integer(baseline == "Optimal")) %>% filter(dep_length > 5 & dep_length < 200)
+df.all.jp <- df.all.jp %>% mutate(ri = as.integer(baseline == "Random"), mi = as.integer(baseline == "Optimal")) %>% filter(dep_length > 5 & dep_length < 300)
 
 # Observed deps for density hexagons
 df.all.jp.observed <- df.all.jp %>% filter(baseline=="Observed")
@@ -115,7 +117,7 @@ df.adam <- bind_rows(list("Observed"=df.adam.observed, "Optimal"=df.adam.optimal
                             "Random"=df.adam.random),  .id = 'baseline')
 ```
 
-```{r adam_data, include=FALSE}
+```{r ntv_data, include=FALSE}
 df.ntv.observed <- data.frame(read.table("dependencies/ru/NTV/NTV_observed_dependencies.csv",
                                               header=TRUE, sep=","))
 df.ntv.optimal  <- data.frame(read.table("dependencies/ru/NTV/NTV_optimal_dependencies.csv",
@@ -126,7 +128,7 @@ df.ntv <- bind_rows(list("Observed"=df.ntv.observed, "Optimal"=df.ntv.optimal,
                             "Random"=df.ntv.random),  .id = 'baseline')
 ```
 
-```{r adam_data, include=FALSE}
+```{r brian_data, include=FALSE}
 df.TheBrianMaps.observed <- data.frame(read.table("dependencies/ru/TheBrianMaps/TheBrianMaps_observed_dependencies.csv",
                                               header=TRUE, sep=","))
 df.TheBrianMaps.optimal  <- data.frame(read.table("dependencies/ru/TheBrianMaps/TheBrianMaps_optimal_dependencies.csv",
@@ -137,7 +139,7 @@ df.TheBrianMaps <- bind_rows(list("Observed"=df.TheBrianMaps.observed, "Optimal"
                             "Random"=df.TheBrianMaps.random),  .id = 'baseline')
 ```
 
-```{r adam_data, include=FALSE}
+```{r horosho_data, include=FALSE}
 df.ThisIsHorosho.observed <- data.frame(read.table("dependencies/ru/ThisIsHorosho/ThisIsHorosho_observed_dependencies.csv",
                                               header=TRUE, sep=","))
 df.ThisIsHorosho.optimal  <- data.frame(read.table("dependencies/ru/ThisIsHorosho/ThisIsHorosho_optimal_dependencies.csv",
@@ -145,10 +147,10 @@ df.ThisIsHorosho.optimal  <- data.frame(read.table("dependencies/ru/ThisIsHorosh
 df.ThisIsHorosho.random   <- data.frame(read.table("dependencies/ru/ThisIsHorosho/ThisIsHorosho_random_dependencies.csv",
                                             header=TRUE, sep=","))
 df.ThisIsHorosho <- bind_rows(list("Observed"=df.ThisIsHorosho.observed, "Optimal"=df.ThisIsHorosho.optimal, 
-                            "Random"=df.ThisIsHorosho),  .id = 'baseline')
+                            "Random"=df.ThisIsHorosho.random),  .id = 'baseline')
 ```
 
-```{r adam_data, include=FALSE}
+```{r wylsacom_data, include=FALSE}
 df.Wylsacom.observed <- data.frame(read.table("dependencies/ru/Wylsacom/Wylsacom_observed_dependencies.csv",
                                               header=TRUE, sep=","))
 df.Wylsacom.optimal  <- data.frame(read.table("dependencies/ru/Wylsacom/Wylsacom_optimal_dependencies.csv",
@@ -160,7 +162,11 @@ df.Wylsacom <- bind_rows(list("Observed"=df.Wylsacom.observed, "Optimal"=df.Wyls
 ```
 
 ```{r ru_all_setup, include=FALSE}
-df.all.ru <- bind_rows(list("AdamThomasMoran"=df.adam), .id = 'channel')
+df.all.ru <- bind_rows(list("AdamThomasMoran"=df.adam,
+                            "NTV"=df.ntv,
+                            "TheBrianMaps"=df.TheBrianMaps,
+                            "ThisIsHorosho"=df.ThisIsHorosho,
+                            "Wylsacom"=df.Wylsacom), .id = 'channel')
 
 # Calculate squared sentence length to match Futrell et al.: better predictor than raw length
 df.all.ru$sent_len_sq   <- df.all.ru$total_length * df.all.ru$total_length
@@ -416,7 +422,7 @@ def preprocess_subtitles_ru(subtitles):
 \end{minted}
 \vspace{1.5em}
 
-After preprocessing, the subtitles were parsed using the StanfordNLP pipeline. This step inroduces another layer of error/variability: the parser has an easier time with Russian because there are many things to facilitate parsing that are not optional in speech (case marking, also spaces). Japanese text is more diffcult first, due to lack of spaces, second, due to the optionality of case marking in informal speech, and third, because the parser is not trained to recognize non-canonical orders beyond OSV, and can only recognize OSV reliably when case marking is present. 
+After preprocessing, the subtitles were parsed using the StanfordNLP pipeline. This step inroduces another layer of error/variability: Japanese text is more diffcult to parse accurately than languages like Russian due to, for example, its lack of spaces and the optionality of case marking in informal speech, which in other languages facilitate word and part-of-speech recognition. Furthermore, the parser is not trained to recognize non-canonical orders beyond OSV, and can only recognize OSV reliably when case marking is present. Verb-medial and verb-initial orders are mis-parsed as relative clauses and adjuncts, which inflates dependency lengths.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def process_files(channel, language, subtitles_fns, nlp):
@@ -463,7 +469,7 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
         num_dependencies = len(true_dependencies)
 
-        if(num_dependencies < 5 or num_dependencies > 25):
+        if(num_dependencies < 5 or num_dependencies > 40):
             continue
 
         try:
@@ -602,8 +608,8 @@ def weight(node):
 
 As predicted, total dependency lengths were closer to the optimal baseline in the present corpus than they were in the corpus used by \citet{futrellLargescaleEvidenceDependency2015}. Figure \ref{avg_all_jp} shows the average total dependency length by sentence length aggregated across channels. Random, optimal, and observed average total dependency lengths were each fitted with a generalized additive model to visualize their trends; density hexagons show the number of observations at different lengths.
 
-```{r avg_all_jp, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences with total length > 5 and < 200", fig.align='left', fig.show='hold'}
-all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+```{r avg_all_jp, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences in Japanese with total length > 5 and < 300", fig.align='left', fig.show='hold'}
+all.dependencies.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
     stat_bin_hex(data=df.all.jp.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
@@ -612,33 +618,39 @@ all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, co
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
     theme(legend.position="right")
 
-all.dependencies.g
+all.dependencies.jp.g
 ```
 
 Breaking down the aggregate results by channel does not seem to reveal any strong difference between channels upon visual inspection (Figure \ref{avg_channel_jp}), although preliminary results had suggested that the average total dependency lengths for the channel YukaKinoshina might be slightly higher than those of the other channels. Yuka's speech is overall more formal than that of the other YouTubers included in this sample, so it could have been expected that her speech would employ longer dependencies; this doesn't seem to be borne out, although I have not yet been able to analyze the data statistically. It is possible that spoken sources that are more differentiated in terms of register from those used here, for example news programs, would pattern differently.
 
-```{r avg_channel_jp, include=TRUE, echo=FALSE, fig.cap="Average total Dependency ", fig.align='left', fig.show='hold'}
+```{r avg_channel_jp, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths by channel in Japanese with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 # Plot by channel
-dep.by.channel.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+dep.by.channel.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
     stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white, "black")) +
+    scale_fill_gradientn(colours=c("white", "black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
     theme(legend.position="right") +
     facet_wrap(.~channel)
 
-dep.by.channel.g
+dep.by.channel.jp.g
 ```
+
+In addition to dependency lengths, I was also interested in examining word order flexibility. However, various issues with StanfordNLP's handling of the text made this infeasible. In particular, to my knowledge, all Japanese parsers have been trained on written data, which differs from informal speech in ways that facilitate the parser. In particular, case marking and verb-final order are near-obligatory; thus, as mentioned in \S\ref{method}, parsers are good at identifying SOV and OSV order, but they assume that verbs are always final. Compounding this issue is the fact that relative clauses are not always morphologically distinguished from verb-medial and verb-initial orders. This means that the main-clause verbs of sentences in non-canonical orders are reliably parsed as dependents of whatever noun follows them, rather than as roots.
+
+Nonetheless, manual analysis of a small subset of the collected subtitles found that non-verb-final orders are present in the data, though infrequent. Future work could aim to quantify the frequency of such sentences, for example by developing a heuristic to collect likely mis-parses and manually analyzing them, or by hand-correcting a subset of the data and retraining a parser on this corrected data.
 
 \subsection{Russian}
 
-```{r ru_all, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences with total length > 5 and < 200", fig.align='left', fig.show='hold'}
+The Russian subtitles, contra the hypothesis that spoken language would contain shorter dependencies, appear to pattern in roughly the same way here as they did in \citet{futrellLargescaleEvidenceDependency2015}, and their dependency lengths appear grow at a faster rate than those of the Japanese subtitles (Figure \ref{ru_all_avg}). This pattern holds in each individual channel, as well (Figure \ref{avg_channel_ru}).Though this result was initially surprising, it is perhaps not so unexpected; \citet{futrellLargescaleEvidenceDependency2015} hypothesize that languages with richer morphology may have more freedom in their dependency lengths because this morphology makes long dependencies easier to identify; Russian, which possesses rich inflectional morphology, may then tolerate longer dependencies than Japanese, which in informal registers allows case markers to be omitted. Furthermore, Russian typically does not allow pro- or argument-drop, whereas spoken Japanese sounds unnatural \emph{without} extensive argument-dropping. This, too, would lead to shorter dependencies in spoken Japanese.
+
+```{r ru_all_avg, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 all.dependencies.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
     stat_bin_hex(data=df.all.ru.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white","black")) +
+    scale_fill_gradientn(colours=c("white", "black")) +
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) + 
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
@@ -647,10 +659,29 @@ all.dependencies.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length,
 all.dependencies.ru.g
 ```
 
-\section{Discussion}
+```{r avg_channel_ru, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths by channel in Russian with total length > 5 and < 300", fig.align='left', fig.show='hold'}
+# Plot by channel
+dep.by.channel.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ru.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white", "black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    theme(legend.position="right") +
+    facet_wrap(.~channel)
 
-The results of this preliminary work are promising: it is relatively easy to acquire the subtitles for a large number of videos, and the subtitles are overall of good quality. Issues arise primarily in the preprocessing and parsing of the subtitle, especially for Japanese. 
+dep.by.channel.ru.g
+```
 
-A straightforward way to begin improving the corpus would be to diversify the channels included in the Japanese sample and to balance out the Japanese and Russian data.
+However, it could also be that factors external to the languages are responsible for the observed patterns. Although I tried to select Russian channels that were similar in tone and content to the Japanese channels, the top Russian channels on YouTube tend to be more expository, while the Japanese channels are more action- and interaction-focused. In addition, my code has been tested thoroughly only in the case of Japanese, which was the focus of its initial development. Unexpected issues arose in the processing of the Russian data; for example, StanfordNLP was much slower to process it and occasionally ran into recursion errors when processing one of the channels, and when handling a different channel, my own code returned odd results, such as the "optimal" dependency lengths of a handful of sentences being longer than the observed lengths. Thus, if the Japanese results already must be taken with a grain of salt, this goes double for Russian.
+
+\section{Conclusion}
+
+This project aimed to develop a preliminary framework for developing dependency corpora from YouTube subtitles. The results are promising: it is relatively easy to acquire the subtitles for a large number of videos, and the subtitles are overall of good quality. Issues arise primarily in the preprocessing and parsing of the subtitles, especially in the case Japanese, which, especially when it comes to spoken data, still lacks reliable automatic parsing. Depending on the language, it is also more or less difficult to find a sufficient amount of subtitles; a surprising outcome of this work was the relative lack of Russian subtitles when compared to Japanese.
+
+A basic analysis of the total dependency lengths of the sentences collected found that informal spoken Japanese contained shorter dependencies than those from spoken Japanese collected in a more formal setting, pointing to a potential effect of register. However, dependency lengths in informal spoken Russian did not differ appreciably from those calculated from a written corpus. Without a more refined analysis, though, it is difficult to determine the source of this decrepancy.
+
+A straightforward way to begin improving the corpus would be to diversify the channels included in the Japanese sample and to balance out the Japanese and Russian data. Tackling the insufficiency of the Japanese parser would also be an ideal, though more involved, next step. There are also a number of issues to work out before it can be certain that the Russian parser is behaving as intended. Still, as both the code and the languge models it depends on improve, this data can only become more useful, and I believe it has the potential to serve as an important complement to the written data that is currently over-represented in token-based typology.
 
 \printbibliography{}
