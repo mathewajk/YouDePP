@@ -240,7 +240,7 @@ head-initial languages, such as Russian; the Japanese corpus, notably, consisted
 
 
 
-\section{Methods}\ref{method}
+\section{Methods}\label{method}
 
 \subsection{Building the subtitle corpus}
 
@@ -282,7 +282,7 @@ def scroll_channel(driver, pause_time):
 Somewhat unexpectedly, Japanese videos were more likely to be subtitled than Russian videos, and the top Japanese channels had more videos overall than the top Russian channels (Tables \ref{tab:sub_totals} and \ref{tab:lang_totals}). Thus, Japanese speech is overrepresented in the data by a ratio of approximately 3:2.
 
 ```{r include=TRUE, echo=FALSE}
-subtitle_totals <- data.frame(read.table(text="Language, ChannelName, Rank, URLsScraped, SubbedVideos, SubbedTimeSeconds
+subtitle_totals <- data.frame(read.table(text="Language, ChannelName, Rank, URLsScraped, SubbedVideos, SubbedTime
 Japanese, Hajime Shachoo, 1, 1530, 864, 265724
 Japanese, HikakinTV, 2, 1528, 250, 109806
 Japanese, Fischers, 3, 1523, 676, 272108
@@ -291,27 +291,26 @@ Japanese, Tokai On Air, 6, 1468, 164, 97588
 Russian, TheBrianMaps, 5, 396, 163, 64625
 Russian, AdamThomasMoran, 8, 528, 59, 30828
 Russian, Wylsacom, 14, 1527, 107, 66183
-Russian, Maryana Ro, 16, 150, 41, 15057
 Russian, NTV, 19, 1528, 137, 383920
 Russian, This is Horosho, 25, 861, 260, 82227", header=TRUE, sep=","))
 
-channel_totals <- subtitle_totals %>% mutate(Proportion = SubbedVideos/URLsScraped)
-language_totals <- subtitle_totals %>% group_by(Language) %>% summarise(URLsScraped=sum(URLsScraped), SubbedVideos = sum(SubbedVideos), SubbedTimeHours = sum(SubbedTimeSeconds)/60/60, Proportion = SubbedVideos/URLsScraped)
+channel_totals <- subtitle_totals %>% mutate(Proportion = SubbedVideos/URLsScraped, SubbedTime = SubbedTime/60/60)
+language_totals <- channel_totals %>% group_by(Language) %>% summarise(URLsScraped=sum(URLsScraped), SubbedVideos = sum(SubbedVideos), SubbedTime = sum(SubbedTime), Proportion = SubbedVideos/URLsScraped)
 
 channel_totals %>%
   kable(format = "latex",
         booktabs = T,
         label = "sub_totals",
-        col.names = c("Language", "Channel", "Rank", "URLs Scraped", "Subbed Videos", "Subbed Time (seconds)", "Proportion"),
-        caption = "Total subtitled videos by channel",
+        col.names = c("Language", "Channel", "Rank", "Videos", "Subbed Videos", "Subbed Time (h)", "Proportion"),
+        caption = "Total videos, subtitled videos, amount of subtitled time, and proportion of subbed and unsubbed videos by channel",
         ) %>% kable_styling(latex_options = c("hold_position"))
 
 language_totals %>%
   kable(format = "latex",
         booktabs = T,
         label = "lang_totals",
-        col.names = c("Language", "URLs Scraped", "Subbed Videos", "Subbed Time (hours)", "Proportion"),
-        caption = "Total subtitled videos by language",
+        col.names = c("Language", "Videos", "Subbed Videos", "Subbed Time (h)", "Proportion"),
+        caption = "Total videos, subtitled videos, amount of subtitled time, and proportion of subbed and unsubbed videos by language",
         ) %>% kable_styling(latex_options = c("hold_position")) %>% collapse_rows(columns = 1, valign = "middle")
 ```
 
@@ -457,7 +456,7 @@ def process_files(channel, language, subtitles_fns, nlp):
 \end{minted}
 \vspace{1.5em}
 
-Finally, the total dependency length of each parsed sentence was calculated. Following \citet{futrellLargescaleEvidenceDependency2015}, this measure is simply the sum of the lengths of all dependencies in the sentence. Ultimately, only sentences with more than 5 dependencies and fewer than 30 dependencies were considered. This served to both reduce the amount of data being generated and limit conclusions to sentence lengths for which a reasonable number of observations was available.
+Finally, the total dependency length of each parsed sentence was calculated. Following \citet{futrellLargescaleEvidenceDependency2015}, this measure is simply the sum of the lengths of all dependencies in the sentence. Ultimately, only sentences with more than 5 dependencies and fewer than 40 dependencies were considered. This served to both reduce the amount of data being generated and limit conclusions to sentence lengths for which a reasonable number of observations was available and which are somewhat less likely to consist only of uninformative data such as sound-effects.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
@@ -642,8 +641,6 @@ Nonetheless, manual analysis of a small subset of the collected subtitles found 
 
 \subsection{Russian}
 
-The Russian subtitles, contra the hypothesis that spoken language would contain shorter dependencies, appear to pattern in roughly the same way in my data as they did in \citet{futrellLargescaleEvidenceDependency2015}, and their dependency lengths appear grow at a faster rate than those of the Japanese subtitles (Figure \ref{fig:ru_all_avg}). This pattern holds in each individual channel, as well (Figure \ref{fig:avg_channel_ru}).Though this result was initially surprising, it is perhaps not so unexpected; \citet{futrellLargescaleEvidenceDependency2015} hypothesize that languages with richer morphology may have more freedom in their dependency lengths because this morphology makes long dependencies easier to identify; Russian, which possesses rich inflectional morphology, may tolerate longer dependencies than Japanese, which in informal registers allows case markers to be omitted. Furthermore, Russian typically does not allow pro- or argument-drop, whereas spoken Japanese is unnatural without extensive argument-dropping. This, too, would lead to shorter dependencies in spoken Japanese than in spoken Russian.
-
 ```{r ru_all_avg, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 all.dependencies.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
     stat_bin_hex(data=df.all.ru.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
@@ -656,6 +653,8 @@ all.dependencies.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length,
 
 all.dependencies.ru.g
 ```
+
+The Russian subtitles, contra the hypothesis that spoken language would contain shorter dependencies, appear to pattern in roughly the same way in my data as they did in \citet{futrellLargescaleEvidenceDependency2015}, and their dependency lengths appear grow at a faster rate than those of the Japanese subtitles (Figure \ref{fig:ru_all_avg}). This pattern holds in each individual channel, as well (Figure \ref{fig:avg_channel_ru}).Though this result was initially surprising, it is perhaps not so unexpected; \citet{futrellLargescaleEvidenceDependency2015} hypothesize that languages with richer morphology may have more freedom in their dependency lengths because this morphology makes long dependencies easier to identify; Russian, which possesses rich inflectional morphology, may tolerate longer dependencies than Japanese, which in informal registers allows case markers to be omitted. Furthermore, Russian typically does not allow pro- or argument-drop, whereas spoken Japanese is unnatural without extensive argument-dropping. This, too, would lead to shorter dependencies in spoken Japanese than in spoken Russian.
 
 ```{r avg_channel_ru, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths by channel in Russian with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 # Plot by channel
