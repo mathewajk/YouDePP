@@ -197,7 +197,7 @@ df.all.ru.observed.avg <- df.all.ru %>% filter(baseline=="Observed")
 \DeclareFieldFormat{postnote}{#1}
 \DeclareFieldFormat{multipostnote}{#1}
 
-\onehalfspacing
+\doublespacing
 
 \setlength{\droptitle}{-2em}
 
@@ -215,7 +215,7 @@ df.all.ru.observed.avg <- df.all.ru %>% filter(baseline=="Observed")
 
 An accurate understanding of cross-linguistic variation and its sources requires an accurate typology. However, large-scale typological databases such as WALS \autocite{dryer2013world} and AUTOTYP \autocite{bickel2017autotyp} classify the world's languages using categorical, or \emph{type-based} \autocite[533--534]{levshinaTokenbasedTypologyWord2019a}, variables, which are necessarily reductive. This reduction biases such typologies toward including only those features that lend themselves to discrete analysis, and further, toward features with a bimodal distribution \autocite[77]{walchliDataReductionTypology2009}. As a result, languages whose features fall at the poles of these distributions are well-classified, while those in-between are not \autocite[91]{walchliDataReductionTypology2009}. Similarly, the classifications given to continuous features will only be accurate to the extent that they happen to fit a bimodal distribution \autocite[78, 91]{walchliDataReductionTypology2009}.
 
-The data reduction caused by the use of categorical features can be mitigated by considering continuous measures where they are more accurate than, or complementary to, categorical variables. Such measures can be obtained through \emph{token-based typology}, which considers "the tokens of linguistic unites or structures observed in language use, as approximated by corpora", as well as "aggregate variables derived from the distributions of usage tokens, such as entropy, complexity, average dependency length, etc" \autocite[534]{levshinaTokenbasedTypologyWord2019a}. These measures reflect language-internal variation with respect to the particular corpus being analyzed and allow languages to be compared along a continuum, rather than placing them into discrete categories that may conflate different sources of variation and different underlying patterns.
+The data reduction caused by the use of categorical features can be mitigated by considering continuous measures where they are more accurate than, or complementary to, categorical variables. Such measures can be obtained through \emph{token-based typology}, which considers "the tokens of linguistic units or structures observed in language use, as approximated by corpora", as well as "aggregate variables derived from the distributions of usage tokens, such as entropy, complexity, average dependency length, etc" \autocite[534]{levshinaTokenbasedTypologyWord2019a}. These measures reflect language-internal variation with respect to the particular corpus being analyzed and allow languages to be compared along a continuum, rather than placing them into discrete categories that may conflate different sources of variation and different underlying patterns.
 
 
 \subsection{Word order typology}
@@ -226,7 +226,7 @@ A common thread betwen the above studies is their focus on word order. Word orde
 
 AUTOTYP additionally classifies languages as "free", "flexible", or "rigid". However, flexibility here refers only to \emph{structural} flexibility, such that a language like German, which is V-2, will be classified as flexible, while a language like Korean, which is typically SOV but allows for all orders given an appropriate discourse conext \autocite{namboodiripadEnglishdominantKoreanspeakersShow2017}, will be classified as "rigid". Furthermore, as \citet{walchliDataReductionTypology2009} notes, the languages that are classified by WALS as having "no dominant order" do not form a coherent group (88--89); the languages classified as "flexible" or "free" by AUTOTYP are similarly heterogeneous.
 
-Using continuous, corpus-based measures to quantify word order variation not only helps to avoid the use of uninformative categories, but also to capture word order variation that arises from different sources (e.g. discourse-mediated orders versus structurally-required orders). At the same time, they risk conflating these different sources; thus, it may be that word order is best understood by considering discrete and continuous measures \emph{together}, and that both discrete and continuous variable can serve as useful predictors when examining the factors that affect cross-linguistic word order variation and language-internal word order flexibility. 
+Using continuous, corpus-based measures to quantify word order variation not only helps to avoid the use of uninformative categories, but also to capture word order variation that arises from different sources (e.g. discourse-mediated orders versus structurally-required orders). At the same time, they risk conflating these different sources; thus, it may be that word order is best understood by considering discrete and continuous measures \emph{together}, and that both discrete and continuous variables can serve as useful predictors when examining the factors that affect cross-linguistic word order variation and language-internal word order flexibility. 
 
 Corpus-based typological work is not without issues. Drawbacks to the above-cited corpus studies include (1) the modality of the corpus data and (2) comparability across corpora. The corpora employed in these studies are predominantly written, and in the case of \citet{walchliDataReductionTypology2009}, they are all translations of the same original text. A priori, there is no reason to expect written and spoken corpora, or even different types of written or spoken corpora, to reveal the same paterns, as they are subject to different constraints. Indeed, \citet{biberUsingRegisterDiversifiedCorpora1993} finds that corpora containing different modalities and registers make greater or lesser use of structures such as relative clauses, which would affect measures such as dependency length.
 
@@ -240,11 +240,11 @@ head-initial languages, such as Russian; the Japanese corpus, notably, consisted
 
 
 
-\section{Methods}
+\section{Methods}\ref{method}
 
 \subsection{Building the subtitle corpus}
 
-The top YouTube channels for each language were manually determined on the basis of total subscribers. Of these channels, the top five channels that featured a significant amount of dialogue were selected for analysis. A list of videos for each channel was generated using Selenium to load each channel's "Videos" page and scrape the videos' URLS.
+The top YouTube channels for each language were manually determined on the basis of total subscribers. Of these channels, the top five channels that featured a significant amount of dialogue were selected for analysis. A list of videos for each channel was generated using Selenium to load each channel's "Videos" page and scrape the videos' URLs.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def get_links(driver, url, cutoff):
@@ -279,8 +279,7 @@ def scroll_channel(driver, pause_time):
 \end{minted}
 \vspace{1.5em}
 
-
-Somewhat unexpectedly, Japanese videos were more likely to be subtitled than Russian videos, and the top Japanese channels had more videos overall than the top Russian channels (Tables \ref{sub_totals} and \ref{lang_totals}). Japanese speech is overrepresented in the data by a ratio of approximately 3:2.
+Somewhat unexpectedly, Japanese videos were more likely to be subtitled than Russian videos, and the top Japanese channels had more videos overall than the top Russian channels (Tables \ref{tab:sub_totals} and \ref{tab:lang_totals}). Thus, Japanese speech is overrepresented in the data by a ratio of approximately 3:2.
 
 ```{r include=TRUE, echo=FALSE}
 subtitle_totals <- data.frame(read.table(text="Language, ChannelName, Rank, URLsScraped, SubbedVideos, SubbedTimeSeconds
@@ -350,7 +349,7 @@ def get_subs(channel, id, url, language):
 
 \subsection{Parsing the subtitles}
 
-Downloaded subtitles were pre-processed to remove symbols, emojis, and other features of informal captions that cause trouble for StanfordNLP, such as unusual punctuation or lack of punctuation. Additional processing is done to remove speaker attributions and parentheticals. Unfortunately, this pre-processing is an initial source of error in the data. In particular, subtitlers do not all follow the same conventions in delineating utterances: some write one complete senence per line; others break up sentences across lines. Some use punctuation, but most do not. As an initial heuristic, I have assumed that each line is one sentence and added punction where appropriate to aid the parser, which assumes that all sentences end with periods. However, this heuristic will artificially deflate dependency lengths whenever an individual line contians less than a full sentence and fails to indicate this with a comma.
+Downloaded subtitles were pre-processed to remove symbols, emojis, and other features of informal captions that cause trouble for StanfordNLP, such as unusual punctuation or lack of punctuation. Additional processing was done to remove speaker attributions and parentheticals. Unfortunately, this pre-processing is an initial source of error in the data. In particular, subtitlers do not all follow the same conventions in delineating utterances: some write one complete senence per line; others break up sentences across lines. Some use punctuation, but most do not. As an initial heuristic, I have assumed that each line is one sentence and added punction where appropriate to aid the parser, which tends to assume that all sentences end with periods. However, this heuristic will artificially deflate dependency lengths whenever an individual line contians less than a full sentence and fails to indicate such with a comma.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def preprocess_subtitles_ja(subtitles):
@@ -422,7 +421,7 @@ def preprocess_subtitles_ru(subtitles):
 \end{minted}
 \vspace{1.5em}
 
-After preprocessing, the subtitles were parsed using the StanfordNLP pipeline. This step inroduces another layer of error/variability: Japanese text is more diffcult to parse accurately than languages like Russian due to, for example, its lack of spaces and the optionality of case marking in informal speech, which in other languages facilitate word and part-of-speech recognition. Furthermore, the parser is not trained to recognize non-canonical orders beyond OSV, and can only recognize OSV reliably when case marking is present. Verb-medial and verb-initial orders are mis-parsed as relative clauses and adjuncts, which inflates dependency lengths.
+After preprocessing, the subtitles were parsed using the StanfordNLP pipeline. This step inroduces another layer of error/variability: Japanese is more diffcult to parse accurately than languages like Russian due to, for example, its lack of spaces and the optionality of case marking in informal speech, which in other languages facilitate word and part-of-speech recognition. Furthermore, the parser is not trained to recognize non-canonical orders beyond OSV and can only recognize OSV reliably when case marking is present. Verb-medial and verb-initial orders are mis-parsed as relative clauses and adjuncts, which inflates dependency lengths.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def process_files(channel, language, subtitles_fns, nlp):
@@ -463,6 +462,7 @@ Finally, the total dependency length of each parsed sentence was calculated. Fol
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     sent_id = 0
+    count_bad = 0
     for sentence in doc.sentences:
         sent_id += 1
 
@@ -533,9 +533,7 @@ def tree(dependencies):
 \end{minted}
 \vspace{1.5em}
 
-In addition to the actual (i.e., observed) total dependency length, a random baseline and optimal baseline were calculated. The random baseline was calculated as follows: For each head, the head and its dependents were ordered randomly. This process was then repeated with each dependent as a head until no dependents remained.
-
-For each sentence, only one random baseline was calculated, as opposed to the 100 calculated in \citet{futrellLargescaleEvidenceDependency2015}, to reduce the volume of data being generated. Subsets of the data for which 10, 25, and 100 random baselines were calculated per sentence all showed a similar pattern.
+In addition to the actual (i.e., observed) total dependency length, a random baseline and optimal baseline were calculated. The random baseline was calculated as follows \autocite{futrellLargescaleEvidenceDependency2015}: For each head, collect the head and its dependents and order them randomly. Then, repeat this process with each dependent treating that dependent as a new head until no dependents remain. For each sentence, I ultimately calculated only one random baseline, as opposed to the 100 calculated in \citet{futrellLargescaleEvidenceDependency2015}, to reduce the volume of data being generated. Subsets of the data for which 10, 25, and 100 random baselines were calculated per sentence all showed a similar pattern.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def linearize_random(node):
@@ -569,7 +567,7 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
 \end{minted}
 \vspace{1.5em}
 
-Optimal baselines were generated in the following manner \autocite{gildeaOptimizingGrammarsMinimum}: For each head, order its dependents by weight, where weight is defined as the total number of children contained under the dependent. Place the dependents on alternating sides of the head in order of weight, such that the heaviest dependents are the farthest from the head. The link between the head and its parent node is treated as a special child that is placed opposite the head's longest real child.
+Optimal baselines were generated in the following manner \autocite{gildeaOptimizingGrammarsMinimum}: For each head, order its dependents by weight, where weight is defined as the total number of children contained under the dependent. Place the dependents on alternating sides of the head in order of weight, such that the heaviest dependents are the farthest from the head. The link between the head and its parent node is then treated as a special child that is placed opposite the head's longest real child.
 
 \vspace{1.5em}\begin{minted}[linenos,tabsize=2,breaklines]{python}
 def linearize_optimal(node, right=True):
@@ -606,7 +604,7 @@ def weight(node):
 
 \subsection{Japanese}
 
-As predicted, total dependency lengths were closer to the optimal baseline in the present corpus than they were in the corpus used by \citet{futrellLargescaleEvidenceDependency2015}. Figure \ref{avg_all_jp} shows the average total dependency length by sentence length aggregated across channels. Random, optimal, and observed average total dependency lengths were each fitted with a generalized additive model to visualize their trends; density hexagons show the number of observations at different lengths.
+As predicted, total dependency lengths were closer to the optimal baseline in the present corpus than they were in the corpus used by \citet{futrellLargescaleEvidenceDependency2015}. Figure \ref{fig:avg_all_jp} shows the average total dependency length by sentence length aggregated across channels. Random, optimal, and observed average total dependency lengths were each fitted with a generalized additive model to visualize their trends; density hexagons show the number of observations at different lengths.
 
 ```{r avg_all_jp, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences in Japanese with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 all.dependencies.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
@@ -621,7 +619,7 @@ all.dependencies.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length,
 all.dependencies.jp.g
 ```
 
-Breaking down the aggregate results by channel does not seem to reveal any strong difference between channels upon visual inspection (Figure \ref{avg_channel_jp}), although preliminary results had suggested that the average total dependency lengths for the channel YukaKinoshina might be slightly higher than those of the other channels. Yuka's speech is overall more formal than that of the other YouTubers included in this sample, so it could have been expected that her speech would employ longer dependencies; this doesn't seem to be borne out, although I have not yet been able to analyze the data statistically. It is possible that spoken sources that are more differentiated in terms of register from those used here, for example news programs, would pattern differently.
+Breaking down the aggregate results by channel does not seem to reveal any strong difference between channels upon visual inspection (Figure \ref{fig:avg_channel_jp}), although preliminary results had suggested that the average total dependency lengths for the channel YukaKinoshina might be slightly higher than those of the other channels. Yuka's speech is overall more formal than that of the other YouTubers included in this sample, so it could have been expected that her speech would employ longer dependencies; this doesn't seem to be borne out, although I have not yet been able to analyze the data statistically. It is possible that spoken sources that are more differentiated in terms of register from those used here, for example news programs, would pattern differently. The difference between this data and the more formal data used in \autocite{futrellLargescaleEvidenceDependency2015} also points to a potential effect of register.
 
 ```{r avg_channel_jp, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths by channel in Japanese with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 # Plot by channel
@@ -638,13 +636,13 @@ dep.by.channel.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, c
 dep.by.channel.jp.g
 ```
 
-In addition to dependency lengths, I was also interested in examining word order flexibility. However, various issues with StanfordNLP's handling of the text made this infeasible. In particular, to my knowledge, all Japanese parsers have been trained on written data, which differs from informal speech in ways that facilitate the parser. In particular, case marking and verb-final order are near-obligatory; thus, as mentioned in \S\ref{method}, parsers are good at identifying SOV and OSV order, but they assume that verbs are always final. Compounding this issue is the fact that relative clauses are not always morphologically distinguished from verb-medial and verb-initial orders. This means that the main-clause verbs of sentences in non-canonical orders are reliably parsed as dependents of whatever noun follows them, rather than as roots.
+In addition to dependency lengths, I was also interested in examining word order flexibility. However, various issues with StanfordNLP's handling of the text made this infeasible. In particular, to my knowledge, all Japanese parsers have been trained on written data, which differs from informal speech in ways that facilitate the parser. For example, case marking and verb-final order are near-obligatory in written Japanese; thus, as mentioned in \S\ref{method}, automatic parsers are good at identifying SOV and OSV order, but they assume that verbs are always final and as a result fail to accurately tag the other logical orders. Compounding this issue is the fact that relative clauses are not always morphologically distinguished from verb-medial and verb-initial orders in Japanese. This means that the main-clause verbs of sentences in non-canonical orders are reliably parsed as dependents of whatever noun follows them, rather than as roots.
 
-Nonetheless, manual analysis of a small subset of the collected subtitles found that non-verb-final orders are present in the data, though infrequent. Future work could aim to quantify the frequency of such sentences, for example by developing a heuristic to collect likely mis-parses and manually analyzing them, or by hand-correcting a subset of the data and retraining a parser on this corrected data.
+Nonetheless, manual analysis of a small subset of the collected subtitles found that non-verb-final orders are present in the data, though infrequent. Future work could aim to quantify the frequency of such sentences, for example by developing a heuristic to collect likely mis-parses and manually analyzing the result, or by hand-correcting a subset of the data and retraining a parser on this corrected data.
 
 \subsection{Russian}
 
-The Russian subtitles, contra the hypothesis that spoken language would contain shorter dependencies, appear to pattern in roughly the same way here as they did in \citet{futrellLargescaleEvidenceDependency2015}, and their dependency lengths appear grow at a faster rate than those of the Japanese subtitles (Figure \ref{ru_all_avg}). This pattern holds in each individual channel, as well (Figure \ref{avg_channel_ru}).Though this result was initially surprising, it is perhaps not so unexpected; \citet{futrellLargescaleEvidenceDependency2015} hypothesize that languages with richer morphology may have more freedom in their dependency lengths because this morphology makes long dependencies easier to identify; Russian, which possesses rich inflectional morphology, may then tolerate longer dependencies than Japanese, which in informal registers allows case markers to be omitted. Furthermore, Russian typically does not allow pro- or argument-drop, whereas spoken Japanese sounds unnatural \emph{without} extensive argument-dropping. This, too, would lead to shorter dependencies in spoken Japanese.
+The Russian subtitles, contra the hypothesis that spoken language would contain shorter dependencies, appear to pattern in roughly the same way in my data as they did in \citet{futrellLargescaleEvidenceDependency2015}, and their dependency lengths appear grow at a faster rate than those of the Japanese subtitles (Figure \ref{fig:ru_all_avg}). This pattern holds in each individual channel, as well (Figure \ref{fig:avg_channel_ru}).Though this result was initially surprising, it is perhaps not so unexpected; \citet{futrellLargescaleEvidenceDependency2015} hypothesize that languages with richer morphology may have more freedom in their dependency lengths because this morphology makes long dependencies easier to identify; Russian, which possesses rich inflectional morphology, may tolerate longer dependencies than Japanese, which in informal registers allows case markers to be omitted. Furthermore, Russian typically does not allow pro- or argument-drop, whereas spoken Japanese is unnatural without extensive argument-dropping. This, too, would lead to shorter dependencies in spoken Japanese than in spoken Russian.
 
 ```{r ru_all_avg, include=TRUE, echo=FALSE, fig.cap="Average total dependency lengths for sentences with total length > 5 and < 300", fig.align='left', fig.show='hold'}
 all.dependencies.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
@@ -674,14 +672,16 @@ dep.by.channel.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, c
 dep.by.channel.ru.g
 ```
 
-However, it could also be that factors external to the languages are responsible for the observed patterns. Although I tried to select Russian channels that were similar in tone and content to the Japanese channels, the top Russian channels on YouTube tend to be more expository, while the Japanese channels are more action- and interaction-focused. In addition, my code has been tested thoroughly only in the case of Japanese, which was the focus of its initial development. Unexpected issues arose in the processing of the Russian data; for example, StanfordNLP was much slower to process it and occasionally ran into recursion errors when processing one of the channels, and when handling a different channel, my own code returned odd results, such as the "optimal" dependency lengths of a handful of sentences being longer than the observed lengths. Thus, if the Japanese results already must be taken with a grain of salt, this goes double for Russian.
+However, it could also be that factors external to the languages in question are responsible for the observed patterns. Although I tried to select Russian channels that were similar in tone and content to the Japanese channels, which I analyzed first, the top Russian channels on YouTube tend to be more expository, while the Japanese channels are more action- and interaction-focused. In addition, my code has been tested thoroughly only in the case of Japanese, which was the focus of its initial development. Unexpected issues arose in the processing of the Russian data; for example, StanfordNLP was much slower to process the Russian captions and, when processing one channel's data in particular, occasionally ran into recursion errors. In addition, when handling a different channel, my own code returned odd results, such as the "optimal" dependency lengths of a handful of sentences being longer than the observed lengths. I am thus not as confident in the Russian data as I am in the Japanese data at this time.
 
 \section{Conclusion}
 
-This project aimed to develop a preliminary framework for developing dependency corpora from YouTube subtitles. The results are promising: it is relatively easy to acquire the subtitles for a large number of videos, and the subtitles are overall of good quality. Issues arise primarily in the preprocessing and parsing of the subtitles, especially in the case Japanese, which, especially when it comes to spoken data, still lacks reliable automatic parsing. Depending on the language, it is also more or less difficult to find a sufficient amount of subtitles; a surprising outcome of this work was the relative lack of Russian subtitles when compared to Japanese.
+This project aimed to develop a preliminary framework for generating dependency corpora from YouTube subtitles. The results are promising: it is relatively easy to acquire the subtitles for a large number of videos, and the subtitles are overall of good quality. Issues arise primarily in the preprocessing and parsing of the subtitles, especially in the case Japanese, which, especially when it comes to spoken data, still lacks reliable automatic parsing. Depending on the language, it is also more or less difficult to find a sufficient amount of subtitles; a surprising outcome of this work was the relative lack of Russian subtitles when compared to Japanese.
 
-A basic analysis of the total dependency lengths of the sentences collected found that informal spoken Japanese contained shorter dependencies than those from spoken Japanese collected in a more formal setting, pointing to a potential effect of register. However, dependency lengths in informal spoken Russian did not differ appreciably from those calculated from a written corpus. Without a more refined analysis, though, it is difficult to determine the source of this decrepancy.
+A basic analysis of the total dependency lengths of the sentences collected found that informal spoken Japanese contained shorter dependencies than did spoken Japanese collected in a more formal setting, pointing to a potential effect of register. However, dependency lengths in informal spoken Russian did not differ appreciably from those calculated from a written corpus. Without a more refined analysis, though, it is difficult to determine the source of this decrepancy, which could be related to the features of these two languages or to external factors, such as the quality or content of the subtitles or their parses.
 
-A straightforward way to begin improving the corpus would be to diversify the channels included in the Japanese sample and to balance out the Japanese and Russian data. Tackling the insufficiency of the Japanese parser would also be an ideal, though more involved, next step. There are also a number of issues to work out before it can be certain that the Russian parser is behaving as intended. Still, as both the code and the languge models it depends on improve, this data can only become more useful, and I believe it has the potential to serve as an important complement to the written data that is currently over-represented in token-based typology.
+A straightforward way to begin improving this corpus would be to diversify the channels included in the Japanese sample and to balance out the Japanese and Russian data. Tackling the insufficiency of the Japanese parser would also be an ideal, though more involved, next step, and there remain a number of issues to work out before it can be certain that the Russian parser is behaving as intended. Still, as both the code and the languge models it depends on improve, this data can only become better, and I believe it has the potential to serve as an important complement to written data, which is currently over-represented in token-based typology.
+
+\newpage
 
 \printbibliography{}
