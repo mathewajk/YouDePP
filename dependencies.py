@@ -52,8 +52,15 @@ def process_files(channel, language, subtitles_fns, nlp):
                 logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
 
                 if len(preprocessed_subtitles) != 0:
-                    nlp_subtitles = nlp("。".join(preprocessed_subtitles))
-                    process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
+                    try:
+                        nlp_subtitles = nlp("".join(preprocessed_subtitles))
+                        process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
+                    except RecursionError as e:
+                        logging.warning("Could not parse {0}: recursion depth exceeded".format(video_id))
+                        continue
+                    except:
+                        logging.warning("Could not parse {0}: an unexpected error occurred".format(video_id))
+                        continue
 
     logging.info("Processed {0} files".format(video_id))
 
@@ -100,7 +107,7 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
     min = 1000
     max = 0
 
-    for i in range(0, 10):
+    for i in range(0, 1):
 
         dep_total_random = 0
         random_indices = {}
@@ -112,10 +119,10 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
         for random_dep in random_dependencies:
             dep_total_random += get_dependency_length(random_dep, random_indices)
 
-            if dep_total_random > max:
-                max = dep_total_random
-            if dep_total_random < min:
-                min = dep_total_random
+        if dep_total_random > max:
+            max = dep_total_random
+        if dep_total_random < min:
+            min = dep_total_random
 
         random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
 
@@ -168,13 +175,14 @@ def get_dependency_length(dependency, indices):
 
 def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     sent_id = 0
+    count_bad = 0
     for sentence in doc.sentences:
         sent_id += 1
 
         true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
         num_dependencies = len(true_dependencies)
 
-        if(num_dependencies < 5 or num_dependencies > 25):
+        if(num_dependencies < 5 or num_dependencies > 40):
             continue
 
         try:
@@ -224,7 +232,7 @@ def preprocess_subtitles_ru(subtitles):
             line = re.sub("[♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
             line = re.sub("[!?]", ".", line)
 
-            if(line):
+            if line:
                 if(line[-1] != '.' and line[-1] != ','):
                     line += '.'
                 no_attr = re.split("[:]", line)
@@ -258,7 +266,7 @@ def preprocess_subtitles_ja(subtitles):
                 line = re.sub("[♫♡♥♪→↑↖↓←”wｗW⇓\〜\~()（）【】《》「」\[\]\n]", "", line)
                 line = re.sub("[　！‼？!?.…]", "。", line)
 
-                if(line):
+                if line:
                     if(line[-1] != '。' and line[-1] != '、'):
                         line += '。'
                     no_attr = re.split("[：:]", line)
