@@ -1,0 +1,160 @@
+channel, video, sentence, post, pre, moved_element, type_general, type_fine, POS_marked, POS_inferred
+Fischers, 1, 寝起きで飯食わされるの俺, 1, 0, 俺, pronoun, 1PSg, NA, SUBJ
+Fischers, 1, ということでねこういう普通のバケツになってます中は, 1, 0, noun, simple_np TOP, TOP
+Fischers, 1, クソ野郎すぎるお前, 1, 0, お前, pronoun, 2PSg, NA, TOP
+Fischers, 1, これを今回は時間がないので急速冷凍バージョンということで, 0, 1, これ, demonstrative, this_proximal, OBJ, OBJ
+Fischers, 1, だから出来るはずなんだよこれに, 1, 0, これ, demonstrative, this_proximal, INDOBJ, INDOBJ
+Fischers, 1, 表面プリンですこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
+Fischers, 1, 誰がやるこれ, 1, 0, これ, demonstrative, this_proximal, NA, OBJ
+Fischers, 1, これ結構重大だよ責任, 1, 0, 責任, noun, simple_np NA, SUBJ
+Fischers, 1, 一応今日俺が始めたから責任は俺が取る, 1, 0, 責任, noun, simple_np TOP, OBJ
+Fischers, 1, 失敗したらどうするこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
+Fischers, 1, 先日の動画だこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
+Fischers, 1, いやでも成功させればいいんだろこれ, 1, 0, これ, demonstrative, this_proximal, NA, SUBJ
+Fischers, 1, 聞こえた今, 1, 0, 今, temporal, now, ADV, ADV
+Fischers, 1, くっきり綺麗マジで, 1, 0, マジ, intensifier, really, ADV, ADV
+Fischers, 1, キングサイズだこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
+Fischers, 1, いやでも問題は味なんだよやっぱ, 1, 0, やっぱり, onmim, as_expected, ADV, ADV
+Fischers, 1, プリンに見えてきたよやっと, 1, 0, やっと, onmim, finally, ADV, ADV
+Fischers, 1, 結構量多いねこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
+Fischers, 1, 食っていいのこれ, 1, 0, これ, demonstrative, this_proximal, NA, OBJ
+Fischers, 1, 俺甘いのそんな食わないんだけど普段, 1, 0, 普段, temporal, usually, ADV, ADV
+Fischers, 1, 美味いング
+Fischers, 1, 商品だよこれは, 1, 0, これ, demonstrative, this_proximal, TOP, TOP
+Fischers, 1, 3等分しようこれ, 1, 0, これ, demonstrative, this_proximal, NA, OBJ
+Fischers, 37, 何あれ, 1, 0, あれ, demonstrative, this_distal, NA, TOP
+Fischers, 37, 何あれって言われたの, 1, 0, あれ, demonstrative, this_distal, NA, TOP
+Fischers, 38, 腹立つなこいつの指使い, 1, 0, こいつの指使い, noun, complex_np, NA, TOP
+Fischers, 38, 俺死ぬ前に行きたいなあのロンドンのあそこね, 1, 0, ロンドンのあそこ, NA, IOBJ
+Fischers, 38, これもう怖いんだけど俺普通に, 1, 0, 普通, intensifier, obviously, ADV, ADV
+Fischers, 38, さっきのみたいなとこ行ったことないよ俺, 1, 0, 俺, pron, 1PSg, NA, TOP
+Fischers, 38, すごいなこいつ, 1, 0, こいつ, demonstrative, this_one, NA, TOP
+Fischers, 38, 長いんだけどこいつ, 1, 0, こいつ, demonstrative, this_one, NA, TOP
+Fischers, 38, もう一回見せてみろ面, 1, 0, 面, noun, simple_np, NA, OBJ
+Fischers, 38, 怖いわ普通に, 1, 0, 普通, intensifier, obviously, ADV, ADV
+Fischers, 38, だから久々だねこの喋るって動画, 1, 0, この喋るって動画, noun, complex_np, NA, TOP
+Fischers, 38, 新しくないそのリプ返信を動画に撮る,
+Fischers, 38, 止まったiPhoneが
+Fischers, 39, どういう状態あれは
+Fischers, 39, 企画無理やんこんなの
+Fischers, 39, 寒いからそこ
+Fischers, 39, オープンだよお目目
+Fischers, 40, ダーマくんが今日誕生日なんで、ダーマくん来るんですよ撮影に
+Fischers, 40, 始まったよ、玄関芸
+Fischers, 43, うわやだなこれ
+Fischers, 43, ああ久々だなこれ
+Fischers, 43, やばいそれは
+Fischers, 43, おかあちゃんが捨てたんだあれ
+Fischers, 43, バイトもしてんのよ俺
+Fischers, 43, 2ポイント私は
+Fischers, 43, フィッシャーズっぽいわこれ
+Fischers, 43, いつあったっけなあれ
+Fischers, 43, おかあちゃんが捨てたんだあれ
+Fischers, 44, これでもしゃべれんの逆に
+Fischers, 44, これは、２枚必要なの食べるのに
+Fischers, 44, なんか生まれるよあいつ
+Fischers, 44, なんだこれ
+Fischers, 44, なにこのボーナスタイム
+Fischers, 44, 行きます最後
+Fischers, 45, 出品者にまでいじられてるの俺
+Fischers, 45, 売られてた俺らも
+Fischers, 45, なんですかこれは
+Fischers, 45, なんですかこれはなんだけど
+Fischers, 46, ここがスタート位置かな鬼の
+Fischers, 46, かっちょよくねこれ
+Fischers, 46, つらいよ20秒
+Fischers, 46, マサイむっちゃ面白いなあの顔
+Fischers, 46, そこ行けマサイ
+Fischers, 46, 辛いだろ逃げる方
+Fischers, 52, PTAだろそれ
+Fischers, 52, penとappleだよそれ
+Fischers, 52, ちがくないこれ
+Fischers, 53, 分かりやすくやったはやったんだけど今のは
+Fischers, 53, カードが入ってますこれが
+Fischers, 54, まじかお前
+Fischers, 54, ちょー怖くないこれ
+Fischers, 59, 何あれ
+Fischers, 59, 何これ
+Fischers, 59, 何あれ
+Fischers, 59, これちょっと震えるな流石に俺も
+Fischers, 63, ということでね今着きましたホテルに
+Fischers, 63, とりあえず1回外出てもらってちょっと用意しますねこれを
+Fischers, 64, 要らないからそういうの
+Fischers, 64, 見てこれ
+Fischers, 64, 視聴者の皆合ってるだろ俺が
+Fischers, 64, もう全然過ぎてますよこれ
+Fischers, 64, 何だこれ
+Fischers, 64, なんだこれ
+Fischers, 64, なんだこれ
+Fischers, 64, 何これ
+Fischers, 64, 何これ
+Fischers, 64, 何これ
+Fischers, 64, 二個も要らねぇんだこれ
+Fischers, 64, これ一口サイズに食べやすく切っただけじゃんこれ
+Fischers, 64, ムズイなこれ
+Fischers, 64, むずいぞこれ
+Fischers, 64, すごい怒られるんだこれ。
+Fischers, 64, 十分大きいけど怒られるわこれは
+Fischers, 64, 絶対にねこのままじゃ終わらないんですよ彼は
+Fischers, 64, で、多分ギリギリ終わんないんですよこれで
+Fischers, 55, まあ、ベストアンサーっていうハンコみたいなのが押されるだよYahoo!知恵袋良いやつには
+Fischers, 55, 良いよなあれな
+Fischers, 55, ケチなんだよなあれな
+Fischers, 55, ネットでちゃんと調べて答えを探るんじゃないこの回は
+Fischers, 55, 一応ドラゴンでしょあのやつ
+Fischers, 55, 空気含んでるからあれ
+Fischers, 55, ザスザスはもう踏んじゃってるねこれもう
+Fischers, 55, サポートセンターに電話したほうがいいぞ俺は
+Fischers, 56, どうですかこれ
+Fischers, 56, お前かい、外れるの
+Fischers, 56, 引っ掻いたな、お前
+Fischers, 56, 何してんの君は
+Fischers, 60, なんか豚っぽいやつらしい蹄がね
+Fischers, 60, だんだんと険しくなってきたね道が
+Fischers, 60, これだバレットアント
+Fischers, 60, 噛まれたらやばいなこら
+Fischers, 60, どんくらいあるかな？これ
+Fischers, 60, 今寝てる最中だってあの2羽
+Fischers, 60, 今休んでる最中ですこいつもこいつも
+Fischers, 60, すごいなこれ
+Fischers, 60, やだな88センチのやつが
+Fischers, 60, 鳥が多いねアマゾン
+Fischers, 60, 何こいつ
+Fischers, 60, めっちゃギシギシ言ってる本当に
+Fischers, 60, なんか一番でかくない、今まで見た中でアマゾンで
+Fischers, 60, 難しい見つけんの
+Fischers, 61, 後ろの景色半端じゃなくキレイだよ今
+Fischers, 61, すごくキレイですね空が
+Fischers, 61, めちゃめちゃキレイだなあいつ
+Fischers, 61, 美味いこれ
+Fischers, 61, なんで今隠したんすか手を
+Fischers, 61, いや御馳走を頂くのは申し訳ないよやっぱり
+Fischers, 61, 口だけ動いてるやっぱ
+Fischers, 61, 触感はメンマに近い茎の感じが
+Fischers, 61, すぐ来る辛さ
+Fischers, 61, 口硬いこいつ
+Fischers, 61, いや美味いわこれ
+Fischers, 61, 塩の味が効いてるめちゃめちゃ
+Fischers, 62, なんだこれ。
+Fischers, 62, めちゃめちゃ力使うよこれ
+Fischers, 62, なんか食べてね、あいつ
+Fischers, 62, ほらワニだよこれ
+Fischers, 62, 崖でしょたしか
+Fischers, 66, さすがにもうそんな事はないらしいけどね中学は
+Fischers, 66, 我慢強くはなるんだよああいう経験はな
+Fischers, 66, まあそういう事やってたけどそっちのほうが絶対かっこいいと思うのよ俺は。
+Fischers, 66, いじめてる側だけなんだよたぶん辛くないのって
+Fischers, 66, 止めたいのに止めたらこっちに何かされるってのもあってまあ大変なんだよなあれもな
+Fischers, 66, だから俺あの時に結構すごい嬉しかったんだよ俺。
+Fischers, 66, いやでも本当にそういうやりたいこともできないような環境にいたんだよ俺らは
+Fischers, 66, 一回も話題に出なかったけどザカオに関しては前と変わらないんだよなあいつ
+Fischers, 204, 同級生じゃないのこいつら
+Fischers, 204, 人にあげるもんなのプリクラって
+Fischers, 204, 手帳に貼るやつじゃないの、あれって
+Fischers, 204, HonoKaはそもそも許す気ないでしょこれ
+Fischers, 204, いや、追い詰めんなーコイツ
+Fischers, 204, 空気清浄機買えお前
+Fischers, 204, しかもHonoKaが誘ってんねこれ
+Fischers, 204, 文字だから強く言えるだこいつらは
+Fischers, 204, Billとビル掛けてんだこれ
+Fischers, 204, めちゃめちゃすごいなこれ
