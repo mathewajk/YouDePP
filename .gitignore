@@ -4,6 +4,7 @@
 .RData
 .Rhistory
 backups/
+writeup/
 *.ipynb*
 *_random_dependencies.csv
 *.aux
