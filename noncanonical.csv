@@ -1,55 +1,72 @@
-channel, video, sentence, post, pre, moved_element, type_general, type_fine, POS_marked, POS_inferred
-Fischers, 1, 寝起きで飯食わされるの俺, 1, 0, 俺, pronoun, 1PSg, NA, SUBJ
-Fischers, 1, ということでねこういう普通のバケツになってます中は, 1, 0, noun, simple_np TOP, TOP
-Fischers, 1, クソ野郎すぎるお前, 1, 0, お前, pronoun, 2PSg, NA, TOP
-Fischers, 1, これを今回は時間がないので急速冷凍バージョンということで, 0, 1, これ, demonstrative, this_proximal, OBJ, OBJ
-Fischers, 1, だから出来るはずなんだよこれに, 1, 0, これ, demonstrative, this_proximal, INDOBJ, INDOBJ
-Fischers, 1, 表面プリンですこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
-Fischers, 1, 誰がやるこれ, 1, 0, これ, demonstrative, this_proximal, NA, OBJ
-Fischers, 1, これ結構重大だよ責任, 1, 0, 責任, noun, simple_np NA, SUBJ
-Fischers, 1, 一応今日俺が始めたから責任は俺が取る, 1, 0, 責任, noun, simple_np TOP, OBJ
-Fischers, 1, 失敗したらどうするこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
-Fischers, 1, 先日の動画だこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
-Fischers, 1, いやでも成功させればいいんだろこれ, 1, 0, これ, demonstrative, this_proximal, NA, SUBJ
-Fischers, 1, 聞こえた今, 1, 0, 今, temporal, now, ADV, ADV
-Fischers, 1, くっきり綺麗マジで, 1, 0, マジ, intensifier, really, ADV, ADV
-Fischers, 1, キングサイズだこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
-Fischers, 1, いやでも問題は味なんだよやっぱ, 1, 0, やっぱり, onmim, as_expected, ADV, ADV
-Fischers, 1, プリンに見えてきたよやっと, 1, 0, やっと, onmim, finally, ADV, ADV
-Fischers, 1, 結構量多いねこれ, 1, 0, これ, demonstrative, this_proximal, NA, TOP
-Fischers, 1, 食っていいのこれ, 1, 0, これ, demonstrative, this_proximal, NA, OBJ
-Fischers, 1, 俺甘いのそんな食わないんだけど普段, 1, 0, 普段, temporal, usually, ADV, ADV
-Fischers, 1, 美味いング
-Fischers, 1, 商品だよこれは, 1, 0, これ, demonstrative, this_proximal, TOP, TOP
-Fischers, 1, 3等分しようこれ, 1, 0, これ, demonstrative, this_proximal, NA, OBJ
-Fischers, 37, 何あれ, 1, 0, あれ, demonstrative, this_distal, NA, TOP
-Fischers, 37, 何あれって言われたの, 1, 0, あれ, demonstrative, this_distal, NA, TOP
-Fischers, 38, 腹立つなこいつの指使い, 1, 0, こいつの指使い, noun, complex_np, NA, TOP
-Fischers, 38, 俺死ぬ前に行きたいなあのロンドンのあそこね, 1, 0, ロンドンのあそこ, NA, IOBJ
-Fischers, 38, これもう怖いんだけど俺普通に, 1, 0, 普通, intensifier, obviously, ADV, ADV
-Fischers, 38, さっきのみたいなとこ行ったことないよ俺, 1, 0, 俺, pron, 1PSg, NA, TOP
-Fischers, 38, すごいなこいつ, 1, 0, こいつ, demonstrative, this_one, NA, TOP
-Fischers, 38, 長いんだけどこいつ, 1, 0, こいつ, demonstrative, this_one, NA, TOP
-Fischers, 38, もう一回見せてみろ面, 1, 0, 面, noun, simple_np, NA, OBJ
-Fischers, 38, 怖いわ普通に, 1, 0, 普通, intensifier, obviously, ADV, ADV
-Fischers, 38, だから久々だねこの喋るって動画, 1, 0, この喋るって動画, noun, complex_np, NA, TOP
-Fischers, 38, 新しくないそのリプ返信を動画に撮る,
-Fischers, 38, 止まったiPhoneが
-Fischers, 39, どういう状態あれは
-Fischers, 39, 企画無理やんこんなの
-Fischers, 39, 寒いからそこ
-Fischers, 39, オープンだよお目目
-Fischers, 40, ダーマくんが今日誕生日なんで、ダーマくん来るんですよ撮影に
-Fischers, 40, 始まったよ、玄関芸
-Fischers, 43, うわやだなこれ
-Fischers, 43, ああ久々だなこれ
-Fischers, 43, やばいそれは
-Fischers, 43, おかあちゃんが捨てたんだあれ
-Fischers, 43, バイトもしてんのよ俺
-Fischers, 43, 2ポイント私は
-Fischers, 43, フィッシャーズっぽいわこれ
-Fischers, 43, いつあったっけなあれ
-Fischers, 43, おかあちゃんが捨てたんだあれ
+channel, video, sentence, movement_type, moved_element, type_general, type_fine, POS_marked, POS_inferred
+Fischers, 1, 寝起きで飯食わされるの俺, post, 俺, pronoun, 1PSg, NA, SUBJ
+Fischers, 1, こういう普通のバケツになってます中は, post, 中, noun, simple_np, TOP, TOP
+Fischers, 1, クソ野郎すぎるお前, post, お前, pronoun, 2PSg, NA, TOP
+Fischers, 1, これを今回は時間がないので急速冷凍バージョンということで, pre, これ, demonstrative, proximal, OBJ, OBJ
+Fischers, 1, だから出来るはずなんだよこれに, post, これ, demonstrative, proximal, INDOBJ, INDOBJ
+Fischers, 1, 表面プリンですこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 1, 誰がやるこれ, post, これ, demonstrative, proximal, NA, OBJ
+Fischers, 1, これ結構重大だよ責任, post, 責任, noun, simple_np, NA, SUBJ
+Fischers, 1, 一応今日俺が始めたから責任は俺が取る, post, 責任, noun, simple_np, TOP, TOP
+Fischers, 1, 失敗したらどうするこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 1, 先日の動画だこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 1, いやでも成功させればいいんだろこれ, post, これ, demonstrative, proximal, NA, SUBJ
+Fischers, 1, 聞こえた今, post, 今, temporal, now, ADV, ADV
+Fischers, 1, くっきり綺麗マジで, post, マジ, intensifier, really, ADV, ADV
+Fischers, 1, キングサイズだこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 1, いやでも問題は味なんだよやっぱ, post, やっぱり, onmim, as_expected, ADV, ADV
+Fischers, 1, プリンに見えてきたよやっと, post, やっと, onmim, finally, ADV, ADV
+Fischers, 1, 結構量多いねこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 1, 食っていいのこれ, post, これ, demonstrative, proximal, NA, OBJ
+Fischers, 1, 俺甘いのそんな食わないんだけど普段, post, 普段, temporal, usually, ADV, ADV
+Fischers, 1, 美味いング, NA, NA, NA, NA, NA, NA
+Fischers, 1, 商品だよこれは, post, これ, demonstrative, proximal, TOP, TOP
+Fischers, 1, 3等分しようこれ, post, これ, demonstrative, proximal, NA, OBJ
+Fischers, 37, お前足しか出てないけどいいのこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 37, 何あれ, post, あれ, demonstrative, distal, NA, TOP
+Fischers, 37, 透明な犬でしょこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 37, 幽霊だよねほぼ, post, ほぼ, intensifier, nearly, ADV, ADV
+Fischers, 37, 面白いよねこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 37, 何あれって言われたの, post, あれ, demonstrative, distal, NA, TOP
+Fischers, 37, かわいい透明な犬, post, 透明な犬, noun, complex_np, NA, SUBJ
+Fischers, 37, よしよししてあげて最後, post, 最後, temporal, end, ADV, ADV
+Fischers, 38, 腹立つなこいつの指使い, post, こいつの指使い, noun, complex_np, NA, TOP
+Fischers, 38, ド変態やないかこいつ, post, こいつ, demonstrative, proximal, NA, TOP
+Fischers, 38, 俺死ぬ前に行きたいなあれロンドンのあそこね, post, ロンドンのあそこ, noun, complex_np, NA, IOBJ
+Fischers, 38, 俺死ぬ前に行きたいなあれロンドンのあそこね, post, あれ, demonstrative, distal, NA, IOBJ
+Fischers, 38, 凄いねこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 38, 華厳の滝かこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 38, これもう怖いんだけど俺普通に, post, 普通, intensifier, normally, ADV, ADV
+Fischers, 38, これもう怖いんだけど俺普通に, post, 俺, pronoun, 1PSg, NA, TOP
+Fischers, 38, さっきのバルティゴみたいなとこ行ったことないよ俺, post, 俺, pron, 1PSg, NA, TOP
+Fischers, 38, すごいなこいつ, post, こいつ, demonstrative, proximal, NA, TOP
+Fischers, 38, すごいなこいつ, post, こいつ, demonstrative, proximal, NA, TOP
+Fischers, 38, 長いんだけどこいつ, post, こいつ, demonstrative, proximal, NA, TOP
+Fischers, 38, もう一回見せてみろ面, post, 面, noun, simple_np, NA, OBJ
+Fischers, 38, これ怖いわ普通に, post, 普通, intensifier, normally, ADV, ADV
+Fischers, 38, 久々だねこの喋るっていう動画, post, この喋るっていう動画, noun, complex_np, NA, TOP
+Fischers, 38, 新しくないそのリプ返信を動画に撮る, post, そのリプ返信を動画に撮る, noun, complex_np, NA, SUBJ
+Fischers, 38, 止まったiPhoneが, post, iPhone, noun, simple_np, SUBJ, SUBJ
+Fischers, 39, どういう状態あれは, post, あれ, demonstrative, distal, TOP, TOP
+Fischers, 39, 企画無理やんこんなの, post, こんなの, noun, complex_np, NA, SUBJ
+Fischers, 39, 寒いからそこ, post, そこ, location, medial, NA, SUBJ
+Fischers, 39, オープンだよお目目, post, お目目, noun, simple_np, NA, OBJ
+Fischers, 40, 視聴者さんに知らされて知ってるから毎年, post, 今年, temporal, every_year, ADV, ADV
+Fischers, 40, ダーマくん来るんですよ撮影に, post, 撮影, noun, simple_np, IOBJ, IOBJ
+Fischers, 40, 下はもう味わわないでおこうぜこの年は, post, この年, noun, complex_np, TOP, TOP
+Fischers, 40, これねこの辺に置いときましょうか, pre, これ, demonstrative, proximal, NA, OBJ
+Fischers, 40, 始まったよ玄関芸, pre, 玄関芸, noun, simple_np, NA, SUBJ
+Fischers, 40, いつまでやるのこれ, post, これ, demonstrative, proximal, NA, OBJ
+Fischers, 40, 怖いなこれ, post, これ, demonstrative, proximal, NA, SUBJ
+Fischers, 43, いやだなこれ, post, これ, demonstrative, proximal, NA, SUBJ
+Fischers, 43, 久々だなこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 43, やばいそれは, post, それ, demonstrative, medial, TOP, TOP
+Fischers, 43, おかあちゃんが捨てたんだあれ, post, あれ, demonstrative, distal, NA, OBJ
+Fischers, 43, バイトもしてんのよ俺, post, 俺, pronoun, 1PSg, NA, TOP
+Fischers, 43, 2ポイント私は, post, 私, pronoun, 1PSg, TOP, TOP
+Fischers, 43, フィッシャーズっぽいわこれ, post, これ, demonstrative, proximal, NA, TOP
+Fischers, 43, いつあったっけなあれ, post, あれ, demonstrative, distal, NA, SUBJ
+Fischers, 43, おかあちゃんが捨てたんだあれ,
 Fischers, 44, これでもしゃべれんの逆に
 Fischers, 44, これは、２枚必要なの食べるのに
 Fischers, 44, なんか生まれるよあいつ
