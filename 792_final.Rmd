@@ -224,7 +224,7 @@ Token-based typology has been of growing interest, driven by the increasing avai
 
 A common thread betwen the above studies is their focus on word order. Word order has traditionally been treated as discrete; WALS and AUTOTYP both categorize languages with respect to "dominant" word order, which can be specified as one of the six logical word orders (SVO, OVS, SOV, OSV, VSO, VOS), as verb position alone (Vxx, xxV, xVx) or as "no dominant order (WALS)"/"free" (AUTOTYP). WALS determines word order from corpora when possible, defining "dominant word order" as the order that occurs at least twice as frequently as the next-most-frequent order; otherwise, grammars are consulted. AUTOTYP employs data only from grammars. Importantly, grammars are themselves a source of data reduction \autocite[77--78]{walchliDataReductionTypology2009}; one thus might expect WALS to report dominant word order more accurately than AUTOTYP for languages for which corpora are available.
 
-AUTOTYP additionally classifies languages as "free", "flexible", or "rigid". However, flexibility here refers only to \emph{structural} flexibility, such that a language like German, which is V-2, will be classified as flexible, while a language like Korean, which is typically SOV but allows for all orders given an appropriate discourse conext \autocite{namboodiripadEnglishdominantKoreanspeakersShow2017}, will be classified as "rigid". Furthermore, as \citet{walchliDataReductionTypology2009} notes, the languages that are classified by WALS as having "no dominant order" do not form a coherent group (88--89); the languages classified as "flexible" or "free" by AUTOTYP are similarly heterogeneous.
+AUTOTYP additionally classifies languages as "free", "flexible", or "rigid". However, flexibility here refers only to \emph{structural} flexibility, such that a language like German, which is V-2, will be classified as flexible, while a language like Korean, which is typically SOV but allows for all orders given an appropriate discourse context \autocite{namboodiripadEnglishdominantKoreanspeakersShow2017}, will be classified as "rigid". Furthermore, as \citet{walchliDataReductionTypology2009} notes, the languages that are classified by WALS as having "no dominant order" do not form a coherent group (88--89); the languages classified as "flexible" or "free" by AUTOTYP are similarly heterogeneous.
 
 Using continuous, corpus-based measures to quantify word order variation not only helps to avoid the use of uninformative categories, but also to capture word order variation that arises from different sources (e.g. discourse-mediated orders versus structurally-required orders). At the same time, they risk conflating these different sources; thus, it may be that word order is best understood by considering discrete and continuous measures \emph{together}, and that both discrete and continuous variables can serve as useful predictors when examining the factors that affect cross-linguistic word order variation and language-internal word order flexibility. 
 
@@ -612,10 +612,14 @@ all.dependencies.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length,
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
-    theme(legend.position="right")
+    labs(title="Average total dependency lengths by sentence length in Japanese", x="Sentence Length", y="Total Dependency Length", color="") + 
+    theme(legend.position="bottom")
 
 all.dependencies.jp.g
+```
+
+```{r, eval=TRUE, include=FALSE}
+ggsave("../all_dependencies_jp.png", plot=all.dependencies.jp.g, device="png", width=8, height=8, dpi = 300)
 ```
 
 Breaking down the aggregate results by channel does not seem to reveal any strong difference between channels upon visual inspection (Figure \ref{fig:avg_channel_jp}), although preliminary results had suggested that the average total dependency lengths for the channel YukaKinoshina might be slightly higher than those of the other channels. Yuka's speech is overall more formal than that of the other YouTubers included in this sample, so it could have been expected that her speech would employ longer dependencies; this doesn't seem to be borne out, although I have not yet been able to analyze the data statistically. It is possible that spoken sources that are more differentiated in terms of register from those used here, for example news programs, would pattern differently. The difference between this data and the more formal data used in \autocite{futrellLargescaleEvidenceDependency2015} also points to a potential effect of register.
@@ -627,12 +631,17 @@ dep.by.channel.jp.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, c
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white", "black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    labs(title="By-channel average total dependency lengths by sentence length in Japanese", x="Sentence Length", y="Total Dependency Length", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
-    theme(legend.position="right") +
+    theme(legend.position="bottom") +
     facet_wrap(.~channel)
 
 dep.by.channel.jp.g
+```
+
+
+```{r, eval=TRUE, include=FALSE}
+ggsave("../dependencies_by_channel_jp.png", plot=dep.by.channel.jp.g, device="png", width=8, height=8, dpi = 300)
 ```
 
 In addition to dependency lengths, I was also interested in examining word order flexibility. However, various issues with StanfordNLP's handling of the text made this infeasible. In particular, to my knowledge, all Japanese parsers have been trained on written data, which differs from informal speech in ways that facilitate the parser. For example, case marking and verb-final order are near-obligatory in written Japanese; thus, as mentioned in \S\ref{method}, automatic parsers are good at identifying SOV and OSV order, but they assume that verbs are always final and as a result fail to accurately tag the other logical orders. Compounding this issue is the fact that relative clauses are not always morphologically distinguished from verb-medial and verb-initial orders in Japanese. This means that the main-clause verbs of sentences in non-canonical orders are reliably parsed as dependents of whatever noun follows them, rather than as roots.
@@ -648,10 +657,12 @@ all.dependencies.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length,
     scale_fill_gradientn(colours=c("white", "black")) +
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
-    theme(legend.position="right")
+    labs(title="Average total dependency lengths by sentence length in Russian", x="Sentence Length", y="Total Dependency Length", color="") + 
+    theme(legend.position="bottom")
 
 all.dependencies.ru.g
+
+ggsave("../all_dependencies_ru.png", plot=all.dependencies.ru.g, device="png", width=8, height=8, dpi = 300)
 ```
 
 The Russian subtitles, contra the hypothesis that spoken language would contain shorter dependencies, appear to pattern in roughly the same way in my data as they did in \citet{futrellLargescaleEvidenceDependency2015}, and their dependency lengths appear grow at a faster rate than those of the Japanese subtitles (Figure \ref{fig:ru_all_avg}). This pattern holds in each individual channel, as well (Figure \ref{fig:avg_channel_ru}).Though this result was initially surprising, it is perhaps not so unexpected; \citet{futrellLargescaleEvidenceDependency2015} hypothesize that languages with richer morphology may have more freedom in their dependency lengths because this morphology makes long dependencies easier to identify; Russian, which possesses rich inflectional morphology, may tolerate longer dependencies than Japanese, which in informal registers allows case markers to be omitted. Furthermore, Russian typically does not allow pro- or argument-drop, whereas spoken Japanese is unnatural without extensive argument-dropping. This, too, would lead to shorter dependencies in spoken Japanese than in spoken Russian.
@@ -663,12 +674,46 @@ dep.by.channel.ru.g <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, c
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white", "black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    labs(title="By-channel average total dependency lengths by sentence length in Russian", x="Sentence Length", y="Total Dependency Length", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
-    theme(legend.position="right") +
+    theme(legend.position="bottom") +
     facet_wrap(.~channel)
 
 dep.by.channel.ru.g
+```
+
+```{r, eval=TRUE, include=FALSE}
+ggsave("../dependencies_by_channel_ru.png", plot=dep.by.channel.ru.g, device="png", width=8, height=8, dpi = 300)
+```
+
+```{r aggregate_hist, include=FALSE, echo=FALSE}
+df.all.ru.12 <- df.all.ru %>% filter(total_length == 12)
+hist.12.all.ru.g <- ggplot(data=df.all.ru.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
+    labs(x="Dependency Length", y="Frequency", title="Histogram of dependency lengths in Russian at sentence length 12") + 
+    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
+    theme(legend.position="bottom")
+hist.12.all.ru.g
+```
+
+```{r, include=FALSE}
+ggsave("hist_12_all_ru.png", plot=hist.12.all.ru.g, device="png", height=8, width=8, dpi = 300)
+```
+
+```{r hist_by_channel, include=TRUE}
+hist.12.channel.ru.g <- ggplot(data=df.all.ru.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
+    labs(x="Dependency Length", y="Frequency", title="By-channel histograms of dependency lengths in Russian at sentence length 12") + 
+    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
+    theme(legend.position="bottom") +
+     facet_wrap(.~channel)
+hist.12.channel.ru.g
+```
+
+```{r, include=FALSE}
+ggsave("hist_12_by_channel_ru.png", plot=hist.12.channel.ru.g, device="png", width=8, height=8, dpi = 300)
 ```
 
 However, it could also be that factors external to the languages in question are responsible for the observed patterns. Although I tried to select Russian channels that were similar in tone and content to the Japanese channels, which I analyzed first, the top Russian channels on YouTube tend to be more expository, while the Japanese channels are more action- and interaction-focused. In addition, my code has been tested thoroughly only in the case of Japanese, which was the focus of its initial development. Unexpected issues arose in the processing of the Russian data; for example, StanfordNLP was much slower to process the Russian captions and, when processing one channel's data in particular, occasionally ran into recursion errors. In addition, when handling a different channel, my own code returned odd results, such as the "optimal" dependency lengths of a handful of sentences being longer than the observed lengths. I am thus not as confident in the Russian data as I am in the Japanese data at this time.

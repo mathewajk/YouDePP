@@ -20,6 +20,7 @@ library(ggplot2)
 library(gridExtra)
 library(dplyr)
 library(ghibli)
+library(lme4)
 ```
 
 ```{r yuuka_data, include=FALSE}
@@ -53,6 +54,15 @@ df.fischers.random   <- data.frame(read.table("../dependencies/ja/Fischers/Fisch
                                                   header=TRUE, sep=","))
 df.fischers <- bind_rows(list("Observed"=df.fischers.observed, "Optimal"=df.fischers.optimal,
                                   "Random"=df.fischers.random),  .id = 'baseline')
+
+df.fischers.hc.observed <- data.frame(read.table("../dependencies/ja/Fischers_handcorrected/Fischers_handcorrected_observed_dependencies.csv",
+                                                  header=TRUE, sep=","))
+df.fischers.hc.optimal  <- data.frame(read.table("../dependencies/ja/Fischers_handcorrected/Fischers_handcorrected_optimal_dependencies.csv",
+                                                  header=TRUE, sep=","))
+df.fischers.hc.random   <- data.frame(read.table("../dependencies/ja/Fischers_handcorrected/Fischers_handcorrected_random_dependencies.csv", 
+                                                  header=TRUE, sep=","))
+df.fischers.hc <- bind_rows(list("Observed"=df.fischers.hc.observed, "Optimal"=df.fischers.hc.optimal,
+                                  "Random"=df.fischers.hc.random),  .id = 'baseline')
 ```
 
 ```{r hajime_data, include=FALSE}
@@ -78,25 +88,29 @@ df.tokai <- bind_rows(list("Observed"=df.tokai.observed, "Optimal"=df.tokai.opti
 ```
 
 ```{r jp_all_setup, include=FALSE}
-df.all.jp <- bind_rows(list("Yuuka Kinoshita"=df.yuuka, 
-                             "Fischer's"=df.fischers,
-                             "Hajime Shacho"=df.hajime, 
-                             "HikakinTV"=df.hikakin,
-                             "TokaiOnAir"=df.tokai), .id = 'channel')
+df.all.jp <- bind_rows(list("1"=df.yuuka, 
+                             "2"=df.fischers,
+                             "3"=df.hajime, 
+                             "4"=df.hikakin,
+                             "5"=df.tokai), .id = 'channel')
+
+#df.all.jp <- bind_rows(list("Fischer'sHC"=df.fischers.hc, 
+#                             "Fischer's"=df.fischers), .id = 'channel')
 
 # Calculate squared sentence length to match Futrell et al.: better predictor than raw length
 df.all.jp$sent_len_sq   <- df.all.jp$total_length * df.all.jp$total_length
 
-# Create index variables: ri = 1 if random; 0 else, mi = 1 if optimal; 0 else
+# Create index variables: r = 1 if random; 0 else, m = 1 if optimal; 0 else
 df.all.jp$baseline <- factor(df.all.jp$baseline, levels=c("Random", "Optimal", "Observed")) 
-df.all.jp <- df.all.jp %>% mutate(ri = as.integer(baseline == "Random"), mi = as.integer(baseline == "Optimal")) %>% filter(dep_length > 5 & dep_length < 200)
+df.all.jp <- df.all.jp %>% mutate(r = as.integer(baseline == "Random"), m = as.integer(baseline == "Optimal"))
+df.all.jp <- df.all.jp %>% mutate(o = as.integer(baseline == "Observed")) #%>% filter(dep_length > 5 & dep_length < 200)
 
 # Observed deps for density hexagons
 df.all.jp.observed <- df.all.jp %>% filter(baseline=="Observed")
   
 # Average deps for fitted scatter plots
 df.all.jp.avg <- df.all.jp %>% 
-  group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length))
+  group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
 df.all.jp.observed.avg <- df.all.jp %>% filter(baseline=="Observed")
 ```
 
@@ -105,6 +119,21 @@ df.all.jp.observed.avg <- df.all.jp %>% filter(baseline=="Observed")
 dep.by.channel.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
     stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    theme(legend.position="bottom") +
+    facet_wrap(.~channel)
+
+dep.by.channel.g
+```
+
+```{r, include=TRUE, echo=FALSE}
+# Plot by channel
+dep.by.channel.g <- ggplot(df.all.jp, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
@@ -153,7 +182,7 @@ ggsave("all_dependencies.png", plot=all.dependencies.g, device="png", dpi = 300)
 df.all.jp.12 <- df.all.jp %>% filter(total_length == 12)
 hist.12.all.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
-    labs(x="Dependency Length", y="Frequency", title="") + 
+    labs(x="Dependency Length", y="Frequency", title="Histogram of dependency lengths in Japanese at sentence length 12") + 
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
                       labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
     theme(legend.position="bottom")
@@ -161,8 +190,8 @@ hist.12.all.g
 ```
 
 ```{r, include=FALSE}
-ggsave("hist_12_all.svg", plot=hist.12.all.g, device="svg", dpi = 300)
-ggsave("hist_12_all.png", plot=hist.12.all.g, device="png", dpi = 300)
+#ggsave("hist_12_all.svg", plot=hist.12.all.g, device="svg", dpi = 300)
+ggsave("hist_12_all_jp.png", plot=hist.12.all.g, device="png", height=8, width=8, dpi = 300)
 ```
 
 ```{r hist_by_channel, include=TRUE, echo=FALSE}
@@ -171,13 +200,14 @@ hist.12.channel.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fi
     facet_wrap(.~channel) + 
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
                       labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
-    labs(x="Dependency Length", y="Frequency", title="")
+    labs(x="Dependency Length", y="Frequency", title="By-channel hsistograms of dependency lengths in Japanese at sentence length 12") +
+  theme(legend.position="bottom")
 hist.12.channel.g
 ```
 
 ```{r, include=FALSE}
-ggsave("hist_12_by_channel.svg", plot=hist.12.channel.g, device="svg", width=10, dpi = 300)
-ggsave("hist_12_by_channel.png", plot=hist.12.channel.g, device="png", width=10, dpi = 300)
+#ggsave("hist_12_by_channel.svg", plot=hist.12.channel.g, device="svg", width=10, dpi = 300)
+ggsave("hist_12_by_channel_jp.png", plot=hist.12.channel.g, device="png", width=8, height=8, dpi = 300)
 ```
 
 ```{r}
@@ -234,19 +264,47 @@ ggsave("hist_12_with_chan_plot.png", plot=g2, width=10,  height=5, device="png",
 ```
 
 ```{r linear_model, include=TRUE}
-temp <- df.all.jp %>% filter(channel == "Yuuka Kinoshita", baseline != "Optimal")
+temp <- df.all.jp %>% filter(channel == 1 & (baseline == "Observed" | baseline == "Random"))
+#temp$o <- as.factor(temp$o)
+#temp$r <- as.factor(temp$r)
+
+# sent  l       y   l^2   m   r
+# 1     10      30  100   0   0 
+# 1     10      20  100   1   0 
+# 1     10      40  100   0   1 
 
 # Structural model: y_i = β_0 + S_0 + β_1l_2^s + (β_2 + S_2)r_i + β_3r_il_2^s + e_i
-# β_0 = slope, β_1, β_2,  β_3 = fixed eff., S_0, S_2 = random eff. of sent, r_i = ind. var. for random, m_i = ind. var. for optimal
+# β_0 = slope
+# β_1, β_2,  β_3 = fixed effects
+# S_0, S_2 = random effects (intercept, slope) by sentence
+# r_i = ind. var. for random
+# m_i = ind. var. for optimal
 
-# Compute models with and without beta3
-dependency.model.b3 <- lmer(dep_length ~ sent_len_sq + (1+ri|sentence_id) + ri:sent_len_sq, data=temp)
-dependency.model.nob3 <- lmer(dep_length ~ sent_len_sq + (1+ri|sentence_id), data=temp)
+# Compute models with and without the interaction term, with random = 1
+dependency.model.b3 <- lmer(dep_length ~ sent_len_sq + r:sent_len_sq + r + (1+r||(video_id:sentence_id)), data=temp)
+#dependency.model.nob3 <- lmer(dep_length ~ sent_len_sq + r + (1+r||(video_id:sentence_id)), data=temp)
 
+# Random = 0, obs = 1
+#dependency.model.b3 <- lmer(dep_length ~ sent_len_sq + o:sent_len_sq + o + (1+o||(video_id:sentence_id)), data=temp)
+```
+
+```{r model_summaries, include=TRUE}
 # Summarize models
-summary(dependency.model.b3)
-summary(dependency.model.nob3)
+#summary(dependency.model.b3)
+summary(dependency.obsmodel.b3)
+#summary(dependency.model.nob3)
+```
 
+```{r}
+library(ggeffects)
+df.jp.predicted <- ggpredict(dependency.model.b3, terms = c("sent_len_sq", "r"))
+df.jp.predicted
+ggplot(df.jp.predicted, aes(x=sqrt(x), y=predicted, group=group, color=group)) + 
+  geom_line() +
+  geom_ribbon(aes(ymin = conf.low, ymax = conf.high), alpha = .1)
+```
+
+```{r, include=TRUE}
 # Compare models
 anova(dependency.model.b3,dependency.model.nob3)
 ```
