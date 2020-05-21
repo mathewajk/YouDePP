@@ -59,7 +59,7 @@ def process_files(nlp, channel, language, subtitles_fns):
                     #cont = input("Continue? (Y/n) ")
 
                     #if(cont == "n" or cont == "N"):
-                    #    break
+                        #break
 
                     nlp_subtitles = None
                     try:
@@ -256,35 +256,73 @@ def preprocess_subtitles_ru(subtitles):
 def preprocess_subtitles_ja(subtitles):
     for line in subtitles:
 
+        line = line.strip()
+
         if line and not re.search("^[0-9]", line):
 
-                line = remove_emoji(line.strip())
-                line = line.replace("（笑", "")
+                #print("Initial: " + line)
 
-                line = re.sub(r'（[^)]*）', '', line)
-                line = re.sub(r'（[^)]*\)', '', line) # For some reason sometimes the wrong paren is used...
-                line = re.sub(r'\([^)]*\)', '', line) # Just in case...
-                line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
+                # Remove emoji
+                line = remove_emoji(line)
 
-                close_paren = line.find("）")
-                open_paren = line.find("（")
+                # Replace all punctuation except commas
+                line = re.sub("[！‼？!?.…]", "。", line)
+                line = line.replace("～", "") # Re doesn't recognize ～
+                line = line.replace("、、、", "。") # Special case of ellipses
 
-                if close_paren < open_paren and close_paren != -1: # Unmatched close paren is probably speaker attrib.
-                    line = line[close_paren+1:]
-                if open_paren > -1 and close_paren == -1: # Unmatched open paren is probably followed by nonsense
-                    line = line[:open_paren]
+                # Reomove text within matched parentheticals
+                parentheses = ["（[^（）]*）", "〔[^〔〕]*〕", "\([^()]*\)", "\[[^\[\]]*\]", "【[^【】)]*】"]
+                for paren_type in parentheses:
+                    line = re.sub(paren_type, "", line)
 
-                line = re.sub("[♫♡♥♪→↑↖↓←”wｗW⇓〜\~()（）【】《》「」\[\]\n]", "", line)
-                line = re.sub("[　！‼？!?.…]", "。", line)
+                # Remove HTML
+                line = re.sub(r'<[^)]*>', '', line)
+
+                if not line:
+                    #print("Final:   NA")
+                    #input()
+                    continue
+
+                # Hacky fix for some troublesome whitespace typos
+                attr_typos = [(" ：", "："), (" ）","）"), (" )", ")")]
+                for typo, correction in attr_typos:
+                    line = line.replace(typo, correction)
+
+                # Remove speaker attributions (NOTE: Depends on above fix)
+                line_noattr = re.sub("[^\s　。、]+[）\):：)]", "。", line)
+
+                # Hacky solution for attributions using 「」
+                # Do best to prevent accidentally removing content outside 「」or
+                # when the 「」 isn't actually an attibution
+                if(line_noattr == line):
+                    if line[-1] == "」" or (line.find("「") > -1 and line.find("」") == -1):
+                        line = re.sub("^[^\s]+「", "。", line).replace("」", "")
+                else:
+                    line = line_noattr
+
+                # Remove action text
+                line = re.sub("[（\(](.*)", "", line)
+
+                # Remove any stray special characters
+                line = re.sub("[　<>・･‥／☆\s♫♡♥♪→↑↖↓←”✖wｗWＷ※⇓⇒\~()（）【】《》✖\[\]\n]", "", line)
+
+                # Fixes for multiple & initial periods
+                line = re.sub("。+", "。", line)
+                line = re.sub("^。", "", line)
 
                 if line:
+
                     if(line[-1] != '。' and line[-1] != '、'):
                         line += '。'
-                    no_attr = re.split("[：:]", line)
-                    if len(no_attr) > 1:
-                        yield ("".join(no_attr[1:]))
-                    else:
-                        yield line
+
+                    #print("Final:   " + line)
+                    #input()
+
+                    yield line
+                else:
+                    #print("Final:   NA")
+                    #input()
+                    continue
 
 
 if __name__ == '__main__':
