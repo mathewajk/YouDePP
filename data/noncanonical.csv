@@ -2,7 +2,7 @@ channel, video, sentence, movement_type, moved_element, type_general, type_fine,
 Fischers, 1, 寝起きで飯食わされるの俺, post, 俺, pronoun, 1PSg, NA, SUBJ
 Fischers, 1, こういう普通のバケツになってます中は, post, 中, noun, simple_np, TOP, TOP
 Fischers, 1, クソ野郎すぎるお前, post, お前, pronoun, 2PSg, NA, TOP
-Fischers, 1, これを今回は時間がないので急速冷凍バージョンということで, pre, これ, demonstrative, proximal, OBJ, OBJ
+Fischers, 1, これを今回は時間がない, pre, これ, demonstrative, proximal, OBJ, OBJ
 Fischers, 1, だから出来るはずなんだよこれに, post, これ, demonstrative, proximal, INDOBJ, INDOBJ
 Fischers, 1, 表面プリンですこれ, post, これ, demonstrative, proximal, NA, TOP
 Fischers, 1, 誰がやるこれ, post, これ, demonstrative, proximal, NA, OBJ
