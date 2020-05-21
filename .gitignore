@@ -6,6 +6,7 @@
 
 backups/
 writeup/
+*_temp
 */old/
 
 *.ipynb*
