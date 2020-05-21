@@ -1,8 +1,7 @@
-import stanfordnlp, random, re, argparse, logging, emoji
+import stanza, random, re, argparse, logging, emoji
 from sys import argv
 from glob import glob
-from os.path import exists, join
-from os import makedirs, getcwd
+from os import path, makedirs, getcwd
 from sys import stdout
 
 
@@ -11,21 +10,21 @@ def remove_emoji(text):
 
 
 def main(args):
-    subtitles_fns = glob(join("subtitles", args.language, args.channel, "*.srt"))
+    subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")))
 
-    nlp = stanfordnlp.Pipeline(lang=args.language)
-    process_files(args.channel, args.language, subtitles_fns, nlp)
+    nlp = stanza.Pipeline(lang=args.language)
+    process_files(nlp, args.channel, args.language, subtitles_fns)
 
 
-def process_files(channel, language, subtitles_fns, nlp):
+def process_files(nlp, channel, language, subtitles_fns):
 
-    dep_path = join("dependencies", language, channel)
-    if not exists(dep_path):
+    dep_path = path.join("dependencies_temp", language, channel)
+    if not path.exists(dep_path):
         makedirs(dep_path)
 
-    observed_fn = join(dep_path, channel + "_observed_dependencies.csv")
-    optimal_fn  = join(dep_path, channel + "_optimal_dependencies.csv")
-    random_fn   = join(dep_path, channel + "_random_dependencies.csv")
+    observed_fn = path.join(dep_path, channel + "_observed_dependencies.csv")
+    optimal_fn  = path.join(dep_path, channel + "_optimal_dependencies.csv")
+    random_fn   = path.join(dep_path, channel + "_random_dependencies.csv")
 
     with open(observed_fn, "w") as observed_out, \
          open(optimal_fn,  'w') as optimal_out,  \
@@ -37,30 +36,42 @@ def process_files(channel, language, subtitles_fns, nlp):
         for f in out_files:
             f.write(header)
 
-        video_id = 0
         for subtitles_fn in subtitles_fns:
 
             logging.info("Processing: {0}".format(subtitles_fn))
             with open(subtitles_fn, "r") as subtitles_in:
 
-                video_id += 1
+                video_id = int(path.split(subtitles_fn)[1].split('_')[0], 10)
+
                 if language == 'ja':
                     preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
                 elif language == 'ru':
                     preprocessed_subtitles = list(preprocess_subtitles_ru(subtitles_in))
 
+                #print(subtitles_fn)
+                #print(video_id)
+                #print("".join(preprocessed_subtitles))
+
                 logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
 
                 if len(preprocessed_subtitles) != 0:
+
+                    #cont = input("Continue? (Y/n) ")
+
+                    #if(cont == "n" or cont == "N"):
+                    #    break
+
+                    nlp_subtitles = None
                     try:
                         nlp_subtitles = nlp("".join(preprocessed_subtitles))
-                        process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
                     except RecursionError as e:
                         logging.warning("Could not parse {0}: recursion depth exceeded".format(video_id))
                         continue
                     except:
                         logging.warning("Could not parse {0}: an unexpected error occurred".format(video_id))
                         continue
+                    finally:
+                        process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
 
     logging.info("Processed {0} files".format(video_id))
 
@@ -114,7 +125,7 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
 
         random_dependencies =  list(iter_flatten(linearize_random(dependency_tree[0])))
         for j in range (0, len(random_dependencies)):
-            random_indices.update({random_dependencies[j][2].index: j + 1})
+            random_indices.update({random_dependencies[j][2].id: j + 1})
 
         for random_dep in random_dependencies:
             dep_total_random += get_dependency_length(random_dep, random_indices)
@@ -170,7 +181,7 @@ def get_dependency_length(dependency, indices):
     if rel == 'root':
         return 0
     else:
-        return abs(indices[governor.index] - indices[child.index])
+        return abs(indices[governor.id] - indices[child.id])
 
 
 def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
@@ -196,8 +207,8 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
 
         true_indices, optimal_indices = ({}, {})
         for i in range (0, len(dependencies)):
-            true_indices.update({true_dependencies[i][2].index: i + 1})
-            optimal_indices.update({optimal_dependencies[i][2].index: i + 1})
+            true_indices.update({true_dependencies[i][2].id: i + 1})
+            optimal_indices.update({optimal_dependencies[i][2].id: i + 1})
 
         dep_total_true, dep_total_optimal = (0, 0)
 
@@ -263,7 +274,7 @@ def preprocess_subtitles_ja(subtitles):
                 if open_paren > -1 and close_paren == -1: # Unmatched open paren is probably followed by nonsense
                     line = line[:open_paren]
 
-                line = re.sub("[♫♡♥♪→↑↖↓←”wｗW⇓\〜\~()（）【】《》「」\[\]\n]", "", line)
+                line = re.sub("[♫♡♥♪→↑↖↓←”wｗW⇓〜\~()（）【】《》「」\[\]\n]", "", line)
                 line = re.sub("[　！‼？!?.…]", "。", line)
 
                 if line:
@@ -277,6 +288,7 @@ def preprocess_subtitles_ja(subtitles):
 
 
 if __name__ == '__main__':
+
     parser = argparse.ArgumentParser(description='Parse dependencies from a set of subtitle files.')
 
     parser.add_argument('channel',  type=str, help='a friendly name for the channel')
