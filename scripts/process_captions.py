@@ -17,8 +17,8 @@ def main(args):
 
     # Get all .srt files for the specified language and channel
     # Files are sorted numerically by initial number
-    subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
-    preprocess_files(args.channel, args.language, subtitles_fns, args.start, args.end)
+    captions_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
+    process_caption_files(args.channel, args.language, captions_fns, args.start, args.end)
 
 
 # Parse the video ID from the filename
@@ -27,49 +27,49 @@ def get_video_id(video_fn):
     return int(path.split(video_fn)[1].split('_')[0], 10)
 
 
-# Clean up subtitle files
+# Clean up caption files
 # Processing differs based on the language specified
-def preprocess_files(channel, language, subtitles_fns, start, end):
+def process_caption_files(channel, language, captions_fns, start, end):
 
-    out_path = path.join("subtiles_processed_auto", language, channel)
+    out_path = path.join("subtitles_processed_auto", language, channel)
 
     if not path.exists(out_path):
         makedirs(out_path)
 
 
     video_count = 0
-    for subtitles_fn in subtitles_fns:
-        video_id = get_video_id(subtitles_fn)
+    for captions_fn in captions_fns:
+        video_id = get_video_id(captions_fn)
         if(video_id < start or (end != -1 and video_id > end)):
             continue
 
         out_fn = "_".join([channel, str(video_id), "processed", "auto"])
 
-        logging.info("Processing file: {0}".format(subtitles_fn))
+        logging.info("Processing file: {0}".format(captions_fn))
         logging.info("Video ID: {0}".format(video_id))
         logging.info("Output file: {0}".format(out_fn))
 
-        with open(subtitles_fn, "r") as subtitles_in:
+        with open(captions_fn, "r") as captions_in:
 
             if language == 'ja':
-                preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
+                processed_captions = list(process_captions_ja(captions_in))
             elif language == 'ru':
-                preprocessed_subtitles = list(preprocess_subtitles_ru(subtitles_in))
+                processed_captions = list(process_captions_ru(captions_in))
 
-            logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
+            logging.info("Found {0} lines".format(len(processed_captions)))
 
-            if len(preprocessed_subtitles) != 0:
-                with open(path.join(out_path, out_fn + ".txt"), "w") as subtitles_out:
-                    for line in preprocessed_subtitles:
-                        subtitles_out.write(line + "\n")
+            if len(processed_captions) != 0:
+                with open(path.join(out_path, out_fn + ".txt"), "w") as captions_out:
+                    for line in processed_captions:
+                        captions_out.write(line + "\n")
 
             video_count += 1
 
     logging.info("Processed {0} files".format(video_count))
 
 
-def preprocess_subtitles_ru(subtitles):
-    for line in subtitles:
+def process_captions_ru(captions):
+    for line in captions:
 
         if line and not re.search("^[0-9]", line):
 
@@ -92,8 +92,8 @@ def preprocess_subtitles_ru(subtitles):
                     yield line
 
 
-def preprocess_subtitles_ja(subtitles):
-    for line in subtitles:
+def process_captions_ja(captions):
+    for line in captions:
 
         line = line.strip()
 
@@ -167,7 +167,7 @@ def preprocess_subtitles_ja(subtitles):
 
 if __name__ == '__main__':
 
-    parser = ArgumentParser(description='Parse dependencies from a set of subtitle files.')
+    parser = ArgumentParser(description='Parse dependencies from a set of caption files.')
 
     parser.add_argument('channel', type=str, help='a friendly name for the channel')
     parser.add_argument('language', type=str, help='language code')
