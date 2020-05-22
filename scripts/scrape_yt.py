@@ -45,7 +45,7 @@ def get_links(driver, url, cutoff):
         return [(element.get_attribute('href'), element.get_attribute('aria-label'))  for element in elements]
 
 def save_videos(links, language, channel_name):
-    with open(path.join("channel_data", language, channel_name + '.txt'), 'w', encoding="utf-8") as out_file:
+    with open(path.join("corpus", "channel_data", language, channel_name + '.txt'), 'w', encoding="utf-8") as out_file:
         for link in links:
             url, label = link
             out_file.write("{0}\t{1}\n".format(url, label))

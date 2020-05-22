@@ -17,7 +17,7 @@ def main(args):
 
     # Get all .srt files for the specified language and channel
     # Files are sorted numerically by initial number
-    captions_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
+    captions_fns = sorted(glob(path.join("corpus", "raw_subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
     process_caption_files(args.channel, args.language, captions_fns, args.start, args.end)
 
 
@@ -31,7 +31,7 @@ def get_video_id(video_fn):
 # Processing differs based on the language specified
 def process_caption_files(channel, language, captions_fns, start, end):
 
-    out_path = path.join("subtitles_processed_auto", language, channel)
+    out_path = path.join("corpus", "processed_subtitles", "auto", language, channel)
 
     if not path.exists(out_path):
         makedirs(out_path)

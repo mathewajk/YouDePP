@@ -10,7 +10,7 @@ def remove_emoji(text):
 
 
 def main(args):
-    subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")))
+    subtitles_fns = sorted(glob(path.join("corpus", "processed_subtitles", args.caption_type, args.language, args.channel, "*.srt")))
 
     nlp = stanza.Pipeline(lang=args.language)
     process_files(nlp, args.channel, args.language, subtitles_fns)
@@ -18,7 +18,7 @@ def main(args):
 
 def process_files(nlp, channel, language, subtitles_fns):
 
-    dep_path = path.join("dependencies_temp", language, channel)
+    dep_path = path.join("corpus", "dependencies", language, channel)
     if not path.exists(dep_path):
         makedirs(dep_path)
 
@@ -331,6 +331,8 @@ if __name__ == '__main__':
 
     parser.add_argument('channel',  type=str, help='a friendly name for the channel')
     parser.add_argument('language',  type=str, help='language code')
+    parser.add_argument('caption_type',  default="auto", type=str, help='the type of caption (auto or other)')
+
     parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
 
     args = parser.parse_args()

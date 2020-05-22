@@ -8,7 +8,7 @@ from sys import argv
 
 def write_subs(channel, video, id, url, subtitles):
 
-    with open(path.join("subtitles", channel, video.title.replace("/", "-") + ".srt"), 'w') as outfile:
+    with open(path.join("corpus", "raw_subtitles", channel, video.title.replace("/", "-") + ".srt"), 'w') as outfile:
 
         try:
             outfile.write(subtitles.generate_srt_captions())
@@ -43,9 +43,8 @@ def get_subs(channel, id, url, language):
 
 def main(args):
 
-    cwd = getcwd()
-    if not path.exists(path.join(cwd, "subtitles", args.channel)):
-        makedirs(path.join(cwd, "subtitles", args.channel))
+    if not path.exists(path.join("corpus", "raw_subtitles", args.channel)):
+        makedirs(path.join("corpus", "raw_subtitles", args.channel))
 
     print("Processing videos from channel {0} in language {1}".format(args.channel, args.language))
     if(args.r):
