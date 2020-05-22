@@ -71,8 +71,9 @@ if __name__ == '__main__':
     parser.add_argument('url',      type=str, help='URL pointing to the channel\'s videos')
     parser.add_argument('channel',  type=str, help='a friendly name for the channel')
     parser.add_argument('language', type=str, help='language code')
-    parser.add_argument('cutoff',   type=int, default=-1, help='number of times to scroll the page')
-    parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
+
+    parser.add_argument('-c', '--cutoff', type=int, default=-1, help='maximum number of times to scroll the page')
+    parser.add_argument('-l', '--log', action='store_true', default=False, help='log events to file')
 
     args = parser.parse_args()
 
