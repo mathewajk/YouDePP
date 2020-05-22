@@ -1,6 +1,6 @@
 import re, logging
 
-from sys import argv, stdout
+from sys import argv, stdout, exit
 from argparse import ArgumentParser
 from os import path, makedirs, getcwd
 from glob import glob
@@ -18,7 +18,7 @@ def main(args):
     # Get all .srt files for the specified language and channel
     # Files are sorted numerically by initial number
     subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
-    preprocess_files(args.channel, args.language, subtitles_fns)
+    preprocess_files(args.channel, args.language, subtitles_fns, args.start, args.end)
 
 
 # Parse the video ID from the filename
@@ -29,22 +29,23 @@ def get_video_id(video_fn):
 
 # Clean up subtitle files
 # Processing differs based on the language specified
-def preprocess_files(channel, language, subtitles_fns):
+def preprocess_files(channel, language, subtitles_fns, start, end):
 
     out_path = path.join("subtiles_processed_auto", language, channel)
 
     if not path.exists(out_path):
-
         makedirs(out_path)
+
 
     video_count = 0
     for subtitles_fn in subtitles_fns:
-
-        logging.info("Processing file: {0}".format(subtitles_fn))
-
         video_id = get_video_id(subtitles_fn)
+        if(video_id < start or (end != -1 and video_id > end)):
+            continue
+
         out_fn = "_".join([channel, str(video_id), "processed", "auto"])
 
+        logging.info("Processing file: {0}".format(subtitles_fn))
         logging.info("Video ID: {0}".format(video_id))
         logging.info("Output file: {0}".format(out_fn))
 
@@ -128,7 +129,7 @@ def preprocess_subtitles_ja(subtitles):
                     line = line.replace(typo, correction)
 
                 # Remove speaker attributions (NOTE: Depends on above fix)
-                line_noattr = re.sub("[^\s　。、]+[）\):：;)≫]", "。", line)
+                line_noattr = re.sub("[^\s　。、]+[）\):：;)≫>]", "。", line)
 
                 # Hacky solution for attributions using 「」
                 # Do best to prevent accidentally removing content outside 「」or
@@ -170,9 +171,18 @@ if __name__ == '__main__':
 
     parser.add_argument('channel', type=str, help='a friendly name for the channel')
     parser.add_argument('language', type=str, help='language code')
+
+    parser.add_argument('-s', '--start', default=1, type=int, help='video to start from')
+    parser.add_argument('-e', '--end', default=-1, type=int, help='video to stop at')
+
     parser.add_argument('--log', action='store_true', default=False, help='log events to file')
 
     args = parser.parse_args()
+
+    if args.end != -1 and args.start > args.end:
+        parser.print_help()
+        print("ERROR: -s/--start: must not exceed end value")
+        exit(1)
 
     if(args.log):
         logging.basicConfig(filename=(args.channel + '_dependencies.log'),level=logging.DEBUG)
