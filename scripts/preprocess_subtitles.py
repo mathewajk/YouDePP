@@ -10,7 +10,7 @@ from emoji import get_emoji_regexp
 
 
 def remove_emoji(text):
-    return emoji.get_emoji_regexp().sub(u'', text)
+    return get_emoji_regexp().sub(u'', text)
 
 
 def main(args):
@@ -18,7 +18,6 @@ def main(args):
     # Get all .srt files for the specified language and channel
     # Files are sorted numerically by initial number
     subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
-
     preprocess_files(args.channel, args.language, subtitles_fns)
 
 
@@ -28,6 +27,8 @@ def get_video_id(video_fn):
     return int(path.split(video_fn)[1].split('_')[0], 10)
 
 
+# Clean up subtitle files
+# Processing differs based on the language specified
 def preprocess_files(channel, language, subtitles_fns):
 
     out_path = path.join("subtiles_processed_auto", language, channel)
@@ -35,36 +36,35 @@ def preprocess_files(channel, language, subtitles_fns):
     if not path.exists(out_path):
 
         makedirs(out_path)
-        video_count = 0
 
-        for subtitles_fn in subtitles_fns:
+    video_count = 0
+    for subtitles_fn in subtitles_fns:
 
-            logging.info("Processing file: {0}".format(subtitles_fn))
+        logging.info("Processing file: {0}".format(subtitles_fn))
 
-            video_id = get_video_id(subtitles_fn)
-            out_fn = "_".join(channel, video_id, "processed", "auto")
+        video_id = get_video_id(subtitles_fn)
+        out_fn = "_".join([channel, str(video_id), "processed", "auto"])
 
-            logging.info("Video ID: {0}".format(video_id))
-            logging.info("Output file: {0}".format(out_fn))
+        logging.info("Video ID: {0}".format(video_id))
+        logging.info("Output file: {0}".format(out_fn))
 
-            with open(subtitles_fn, "r") as subtitles_in, \
-                 open(path.join(out_path, out_fn + ".txt"), "w") as subtitles_out:
+        with open(subtitles_fn, "r") as subtitles_in:
 
+            if language == 'ja':
+                preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
+            elif language == 'ru':
+                preprocessed_subtitles = list(preprocess_subtitles_ru(subtitles_in))
 
+            logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
 
-                if language == 'ja':
-                    preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
-                elif language == 'ru':
-                    preprocessed_subtitles = list(preprocess_subtitles_ru(subtitles_in))
+            if len(preprocessed_subtitles) != 0:
+                with open(path.join(out_path, out_fn + ".txt"), "w") as subtitles_out:
+                    for line in preprocessed_subtitles:
+                        subtitles_out.write(line + "\n")
 
-                logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
+            video_count += 1
 
-                if len(preprocessed_subtitles) != 0:
-                    print("".join(preprocessed_subtitles))
-
-                video_count += 1
-
-        logging.info("Processed {0} files".format(video_count))
+    logging.info("Processed {0} files".format(video_count))
 
 
 def preprocess_subtitles_ru(subtitles):
@@ -167,9 +167,9 @@ if __name__ == '__main__':
 
     parser = ArgumentParser(description='Parse dependencies from a set of subtitle files.')
 
-    parser.add_argument('channel',  type=str, help='a friendly name for the channel')
-    parser.add_argument('language',  type=str, help='language code')
-    parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
+    parser.add_argument('channel', type=str, help='a friendly name for the channel')
+    parser.add_argument('language', type=str, help='language code')
+    parser.add_argument('--log', action='store_true', default=False, help='log events to file')
 
     args = parser.parse_args()
 
@@ -177,6 +177,5 @@ if __name__ == '__main__':
         logging.basicConfig(filename=(args.channel + '_dependencies.log'),level=logging.DEBUG)
 
     logging.info("Call: {0}".format(args))
-    logging.info("BEGIN PARSE\n----------")
 
     main(args)
