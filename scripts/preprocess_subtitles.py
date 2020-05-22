@@ -16,14 +16,21 @@ def remove_emoji(text):
 def main(args):
 
     # Get all .srt files for the specified language and channel
-    # Files are sorted alphanumerically
-    subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")))
+    # Files are sorted numerically by initial number
+    subtitles_fns = sorted(glob(path.join("subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
+
     preprocess_files(args.channel, args.language, subtitles_fns)
+
+
+# Parse the video ID from the filename
+# IDs are assumed to be the first component of the filename as delineated by "_"
+def get_video_id(video_fn):
+    return int(path.split(video_fn)[1].split('_')[0], 10)
 
 
 def preprocess_files(channel, language, subtitles_fns):
 
-    out_path = path.join("../subtiles_processed_auto", language, channel)
+    out_path = path.join("subtiles_processed_auto", language, channel)
 
     if not path.exists(out_path):
 
@@ -34,7 +41,7 @@ def preprocess_files(channel, language, subtitles_fns):
 
             logging.info("Processing file: {0}".format(subtitles_fn))
 
-            video_id = int(path.split(subtitles_fn)[1].split('_')[0], 10)
+            video_id = get_video_id(subtitles_fn)
             out_fn = "_".join(channel, video_id, "processed", "auto")
 
             logging.info("Video ID: {0}".format(video_id))
