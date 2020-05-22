@@ -106,10 +106,11 @@ def preprocess_subtitles_ja(subtitles):
                 # Replace all punctuation except commas
                 line = re.sub("[！‼？!?.…]", "。", line)
                 line = line.replace("～", "") # Re doesn't recognize ～
+                line = line.replace("〜", "") # These are two different chars, believe it or not.
                 line = line.replace("、、、", "。") # Special case of ellipses
 
                 # Reomove text within matched parentheticals
-                parentheses = ["（[^（）]*）", "〔[^〔〕]*〕", "\([^()]*\)", "\[[^\[\]]*\]", "【[^【】)]*】"]
+                parentheses = ["（[^（）]*）", "〔[^〔〕]*〕", "\([^()]*\)", "\[[^\[\]]*\]", "【[^【】)]*】", "＜[^＜＞)]*＞", "｛[｛｝)]*｝"]
                 for paren_type in parentheses:
                     line = re.sub(paren_type, "", line)
 
@@ -127,7 +128,7 @@ def preprocess_subtitles_ja(subtitles):
                     line = line.replace(typo, correction)
 
                 # Remove speaker attributions (NOTE: Depends on above fix)
-                line_noattr = re.sub("[^\s　。、]+[）\):：)]", "。", line)
+                line_noattr = re.sub("[^\s　。、]+[）\):：;)≫]", "。", line)
 
                 # Hacky solution for attributions using 「」
                 # Do best to prevent accidentally removing content outside 「」or
