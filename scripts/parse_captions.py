@@ -11,14 +11,16 @@ def remove_emoji(text):
 
 def main(args):
     subtitles_fns = sorted(glob(path.join("corpus", "processed_subtitles", args.caption_type, args.language, args.channel, "*.srt")))
+    print(path.join("corpus", "processed_subtitles", args.caption_type, args.language, args.channel, "*.srt"))
+    print(subtitles_fns)
 
     nlp = stanza.Pipeline(lang=args.language)
-    process_files(nlp, args.channel, args.language, subtitles_fns)
+    process_files(nlp, args.channel, args.language, args.caption_type, subtitles_fns)
 
 
-def process_files(nlp, channel, language, subtitles_fns):
+def process_files(nlp, channel, language, type, subtitles_fns):
 
-    dep_path = path.join("corpus", "dependencies", language, channel)
+    dep_path = path.join("corpus", "dependencies", type + "_subs", language, channel)
     if not path.exists(dep_path):
         makedirs(dep_path)
 
@@ -36,44 +38,37 @@ def process_files(nlp, channel, language, subtitles_fns):
         for f in out_files:
             f.write(header)
 
+        vid_count = 0
+
         for subtitles_fn in subtitles_fns:
 
             logging.info("Processing: {0}".format(subtitles_fn))
+            video_id = int(path.split(subtitles_fn)[1].split('_')[1], 10)
+
             with open(subtitles_fn, "r") as subtitles_in:
 
-                video_id = int(path.split(subtitles_fn)[1].split('_')[0], 10)
+                preprocessed_subtitles = list(subtitles_in)
 
-                if language == 'ja':
-                    preprocessed_subtitles = list(preprocess_subtitles_ja(subtitles_in))
-                elif language == 'ru':
-                    preprocessed_subtitles = list(preprocess_subtitles_ru(subtitles_in))
-
-                #print(subtitles_fn)
-                #print(video_id)
-                #print("".join(preprocessed_subtitles))
+                print(subtitles_fn)
+                print(video_id)
+                #fprint("".join(preprocessed_subtitles))
 
                 logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
 
-                if len(preprocessed_subtitles) != 0:
+                nlp_subtitles = None
+                try:
+                    nlp_subtitles = nlp("".join(preprocessed_subtitles))
+                except RecursionError as e:
+                    logging.warning("Could not parse {0}: recursion depth exceeded".format(video_id))
+                    continue
+                except:
+                    logging.warning("Could not parse {0}: an unexpected error occurred".format(video_id))
+                    continue
+                finally:
+                    process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
+                    vid_count += 1
 
-                    #cont = input("Continue? (Y/n) ")
-
-                    #if(cont == "n" or cont == "N"):
-                        #break
-
-                    nlp_subtitles = None
-                    try:
-                        nlp_subtitles = nlp("".join(preprocessed_subtitles))
-                    except RecursionError as e:
-                        logging.warning("Could not parse {0}: recursion depth exceeded".format(video_id))
-                        continue
-                    except:
-                        logging.warning("Could not parse {0}: an unexpected error occurred".format(video_id))
-                        continue
-                    finally:
-                        process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
-
-    logging.info("Processed {0} files".format(video_id))
+    logging.info("Processed {0} files".format(vid_count))
 
 
 def linearize_optimal(node, right=True):
@@ -188,12 +183,11 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     sent_id = 0
     count_bad = 0
     for sentence in doc.sentences:
-        sent_id += 1
 
         true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
         num_dependencies = len(true_dependencies)
 
-        if(num_dependencies < 5 or num_dependencies > 40):
+        if(num_dependencies < 1 or num_dependencies > 40):
             continue
 
         try:
@@ -223,11 +217,13 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
 
         if(dep_total_optimal > dep_total_true):
             count_bad += 1
-        if num_dependencies > 5:
+        if num_dependencies > 1:
             logging.info("Video: {2}, Sentence: {3}, Observed: {0}, Optimal: {1}".format(dep_total_true, dep_total_optimal, video_id, sent_id))
 
         observed_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_true, num_dependencies))
         optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
+
+        sent_id += 1
 
 def preprocess_subtitles_ru(subtitles):
     for line in subtitles:

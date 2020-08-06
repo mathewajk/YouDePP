@@ -59,7 +59,7 @@ def process_caption_files(channel, language, captions_fns, start, end):
             logging.info("Found {0} lines".format(len(processed_captions)))
 
             if len(processed_captions) != 0:
-                with open(path.join(out_path, out_fn + ".txt"), "w") as captions_out:
+                with open(path.join(out_path, out_fn + ".srt"), "w") as captions_out:
                     for line in processed_captions:
                         captions_out.write(line + "\n")
 

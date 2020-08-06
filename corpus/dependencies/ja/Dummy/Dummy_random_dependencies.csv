@@ -1,0 +1,7 @@
+video_id, sentence_id, dep_length, total_length
+1, 0, 15, 8
+1, 0, 8, 6
+1, 0, 10, 6
+1, 0, 6, 4
+1, 0, 5, 4
+1, 0, 4, 4
