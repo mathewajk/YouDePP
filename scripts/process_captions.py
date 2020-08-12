@@ -24,7 +24,7 @@ def main(args):
 # Parse the video ID from the filename
 # IDs are assumed to be the first component of the filename as delineated by "_"
 def get_video_id(video_fn):
-    return int(path.split(video_fn)[1].split('_')[0], 10)
+    return path.split(video_fn)[1].split('_')[0]
 
 
 # Clean up caption files
@@ -40,10 +40,10 @@ def process_caption_files(channel, language, captions_fns, start, end):
     video_count = 0
     for captions_fn in captions_fns:
         video_id = get_video_id(captions_fn)
-        if(video_id < start or (end != -1 and video_id > end)):
+        if(int(video_id, 10) < start or (end != -1 and int(video_id, 10) > end)):
             continue
 
-        out_fn = "_".join([channel, str(video_id), "processed", "auto"])
+        out_fn = "_".join([channel, video_id, "processed", "auto"])
 
         logging.info("Processing file: {0}".format(captions_fn))
         logging.info("Video ID: {0}".format(video_id))
