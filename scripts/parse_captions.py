@@ -20,7 +20,7 @@ def main(args):
 
 def process_files(nlp, channel, language, type, subtitles_fns):
 
-    dep_path = path.join("corpus", "dependencies", type + "_subs", language, channel)
+    dep_path = path.join("corpus", "dependencies", type, language, channel)
     if not path.exists(dep_path):
         makedirs(dep_path)
 

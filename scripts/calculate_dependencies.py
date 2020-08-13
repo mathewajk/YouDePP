@@ -1,24 +1,17 @@
-import stanza, random, re, argparse, logging, emoji
+import stanza, json, random, argparse, logging
 from sys import argv
-import json
 from glob import glob
-from os import path, makedirs, getcwd
-from sys import stdout
-
-
-def remove_emoji(text):
-    return emoji.get_emoji_regexp().sub(u'', text)
+from os import path, makedirs
 
 
 def main(args):
-    dependency_fns = sorted(glob(path.join("corpus", "dependencies", args.caption_type + "_subs", args.language, args.channel, "*.json")))
-    nlp = stanza.Pipeline(lang=args.language)
-    process_files(nlp, args.channel, args.language, args.caption_type, subtitles_fns)
+    dependency_fns = sorted(glob(path.join("corpus", "dependency_corpus", args.caption_type, args.language, args.channel, "*.json")))
+    process_files(args.channel, args.language, args.caption_type, dependency_fns)
 
 
-def process_files(nlp, channel, language, type, subtitles_fns):
+def process_files(channel, language, type, dependency_fns):
 
-    dep_path = path.join("corpus", "counts", type + "_subs", language, channel)
+    dep_path = path.join("corpus", "dependency_counts", type, language, channel)
     if not path.exists(dep_path):
         makedirs(dep_path)
 
@@ -38,33 +31,16 @@ def process_files(nlp, channel, language, type, subtitles_fns):
 
         vid_count = 0
 
-        for subtitles_fn in subtitles_fns:
+        for dependency_fn in dependency_fns:
 
-            logging.info("Processing: {0}".format(subtitles_fn))
-            video_id = int(path.split(subtitles_fn)[1].split('_')[1], 10)
+            logging.info("Processing: {0}".format(dependency_fn))
+            video_id = int(path.split(dependency_fn)[1].split('_')[1], 10)
 
-            with open(subtitles_fn, "r") as subtitles_in:
-
-                preprocessed_subtitles = list(subtitles_in)
-
-                print(subtitles_fn)
-                print(video_id)
-                #fprint("".join(preprocessed_subtitles))
-
-                logging.info("Found {0} lines".format(len(preprocessed_subtitles)))
-
-                nlp_subtitles = None
+            with open(dependency_fn, "r") as dependencies_in:
                 try:
-                    nlp_subtitles = nlp("".join(preprocessed_subtitles))
-                except RecursionError as e:
-                    logging.warning("Could not parse {0}: recursion depth exceeded".format(video_id))
-                    continue
+                    process_dependencies(video_id, stanza.Document(json.load(dependencies_in)), observed_out, optimal_out, random_out)
                 except:
-                    logging.warning("Could not parse {0}: an unexpected error occurred".format(video_id))
-                    continue
-                finally:
-                    process_dependencies(video_id, nlp_subtitles, observed_out, optimal_out, random_out)
-                    vid_count += 1
+                    logging.warning("Could not open {0}".format(video_id))
 
     logging.info("Processed {0} files".format(vid_count))
 
@@ -110,8 +86,9 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
 
     min = 1000
     max = 0
+    avg_random_dep = 0
 
-    for i in range(0, 1):
+    for i in range(0, 100):
 
         dep_total_random = 0
         random_indices = {}
@@ -128,7 +105,9 @@ def process_random(sentence, video_id, sent_id, num_dependencies, dependency_tre
         if dep_total_random < min:
             min = dep_total_random
 
-        random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_random, num_dependencies))
+        avg_random_dep += dep_total_random
+
+    random_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, (avg_random_dep/100), num_dependencies))
 
     if num_dependencies > 5:
         logging.info("Range of random deps: [{0}, {1}]".format(min, max))
@@ -152,7 +131,7 @@ def iter_flatten(iterable):
 def tree(dependencies):
     nodes={}
     for i in dependencies:
-        parent, rel, child = i
+        (parent, rel, child) = i
         nodes[child] = {"parent": parent, "child": child, "relation": rel, "children": []}
 
     forest = []
@@ -160,18 +139,19 @@ def tree(dependencies):
         parent, rel, child = i
         node = nodes[child]
 
-        if rel == 'root': # this should be the Root Node
-                forest.append(node)
+        if rel == 'root' or parent.text == 'ROOT': # this should be the Root Node
+            forest.append(node)
         else:
             parent = nodes[parent]
             children = parent['children']
             children.append(node)
+
     return forest
 
 
 def get_dependency_length(dependency, indices):
     (governor, rel, child) = dependency
-    if rel == 'root':
+    if rel == 'root' or governor.text == 'ROOT':
         return 0
     else:
         return abs(indices[governor.id] - indices[child.id])
@@ -182,7 +162,7 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     count_bad = 0
     for sentence in doc.sentences:
 
-        true_dependencies = [dependency for dependency in sentence.dependencies if dependency[1] not in ["punct"]]
+        true_dependencies = [dependency for dependency in sentence.dependencies if (dependency[0].upos not in ["punct", "PUNCT"] and dependency[1] not in ["punct", "PUNCT"])]
         num_dependencies = len(true_dependencies)
 
         if(num_dependencies < 1 or num_dependencies > 40):
@@ -191,8 +171,8 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         try:
             dependency_tree = tree(true_dependencies)
         except:
-            logging.warning("Tree construction failed for sentence {0}".format(sent_id))
-            continue
+            logging.warning("Tree construction failed for sentence {0} in video {1}".format(sent_id, video_id))
+            print(sentence)
 
         optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0])))
         dependencies = list(zip(true_dependencies, optimal_dependencies))
@@ -209,7 +189,8 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
             dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
 
         if(dep_total_optimal > dep_total_true):
-            logging.critical("Observed dependencies shorter than optimal!")
+            logging.critical("{0}-{1}: Observed dependencies shorter than optimal!".format(video_id, sent_id))
+            print(sentence)
 
         process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out)
 
@@ -222,101 +203,6 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         optimal_out.write("{0}, {1}, {2}, {3}\n".format(video_id, sent_id, dep_total_optimal, num_dependencies))
 
         sent_id += 1
-
-def preprocess_subtitles_ru(subtitles):
-    for line in subtitles:
-
-        if line and not re.search("^[0-9]", line):
-
-            line = remove_emoji(line.strip())
-            line = line.replace(":D", "")
-            line = line.replace(":)", "")
-
-            line = re.sub(r'\([^)]*\)', '', line) # Remove parens
-            line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
-            line = re.sub("[♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
-            line = re.sub("[!?]", ".", line)
-
-            if line:
-                if(line[-1] != '.' and line[-1] != ','):
-                    line += '.'
-                no_attr = re.split("[:]", line)
-                if len(no_attr) > 1:
-                    yield ("".join(no_attr[1:]))
-                else:
-                    yield line
-
-
-def preprocess_subtitles_ja(subtitles):
-    for line in subtitles:
-
-        line = line.strip()
-
-        if line and not re.search("^[0-9]", line):
-
-                #print("Initial: " + line)
-
-                # Remove emoji
-                line = remove_emoji(line)
-
-                # Replace all punctuation except commas
-                line = re.sub("[！‼？!?.…]", "。", line)
-                line = line.replace("～", "") # Re doesn't recognize ～
-                line = line.replace("、、、", "。") # Special case of ellipses
-
-                # Reomove text within matched parentheticals
-                parentheses = ["（[^（）]*）", "〔[^〔〕]*〕", "\([^()]*\)", "\[[^\[\]]*\]", "【[^【】)]*】"]
-                for paren_type in parentheses:
-                    line = re.sub(paren_type, "", line)
-
-                # Remove HTML
-                line = re.sub(r'<[^)]*>', '', line)
-
-                if not line:
-                    #print("Final:   NA")
-                    #input()
-                    continue
-
-                # Hacky fix for some troublesome whitespace typos
-                attr_typos = [(" ：", "："), (" ）","）"), (" )", ")")]
-                for typo, correction in attr_typos:
-                    line = line.replace(typo, correction)
-
-                # Remove speaker attributions (NOTE: Depends on above fix)
-                line_noattr = re.sub("[^\s　。、]+[）\):：)]", "。", line)
-
-                # Hacky solution for attributions using 「」
-                # Do best to prevent accidentally removing content outside 「」or
-                # when the 「」 isn't actually an attibution
-                if(line_noattr == line):
-                    if line[-1] == "」" or (line.find("「") > -1 and line.find("」") == -1):
-                        line = re.sub("^[^\s]+「", "。", line).replace("」", "")
-                else:
-                    line = line_noattr
-
-                # Remove action text
-                line = re.sub("[（\(](.*)", "", line)
-
-                # Remove any stray special characters
-                line = re.sub("[　<>・･‥／☆\s♫♡♥♪→↑↖↓←”✖wｗWＷ※⇓⇒\~()（）【】《》✖\[\]\n]", "", line)
-
-                # Fixes for multiple & initial periods
-                line = re.sub("。+", "。", line)
-                line = re.sub("^。", "", line)
-
-                if line:
-
-                    if(line[-1] != '。' and line[-1] != '、'):
-                        line += '。'
-
-                    #print("Final:   " + line)
-                    #input()
-
-                    yield line
-                else:
-                    #print("Final:   NA")
-                    #input()
-                    continue
 
 
 if __name__ == '__main__':
