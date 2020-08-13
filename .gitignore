@@ -8,7 +8,7 @@ backups/
 writeup/
 *_temp
 old/
-auto/
+processed_subtitles/auto/
 
 *.ipynb*
 *_tobecorrected
