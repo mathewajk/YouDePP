@@ -16,132 +16,99 @@ header-includes:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 library(ggplot2)
 library(gridExtra)
 library(dplyr)
 library(ghibli)
 library(lme4)
+
+source("~/Documents/research/git-projects/YouDePP/data/plots/load_japanese.R")
+source("~/Documents/research/git-projects/YouDePP/data/plots/load_russian.R")
 ```
 
-```{r yuuka_data, include=FALSE}
-df.yuuka.observed <- data.frame(read.table("../../corpus/dependencies/ja/YukaKinoshita/YukaKinoshita_observed_dependencies.csv",
-                                              header=TRUE, sep=","))
-df.yuuka.optimal  <- data.frame(read.table("../../corpus/dependencies/ja/YukaKinoshita/YukaKinoshita_optimal_dependencies.csv",
-                                              header=TRUE, sep=","))
-df.yuuka.random   <- data.frame(read.table("../../corpus/dependencies/ja/YukaKinoshita/YukaKinoshita_random_dependencies.csv",
-                                            header=TRUE, sep=","))
-df.yuuka <- bind_rows(list("Observed"=df.yuuka.observed, "Optimal"=df.yuuka.optimal, 
-                            "Random"=df.yuuka.random),  .id = 'baseline')
-```
 
-```{r hikakin_data, include=FALSE}
-df.hikakin.observed <- data.frame(read.table("../../corpus/dependencies/ja/HikakinTV/HikakinTV_observed_dependencies.csv", 
-                                             header=TRUE, sep=","))
-df.hikakin.optimal  <- data.frame(read.table("../../corpus/dependencies/ja/HikakinTV/HikakinTV_optimal_dependencies.csv",  
-                                             header=TRUE, sep=","))
-df.hikakin.random   <- data.frame(read.table("../../corpus/dependencies/ja/HikakinTV/HikakinTV_random_dependencies.csv",   
-                                             header=TRUE, sep=","))
-df.hikakin <- bind_rows(list("Observed"=df.hikakin.observed, "Optimal"=df.hikakin.optimal, 
-                             "Random"=df.hikakin.random),  .id = 'baseline')
-```
-
-```{r fischers_data, include=FALSE}
-df.fischers.observed <- data.frame(read.table("../../corpus/dependencies/auto_subs/ja/Fischers/Fischers_observed_dependencies.csv",
-                                                  header=TRUE, sep=","))
-df.fischers.optimal  <- data.frame(read.table("../../corpus/dependencies/auto_subs/ja/Fischers/Fischers_optimal_dependencies.csv",
-                                                  header=TRUE, sep=","))
-df.fischers.random   <- data.frame(read.table("../../corpus/dependencies/auto_subs/ja/Fischers/Fischers_random_dependencies.csv", 
-                                                  header=TRUE, sep=","))
-df.fischers <- bind_rows(list("Observed"=df.fischers.observed, "Optimal"=df.fischers.optimal,
-                                  "Random"=df.fischers.random),  .id = 'baseline')
-
-df.fischers.hc.observed <- data.frame(read.table("../../corpus/dependencies/hand_corrected_subs/ja/Fischers/Fischers_observed_dependencies.csv",
-                                                  header=TRUE, sep=","))
-df.fischers.hc.optimal  <- data.frame(read.table("../../corpus/dependencies/hand_corrected_subs/ja/Fischers/Fischers_optimal_dependencies.csv",
-                                                  header=TRUE, sep=","))
-df.fischers.hc.random   <- data.frame(read.table("../../corpus/dependencies/hand_corrected_subs/ja/Fischers/Fischers_random_dependencies.csv", 
-                                                  header=TRUE, sep=","))
-df.fischers.hc <- bind_rows(list("Observed"=df.fischers.hc.observed, "Optimal"=df.fischers.hc.optimal,
-                                  "Random"=df.fischers.hc.random),  .id = 'baseline')
-```
-
-```{r hajime_data, include=FALSE}
-df.hajime.observed <- data.frame(read.table("../../corpus/dependencies/ja/HajimeShachoo/HajimeShachoo_observed_dependencies.csv",
-                                                header=TRUE, sep=","))
-df.hajime.optimal  <- data.frame(read.table("../../corpus/dependencies/ja/HajimeShachoo/HajimeShachoo_optimal_dependencies.csv",
-                                                header=TRUE, sep=","))
-df.hajime.random   <- data.frame(read.table("../../corpus/dependencies/ja/HajimeShachoo/HajimeShachoo_random_dependencies.csv",
-                                                header=TRUE, sep=","))
-df.hajime <- bind_rows(list("Observed"=df.hajime.observed, "Optimal"=df.hajime.optimal, 
-                                "Random"=df.hajime.random),  .id = 'baseline')
-```
-
-```{r tokai_data, include=FALSE}
-df.tokai.observed <- data.frame(read.table("../../corpus/dependencies/ja/TokaiOnAir/TokaiOnAir_observed_dependencies.csv",
-                                               header=TRUE, sep=","))
-df.tokai.optimal  <- data.frame(read.table("../../corpus/dependencies/ja/TokaiOnAir/TokaiOnAir_optimal_dependencies.csv",
-                                               header=TRUE, sep=","))
-df.tokai.random   <- data.frame(read.table("../../corpus/dependencies/ja/TokaiOnAir/TokaiOnAir_random_dependencies.csv", 
-                                               header=TRUE, sep=","))
-df.tokai <- bind_rows(list("Observed"=df.tokai.observed, "Optimal"=df.tokai.optimal, 
-                               "Random"=df.tokai.random),  .id = 'baseline')
-```
 
 ```{r jp_all_setup, include=FALSE}
-#df.all.jp <- bind_rows(list("1"=df.yuuka, 
-#                             "2"=df.fischers,
-#                             "3"=df.hajime, 
-#                             "4"=df.hikakin,
-#                             "5"=df.tokai), .id = 'channel')
 
-df.all.jp <- bind_rows(list("Fischer'sHC"=df.fischers.hc, 
-                             "Fischer's"=df.fischers), .id = 'channel')
-
-# Calculate squared sentence length to match Futrell et al.: better predictor than raw length
-df.all.jp$sent_len_sq   <- df.all.jp$total_length * df.all.jp$total_length
-
-# Create index variables: r = 1 if random; 0 else, m = 1 if optimal; 0 else
-df.all.jp$baseline <- factor(df.all.jp$baseline, levels=c("Random", "Optimal", "Observed")) 
-df.all.jp <- df.all.jp %>% mutate(r = as.integer(baseline == "Random"), m = as.integer(baseline == "Optimal"))
-df.all.jp <- df.all.jp %>% mutate(o = as.integer(baseline == "Observed")) #%>% filter(dep_length > 5 & dep_length < 200)
+df.all.jp <- loadJapanese()
+df.all.ru <- loadRussian()
 
 # Observed deps for density hexagons
 df.all.jp.observed <- df.all.jp %>% filter(baseline=="Observed")
+df.all.ru.observed <- df.all.ru %>% filter(baseline=="Observed")
   
-# Average deps for fitted scatter plots
+# Average deps by channel and baseline for fitted scatter plots
 df.all.jp.avg <- df.all.jp %>% 
   group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
+df.all.ru.avg <- df.all.ru %>% 
+  group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
+
+# Observed-only averages
 df.all.jp.observed.avg <- df.all.jp %>% filter(baseline=="Observed")
+df.all.ru.observed.avg <- df.all.jp %>% filter(baseline=="Observed")
+
 ```
 
+
 ```{r, include=TRUE, echo=FALSE}
-# Plot by channel
-dep.by.channel.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+# Plot by channel for Japanese
+dep.by.channel.jp <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
     stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    labs(title="Total Dependency Lengths by Sentence Length per Channel, Japanese", x="Sentence Length", y="Average Total Dependency Length", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
     theme(legend.position="bottom") +
     facet_wrap(.~channel)
 
-dep.by.channel.g
+dep.by.channel.jp
 ```
 
 ```{r, include=TRUE, echo=FALSE}
-# Plot by channel
+# Plot by channel for Japanese
+dep.by.channel.ru <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ru.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+    labs(title="Total Dependency Lengths by Sentence Length per Channel, Russian", x="Sentence Length", y="Average Total Dependency Length", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    theme(legend.position="bottom") +
+    facet_wrap(.~channel)
+
+dep.by.channel.ru
+```
+
+```{r, include=TRUE, echo=FALSE}
+# Plot by channel Japanese
 dep.by.channel.g <- ggplot(df.all.jp, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
     stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
+    labs(title="", x="Sentence Length", y="Average Dependency Length", color="") + 
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
     theme(legend.position="bottom") +
     facet_wrap(.~channel)
 
 dep.by.channel.g
+```
+
+```{r, include=TRUE, echo=FALSE}
+# Plot by channel
+dep.by.channel.ru <- ggplot(df.all.ru, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ru.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("white","black")) +
+    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
+    labs(title="", x="Sentence Length", y="Average Dependency Length", color="") + 
+    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
+    theme(legend.position="bottom") +
+    facet_wrap(.~channel)
+
+dep.by.channel.ru
 ```
 
 ```{r, include=TRUE}
