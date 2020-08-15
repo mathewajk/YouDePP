@@ -18,6 +18,10 @@ def main(args):
     # Get all .srt files for the specified language and channel
     # Files are sorted numerically by initial number
     captions_fns = sorted(glob(path.join("corpus", "raw_subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
+    if(len(captions_fns) == 0):
+        print("ERROR: No SRT files found. Did you spell the channel name correctly?")
+        return
+
     process_caption_files(args.channel, args.language, captions_fns, args.start, args.end)
 
 
@@ -145,24 +149,17 @@ def process_captions_ja(captions):
                 line = re.sub("[（\(](.*)", "", line)
 
                 # Remove any stray special characters
-                line = re.sub("[　<>・･‥／☆\s♫♡♥♪→↑↖↓←”✖wｗWＷ※⇓⇒\~()（）【】《》✖\[\]\n]", "", line)
+                line = re.sub("[●<>・･‥／☆\s♫♡♥♪♪→↑↖↓←”✖wｗWｗＷ※⇓⇒()（）【】《》✖「」『』〈〉]*", "", line)
 
                 # Fixes for multiple & initial periods
                 line = re.sub("。+", "。", line)
                 line = re.sub("^。", "", line)
 
                 if line:
-
                     if(line[-1] != '。' and line[-1] != '、'):
                         line += '。'
-
-                    #print("Final:   " + line)
-                    #input()
-
                     yield line
                 else:
-                    #print("Final:   NA")
-                    #input()
                     continue
 
 
