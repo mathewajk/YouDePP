@@ -73,7 +73,17 @@ loadRussian <- function() {
   
   # Create index variables: ri = 1 if random; 0 else, mi = 1 if optimal; 0 else
   df.all.ru$baseline <- factor(df.all.ru$baseline, levels=c("Random", "Optimal", "Observed")) 
-  df.all.ru <- df.all.ru %>% mutate(ri = as.integer(baseline == "Random"), mi = as.integer(baseline == "Optimal")) %>% filter(dep_length < 300)
+  df.all.ru <- df.all.ru %>% mutate(r = as.integer(baseline == "Random"), m = as.integer(baseline == "Optimal"), o = as.integer(baseline == "Observed"))
+  
+  
+  # Factors index variables
+  df.all.ru$r <- factor(df.all.ru$r) 
+  df.all.ru$o <- factor(df.all.ru$o) 
+  df.all.ru$m <- factor(df.all.ru$m) 
+  
+  # Unique ids for each sentence
+  df.all.ru <- df.all.ru %>% mutate(sentence_uid = paste(channel, video_id, sentence_id, sep="_"))
+  df.all.ru$sentence_uid <- factor(df.all.ru$sentence_uid)
   
   return(df.all.ru)
 }

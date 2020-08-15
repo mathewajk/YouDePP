@@ -15,6 +15,7 @@ header-includes:
 ---
 
 ```{r setup, include=FALSE}
+
 knitr::opts_chunk$set(echo = TRUE)
 
 library(ggplot2)
@@ -22,115 +23,164 @@ library(gridExtra)
 library(dplyr)
 library(ghibli)
 library(lme4)
+library(gamm4)
+library(mgcv)
+library(itsadug)
+
+```
+
+```{r load_data, include=FALSE}
 
 source("~/Documents/research/git-projects/YouDePP/data/plots/load_japanese.R")
 source("~/Documents/research/git-projects/YouDePP/data/plots/load_russian.R")
+
+df.all.ja <- loadJapanese()
+df.all.ru <- loadRussian()
+
 ```
 
 
-
-```{r jp_all_setup, include=FALSE}
-
-df.all.jp <- loadJapanese()
-df.all.ru <- loadRussian()
+```{r setup_data, include=FALSE}
 
 # Observed deps for density hexagons
-df.all.jp.observed <- df.all.jp %>% filter(baseline=="Observed")
+df.all.ja.observed <- df.all.ja %>% filter(baseline=="Observed")
 df.all.ru.observed <- df.all.ru %>% filter(baseline=="Observed")
-  
-# Average deps by channel and baseline for fitted scatter plots
-df.all.jp.avg <- df.all.jp %>% 
-  group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
+
+# Sentences of length 12 (for histograms)
+df.all.ja.12 <- df.all.ja %>% filter(total_length == 12)
+df.all.ru.12 <- df.all.ru %>% filter(total_length == 12)
+
+# Average deps by baseline for fitted scatter plots
+df.all.ja.avg <- df.all.ja %>% 
+  filter(channel != "FischersCorrected") %>% 
+  group_by(baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
 df.all.ru.avg <- df.all.ru %>% 
+  group_by(baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
+
+# Average deps by channel and baseline for fitted scatter plots
+df.all.ja.avg.chan <- df.all.ja %>% 
+  group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
+df.all.ru.avg.chan <- df.all.ru %>% 
   group_by(channel, baseline, total_length) %>% summarize("avg_length"=mean(dep_length)) %>% ungroup()
 
 # Observed-only averages
-df.all.jp.observed.avg <- df.all.jp %>% filter(baseline=="Observed")
-df.all.ru.observed.avg <- df.all.jp %>% filter(baseline=="Observed")
+df.all.ja.observed.avg <- df.all.ja.avg %>% filter(baseline=="Observed")
+df.all.ru.observed.avg <- df.all.ru.avg %>% filter(baseline=="Observed")
+
+# Re-do factors
+df.all <- bind_rows(list("Japanese"=df.all.ja, "Russian"=df.all.ru), .id="language")
+df.all$language     <- factor(df.all$language)
+df.all$channel      <- factor(df.all$channel)
+df.all$sentence_uid <- factor(df.all$sentence_uid)
 
 ```
 
 
-```{r, include=TRUE, echo=FALSE}
-# Plot by channel for Japanese
-dep.by.channel.jp <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
-    stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+```{r total_dependencies_japanese_bychannel, include=TRUE, echo=FALSE}
+
+dep.by.channel.ja <- ggplot(df.all.ja.avg.chan, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ja.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white","black")) +
-    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="Total Dependency Lengths by Sentence Length per Channel, Japanese", x="Sentence Length", y="Average Total Dependency Length", color="") + 
-    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
-    theme(legend.position="bottom") +
-    facet_wrap(.~channel)
-
-dep.by.channel.jp
-```
-
-```{r, include=TRUE, echo=FALSE}
-# Plot by channel for Japanese
-dep.by.channel.ru <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
-    stat_bin_hex(data=df.all.ru.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
-                 aes(y=dep_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white","black")) +
-    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="Total Dependency Lengths by Sentence Length per Channel, Russian", x="Sentence Length", y="Average Total Dependency Length", color="") + 
-    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
-    theme(legend.position="bottom") +
-    facet_wrap(.~channel)
-
-dep.by.channel.ru
-```
-
-```{r, include=TRUE, echo=FALSE}
-# Plot by channel Japanese
-dep.by.channel.g <- ggplot(df.all.jp, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
-    stat_bin_hex(data=df.all.jp.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
-                 aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white","black")) +
-    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Average Dependency Length", color="") + 
-    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
-    theme(legend.position="bottom") +
-    facet_wrap(.~channel)
-
-dep.by.channel.g
-```
-
-```{r, include=TRUE, echo=FALSE}
-# Plot by channel
-dep.by.channel.ru <- ggplot(df.all.ru, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
-    stat_bin_hex(data=df.all.ru.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
-                 aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white","black")) +
-    geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x))) + 
-    labs(title="", x="Sentence Length", y="Average Dependency Length", color="") + 
-    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) +
-    theme(legend.position="bottom") +
-    facet_wrap(.~channel)
-
-dep.by.channel.ru
-```
-
-```{r, include=TRUE}
-ggsave("../dependencies_by_channel.svg", plot=dep.by.channel.g, device="svg", width=10, dpi = 300)
-ggsave("../dependencies_by_channel.png", plot=dep.by.channel.g, device="png", width=10, dpi = 300)
-```
-
-```{r aggregate_dependencies, include=TRUE}
-all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
-    stat_bin_hex(data=df.all.jp.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
-                 aes(y=dep_length, x=total_length, fill=..density..)) +
-    scale_fill_gradientn(colours=c("white","black")) +
+    scale_fill_gradientn(colours=c("#f8f9f5","#000000")) +
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-    scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed")) + 
-    labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
-    theme(legend.position="bottom")
-all.dependencies.g
+    scale_color_manual(values = c("#5B675D", "#60C7AA", "#A1C439"), labels=c("Random", "Optimal", "Observed")) + 
+    labs(title="Total Dependency Lengths by Sentence Length per Channel, Japanese", x="Sentence Length", y="Average Total Dependency Length", color="") + 
+    theme(legend.position="bottom") +
+    facet_wrap(.~channel) + theme_minimal()
+
+ggsave("total_dependencies_channel_ja.png", plot=dep.by.channel.ja, device="png", dpi = 300)
+dep.by.channel.ja
+
+```
+
+```{r total_dependencies_russian_bychannel, include=TRUE, echo=FALSE}
+
+dep.by.channel.ru <- ggplot(df.all.ru.avg.chan, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ru.observed %>% filter(dep_length < 300), bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("#f8f9f5","#000000")) +
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
+    scale_color_manual(values = c("#5B675D", "#60C7AA", "#A1C439"), labels=c("Random", "Optimal", "Observed")) + 
+    labs(title="Total Dependency Lengths by Sentence Length per Channel, Russian", x="Sentence Length", y="Average Total Dependency Length", color="") + 
+    theme(legend.position="bottom") + theme_minimal()
+    facet_wrap(.~channel)
+
+ggsave("total_dependencies_channel_ru.png", plot=dep.by.channel.ru, device="png", dpi = 300)
+dep.by.channel.ru
+
+```
+
+```{r average_dependencies_japanese_bychannel, include=TRUE, echo=FALSE}
+
+avg.dep.by.channel.ja <- ggplot(df.all.ja, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ja.observed, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("#f8f9f5","#000000")) +
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
+    scale_color_manual(values = c("#5B675D", "#60C7AA", "#A1C439"), labels=c("Random", "Optimal", "Observed")) + 
+    labs(title="Average Dependency Length by Sentence Length per Channel, Japanese", x="Sentence Length", y="Average Dependency Length", color="") +
+    theme(legend.position="bottom") + theme_minimal() +
+    facet_wrap(.~channel)
+
+ggsave("average_dependencies_channel_ja.png", plot=avg.dep.by.channel.ja, device="png", dpi = 300)
+avg.dep.by.channel.ja
+
+```
+
+```{r average_dependencies_russian_bychannel, include=TRUE, echo=FALSE}
+
+avg.dep.by.channel.ru <- ggplot(df.all.ru, aes(y=dep_length/total_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ru.observed %>% filter(dep_length < 300), bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length/total_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("#f8f9f5","#000000")) +
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
+    scale_color_manual(values = c("#5B675D", "#60C7AA", "#A1C439"), labels=c("Random", "Optimal", "Observed")) + 
+    labs(title="Average Dependency Length by Sentence Length per Channel, Russian", x="Sentence Length", y="Average Dependency Length", color="") + 
+    theme(legend.position="bottom") + theme_minimal() +
+    facet_wrap(.~channel)
+
+ggsave("average_dependencies_channel_ru.png", plot=avg.dep.by.channel.ru, device="png", dpi = 300)
+avg.dep.by.channel.ru
+
+```
+
+```{r total_aggregate_dependencies_ja, include=TRUE}
+
+# NOTE: Uncorrected data only!
+all.dependencies.ja <- ggplot(df.all.ja.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.ja.observed %>% filter(channel != "FischersCorrected"), bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("#f8f9f5","#000000")) +
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
+    scale_color_manual(values = c("#5B675D", "#60C7AA", "#A1C439"), labels=c("Random", "Optimal", "Observed")) + 
+    labs(title="Average Total Depedency Length by Sentence Length, Japanese", x="Sentence Length", y="Average Total Dependency Length", color="") + 
+    theme(legend.position="bottom") + theme_minimal()
+
+ggsave("total_dependencies_aggregate_ja.png", plot=all.dependencies.ja, device="png", dpi = 300)
+all.dependencies.ja
+
+```
+
+```{r total_aggregate_dependencies_ru, include=TRUE}
+
+all.dependencies.ru <- ggplot(df.all.ru.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.ru.observed %>% filter(dep_length < 300), bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(y=dep_length, x=total_length, fill=..density..)) +
+    scale_fill_gradientn(colours=c("#f8f9f5","#000000")) +
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
+    scale_color_manual(values = c("#5B675D", "#60C7AA", "#A1C439"), labels=c("Random", "Optimal", "Observed")) +  
+    labs(title="Total Average Depedency Length by Sentence Length, Russian", x="Sentence Length", y="Average Total Dependency Length", color="") + 
+    theme(legend.position="bottom") + theme_minimal()
+
+ggsave("total_dependencies_aggregate_ru.png", plot=all.dependencies.ru, device="png", dpi = 300)
+all.dependencies.ru
+
 ```
 
 ```{r quantile_plots, include=TRUE, echo=FALSE}
-all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
-    stat_bin_hex(data=df.all.jp.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+
+all.dependencies.g <- ggplot(df.all.ja.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.ja.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=avg_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_quantile(aes(alpha = ..quantile..)) +
@@ -138,48 +188,70 @@ all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, co
     labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
     theme(legend.position="bottom")
 all.dependencies.g
+
 ```
 
-```{r, include=FALSE}
-ggsave("all_dependencies.svg", plot=all.dependencies.g, device="svg", dpi = 300)
-ggsave("all_dependencies.png", plot=all.dependencies.g, device="png", dpi = 300)
-```
+```{r aggregate_hist_ja, include=TRUE, echo=FALSE}
 
-```{r aggregate_hist, include=TRUE, echo=FALSE}
-df.all.jp.12 <- df.all.jp %>% filter(total_length == 12)
-hist.12.all.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+hist.12.all.ja <- ggplot(data=df.all.ja.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
-    labs(x="Dependency Length", y="Frequency", title="Histogram of dependency lengths in Japanese at sentence length 12") + 
-    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+    labs(x="Dependency Length", y="Frequency", title="Distribution of Dependency Lengths For Sentences of Length 12, Japanese") + 
+    scale_fill_manual(values = c("#5B675D", "#60C7AA", "#A1C439"),
                       labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
     theme(legend.position="bottom")
-hist.12.all.g
+
+ggsave("histogram_dependencies_aggregate_ja.png", plot=hist.12.all.ja, device="png", dpi = 300)
+hist.12.all.ja
+
 ```
 
-```{r, include=FALSE}
-#ggsave("hist_12_all.svg", plot=hist.12.all.g, device="svg", dpi = 300)
-ggsave("hist_12_all_jp.png", plot=hist.12.all.g, device="png", height=8, width=8, dpi = 300)
-```
+```{r hist_bychannel_ja, include=TRUE, echo=FALSE}
 
-```{r hist_by_channel, include=TRUE, echo=FALSE}
-hist.12.channel.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+hist.12.channel.ja <- ggplot(data=df.all.ja.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
     facet_wrap(.~channel) + 
-    scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
+    scale_fill_manual(values = c("#5B675D", "#60C7AA", "#A1C439"),
                       labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
-    labs(x="Dependency Length", y="Frequency", title="By-channel hsistograms of dependency lengths in Japanese at sentence length 12") +
+    labs(x="Dependency Length", y="Frequency", title="Distribution of Dependency Lengths by Channel For Sentences of Length 12, Japanese") +
   theme(legend.position="bottom")
-hist.12.channel.g
+
+ggsave("histogram_dependencies_channel_ja.png", plot=hist.12.channel.ja, device="png", dpi = 300)
+hist.12.channel.ja
+
 ```
 
-```{r, include=FALSE}
-#ggsave("hist_12_by_channel.svg", plot=hist.12.channel.g, device="svg", width=10, dpi = 300)
-ggsave("hist_12_by_channel_jp.png", plot=hist.12.channel.g, device="png", width=8, height=8, dpi = 300)
+```{r aggregate_hist_ru, include=TRUE, echo=FALSE}
+
+hist.12.all.ru <- ggplot(data=df.all.ru.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
+    labs(x="Dependency Length", y="Frequency", title="Distribution of Dependency Lengths For Sentences of Length 12, Russian") + 
+    scale_fill_manual(values = c("#5B675D", "#60C7AA", "#A1C439"),
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
+    theme(legend.position="bottom")
+
+ggsave("histogram_dependencies_aggregate_ru.png", plot=hist.12.all.ru, device="png", dpi = 300)
+hist.12.all.ru
+
+```
+
+```{r hist_bychannel_ru, include=TRUE, echo=FALSE}
+
+hist.12.channel.ru <- ggplot(data=df.all.ru.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+    geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity") + 
+    facet_wrap(.~channel) + 
+    scale_fill_manual(values = c("#5B675D", "#60C7AA", "#A1C439"),
+                      labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill")) +
+    labs(x="Dependency Length", y="Frequency", title="Distribution of Dependency Lengths by Channel For Sentences of Length 12, Japanese") +
+  theme(legend.position="bottom")
+
+ggsave("histogram_dependencies_channel_ru.png", plot=hist.12.channel.ru, device="png", dpi = 300)
+hist.12.channel.ru
+
 ```
 
 ```{r}
-all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
-    stat_bin_hex(data=df.all.jp.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+all.dependencies.g <- ggplot(df.all.ja.avg, aes(y=avg_length, x=total_length, color=baseline, group=baseline)) + 
+    stat_bin_hex(data=df.all.ja.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x)), show.legend = FALSE) + 
@@ -187,8 +259,8 @@ all.dependencies.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, co
     scale_color_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], labels=c("Random", "Optimal", "Observed"))
   
 # Plot by channel
-dep.by.channel.g <- ggplot(df.all.jp.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
-    stat_bin_hex(data=df.all.jp.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
+dep.by.channel.g <- ggplot(df.all.ja.avg, aes(y=avg_length, x=total_length, color=baseline, group=channel)) + 
+    stat_bin_hex(data=df.all.ja.observed.avg, bins=20, show.legend=FALSE, inherit.aes=FALSE, 
                  aes(y=dep_length, x=total_length, fill=..density..)) +
     scale_fill_gradientn(colours=c("white","black")) +
     geom_smooth(aes(group=baseline), se = FALSE, method = "gam", formula = y ~ s(log(x)), show.legend=FALSE) + 
@@ -202,7 +274,7 @@ g <- grid.arrange(all.dependencies.g, dep.by.channel.g, ncol=2, left="Total Depe
 ```
 
 ```{r}
-hist.12.channel.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+hist.12.channel.g <- ggplot(data=df.all.ja.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", show.legend=FALSE) + 
     facet_wrap(.~channel) + 
     labs(x="", y="", title="",color="", fill="") + 
@@ -210,7 +282,7 @@ hist.12.channel.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fi
     scale_fill_manual(values = ghibli_palette("PonyoMedium")[c(3,4,6)], 
                       labels = c("Random", "Optimal", "Observed"), aesthetics = c("colour", "fill"))
 
-hist.12.all.g <- ggplot(data=df.all.jp.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
+hist.12.all.g <- ggplot(data=df.all.ja.12, aes(y=frequency, x=dep_length, fill=baseline, color=baseline)) + 
     geom_histogram(aes(y=..density.., fill=baseline), alpha=0.5, binwidth=1, position="identity", show.legend=FALSE) + 
     labs(x="", y="", title="",color="", fill="") + 
     theme(legend.position="bottom") +
@@ -231,7 +303,7 @@ ggsave("hist_12_with_chan_plot.png", plot=g2, width=10,  height=5, device="png",
 ```
 
 ```{r linear_model, include=TRUE}
-temp <- df.all.jp %>% filter(channel == 1 & (baseline == "Observed" | baseline == "Random"))
+temp <- df.all.ja %>% filter(channel == 1 & (baseline == "Observed" | baseline == "Random"))
 #temp$o <- as.factor(temp$o)
 #temp$r <- as.factor(temp$r)
 
@@ -264,9 +336,9 @@ summary(dependency.obsmodel.b3)
 
 ```{r}
 library(ggeffects)
-df.jp.predicted <- ggpredict(dependency.model.b3, terms = c("sent_len_sq", "r"))
-df.jp.predicted
-ggplot(df.jp.predicted, aes(x=sqrt(x), y=predicted, group=group, color=group)) + 
+df.ja.predicted <- ggpredict(dependency.model.b3, terms = c("sent_len_sq", "r"))
+df.ja.predicted
+ggplot(df.ja.predicted, aes(x=sqrt(x), y=predicted, group=group, color=group)) + 
   geom_line() +
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high), alpha = .1)
 ```

@@ -73,8 +73,16 @@ loadJapanese <- function() {
   
   # Create index variables: r = 1 if random; 0 else, m = 1 if optimal; 0 else
   df.all.jp$baseline <- factor(df.all.jp$baseline, levels=c("Random", "Optimal", "Observed")) 
-  df.all.jp <- df.all.jp %>% mutate(r = as.integer(baseline == "Random"), m = as.integer(baseline == "Optimal"))
-  df.all.jp <- df.all.jp %>% mutate(o = as.integer(baseline == "Observed"))
+  df.all.jp <- df.all.jp %>% mutate(r = as.integer(baseline == "Random"), m = as.integer(baseline == "Optimal"), o = as.integer(baseline == "Observed"))
+  
+  # Factors index variables
+  df.all.jp$r <- factor(df.all.jp$r) 
+  df.all.jp$o <- factor(df.all.jp$o) 
+  df.all.jp$m <- factor(df.all.jp$m) 
+  
+  # Unique ids for each sentence
+  df.all.jp <- df.all.jp %>% mutate(sentence_uid = paste(channel, video_id, sentence_id, sep="_"))
+  df.all.jp$sentence_uid <- factor(df.all.jp$sentence_uid)
   
   return(df.all.jp)
 }
