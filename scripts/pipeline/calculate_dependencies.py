@@ -6,6 +6,9 @@ from os import path, makedirs
 
 def main(args):
     dependency_fns = sorted(glob(path.join("corpus", "dependency_corpus", args.caption_type, args.language, args.channel, "*.json")))
+    if(len(dependency_fns) == 0):
+        print("ERROR: No JSON files found. Did you spell the channel name correctly?")
+        return
     process_files(args.channel, args.language, args.caption_type, dependency_fns)
 
 
@@ -37,10 +40,10 @@ def process_files(channel, language, type, dependency_fns):
             video_id = int(path.split(dependency_fn)[1].split('_')[1], 10)
 
             with open(dependency_fn, "r") as dependencies_in:
-                try:
-                    process_dependencies(video_id, stanza.Document(json.load(dependencies_in)), observed_out, optimal_out, random_out)
-                except:
-                    logging.warning("Could not open {0}".format(video_id))
+                #try:
+                process_dependencies(video_id, stanza.Document(json.load(dependencies_in)), observed_out, optimal_out, random_out)
+                #except :
+                    #logging.warning("Could not open {0}".format(video_id))
 
     logging.info("Processed {0} files".format(vid_count))
 
@@ -59,9 +62,9 @@ def linearize_optimal(node, right=True):
         root_pos = 0
         for i in range(0, len(sorted_children)):
             weight_cur = weight(sorted_children[i])
-            if (i % 2 and right) or (not i % 2 and not right): # Add the largest child to the right of the parent, then swap directions
+            if (i % 2 and right) or (not i % 2 and not right): # Add the largest child to the right of the parent, then swap sides
                 chunk.insert(root_pos + 1, linearize_optimal(sorted_children[i], False))
-            else: # Add largest to left and swap
+            else: # Add largest child to left of the parent, then swap sides
                 chunk.insert(root_pos, linearize_optimal(sorted_children[i], True))
                 root_pos = root_pos + 1
 
@@ -154,6 +157,12 @@ def get_dependency_length(dependency, indices):
     if rel == 'root' or governor.text == 'ROOT':
         return 0
     else:
+        try:
+            dist = abs(indices[governor.id] - indices[child.id])
+        except:
+            print(indices)
+            print("Governor: {0}; Child:{1}".format(governor.id, child.id))
+
         return abs(indices[governor.id] - indices[child.id])
 
 
@@ -162,7 +171,7 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
     count_bad = 0
     for sentence in doc.sentences:
 
-        true_dependencies = [dependency for dependency in sentence.dependencies if (dependency[0].upos not in ["punct", "PUNCT"] and dependency[1] not in ["punct", "PUNCT"])]
+        true_dependencies = [dependency for dependency in sentence.dependencies if (dependency[0].upos not in ["punct", "PUNCT"] and dependency[1] not in ["punct", "PUNCT"] and dependency[2].upos not in ["punct", "PUNCT"])]
         num_dependencies = len(true_dependencies)
 
         if(num_dependencies < 1 or num_dependencies > 40):
@@ -172,7 +181,17 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
             dependency_tree = tree(true_dependencies)
         except:
             logging.warning("Tree construction failed for sentence {0} in video {1}".format(sent_id, video_id))
-            print(sentence)
+            for word in sentence.words:
+                print(word.text)
+            print("---")
+            for dependency in sentence.dependencies:
+                print(dependency[0].id, dependency[0].text, dependency[0].upos, "|", dependency[1], "|", dependency[2].id, dependency[2].text, dependency[2].upos)
+            print("---")
+            for dependency in true_dependencies:
+                print(dependency[0].id, dependency[0].text, dependency[0].upos, "|", dependency[1], "|", dependency[2].id, dependency[2].text, dependency[2].upos)
+                print("\n================\n")
+                input()
+                continue
 
         optimal_dependencies = list(iter_flatten(linearize_optimal(dependency_tree[0])))
         dependencies = list(zip(true_dependencies, optimal_dependencies))
@@ -185,12 +204,34 @@ def process_dependencies(video_id, doc, observed_out, optimal_out, random_out):
         dep_total_true, dep_total_optimal = (0, 0)
 
         for (true_dep, optimal_dep) in dependencies:
-            dep_total_true += get_dependency_length(true_dep, true_indices)
-            dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
+            try:
+                dep_total_true += get_dependency_length(true_dep, true_indices)
+            except:
+                for dependency in true_dependencies:
+                    print(dependency[0].id, dependency[0].text, dependency[1], dependency[2].id, dependency[2].text)
+                print("\n================\n")
+                input()
+                continue
+            try:
+                dep_total_optimal += get_dependency_length(optimal_dep, optimal_indices)
+            except:
+                for dependency in true_dependencies:
+                    print(dependency[0].id, dependency[0].text, dependency[1], dependency[2].id, dependency[2].text)
+                print("\n================\n")
+                input()
+                continue
 
         if(dep_total_optimal > dep_total_true):
             logging.critical("{0}-{1}: Observed dependencies shorter than optimal!".format(video_id, sent_id))
-            print(sentence)
+            for word in sentence.words:
+                print(word.text)
+            for word in optimal_dependencies:
+                print(word.text)
+            print(dep_total_true)
+            print(dep_total_optimal)
+            continue_parse = input("Continue? y/N")
+            if(continue_parse != "y"):
+                exit(1)
 
         process_random(sentence, video_id, sent_id, num_dependencies, dependency_tree, random_out)
 

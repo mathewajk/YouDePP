@@ -7,12 +7,19 @@ from sys import stdout
 
 # Parse the video ID from the filename
 # IDs are assumed to be the second component of the filename as delineated by "_"
-def get_video_id(video_fn):
-    return path.split(video_fn)[1].split('_')[1]
+def get_video_id(type, video_fn):
+    if type == "manual":
+        return path.split(video_fn)[1].split('_')[0]
+    else:
+        return path.split(video_fn)[1].split('_')[1]
 
 
 def main(args):
     subtitles_fns = sorted(glob(path.join("corpus", "processed_subtitles", args.caption_type, args.language, args.channel, "*.srt")))
+    if(len(subtitles_fns) == 0):
+        print("ERROR: No SRT files found. Did you spell the channel name correctly?")
+        return
+
     nlp = stanza.Pipeline(lang=args.language, use_gpu=True)
     parse_files(nlp, args.channel, args.language, args.caption_type, args.start, args.end, subtitles_fns)
 
@@ -24,7 +31,7 @@ def parse_files(nlp, channel, language, type, start, end, subtitles_fns):
         makedirs(dep_path)
 
     for subtitles_fn in subtitles_fns:
-        video_id = get_video_id(subtitles_fn)
+        video_id = get_video_id(type, subtitles_fn)
         if(int(video_id, 10) < start or (end != -1 and int(video_id, 10) > end)):
             continue
 
