@@ -1,0 +1,1 @@
+[[{"id": 1, "text": "08", "lemma": "08", "upos": "NUM", "head": 0, "deprel": "root", "misc": "start_char=0|end_char=2", "ner": "O"}, {"id": 2, "text": ".", "lemma": ".", "upos": "PUNCT", "head": 1, "deprel": "punct", "misc": "start_char=2|end_char=3", "ner": "O"}]]
