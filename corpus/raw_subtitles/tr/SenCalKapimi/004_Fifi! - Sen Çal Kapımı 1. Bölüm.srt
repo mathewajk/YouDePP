@@ -1,0 +1,279 @@
+1
+00:00:08,800 --> 00:00:09,895
+Bir saniye.
+
+2
+00:00:10,140 --> 00:00:11,660
+Şu an gazete okumanın sırası mı?
+
+3
+00:00:11,680 --> 00:00:14,160
+Sence gazete okumak ister gibi bir hâlim mi var?
+
+4
+00:00:14,686 --> 00:00:15,806
+Herkes bize bakıyor.
+
+5
+00:00:16,047 --> 00:00:18,196
+Bu hiç dikkat çekmiyor çünkü.
+
+6
+00:00:18,825 --> 00:00:20,547
+-Buraya mı gelecekler? -Evet, buraya gelecekler.
+
+7
+00:00:20,788 --> 00:00:22,342
+Gel, şöyle oturalım.
+
+8
+00:00:22,583 --> 00:00:25,583
+(Müzik...)
+
+9
+00:00:38,984 --> 00:00:41,984
+(...) (Konuşmalar duyulmuyor)
+
+10
+00:01:11,237 --> 00:01:12,578
+(Engin) Serkan.
+
+11
+00:01:13,864 --> 00:01:15,486
+Engin, neredesin?
+
+12
+00:01:16,081 --> 00:01:17,472
+(Engin) Ne oluyor abiciğim burada?
+
+13
+00:01:17,713 --> 00:01:18,766
+Hanımefendi kim?
+
+14
+00:01:19,007 --> 00:01:20,734
+Biliyorum. Adını söylemiyor.
+
+15
+00:01:21,561 --> 00:01:25,211
+Maşallah Engin, bir çilingir dedim, komple şirketi getirmişsin.
+
+16
+00:01:25,452 --> 00:01:27,379
+Abi, ne yapsaydım? Ellerimde kelepçe var dedin.
+
+17
+00:01:27,629 --> 00:01:29,556
+İşte ben de yasal işlemler için avukatını...
+
+18
+00:01:29,797 --> 00:01:31,667
+...özel bir arama yapmak istersen diye asistanını...
+
+19
+00:01:31,908 --> 00:01:34,088
+...kelepçeyi açsın diye çilingiri ve inşaattan ustayı getirdim...
+
+20
+00:01:34,329 --> 00:01:35,421
+...o açamaz diye ama...
+
+21
+00:01:35,662 --> 00:01:38,052
+-Bu? -Benim bir işlevim yok.
+
+22
+00:01:38,293 --> 00:01:40,807
+Ben sadece eğlenceye geldim ve çok iyi gidiyor.
+
+23
+00:01:49,041 --> 00:01:50,114
+Neyse.
+
+24
+00:01:50,355 --> 00:01:51,987
+Abiciğim, ne oluyor burada, ha?
+
+25
+00:01:52,878 --> 00:01:56,464
+Yok bir şey, ufak bir karışıklık. Lütfen artık şunu açar mıyız?
+
+26
+00:01:56,800 --> 00:01:58,887
+Çilingir kardeşim, hadi bakma öyle, aç şu kelepçeyi, hadi.
+
+27
+00:01:59,128 --> 00:02:02,904
+Yalnız beyefendi, ben kapı açarım sandım. Yasal olarak bunu açmak için iznim yok.
+
+28
+00:02:03,145 --> 00:02:05,210
+(Çilingir) İstesem açarım. Ama yeminli çilingirim ben.
+
+29
+00:02:05,451 --> 00:02:07,029
+Açamam yani, kusura bakmayın.
+
+30
+00:02:07,270 --> 00:02:08,832
+Yeminli çilingir.
+
+31
+00:02:09,073 --> 00:02:11,589
+Yeminli çilingir mi olurmuş? Yeminli çilingir ne?
+
+32
+00:02:11,830 --> 00:02:14,098
+Vallahi beyefendi, ne yalan söyleyeyim, dernek kurduk.
+
+33
+00:02:14,339 --> 00:02:16,066
+Hırsıza, suçluya hizmet vermemeye yemin ettik.
+
+34
+00:02:16,315 --> 00:02:18,544
+Kusura bakmayın. Boyumdan büyük iş bu, açamam ben.
+
+35
+00:02:18,785 --> 00:02:21,263
+Bizim yasa dışı bir iş yapar gibi hâlimiz mi var?
+
+36
+00:02:21,504 --> 00:02:24,731
+Burada bankta oturuyoruz. Ayrıca kelepçenin üstünde kalp var, kalp.
+
+37
+00:02:25,098 --> 00:02:26,717
+(Erkek) Ufak bir fikir.
+
+38
+00:02:27,257 --> 00:02:28,410
+Acaba karakola mı gitsek?
+
+39
+00:02:28,651 --> 00:02:31,961
+Çünkü polisler sanki kelepçe açma konusunda daha profesyonel gibi.
+
+40
+00:02:32,202 --> 00:02:33,208
+Olabilir.
+
+41
+00:02:33,449 --> 00:02:35,052
+Yalnız avukatınız olarak karakola gitmenizi...
+
+42
+00:02:35,293 --> 00:02:36,806
+...asla tavsiye etmiyorum Serkan Bey.
+
+43
+00:02:38,674 --> 00:02:40,873
+Engin, sinirlenmeye başlıyorum.
+
+44
+00:02:41,114 --> 00:02:42,860
+Abiciğim, çok haklısın. Ben şimdi iki dakikada halledeceğim.
+
+45
+00:02:43,101 --> 00:02:44,329
+İki dakikada ben hallederim bunu Serkan Bey.
+
+46
+00:02:44,570 --> 00:02:45,879
+-Lütfen. -Hayır, hayır! Ne yapıyorsun?
+
+47
+00:02:46,120 --> 00:02:47,763
+Ne demek yapmam? İki dakikada çık...
+
+48
+00:02:48,004 --> 00:02:49,395
+-Abiciğim, gelir misin lütfen? -Başka çilingir çağır. Bana ne! Hayır!
+
+49
+00:02:49,636 --> 00:02:50,983
+-Ne demek başka çilingir? -Hayır dedim!
+
+50
+00:02:51,224 --> 00:02:53,197
+-Beyefendi, lütfen gelir misiniz? -Hayır! Geri çekilir misin abi?
+
+51
+00:02:53,438 --> 00:02:54,726
+-Geri çekil! -Beyefendi, lütfen gelin.
+
+52
+00:02:54,967 --> 00:02:57,132
+Bana bak, ben istemiyorum! Bileğimi kesecek! İstemiyorum!
+
+53
+00:02:57,373 --> 00:02:59,516
+-Senin de canın çok tatlıymış. -Başka çilingir! Evet, tatlı canım!
+
+54
+00:02:59,757 --> 00:03:00,883
+-Oldu mu? -Öyle mi? Vallahi bilmiyorum.
+
+55
+00:03:01,124 --> 00:03:02,281
+-Senin değil mi? -Benim de...
+
+56
+00:03:02,522 --> 00:03:03,623
+-Bana bak, dediği lafa bak ya! -Beyefendi, lütfen artık gelir misin?
+
+57
+00:03:03,864 --> 00:03:07,147
+-Abi, lütfen. Bak, başka çilingir çağır! -(Fifi) Bir saniye!
+
+58
+00:03:08,563 --> 00:03:09,754
+Fifi?
+
+59
+00:03:12,099 --> 00:03:13,400
+Fifi!
+
+60
+00:03:13,641 --> 00:03:16,641
+(Aksiyon müziği)
+
+61
+00:03:33,049 --> 00:03:36,264
+Vay! Teşekkürler.
+
+62
+00:03:39,589 --> 00:03:41,082
+Helal olsun Engin, helal olsun.
+
+63
+00:03:41,320 --> 00:03:43,260
+20 kişi çağırıyorsun, bir Fifi açıyor.
+
+64
+00:03:43,260 --> 00:03:45,540
+Abi, şimdi suçlu ben mi oldum yani? Elimde kelepçeler var dedin.
+
+65
+00:03:45,771 --> 00:03:47,570
+Ustaya açtırıyordu.
+
+66
+00:03:48,233 --> 00:03:50,377
+Of! Sağ ol Fifi'm.
+
+67
+00:03:54,254 --> 00:03:56,500
+-İyi misin? -(Eda) İyiyim.
+
+68
+00:03:59,356 --> 00:04:02,467
+Kızım, sen etrafa bir bakar mısın fotoğraf falan çeken oldu mu.
+
+69
+00:04:07,540 --> 00:04:09,680
+-(Eda) Kızlar nerede? -Leyla, alır mısın şunu?
+
+70
+00:04:09,740 --> 00:04:11,100
+Kızları aramam lazım.
