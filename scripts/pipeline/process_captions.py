@@ -57,8 +57,8 @@ def process_caption_files(channel, language, captions_fns, start, end):
 
             if language == 'ja':
                 processed_captions = list(process_captions_ja(captions_in))
-            elif language == 'ru':
-                processed_captions = list(process_captions_ru(captions_in, channel))
+            else:
+                processed_captions = list(process_captions(captions_in, channel))
 
             logging.info("Found {0} lines".format(len(processed_captions)))
 
@@ -72,10 +72,10 @@ def process_caption_files(channel, language, captions_fns, start, end):
     logging.info("Processed {0} files".format(video_count))
 
 
-def process_captions_ru(captions, channel):
+def process_captions(captions, channel):
     for line in captions:
 
-        if line and not re.search("^[0-9]", line):
+        if line and not re.search("^[0-9]([0-9:,\-\ >])*\n", line):
 
             line = remove_emoji(line.strip())
             line = line.replace(":D", "")
@@ -83,8 +83,9 @@ def process_captions_ru(captions, channel):
 
             line = re.sub(r'\([^)]*\)', '', line) # Remove parens
             line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
-            line = re.sub("[♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
+            line = re.sub("[-♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
             line = re.sub("[!?]", ".", line)
+            line = re.sub("\.\.\.", "", line)
 
             if line:
                 if(channel != "AdvokatEgorov"):

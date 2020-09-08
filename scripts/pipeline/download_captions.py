@@ -6,9 +6,9 @@ from os import makedirs, getcwd, path
 from time import sleep
 from sys import argv
 
-def write_subs(channel, video, id, url, subtitles):
+def write_subs(channel, video, id, url, subtitles, language):
 
-    with open(path.join("corpus", "raw_subtitles", channel, video.title.replace("/", "-") + ".srt"), 'w') as outfile:
+    with open(path.join("corpus", "raw_subtitles", language, channel, video.title.replace("/", "-") + ".srt"), 'w') as outfile:
 
         try:
             outfile.write(subtitles.generate_srt_captions())
@@ -16,7 +16,7 @@ def write_subs(channel, video, id, url, subtitles):
             logging.critical("Video {0}: Could not parse XML for {1} ({2})".format(id, url, video.title))
 
 
-def get_subs(channel, id, url, language):
+def get_subs(channel, id, url, language, code):
 
     try:
         video = YouTube(url)
@@ -30,12 +30,14 @@ def get_subs(channel, id, url, language):
         logging.critical("Video {0}: An unexpected error occured ({1})".format(id, url))
         return 0
 
+
     caption_dict = {caption.name: caption for caption in  video.captions.all()}
+    print(caption_dict)
 
     if language in caption_dict.keys():
-        write_subs(channel, video, id, url, caption_dict[language])
+        write_subs(channel, video, id, url, caption_dict[language], code)
         logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
-        return int(video.player_config_args['player_response']['videoDetails']['lengthSeconds'])
+        return video.length
     else:
         logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
         return 0
@@ -43,8 +45,8 @@ def get_subs(channel, id, url, language):
 
 def main(args):
 
-    if not path.exists(path.join("corpus", "raw_subtitles", args.channel)):
-        makedirs(path.join("corpus", "raw_subtitles", args.channel))
+    if not path.exists(path.join("corpus", "raw_subtitles", args.code, args.channel)):
+        makedirs(path.join("corpus", "raw_subtitles", args.code, args.channel))
 
     print("Processing videos from channel {0} in language {1}".format(args.channel, args.language))
     if(args.r):
@@ -58,7 +60,7 @@ def main(args):
         for line in list(video_file)[args.r:]:
 
             url, label = line.strip('\n').split("\t")
-            subbed_length = get_subs(args.channel, total_count + args.r, url, args.language)
+            subbed_length = get_subs(args.channel, total_count + args.r, url, args.language, args.code)
 
             if subbed_length:
                 total_time = total_time + subbed_length
