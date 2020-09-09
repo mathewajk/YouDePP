@@ -38,6 +38,14 @@ A.I.Channel UC4YaOt1yT-ZeyB0OmxHgolA  26  745
 
 Turkish
 ------
-channel_name channel_alias  rank  urls_scraped  subs_scraped total_time_s language
-Sümeyra Çenet Videoları  RuhiCenetBurada  76  7 5969  tr
-Enes Batur  newdaynewgame 420 77  81403 tr
+channel_name channel_alias  urls_scraped  subs_scraped total_time_s language genre
+Dila Kent DilaKent  624 83 NA tr Entertainment
+Sümeyra Çenet Videoları  Sumeyra  76  7 5969  tr  Entertainment
+Enes Batur  EnesBatur 420 77  81403 tr Entertainment
+Sen Çal Kapımı  SenCalKapimi 267 52  NA  tr  Film
+Söz Dizi  S%C3%B6zDizi  320 0 NA  Film
+Troom Troom TR 0 NA Howto
+WooHoo TR  WooHoo 1156 0 tr HowTo
+Sesegel Çocuk Sesegel 335 1 793 tr Gaming
+YasakElma 270 109 34977 Film
+OrkunIsitmak  360 110 64962 tr  People
