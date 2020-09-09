@@ -1,0 +1,231 @@
+1
+00:00:07,360 --> 00:00:09,960
+Bakar mısınız? Şunları alabilirsiniz.
+
+2
+00:00:12,600 --> 00:00:13,600
+'Merci'.
+
+3
+00:00:15,160 --> 00:00:16,160
+Merhaba Ender.
+
+4
+00:00:16,740 --> 00:00:18,780
+-Hoş geldin Halit. -Hoş bulduk.
+
+5
+00:00:19,060 --> 00:00:21,280
+-Bir şey içer misin? -İçmem.
+
+6
+00:00:23,780 --> 00:00:25,040
+Evet, derdin ne?
+
+7
+00:00:26,920 --> 00:00:31,460
+'Merci', bak Halit, geçmişte problem yaşamış olabiliriz.
+
+8
+00:00:31,840 --> 00:00:35,320
+Ama bütün bunların geçmişte kaldığını varsayarak konuşacağım.
+
+9
+00:00:35,600 --> 00:00:36,600
+'Okey'.
+
+10
+00:00:36,800 --> 00:00:38,420
+İyi konuş.
+
+11
+00:00:39,520 --> 00:00:43,260
+Şahika bana şirket hissesi vermeyi teklif etti.
+
+12
+00:00:45,240 --> 00:00:46,900
+-Neden? -Neden olacak?
+
+13
+00:00:48,360 --> 00:00:50,240
+Yaptıklarını ortadan kaldırmak için.
+
+14
+00:00:52,760 --> 00:00:54,040
+Yeni bir şey mi yaptı?
+
+15
+00:00:54,920 --> 00:00:59,540
+Kaya’yla aramı bozmak için aklına ne geliyorsa yaptı.
+
+16
+00:00:59,800 --> 00:01:03,840
+Baktı olmuyor, o da benimle arasını iyi tutmaya karar verdi bence.
+
+17
+00:01:07,320 --> 00:01:08,920
+Çok şaşırdım Ender.
+
+18
+00:01:09,320 --> 00:01:12,540
+Tamam Şahika, Kaya'ya çok değer veriyor biliyorum.
+
+19
+00:01:13,300 --> 00:01:17,940
+Hatta bu yüzden seninle olan evliliğini de kabul etti ama...
+
+20
+00:01:18,800 --> 00:01:21,720
+...hissesinden hibe vereceği aklıma hiç gelmezdi.
+
+21
+00:01:21,920 --> 00:01:24,740
+Kaya’nın hayatındaki yerimi yavaş yavaş anladı.
+
+22
+00:01:25,460 --> 00:01:29,000
+Bizi ayıramayacağından artık emin bence.
+
+23
+00:01:30,100 --> 00:01:31,900
+Sana rüşvet veriyor yani.
+
+24
+00:01:32,800 --> 00:01:34,400
+Sen de bunu almaya hazırsın.
+
+25
+00:01:36,100 --> 00:01:39,160
+Duyar duymaz sana geldim. Senden akıl almak istiyorum.
+
+26
+00:01:41,360 --> 00:01:43,740
+Sen? Benden akıl alacaksın.
+
+27
+00:01:45,120 --> 00:01:47,880
+Yani Halit, neden inanmak istemiyorsun? Anlamıyorum yani.
+
+28
+00:01:48,440 --> 00:01:52,680
+Senden başka danışacağım biri var diyorsan, söyle ona gideyim o zaman.
+
+29
+00:01:53,380 --> 00:01:56,660
+Ayrıca benim sana bunları söylememin başka bir sebebi daha var.
+
+30
+00:01:56,960 --> 00:01:57,960
+Hım!
+
+31
+00:01:58,900 --> 00:01:59,900
+Neymiş o?
+
+32
+00:02:00,560 --> 00:02:03,980
+Eğer şirkette yüzde 5 hissem olursa...
+
+33
+00:02:04,880 --> 00:02:06,680
+...seni kendi yanıma alabilir miyim?
+
+34
+00:02:10,780 --> 00:02:12,160
+Beni yanına alacaksın yani.
+
+35
+00:02:12,400 --> 00:02:15,560
+Seni o kadının yanında görmek beni çok rahatsız ediyor.
+
+36
+00:02:15,780 --> 00:02:18,140
+Sana olan davranışlarına tahammül edemiyorum, Halit...
+
+37
+00:02:18,200 --> 00:02:19,540
+...sen benim oğlumun babasısın.
+
+38
+00:02:20,180 --> 00:02:23,100
+Yani Erim’in seni böyle gördüğünü düşünüyorum da.
+
+39
+00:02:23,460 --> 00:02:25,320
+Yani düşünmek istemiyorum aslında.
+
+40
+00:02:27,960 --> 00:02:30,300
+Peki, Ender.
+
+41
+00:02:31,240 --> 00:02:35,700
+Açıkçası verdiği yüzde 5 hisseyle hiçbir şey olmaz.
+
+42
+00:02:36,680 --> 00:02:39,360
+Şahika seni susturmak için bir şeker veriyor.
+
+43
+00:02:40,820 --> 00:02:41,840
+Bence sen...
+
+44
+00:02:42,600 --> 00:02:44,780
+...yüzde 10’da diret.
+
+45
+00:02:47,700 --> 00:02:49,060
+Kabul eder mi sence?
+
+46
+00:02:49,700 --> 00:02:50,880
+Dene, görelim.
+
+47
+00:02:51,600 --> 00:02:52,600
+İyi.
+
+48
+00:02:53,320 --> 00:02:54,620
+Peki, yani...
+
+49
+00:02:55,320 --> 00:02:58,580
+Öyle olursa benim yanımda yer alır mısın?
+
+50
+00:02:58,960 --> 00:03:01,680
+Asistan olarak değil, bir yönetici olarak.
+
+51
+00:03:01,940 --> 00:03:03,280
+Bana destek olarak.
+
+52
+00:03:04,500 --> 00:03:06,580
+O zaman sen önce o hisseleri al.
+
+53
+00:03:07,380 --> 00:03:08,460
+Daha sonra konuşuruz.
+
+54
+00:03:09,200 --> 00:03:10,940
+'Okay'. Çok 'merci'.
+
+55
+00:03:11,320 --> 00:03:14,100
+Bunlar tabii ki aramızda kalacak. Bunu söylememe gerek bile yok.
+
+56
+00:03:14,200 --> 00:03:15,300
+-Öyle değil mi? -Elbette.
+
+57
+00:03:17,600 --> 00:03:18,980
+Bir şey içmeyeceğinden emin misin?
+
+58
+00:03:18,980 --> 00:03:19,980
+Eminim.

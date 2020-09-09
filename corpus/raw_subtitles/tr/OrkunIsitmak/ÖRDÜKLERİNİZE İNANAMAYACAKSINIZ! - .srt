@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:01,460
+....Şok, şok, şok!
+
+2
+00:00:01,460 --> 00:00:06,540
+Merhaba ben Orkun. Bugün dış ses olacağım ve sokaktaki insanlara magazin programı sunucusuymuş gibi davranacağım.
+
+3
+00:00:06,700 --> 00:00:07,960
+Bakalım neler olacak.
+
+4
+00:00:08,140 --> 00:00:09,700
+"Albüm çalışmaları nasıl gidiyor?"
+
+5
+00:00:10,160 --> 00:00:11,520
+"Hangi albüm?"
+
+6
+00:00:11,640 --> 00:00:14,360
+"Ooo, kaçamak cevaplar... Biz bunları yer miyiz Bülent Bey."
+
+7
+00:00:14,360 --> 00:00:15,500
+"Yersin.
+
+8
+00:00:17,460 --> 00:00:22,020
+"Tüm Türkiye'nin merak ettiği Tuğba bebeği sizler için görüntüledik."
+
+9
+00:00:22,020 --> 00:00:23,240
+"Ama Tuba değil o..."
+
+10
+00:00:24,660 --> 00:00:25,800
+efe bebek
+
+11
+00:00:26,020 --> 00:00:27,880
+"Atlas bebeği sizler için görüntüledik."
+
+12
+00:00:27,960 --> 00:00:29,320
+"El salla ağabeylere."
+
+13
+00:00:31,620 --> 00:00:35,240
+"Bengü'nün hakkınızdaki açıklamalarına cevap verecek misiniz?"
+
+14
+00:00:35,620 --> 00:00:37,240
+"Nasıl?"
+
+15
+00:00:40,540 --> 00:00:42,940
+"Ooo, ilişkide kara bulutlar mı dönüyor?.."
+
+16
+00:00:43,760 --> 00:00:47,080
+"Ünlü çiftin el ele tutuşması gözlerden kaçmadı."
+
+17
+00:00:48,380 --> 00:00:50,240
+"Ooo, beyefendi."
+
+18
+00:00:50,240 --> 00:00:50,840
+"Merhaba."
+
+19
+00:00:50,840 --> 00:00:52,340
+"Gömleğiniz pek de şıkmış."
+
+20
+00:00:52,340 --> 00:00:53,300
+"Vereyim size isterseniz?"
+
+21
+00:00:54,060 --> 00:00:55,140
+"Valla mı?"
+
+22
+00:00:56,100 --> 00:00:58,100
+"Şok, şok, şok!"
+
+23
+00:00:58,820 --> 00:01:01,100
+"Ünlü emekli Necati Amca çay sınırını aştı..."
+
+24
+00:01:01,440 --> 00:01:04,760
+"Çayın su gibi aktığı gecede bakın neler yaşandı."
+
+25
+00:01:05,080 --> 00:01:09,060
+"Bengü'nün hakkınızdaki açıklamalarına cevap verecek misiniz?"
+
+26
+00:01:09,300 --> 00:01:10,940
+"Anlamadım ki hala."
+
+27
+00:01:11,180 --> 00:01:14,000
+"Uzun zamandır ortalıkta görünmeyen hangi şarkıcıyı yakaladık."
+
+28
+00:01:14,020 --> 00:01:15,260
+"Baba neler yapıyorsunuz ya?"
+
+29
+00:01:16,480 --> 00:01:17,980
+"Az sonra!"
+
+30
+00:01:18,240 --> 00:01:20,080
+"Bir açıklama yapacak mısınız?.."
+
+31
+00:01:20,760 --> 00:01:25,600
+"Köpek camiasının ünlü playboy'u Paşa sorularımız yanıtsız bıraktı."
+
+32
+00:01:26,180 --> 00:01:28,180
+"Pardon."
+
+33
+00:01:31,040 --> 00:01:32,880
+"İki ekmek, bir süt alabilir miyim?"
+
+34
+00:01:32,880 --> 00:01:33,600
+"Bizde yok."
+
+35
+00:01:33,700 --> 00:01:37,560
+"Ünlü bakkal işimle gündeme gelmek istemiyorum dedi."
+
+36
+00:01:38,500 --> 00:01:39,560
+*gülüyor*
+
+37
+00:01:40,940 --> 00:01:44,740
+"Ünlü futbolcu parkta maç öncesi hazırlanırken görüntülendi."
+
+38
+00:01:44,740 --> 00:01:46,060
+*gülüyor*
+
+39
+00:01:46,060 --> 00:01:47,860
+"Kimi trollüyorsunuz ya?"
+
+40
+00:01:47,860 --> 00:01:49,460
+*Orkun gülüyor*
+
+41
+00:01:49,500 --> 00:01:51,500
+"Futbolcunun arkadaşı yorumsuz kaldı."
+
+42
+00:01:51,500 --> 00:01:52,960
+*Gülüyor*
+
+43
+00:01:53,400 --> 00:01:54,960
+"İlişkiniz nasıl gidiyor?"
+
+44
+00:01:54,960 --> 00:01:56,020
+"Çok güzel gidiyor."
+
+45
+00:01:56,020 --> 00:01:56,800
+"Elimi tut Serdarcığım."
+
+46
+00:01:56,800 --> 00:01:57,860
+"Gerçekten çok güzel gidiyor."
+
+47
+00:01:58,340 --> 00:01:59,920
+"Öyle değil oğlum elimi tut."
+
+48
+00:02:00,320 --> 00:02:02,200
+"Ünlü çift el ele görüntülendi!"
+
+49
+00:02:02,380 --> 00:02:04,160
+"Bengü var ya şarkıcı olan..."
+
+50
+00:02:04,160 --> 00:02:06,100
+"Bengü, şarkıcı olan."
+
+51
+00:02:06,360 --> 00:02:11,000
+"Favori balığının indirime girdiğini duyan Semra Hanım'ın neşeli tavırları dikkat çekti."
+
+52
+00:02:11,000 --> 00:02:11,740
+"Ben Semra falan değilim..."
+
+53
+00:02:11,740 --> 00:02:12,580
+"Yalnız bu arada."
+
+54
+00:02:12,580 --> 00:02:13,700
+*gülüşüyorlar*
+
+55
+00:02:14,740 --> 00:02:19,520
+"Basından itinayla kaçan çift bakın Starbucks çıkışında nasıl yakalandı."
+
+56
+00:02:19,680 --> 00:02:21,200
+*gülüşüyorlar*
+
+57
+00:02:22,080 --> 00:02:24,080
+Flash, Flash, Flash!
+
+58
+00:02:24,680 --> 00:02:27,660
+"Tadına bakıyorum ayağına dört kilo meyve yedi!"
+
+59
+00:02:28,140 --> 00:02:29,960
+*amca hunharca gülüyor*
+
+60
+00:02:30,940 --> 00:02:32,940
+"Pardon şuradan bir kişi alabilir misiniz?"
+
+61
+00:02:33,740 --> 00:02:35,400
+"Neresi?"
+
+62
+00:02:35,780 --> 00:02:38,720
+"Şok, şok şok! Dolmuşta gergin anlar!.."
+
+63
+00:02:38,900 --> 00:02:41,120
+"Para üstü gelmeyince bakın neler yaşandı!"
+
+64
+00:02:41,560 --> 00:02:43,140
+"Neresi oluyor buradan?"
+
+65
+00:02:43,140 --> 00:02:44,180
+"Levent."
+
+66
+00:02:45,180 --> 00:02:46,300
+"Mehmet Bey."
+
+67
+00:02:46,380 --> 00:02:47,260
+"Efendim?"
+
+68
+00:02:47,260 --> 00:02:49,060
+"Kuru fasulyeyi galiba biraz fazla kaçırdınız."
+
+69
+00:02:49,100 --> 00:02:49,960
+"Evet evet evet."
+
+70
+00:02:49,960 --> 00:02:50,640
+"Burnumuzun direği kırıldı da."
+
+71
+00:02:50,640 --> 00:02:51,860
+"Aynen öyle."
+
+72
+00:02:52,100 --> 00:02:52,880
+"Evet aynen..."
+
+73
+00:02:52,960 --> 00:02:53,960
+"Bi' daha çakayım mı?"
+
+74
+00:02:54,360 --> 00:02:55,260
+"Yo, yok yok..."
+
+75
+00:02:55,360 --> 00:02:57,760
+"Teşekkür ederiz yeter bu kadar."
+
+76
+00:02:58,060 --> 00:02:58,560
+*Orkun gülüyor*
+
+77
+00:02:59,000 --> 00:03:03,440
+"Ya çok pardon bir gözünüzü yumup ağzınızı açabilir misiniz?"
+
+78
+00:03:05,740 --> 00:03:08,260
+"Ünlü oyuncu açtı ağzını yumdu gözünü!"
+
+79
+00:03:08,520 --> 00:03:09,740
+"Çok kötü şaka ya."
+
+80
+00:03:09,920 --> 00:03:10,660
+*Orkun gülüyor*
+
+81
+00:03:11,440 --> 00:03:13,720
+"Bengü sizin hakkınızda açıklama yapmış."
+
+82
+00:03:13,820 --> 00:03:16,040
+"Benim hakkımda niye açıklama yapıyor, işte onu soruyorum."
+
+83
+00:03:16,040 --> 00:03:17,340
+"Öyle uygun görmüş..."
+
+84
+00:03:17,340 --> 00:03:19,000
+"Cevap verecek misiniz siz ona?"
+
+85
+00:03:19,040 --> 00:03:19,820
+"A şey..."
+
+86
+00:03:20,280 --> 00:03:21,340
+"Yok kardeşim ya."
+
+87
+00:03:21,840 --> 00:03:22,900
+"Tamam yok mu?"
+
+88
+00:03:22,900 --> 00:03:23,400
+"Yok kardeşim."
+
+89
+00:03:23,400 --> 00:03:24,820
+"Tamam teşekkürler sağ ol."
+
+90
+00:03:26,600 --> 00:03:30,320
+"Kedi dünyasının ünlü çifti sarmaş dolaş eğlendi..."
+
+91
+00:03:30,440 --> 00:03:34,220
+"Kameralarımızı gören ünlü çift mekandan ayrı ayrı çıkmayı tercih etti."
+
+92
+00:03:34,600 --> 00:03:36,600
+"Sabah sabah iyi şaka yapıyorsunuz."
+
+93
+00:03:36,900 --> 00:03:38,760
+"Sağ olun moralimiz yerine geldi."
+
+94
+00:03:39,060 --> 00:03:39,560
+"Sağ olun."
+
+95
+00:03:39,800 --> 00:03:42,040
+"İzlediğiniz magazin programları var ya televizyonda falan?"
+
+96
+00:03:42,180 --> 00:03:42,680
+"Tamam."
+
+97
+00:03:42,740 --> 00:03:44,580
+"Onların hepsinin sesi benim sesim aslında."
+
+98
+00:03:44,640 --> 00:03:45,740
+"Aynen benziyor."
+
+99
+00:03:45,840 --> 00:03:46,520
+"Tanıdık geldi değil mi?"
+
+100
+00:03:46,520 --> 00:03:47,140
+"Aynen aynen..."
+
+101
+00:03:47,180 --> 00:03:47,680
+"Benziyor."
+
+102
+00:03:47,920 --> 00:03:49,060
+Bu videonun burada sonuna geldik.
+
+103
+00:03:49,060 --> 00:03:50,280
+Ben yaparken çok eğlendim.
+
+104
+00:03:50,280 --> 00:03:51,380
+Umarım siz de eğlenmişsinizdir.
+
+105
+00:03:51,620 --> 00:03:56,040
+Videoyu beğendiyseniz lütfen beğen tuşuna basmayı ve kanalıma hala abone değilseniz aşağıdan abone olmayı unutmayın.
+
+106
+00:03:56,220 --> 00:04:00,080
+Ayrıca şuraya tıklayarak en saçma sokak röportajları videosunu izleyebilirsiniz.
+
+107
+00:04:00,220 --> 00:04:02,560
+Bir sonraki video da görüşmek üzere hoşça kalın, bay bay.

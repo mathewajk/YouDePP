@@ -1,0 +1,219 @@
+1
+00:00:00,000 --> 00:00:02,440
+altyazı-met ah 2
+
+2
+00:00:02,440 --> 00:00:03,460
+bardak sesi
+
+3
+00:00:10,260 --> 00:00:13,620
+Bir kız gördüm barda dururken
+
+4
+00:00:10,640 --> 00:00:12,360
+Bir kız gördüm barda dururken
+
+5
+00:00:13,620 --> 00:00:18,220
+Bir güldü geçtim kendimden
+
+6
+00:00:20,640 --> 00:00:24,120
+Acaba bir iltifat mı etsem
+
+7
+00:00:24,540 --> 00:00:25,700
+Yada arkamı dönüp pes mi etsem
+
+8
+00:00:25,700 --> 00:00:28,820
+Yada arkamı dönüp pesmi etsem
+
+9
+00:00:30,380 --> 00:00:35,160
+Döndü baktı saçını attı bir bakışı canımı yaktı
+
+10
+00:00:32,960 --> 00:00:35,080
+Bir bakışı canımı yaktı
+
+11
+00:00:35,320 --> 00:00:37,540
+Gözlerimi şaşı yaptı
+
+12
+00:00:35,440 --> 00:00:38,240
+Gözlerimi şaşı yaptı
+
+13
+00:00:37,540 --> 00:00:41,640
+Hayır! Hayır! Hayır!O benim olmalı
+
+14
+00:00:40,720 --> 00:00:42,760
+O benim olmalı
+
+15
+00:00:42,780 --> 00:00:45,220
+O kadar kız içinden aynı kızı bulduk
+
+16
+00:00:42,960 --> 00:00:45,680
+O kadar kız içinden aynı kızı bulduk
+
+17
+00:00:45,220 --> 00:00:47,540
+İki çiçek alınca adam mı olduk
+
+18
+00:00:45,760 --> 00:00:47,920
+İki çiçek alınca adam mı olduk
+
+19
+00:00:47,540 --> 00:00:52,000
+Bizi oynatıyorsun olmadı böyle
+
+20
+00:00:47,920 --> 00:00:52,000
+Bizi oynatıyosun olmadı böyle
+
+21
+00:00:52,900 --> 00:00:55,520
+O kadar kız içinden aynı kızı bulduk
+
+22
+00:00:52,960 --> 00:00:55,520
+O kadar kız içinden aynı kızı bulduk
+
+23
+00:00:55,520 --> 00:00:57,960
+İki tatlı sözle adam mı olduk
+
+24
+00:00:58,080 --> 00:01:01,840
+Kimi, kimi seviyosun gel artık söyle!
+
+25
+00:01:23,200 --> 00:01:26,720
+Karar ver artık ben mi o mu? Karar ver artık ben mi o mu?
+
+26
+00:01:26,720 --> 00:01:32,320
+Benmi? O mu? Yoksa bir başkası mı var?
+
+27
+00:01:29,020 --> 00:01:34,220
+Yoksa bir başkası mı var?
+
+28
+00:01:32,420 --> 00:01:35,540
+Varsa söyle üzme bizi
+
+29
+00:01:34,220 --> 00:01:39,160
+Varsa söyle üzme bizi
+
+30
+00:01:35,720 --> 00:01:38,500
+Üzme bizi
+
+31
+00:01:39,360 --> 00:01:44,000
+Haydi kaçanzi
+
+32
+00:01:40,260 --> 00:01:43,280
+Haydi kaçanzi
+
+33
+00:01:45,920 --> 00:01:48,520
+O kadar kız içinden aynı kızı bulduk
+
+34
+00:01:45,980 --> 00:01:48,520
+O kadar kız içinden aynı kızı bulduk
+
+35
+00:01:48,520 --> 00:01:51,120
+İki çiçek alınca adam mı olduk
+
+36
+00:01:48,640 --> 00:01:51,040
+İki çiçek alınca adam mı olduk
+
+37
+00:01:51,120 --> 00:01:55,360
+Bizi oynatıyorsun olmadı böyle
+
+38
+00:01:51,200 --> 00:01:55,360
+Bizi oynatıyosun olmadı böyle
+
+39
+00:01:56,000 --> 00:01:58,220
+O kadar kız içinden aynı kızı bulduk
+
+40
+00:01:56,320 --> 00:01:58,720
+O kadar kız içinden aynı kızı bulduk
+
+41
+00:01:58,220 --> 00:02:00,900
+İki tatlı sözle adam mı olduk
+
+42
+00:01:58,880 --> 00:02:01,280
+İki tatlı sözle adammı olduk
+
+43
+00:02:00,900 --> 00:02:05,340
+Kimi kimi seviyorsun gel artık söyle
+
+44
+00:02:01,280 --> 00:02:05,120
+Kimi kimi seviyosun gel artık söyle
+
+45
+00:02:05,980 --> 00:02:08,420
+O kadar kız içinden aynı kızı bulduk
+
+46
+00:02:06,240 --> 00:02:08,800
+O kadar kız içinden aynı kızı bulduk
+
+47
+00:02:08,420 --> 00:02:11,160
+İki çiçek alınca adam mı olduk
+
+48
+00:02:08,960 --> 00:02:11,360
+İki çiçek alınca adammı olduk
+
+49
+00:02:11,160 --> 00:02:16,160
+Bizi oynatıyorsun olmadı böyle
+
+50
+00:02:11,360 --> 00:02:16,160
+Bizi oynatıyosun olmadı böyle
+
+51
+00:02:16,480 --> 00:02:18,720
+O kadar kız içinden aynı kızı bulduk
+
+52
+00:02:18,560 --> 00:02:21,380
+İki tatlı sözle adam mı olduk
+
+53
+00:02:19,200 --> 00:02:21,440
+İki tatlı sözle adammı olduk
+
+54
+00:02:21,380 --> 00:02:25,600
+Kimi kimi seviyorsun gel artık söyle
+
+55
+00:02:21,600 --> 00:02:25,600
+Kimi kimi seviyorsun gel artık söyle

@@ -1,0 +1,243 @@
+1
+00:00:00,000 --> 00:00:00,500
+(müzik)
+
+2
+00:00:00,500 --> 00:00:01,940
+[müzik]
+
+3
+00:00:01,980 --> 00:00:04,680
+müzik
+
+4
+00:00:04,880 --> 00:00:05,880
+müzik
+
+5
+00:00:06,675 --> 00:00:07,675
+müzik
+
+6
+00:00:08,635 --> 00:00:09,380
+merhaba
+
+7
+00:00:10,845 --> 00:00:12,315
+kusura bakmayın uyandırdım sizi
+
+8
+00:00:12,315 --> 00:00:15,385
+yeni yıldan bir hediye isteyecek olsanız ne isterdiniz acaba?
+
+9
+00:00:16,135 --> 00:00:17,135
+hiçbirşeyim yok herşey olur
+
+10
+00:00:17,135 --> 00:00:19,135
+ 
+
+11
+00:00:23,160 --> 00:00:24,160
+merhaba
+
+12
+00:00:24,160 --> 00:00:25,820
+ 
+
+13
+00:00:25,820 --> 00:00:29,180
+yeni yıldan bir hediye isteyecek olsanız ne isterdiniz?
+
+14
+00:00:31,235 --> 00:00:33,055
+bir ihtiyacınız bir isteğiniz yok mu?
+
+15
+00:00:39,395 --> 00:00:40,935
+senden başkası yok mu burada?
+
+16
+00:00:42,060 --> 00:00:43,060
+heh merhaba
+
+17
+00:00:43,680 --> 00:00:45,940
+yeni yıl için bir hediye isteyecek olsanız
+
+18
+00:00:45,940 --> 00:00:47,500
+ne isterdiniz acaba?
+
+19
+00:00:49,720 --> 00:00:50,720
+evet
+
+20
+00:00:52,560 --> 00:00:53,560
+merhaba
+
+21
+00:00:54,740 --> 00:00:56,080
+burada mı kalıyorsunuz?
+
+22
+00:00:56,480 --> 00:00:59,800
+yeni yıldan bir hediye isteyecek olsanız ne isterdiniz acaba?
+
+23
+00:01:00,900 --> 00:01:01,900
+ 
+
+24
+00:01:03,255 --> 00:01:03,800
+ne isterdim bilmiyorum ki
+
+25
+00:01:06,355 --> 00:01:09,265
+herhangi bir şey ne isterdiniz?
+
+26
+00:01:09,385 --> 00:01:11,785
+mont mu isterdiniz?
+
+27
+00:01:11,785 --> 00:01:15,185
+tamam peki burada mısınız yarım saat sonra geleceğiz tamam hoşça kalın
+
+28
+00:01:19,155 --> 00:01:21,605
+kalın kazak nerede var acaba?
+
+29
+00:01:26,265 --> 00:01:29,075
+dayının eldiveni kesikti değil mi eldiven alalım
+
+30
+00:01:39,015 --> 00:01:40,015
+merhaba
+
+31
+00:01:41,275 --> 00:01:42,905
+hediye aldık ufak size
+
+32
+00:01:44,325 --> 00:01:45,605
+ayakkabı aldık buyrun
+
+33
+00:01:47,020 --> 00:01:48,600
+hoşça kalın görüşürüz
+
+34
+00:01:51,220 --> 00:01:52,480
+merhaba tekrar
+
+35
+00:01:53,020 --> 00:01:56,400
+siz bizden bir şey istemediniz ama ben ben köpekler için mama getirdim
+
+36
+00:01:59,260 --> 00:02:01,500
+ne demek rica ederim
+
+37
+00:02:02,060 --> 00:02:03,200
+buradan aldık
+
+38
+00:02:05,320 --> 00:02:06,940
+rica ederim,hoşça kalın,iyi yıllar
+
+39
+00:02:07,060 --> 00:02:08,100
+iyi yıllar
+
+40
+00:02:11,860 --> 00:02:12,960
+merhaba tekrar
+
+41
+00:02:14,880 --> 00:02:15,880
+merhaba
+
+42
+00:02:15,920 --> 00:02:16,920
+buyurun
+
+43
+00:02:19,340 --> 00:02:21,120
+iyi yıllar rica ederim ne demek
+
+44
+00:02:21,260 --> 00:02:23,300
+ben teşekkür ederim hoşça kalın
+
+45
+00:02:26,220 --> 00:02:27,860
+merhaba tekrar
+
+46
+00:02:28,260 --> 00:02:29,240
+buyurun
+
+47
+00:02:30,820 --> 00:02:32,320
+umarım üstünüze olur
+
+48
+00:02:32,320 --> 00:02:33,320
+ 
+
+49
+00:02:37,740 --> 00:02:40,320
+güle güle giyin(x2)
+
+50
+00:02:40,560 --> 00:02:43,420
+hoşça kalın çok sağ olun görüşürüz
+
+51
+00:02:43,620 --> 00:02:44,120
+gel bakılım babacım
+
+52
+00:02:45,220 --> 00:02:46,220
+al bakalım
+
+53
+00:02:46,815 --> 00:02:49,545
+al bakalım oh oh afiyet olsun
+
+54
+00:02:50,535 --> 00:02:53,115
+merhaba yılbaşı için ne isterdiniz acaba
+
+55
+00:02:53,115 --> 00:02:56,385
+ne isteyeceksin sevgi ve mama isteyeceksin değil mi
+
+56
+00:02:56,385 --> 00:02:57,595
+şebek gel
+
+57
+00:02:58,460 --> 00:03:00,240
+hop al afiyet olsun
+
+58
+00:03:00,500 --> 00:03:01,600
+gel bakalım babacım
+
+59
+00:03:02,120 --> 00:03:04,000
+gel bakalım hop ba
+
+60
+00:03:04,435 --> 00:03:05,435
+afiyet olsun güzellik
+
+61
+00:03:06,815 --> 00:03:07,925
+hadi baklım hoşça kalın

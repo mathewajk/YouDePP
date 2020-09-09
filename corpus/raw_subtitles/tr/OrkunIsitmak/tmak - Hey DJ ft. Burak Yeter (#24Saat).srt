@@ -1,0 +1,295 @@
+1
+00:00:00,540 --> 00:00:01,900
+Hey DJ
+
+2
+00:00:02,820 --> 00:00:03,940
+Hey DJ
+
+3
+00:00:05,300 --> 00:00:06,340
+Hey DJ
+
+4
+00:00:10,020 --> 00:00:11,580
+Hey DJ
+
+5
+00:00:12,600 --> 00:00:13,920
+Hey DJ
+
+6
+00:00:14,960 --> 00:00:15,840
+Hey DJ
+
+7
+00:00:17,040 --> 00:00:17,940
+Hey DJ
+
+8
+00:00:19,540 --> 00:00:21,240
+Hey DJ Bir Bak Buraya
+
+9
+00:00:22,020 --> 00:00:23,260
+Ver Coşkuyu Yansın Buralar
+
+10
+00:00:24,160 --> 00:00:25,740
+Güzel Mi Güzel Manzara
+
+11
+00:00:26,300 --> 00:00:29,180
+Eğlence Bu Gece Dibine Kadar
+
+12
+00:00:29,380 --> 00:00:37,540
+Hey DJ x4
+
+13
+00:00:38,680 --> 00:00:41,300
+Bir Yürürdü Nasıl Söyleyeyim
+
+14
+00:00:41,400 --> 00:00:44,220
+Endamı Ah Kalbe Zarar Vay Anasını
+
+15
+00:00:44,220 --> 00:00:48,140
+Aklımı Seveyim Geri Bas Sarsılacak Buralar
+
+16
+00:00:48,720 --> 00:00:50,780
+Öyle Bi Havalar Egosu Tavan
+
+17
+00:00:51,120 --> 00:00:53,360
+Bir Kapris Varki Aman Aman
+
+18
+00:00:53,360 --> 00:00:57,020
+Mantık kalmadı Bu Noktada Hey Gidi Dost Düşman Başına
+
+19
+00:00:58,460 --> 00:00:59,300
+Hey DJ
+
+20
+00:01:00,980 --> 00:01:01,980
+Hey DJ
+
+21
+00:01:03,320 --> 00:01:04,320
+Hey DJ
+
+22
+00:01:07,520 --> 00:01:09,220
+Hey DJ Bir Bak Buraya
+
+23
+00:01:10,100 --> 00:01:11,460
+Ver Coşkuyu Yansın Buralar
+
+24
+00:01:12,420 --> 00:01:15,280
+Güzel mi güzel manzara
+
+25
+00:01:15,320 --> 00:01:17,240
+Eğlence bu gece dibine kadar
+
+26
+00:01:17,460 --> 00:01:19,100
+Hey DJ bir bak buraya
+
+27
+00:01:19,520 --> 00:01:21,460
+Ver coşkuyu yansın buralar
+
+28
+00:01:22,320 --> 00:01:25,360
+Güzel mi güzel manzara eğlence bu gece
+
+29
+00:01:25,360 --> 00:01:26,400
+Dibine kadar
+
+30
+00:01:26,820 --> 00:01:27,820
+Hey DJ
+
+31
+00:01:29,040 --> 00:01:35,160
+Hey DJ
+
+32
+00:01:36,260 --> 00:01:38,860
+Bir yürüdü nasıl söyleyeyim
+
+33
+00:01:39,040 --> 00:01:41,020
+Endamı ah kalbe zarar
+
+34
+00:01:41,060 --> 00:01:45,380
+Vay anasını aklımı seveyim geri bas sarsılacak buralar
+
+35
+00:01:45,380 --> 00:01:48,040
+Öyle bir havalar egosu tavan
+
+36
+00:01:48,440 --> 00:01:50,900
+Bir kapris var ki aman aman
+
+37
+00:01:50,900 --> 00:01:52,940
+Mantık kalmadı bu noktada
+
+38
+00:01:53,520 --> 00:01:55,240
+Hey gidi dost düşman başına
+
+39
+00:01:55,640 --> 00:01:58,200
+Oturmaya mı geldik vallahi
+
+40
+00:01:58,320 --> 00:02:00,580
+Bilmiyorum bende kendimi
+
+41
+00:02:00,580 --> 00:02:02,220
+Deliye vurdum bir hayli
+
+42
+00:02:02,220 --> 00:02:05,300
+Vaziyetimin anlık tarifi
+
+43
+00:02:05,540 --> 00:02:06,540
+Hey DJ
+
+44
+00:02:07,860 --> 00:02:09,500
+Hey DJ
+
+45
+00:02:10,880 --> 00:02:11,880
+Hey DJ
+
+46
+00:02:14,700 --> 00:02:16,900
+Hey DJ bir bak buraya
+
+47
+00:02:17,100 --> 00:02:18,060
+Ver coşkuyu
+
+48
+00:02:18,060 --> 00:02:19,060
+Yansın buralar
+
+49
+00:02:19,680 --> 00:02:22,420
+Güzel mi güzel manzara
+
+50
+00:02:22,420 --> 00:02:24,020
+Eğlence bu gece dibine kadar
+
+51
+00:02:24,440 --> 00:02:26,480
+Hey DJ bir bak buraya
+
+52
+00:02:26,960 --> 00:02:28,660
+Ver coşkuyu yansın buralar
+
+53
+00:02:29,300 --> 00:02:31,340
+Güzel mi güzel manzara
+
+54
+00:02:31,340 --> 00:02:33,400
+Eğlence bu gece dibine kadar
+
+55
+00:02:35,580 --> 00:02:41,580
+Hey DJ
+
+56
+00:02:45,180 --> 00:02:46,180
+Hey DJ
+
+57
+00:02:55,640 --> 00:02:58,100
+Evet az önce dinlemiş olduğunuz şarkıyı
+
+58
+00:02:58,100 --> 00:03:01,120
+ve izlemiş olduğunuz klibi 24 saat içerisinde
+
+59
+00:03:01,120 --> 00:03:02,960
+Her şeyini sıfırdan yaptık
+
+60
+00:03:02,960 --> 00:03:05,980
+Yani şarkının altyapısını sözlerini klibin
+
+61
+00:03:05,980 --> 00:03:07,560
+Ne olduğunun belirlenmesi
+
+62
+00:03:07,560 --> 00:03:10,520
+Çekimi kurgusu her şeyi en baştan
+
+63
+00:03:10,520 --> 00:03:12,340
+24 saat içerisinde yaptık
+
+64
+00:03:12,380 --> 00:03:15,260
+Ve şuan bir 30 saattir 32 saattir ayaktayız
+
+65
+00:03:15,260 --> 00:03:17,740
+İnanılmaz yorulduk
+
+66
+00:03:17,800 --> 00:03:20,020
+Ama değişik güzel eğlenceli bir şarkı oldu bence
+
+67
+00:03:20,020 --> 00:03:21,260
+Ve bu
+
+68
+00:03:21,260 --> 00:03:23,720
+24 saatlik sürecin nasıl geçtiğini merak ediyorsanız
+
+69
+00:03:23,720 --> 00:03:26,380
+Şuradan 2. kanalın kamera arkası videosundan
+
+70
+00:03:26,380 --> 00:03:29,180
+En baştan en sonuna kadar bütün süreci izleyebilirsiniz
+
+71
+00:03:29,240 --> 00:03:30,480
+Videoyu beğendiyseniz 👍
+
+72
+00:03:30,500 --> 00:03:33,200
+Ve daha fazla 24 saat serisinde video görmek istiyorsanız
+
+73
+00:03:33,200 --> 00:03:36,200
+Videoyu beğenmeyi ve aşağıdan yorum atmayı unutmayın
+
+74
+00:03:36,200 --> 00:03:39,120
+Bir sonraki videoda görüşmek üzere hoşça kalın bay bayy🖐

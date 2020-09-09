@@ -1,0 +1,359 @@
+1
+00:00:11,300 --> 00:00:13,621
+-Efendim abiciğim? -Şahika, neredesin?
+
+2
+00:00:13,862 --> 00:00:16,177
+Şirkete doğru yoldayım. Birazdan orada olurum.
+
+3
+00:00:16,418 --> 00:00:19,193
+Tamam. Seninle konuşmamız gereken şeyler var.
+
+4
+00:00:19,434 --> 00:00:21,000
+Nadir'in avukatı olduğum için...
+
+5
+00:00:21,240 --> 00:00:23,480
+...sana anlatmam gereken, yani Nadir'in işiyle ilgili...
+
+6
+00:00:23,480 --> 00:00:24,920
+...söylemem gereken şeyler var.
+
+7
+00:00:25,080 --> 00:00:27,020
+Abiciğim, lütfen hiçbir şey değişmesin.
+
+8
+00:00:27,220 --> 00:00:28,660
+Sen benim de avukatım olacaksın.
+
+9
+00:00:28,800 --> 00:00:30,800
+Senden başkasına güvenemem ki zaten.
+
+10
+00:00:31,260 --> 00:00:33,440
+Yoksa yine Ender mi seni doldurdu?
+
+11
+00:00:33,680 --> 00:00:36,520
+-Kimsenin doldurduğu falan yok. - Tamam, yani...
+
+12
+00:00:36,520 --> 00:00:39,400
+...beni bu kurtlar sofrasında bir başıma bırakmayacaksın, değil mi?
+
+13
+00:00:39,400 --> 00:00:41,780
+-Benim yanımda ol, bana destek ol. -Tamam Şahika.
+
+14
+00:00:42,024 --> 00:00:44,024
+Ben şirkete geliyorum. Orada konuşuruz, olur mu?
+
+15
+00:00:44,265 --> 00:00:46,265
+-Tamam, birazdan görüşürüz. -Görüşürüz.
+
+16
+00:00:52,591 --> 00:00:53,991
+Güzel bir gün oluyor.
+
+17
+00:01:04,800 --> 00:01:06,578
+'Hello' Şahika.
+
+18
+00:01:07,758 --> 00:01:09,345
+Aa, Enderciğim.
+
+19
+00:01:10,674 --> 00:01:13,597
+-Hasretime dayanamadın bakıyorum. -Evet.
+
+20
+00:01:14,012 --> 00:01:17,189
+Evde çok sıkıldım. Seni bir göreyim dedim.
+
+21
+00:01:18,436 --> 00:01:22,894
+Çok haklısın hayatım. Yani yokluğuma dayanmak zordur.
+
+22
+00:01:23,360 --> 00:01:25,560
+Ama burası benim iş yerim hayatım.
+
+23
+00:01:25,600 --> 00:01:28,280
+Öyle her özlediğinde gelip göremezsin beni.
+
+24
+00:01:28,663 --> 00:01:31,683
+Sen beni özledikçe söyle, ben seninle evde oynarım.
+
+25
+00:01:32,516 --> 00:01:36,774
+Ev başka, iş başka. Ben seni her yerde görmek istiyorum Şahika.
+
+26
+00:01:37,538 --> 00:01:40,205
+Ender, sende bir idrak sorunu var galiba.
+
+27
+00:01:40,586 --> 00:01:43,009
+Bak, burası benim ve ben seni burada istemiyorum.
+
+28
+00:01:43,250 --> 00:01:45,250
+Bunu daha önce konuşmuştuk, değil mi?
+
+29
+00:01:45,521 --> 00:01:49,537
+Ama derdin para falansa, tazminat istiyorsan söyle...
+
+30
+00:01:49,840 --> 00:01:52,180
+...muhasebeyle konuşayım, hemen yapsınlar ödemeni.
+
+31
+00:01:52,220 --> 00:01:53,780
+Sen de çık git.
+
+32
+00:01:57,332 --> 00:02:01,400
+Şahikacığım, ben hâlâ burada çalışıyorum.
+
+33
+00:02:02,820 --> 00:02:04,880
+Yok, sende demans başlangıcı var.
+
+34
+00:02:04,880 --> 00:02:06,620
+Sen bir doktora görün en iyisi.
+
+35
+00:02:07,080 --> 00:02:08,500
+Kusura bakmayın, geciktim biraz.
+
+36
+00:02:08,560 --> 00:02:11,180
+-Başlayabiliriz Kaya, ne dersin? -Olur.
+
+37
+00:02:13,420 --> 00:02:15,680
+-Ne oluyor? -Bir şey olduğu yok.
+
+38
+00:02:16,431 --> 00:02:18,431
+Nadir'in işlerini konuşalım demedik mi?
+
+39
+00:02:19,104 --> 00:02:21,615
+Konuşacaktık da Ender'in burada ne işi var?
+
+40
+00:02:21,856 --> 00:02:24,973
+Ender artık benimle çalışıyor. Buradaki işlerle ilgilenecek.
+
+41
+00:02:25,214 --> 00:02:26,929
+-Anlamadım. -Söyledim işte.
+
+42
+00:02:27,170 --> 00:02:28,703
+Artık birlikte çalışıyoruz.
+
+43
+00:02:28,944 --> 00:02:30,944
+Sen eğer benimle çalışmak istemiyorsan...
+
+44
+00:02:31,185 --> 00:02:34,461
+...başka bir avukata yönlendirebilirim seni. Benim için bir sorun yok.
+
+45
+00:02:38,793 --> 00:02:41,950
+Abiciğim, Ender hukuk mu biliyor?
+
+46
+00:02:42,991 --> 00:02:46,963
+Ender'in hukuk bilmesine gerek yok. O, şirket içi işleri gayet iyi biliyor.
+
+47
+00:02:47,259 --> 00:02:49,943
+Zaten davalara ben bakacağım. Sorun yok yani.
+
+48
+00:02:51,360 --> 00:02:53,080
+Ben eski odama yerleşirim.
+
+49
+00:02:53,080 --> 00:02:56,560
+Benim için yeni bir oda arayışına gerek yok Şahika.
+
+50
+00:02:58,440 --> 00:03:00,760
+Seninle odamda konuşabilir miyiz lütfen?
+
+51
+00:03:02,012 --> 00:03:04,636
+Acele etmeyin, ben beklerim.
+
+52
+00:03:11,576 --> 00:03:12,735
+Geliyorum.
+
+53
+00:03:25,043 --> 00:03:26,569
+Ne demek oluyor bu?
+
+54
+00:03:27,703 --> 00:03:28,929
+Bir şey olduğu yok.
+
+55
+00:03:29,170 --> 00:03:31,749
+Sen de mi benim arkamdan iş çevirmeye başladın abi?
+
+56
+00:03:32,448 --> 00:03:36,191
+Şahikacığım, sevgili karım evde oturmaktan çok sıkıldı.
+
+57
+00:03:36,432 --> 00:03:38,285
+O yüzden de ona iş teklif ettim. Ne var bunda?
+
+58
+00:03:38,526 --> 00:03:39,849
+Ben de bunu yedim.
+
+59
+00:03:40,090 --> 00:03:42,483
+Ben sana günlerce bana iş ver diye yalvardım.
+
+60
+00:03:42,724 --> 00:03:44,256
+Bana sırtını çevirdin.
+
+61
+00:03:44,497 --> 00:03:46,630
+Ender benden daha mı kıymetli, anlamıyorum ki!
+
+62
+00:03:46,871 --> 00:03:48,871
+Şahika, ikisi aynı şey değil, bunu biliyorsun.
+
+63
+00:03:49,320 --> 00:03:51,820
+-Bana farkı anlatır mısın? -Hemen anlatayım.
+
+64
+00:03:52,200 --> 00:03:55,840
+Senin listen o kadar kabarık ki ne ben seni yanıma alabildim...
+
+65
+00:03:55,940 --> 00:03:58,740
+...ne de bir başka insanın yanında çalışman için sana referans olabildim.
+
+66
+00:03:58,840 --> 00:04:01,000
+Çünkü sen limitleri çoktan doldurmuştun.
+
+67
+00:04:01,380 --> 00:04:04,820
+Abi, gerçekten bunları duymaktan o kadar çok sıkıldım ki.
+
+68
+00:04:05,068 --> 00:04:07,587
+Senin karın çok mu masum, çok mu farklı?
+
+69
+00:04:07,828 --> 00:04:11,064
+Onun tek farkı, her şeyi çok güzel gizlemesi.
+
+70
+00:04:11,305 --> 00:04:13,305
+Şahika, sana çok açık ve net söylüyorum.
+
+71
+00:04:13,546 --> 00:04:15,956
+Benimle çalışmak istiyor musun istemiyor musun? Benim için hava hoş.
+
+72
+00:04:16,197 --> 00:04:18,197
+Eğer istiyorsan bütün evrakları sana devredebilirim.
+
+73
+00:04:18,438 --> 00:04:20,307
+Abi, nasıl böyle bir şey sorarsın?
+
+74
+00:04:20,540 --> 00:04:22,360
+Ben bu şirketin başına geçerken...
+
+75
+00:04:22,380 --> 00:04:24,800
+...arkamda sen varsın diye kendime güvendim.
+
+76
+00:04:24,860 --> 00:04:26,340
+Şahika, bu bir cevap değil.
+
+77
+00:04:26,571 --> 00:04:29,214
+Çalışmak istiyor musun istemiyor musun? Açıkça söyle.
+
+78
+00:04:29,460 --> 00:04:32,320
+Yani diyorsun ki Ender de gelirse varım, yoksa yokum.
+
+79
+00:04:32,320 --> 00:04:33,920
+-Öyle mi? -Aynen öyle.
+
+80
+00:04:37,300 --> 00:04:39,960
+-Yine o kazanacak. -Ortada bir savaş mı var?
+
+81
+00:04:40,600 --> 00:04:44,360
+Zamanında siz birlikte çalıştınız. Birbirinizi görmek zorunda değilsiniz.
+
+82
+00:04:44,380 --> 00:04:47,280
+Zaman içerisinde sen onu işinden ettin, o seni işinden etti.
+
+83
+00:04:47,280 --> 00:04:48,860
+Ödeşmiş oldunuz, öyle değil mi?
+
+84
+00:04:51,674 --> 00:04:53,674
+-İyi, peki, tamam. -Tamam derken?
+
+85
+00:04:55,750 --> 00:04:59,147
+Tamam, kalsın ama sadece senin hatırın için.
+
+86
+00:04:59,954 --> 00:05:03,352
+İyi. O zaman toplantı odasına dönüp çalışmaya devam edelim.
+
+87
+00:05:04,012 --> 00:05:06,631
+Abi, bunun benim için ne kadar büyük bir fedakârlık olduğunun...
+
+88
+00:05:06,872 --> 00:05:08,472
+...farkındasın değil mi?
+
+89
+00:05:08,713 --> 00:05:11,899
+Böyle bir şeye sadece senin için katlanıyorum, seni çok sevdiğim için.
+
+90
+00:05:12,788 --> 00:05:13,900
+Biliyorum.

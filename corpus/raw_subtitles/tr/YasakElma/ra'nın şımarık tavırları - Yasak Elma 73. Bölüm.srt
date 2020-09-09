@@ -1,0 +1,283 @@
+1
+00:00:01,800 --> 00:00:03,029
+Burası.
+
+2
+00:00:06,416 --> 00:00:10,006
+Abim, hoş geldiniz. Dört kişi miydiniz? Şöyle buyurun.
+
+3
+00:00:18,720 --> 00:00:21,980
+-Ne alırdınız? - Biz döner alalım, değil mi?
+
+4
+00:00:22,240 --> 00:00:25,640
+-Ne içersiniz? Ayran? -Olur. Ayran olur.
+
+5
+00:00:25,640 --> 00:00:26,880
+-Dört tane de ayran olsun. -Tamam.
+
+6
+00:00:26,940 --> 00:00:29,620
+Yalnız ben böyle ekmek arası ya da dürüm yiyemem.
+
+7
+00:00:29,840 --> 00:00:32,320
+-Porsiyon varsa porsiyon verin bana. -Tamam.
+
+8
+00:00:33,580 --> 00:00:35,860
+Lilacığım ya, sizi yemeğe götüreceğim deyince...
+
+9
+00:00:35,860 --> 00:00:37,720
+...ben de insan gibi bir yere götüreceksin zannettim.
+
+10
+00:00:37,720 --> 00:00:40,980
+-Dürümcüye mi getirdin bizi? -Ablacığım, haftalığım buna yetti.
+
+11
+00:00:41,520 --> 00:00:43,560
+Öyle demeyin. Bence gayet güzel bir yer.
+
+12
+00:00:43,660 --> 00:00:46,200
+-Ya öyle! -Zehra, bence teşekkür et.
+
+13
+00:00:46,465 --> 00:00:48,593
+Hatta teşekkür etmekle de kalma...
+
+14
+00:00:48,834 --> 00:00:51,056
+...sen de bir şeyler yap. -Ne yapayım mesela babacığım?
+
+15
+00:00:51,297 --> 00:00:53,668
+Mesela ne yapmamı istiyorsunuz? Hepiniz benim üstüme geliyorsunuz.
+
+16
+00:00:53,900 --> 00:00:56,360
+Doğduğum günden beri beni cam bir fanusun içinde yetiştirdin....
+
+17
+00:00:56,520 --> 00:00:58,420
+...şimdi 30 yaşıma geldim, hadi çalış diyorsun.
+
+18
+00:00:58,560 --> 00:01:01,020
+Nerede çalışayım ben? Ne iş yapayım, söyleyin bana!
+
+19
+00:01:02,320 --> 00:01:04,880
+Biz de seninle aynı evde yaşıyorduk, değil mi abla?
+
+20
+00:01:05,906 --> 00:01:07,319
+Mesela ben gitarımı sattım.
+
+21
+00:01:07,560 --> 00:01:08,814
+-Ne? -Nasıl yani?
+
+22
+00:01:09,116 --> 00:01:12,563
+Evet. Ama bir daha böyle bir şey yapmayacağına söz verdi.
+
+23
+00:01:12,833 --> 00:01:14,043
+Değil mi oğlum?
+
+24
+00:01:14,600 --> 00:01:18,540
+Evet, anladım ben. Gayet iyi anladım.
+
+25
+00:01:18,640 --> 00:01:22,360
+Ben de mücevherlerimi sattım ama ben mücevherlerimi satınca büyük olay çıktı.
+
+26
+00:01:22,608 --> 00:01:24,798
+Şimdi böyle bir şey olmuyor. Ne oluyor, anlamıyorum ben.
+
+27
+00:01:25,040 --> 00:01:26,480
+-Aynı şey mi kızım? -Değil mi baba?
+
+28
+00:01:26,580 --> 00:01:28,320
+Gayet aynı şey. Niye sattım ben mücevherlerimi?
+
+29
+00:01:28,581 --> 00:01:31,497
+Ben de para bulmak için sattım. Ama ben yapınca tüh kaka...
+
+30
+00:01:31,745 --> 00:01:34,842
+...bunlar yapınca oo, bravo, alkış kıyamet. Nasıl oluyor ya?
+
+31
+00:01:35,083 --> 00:01:37,164
+Kızım, biraz sakin ol. Aa!
+
+32
+00:01:38,082 --> 00:01:39,712
+Tövbe ya Rabb'im ya!
+
+33
+00:01:45,782 --> 00:01:48,800
+Kız haftalığını almış, bizi yemeğe getirmiş...
+
+34
+00:01:49,546 --> 00:01:51,691
+...niye ağzımızın tadını bozuyoruz, anlamıyorum ki.
+
+35
+00:01:51,932 --> 00:01:53,180
+Tamam ya!
+
+36
+00:02:00,100 --> 00:02:03,007
+Abla, bir şey soracağım. Şimdi senin paran sadece bir dürüme mi yetiyor?
+
+37
+00:02:03,240 --> 00:02:05,660
+-Doymadın mı oğlum? -Bir tane daha söyleyelim.
+
+38
+00:02:05,720 --> 00:02:07,860
+Evet, söyle. Ben hallederim kızım.
+
+39
+00:02:08,100 --> 00:02:10,460
+Baba, olur mu öyle şey? Ben söz verdim, ben ödeyeceğim.
+
+40
+00:02:11,640 --> 00:02:13,380
+-Başka isteyen var mı? -Yok.
+
+41
+00:02:13,661 --> 00:02:15,830
+Bakar mısın? Biz bir dürüm daha alabilir miyiz?
+
+42
+00:02:16,071 --> 00:02:17,071
+Tamam.
+
+43
+00:02:17,809 --> 00:02:19,939
+Yiğit ne yapıyor peki? Becerebiliyor mu işi?
+
+44
+00:02:22,180 --> 00:02:23,389
+Yiğit ne alaka?
+
+45
+00:02:24,000 --> 00:02:26,300
+Ben okulun kafeteryasında çalışıyorum ya...
+
+46
+00:02:26,440 --> 00:02:28,280
+...Yiğit de orada çalışıyor. -Ne alaka?
+
+47
+00:02:28,640 --> 00:02:31,820
+Ne alaka olacak baba? Lila'ya yaranmak için çalışıyor.
+
+48
+00:02:31,960 --> 00:02:35,340
+Ablacığım, ne alakası var? Yiğit niye bana yaranmaya çalışsın?
+
+49
+00:02:35,580 --> 00:02:38,860
+Kendine gel Lila. Yiğit, Ender'in oğlu. Keyfinden mi çalışıyor kafelerde?
+
+50
+00:02:39,040 --> 00:02:41,320
+Bari kendine yalan söyleme. Bir garip bir şey oldun.
+
+51
+00:02:41,400 --> 00:02:44,280
+Hayır, ne alakası var? Yiğit, Lila yalnız kalmasın diye orada çalışıyor.
+
+52
+00:02:44,520 --> 00:02:46,340
+Onun kimseden bir beklentisi yok.
+
+53
+00:02:46,800 --> 00:02:48,340
+Tamam, uzatmayın.
+
+54
+00:02:48,480 --> 00:02:50,160
+Hayır baba, Yiğit'in benim abim olduğunu unutuyor sürekli.
+
+55
+00:02:50,420 --> 00:02:52,240
+Anladım oğlum. Burada tartışmayın.
+
+56
+00:02:52,440 --> 00:02:56,040
+Ne oluyor ya? Gerçekten ne oluyor size? Hepiniz düşman kesildiniz bana.
+
+57
+00:02:56,160 --> 00:02:57,880
+Hiçbirimiz sana düşman kesilmedik.
+
+58
+00:02:58,460 --> 00:03:01,160
+Ama sen hepimize ters ters konuşmaya devam ediyorsun.
+
+59
+00:03:02,592 --> 00:03:05,850
+Çocuklar, biraz sakin olun. Tamam, anlıyorum, hepimiz gerginiz ama...
+
+60
+00:03:06,396 --> 00:03:10,387
+...inanın bana, her şey, her şey düzelecek. Tamam mı?
+
+61
+00:03:11,333 --> 00:03:14,072
+Vallahi baba, bu batma işimize tek bir şeyden dolayı seviniyorum...
+
+62
+00:03:14,320 --> 00:03:16,780
+...sen çok böyle pamuk gibi, çok mülayim bir insan oldun.
+
+63
+00:03:16,840 --> 00:03:19,000
+Ben senin bu hâlini çok seviyorum, gerçekten.
+
+64
+00:03:20,020 --> 00:03:23,760
+Ne var ya? Niye bakıyorsunuz? Yalan mı? Olmadı mı? Pamuk gibi oldu.
+
+65
+00:03:23,800 --> 00:03:25,520
+Kötü bir şey söylüyorum sanki.
+
+66
+00:03:25,680 --> 00:03:27,980
+Böyle bakıyorsunuz gözlerinizi belertip belertip.
+
+67
+00:03:28,440 --> 00:03:30,580
+Şişirdiniz beni artık, gerçekten!
+
+68
+00:03:31,180 --> 00:03:33,540
+Akın'la buluşacağım ben buradan çıkınca, haberiniz olsun.
+
+69
+00:03:33,937 --> 00:03:35,741
+Bence geç olur. Eve döneriz biz seninle.
+
+70
+00:03:35,980 --> 00:03:38,180
+Olmaz Lilacığım, geç falan olmaz.
+
+71
+00:03:38,360 --> 00:03:40,660
+Buluşacağım. Bunaldım.

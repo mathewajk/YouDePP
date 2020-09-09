@@ -1,0 +1,247 @@
+1
+00:00:06,000 --> 00:00:07,381
+Ay, yine mi sen?
+
+2
+00:00:07,622 --> 00:00:10,500
+Aynı şeyi ben de senin için söyleyecektim.
+
+3
+00:00:11,336 --> 00:00:14,582
+Bir dakika, sen hâlâ benden özür dilemeyi düşünmüyor musun?
+
+4
+00:00:14,823 --> 00:00:16,802
+Sen hâlâ orada mısın?
+
+5
+00:00:17,215 --> 00:00:20,583
+Ben anlamadım, sen sekreter sanılmaktan neden bu kadar gocundun?
+
+6
+00:00:20,824 --> 00:00:22,687
+Takılma bence, çok saçma.
+
+7
+00:00:24,404 --> 00:00:27,277
+Anladım, sen hâlâ terbiyesizsin.
+
+8
+00:00:29,323 --> 00:00:31,744
+Ben de anladım.
+
+9
+00:00:33,917 --> 00:00:35,925
+Sen bende takılı kaldın.
+
+10
+00:00:36,166 --> 00:00:38,951
+Ben niye sende takılı kalayım? Ben seni tanımıyorum bile.
+
+11
+00:00:39,192 --> 00:00:41,554
+Ayrıca tanıdığım kadarıyla da çok kaba sabasın.
+
+12
+00:00:42,241 --> 00:00:43,876
+Beni beğendin de ondan.
+
+13
+00:00:44,123 --> 00:00:47,773
+-Ne? Ben seni mi beğendim? -Beğenmedin mi?
+
+14
+00:00:48,014 --> 00:00:49,739
+Beğenmedim tabii ki.
+
+15
+00:00:49,980 --> 00:00:53,464
+Kim sana çok yakışıklısın falan dediyse seni çok kötü kandırmış.
+
+16
+00:00:53,705 --> 00:00:55,071
+Akşam ne yapıyorsun?
+
+17
+00:00:56,909 --> 00:00:57,909
+Anlamadım?
+
+18
+00:00:58,140 --> 00:01:00,600
+Bundan anlamayacak ne var? Akşam ne yapıyorsun diye soruyorum.
+
+19
+00:01:00,780 --> 00:01:02,600
+Kimse seni yemeğe falan çıkarmıyor mu?
+
+20
+00:01:02,920 --> 00:01:06,380
+-Çıkarıyorlar da sana ne? -Kaçta buluşuyoruz o zaman?
+
+21
+00:01:07,020 --> 00:01:08,632
+Buluşmuyoruz.
+
+22
+00:01:09,446 --> 00:01:13,350
+Oldu o zaman. Başka zaman buluşuruz.
+
+23
+00:01:13,989 --> 00:01:15,393
+Görüşürüz.
+
+24
+00:01:18,218 --> 00:01:20,208
+Ay, hasta ruhlu.
+
+25
+00:01:24,136 --> 00:01:28,032
+Şey, şunu Şelale Hanım'a verir misin sana zahmet?
+
+26
+00:01:31,840 --> 00:01:34,939
+-Müsait misiniz Bülent Bey? -Tabii, buyurun.
+
+27
+00:01:36,759 --> 00:01:39,156
+Az önce odanızdan çıkan kişi kimdi?
+
+28
+00:01:39,995 --> 00:01:42,622
+-Kerim mi? -Evet, uzun boylu, esmer olan.
+
+29
+00:01:42,862 --> 00:01:45,751
+Evet, Kerim. Bir arkadaşım. Bir şey mi oldu?
+
+30
+00:01:45,992 --> 00:01:47,227
+Evet, oldu.
+
+31
+00:01:48,167 --> 00:01:50,087
+-Hayırdır? -Bülent Bey, yanlış anlamayın ama...
+
+32
+00:01:50,328 --> 00:01:52,819
+...arkadaşınız son derece saygısız ve terbiyesiz.
+
+33
+00:01:53,060 --> 00:01:55,854
+Ben bu odaya girdiğimde de sizin koltuğunuza yayılmış oturuyordu.
+
+34
+00:01:56,095 --> 00:01:59,634
+Evet, yapabilir. Biraz garip biridir ama kesinlikle kötü bir niyeti yoktur.
+
+35
+00:01:59,875 --> 00:02:02,429
+Beni sekreter sandı, benden kahve istedi.
+
+36
+00:02:02,670 --> 00:02:06,476
+Üstelik bana akşama buluşuruz gibi cümleler kurdu. Bu ne hadsizlik!
+
+37
+00:02:06,858 --> 00:02:09,299
+Art niyetli olduğunu düşünmüyorum gerçekten, şaka yapmıştır.
+
+38
+00:02:09,540 --> 00:02:11,027
+Ben yine de bir konuşurum.
+
+39
+00:02:11,268 --> 00:02:14,101
+Şakalarını kız arkadaşına yapsın, lütfen konuşun.
+
+40
+00:02:14,613 --> 00:02:17,946
+-Kız arkadaşı yok. -Ben onu sormadım canım.
+
+41
+00:02:18,187 --> 00:02:21,377
+Neyse, sizi de rahatsız ettim. Kusura bakmayın.
+
+42
+00:02:21,618 --> 00:02:22,862
+Yoo, rica ederim.
+
+43
+00:02:23,811 --> 00:02:24,907
+Oldu.
+
+44
+00:02:32,331 --> 00:02:34,744
+Kerim, of.
+
+45
+00:02:40,483 --> 00:02:43,495
+Buyurun Memur Bey? Hakkımda şikâyet mi var?
+
+46
+00:02:43,736 --> 00:02:47,386
+-Oğlum, sen ne yaptın? -Ne yapmışım ben?
+
+47
+00:02:47,627 --> 00:02:49,037
+Bir şey yapmadım ki.
+
+48
+00:02:49,682 --> 00:02:52,301
+O kız var ya, deli.
+
+49
+00:02:53,163 --> 00:02:55,600
+Bir de siz o kıza proje teslim etmişsiniz.
+
+50
+00:02:55,841 --> 00:02:58,836
+Ama ben sana söyleyeyim, onun size pek faydası olmaz.
+
+51
+00:02:59,077 --> 00:03:01,434
+Oğlum, kadın rahatsız olmuş, odama geldi.
+
+52
+00:03:01,675 --> 00:03:05,294
+-Bir de asıldın mı utanmadan? -Asılmış mıyım?
+
+53
+00:03:05,540 --> 00:03:07,680
+Akşam ne yaptığını sormuşsun, yalan mı söyleyecek?
+
+54
+00:03:08,040 --> 00:03:12,820
+Evet, sordum, ne olmuş. Ona asılmak değil, yemeğe davet etmek denir.
+
+55
+00:03:12,840 --> 00:03:15,880
+Aradaki farkı bir zahmet anlatıver Bülentciğim, olur mu?
+
+56
+00:03:16,113 --> 00:03:19,172
+Neyse, bak ben sana söylemiş olayım, sen de bil, tamam mı?
+
+57
+00:03:19,413 --> 00:03:21,556
+Biraz ayıp olmuş, bir özür bile dilememişsin.
+
+58
+00:03:21,797 --> 00:03:24,225
+O da ne özür meraklısıymış be.
+
+59
+00:03:24,466 --> 00:03:28,262
+İyi, tamam. Neyse, versin numarasını da arar özür dilerim artık.
+
+60
+00:03:28,500 --> 00:03:33,000
+-Kerim, sana inanmıyorum. -Bunda inanmayacak ne var?
+
+61
+00:03:33,300 --> 00:03:36,520
+Özür dilememi istiyorsa ararım, dilerim, bu kadar basit.
+
+62
+00:03:36,720 --> 00:03:39,640
+-Kapatıyorum ben. -İyi bakalım, görüşürüz.

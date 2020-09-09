@@ -1,0 +1,19 @@
+1
+00:00:00,200 --> 00:00:02,880
+Bülent Bey, afişi getirdim, size göstermek istedim.
+
+2
+00:00:02,960 --> 00:00:06,300
+Bir şeyler yaptık ama tabii daha iyisi de olabilir ama bir bakın.
+
+3
+00:00:07,280 --> 00:00:08,560
+Bülent Bey?
+
+4
+00:00:31,360 --> 00:00:34,640
+-Siz kimsiniz? Bülent Bey yok mu? -Bülent Bey yok.
+
+5
+00:00:35,800 --> 00:00:39,440
+Sen bana bir espresso getirir misin? 'Double' olsun lütfen.
