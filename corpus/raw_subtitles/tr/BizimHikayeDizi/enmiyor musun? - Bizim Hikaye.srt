@@ -1,0 +1,27 @@
+1
+00:00:02,255 --> 00:00:03,255
+Ne yapıyorsun?
+
+2
+00:00:03,665 --> 00:00:04,665
+Ben de geleceğim!
+
+3
+00:00:04,975 --> 00:00:07,975
+Filiz, karakol burası. Nereye geleceksin?
+
+4
+00:00:07,975 --> 00:00:10,295
+Pasaportun yok, vizen yok.
+
+5
+00:00:10,295 --> 00:00:12,885
+Burada en ufak hatanda başımız dertten kurtulmaz.
+
+6
+00:00:13,215 --> 00:00:16,015
+Sen nasıl kurtaracaksın babamı? - Ben getiririm, hallederim ben.
+
+7
+00:00:16,015 --> 00:00:18,985
+Sen bana güvenmiyor musun? - Hayır.

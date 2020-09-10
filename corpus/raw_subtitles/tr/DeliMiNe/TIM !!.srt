@@ -1,0 +1,1003 @@
+1
+00:00:05,260 --> 00:00:07,360
+Bugün kendimize bir tank yapacağız!
+
+2
+00:00:07,360 --> 00:00:08,720
+Haydi, başlayalım!
+
+3
+00:00:09,080 --> 00:00:19,880
+//Müzik
+
+4
+00:00:20,540 --> 00:00:26,500
+Şimdi tankımızı yapmak için 250 kilogramlık ATV'mizi kamyonetten insan gücü ile indirdik.
+
+5
+00:00:26,640 --> 00:00:27,800
+İşlem başlıyor!
+
+6
+00:00:28,500 --> 00:00:39,580
+//Müzik
+
+7
+00:00:39,860 --> 00:00:41,200
+Hahaha!
+
+8
+00:00:41,200 --> 00:00:42,980
+Yan yan gidiyor hahahaha!
+
+9
+00:00:42,980 --> 00:00:45,400
+Evet arkadaşlar, ATV'mizi şuanda buraya çektik.
+
+10
+00:00:45,760 --> 00:00:48,540
+Kalemimiz, kağıdımız ve metremiz hazır.
+
+11
+00:00:48,620 --> 00:00:51,780
+Önce ölçülerimizi alacağız, daha sonrasında alışveriş yapmaya gideceğiz.
+
+12
+00:00:51,800 --> 00:00:55,060
+Tank yapmak için ne gibi malzemeler gerekiyorsa... Ustamız yanımızda!
+
+13
+00:00:55,060 --> 00:00:58,660
+Baş ustamız da camide şuan. Gelmesini bekliyoruz, cumaya gitti.
+
+14
+00:00:58,820 --> 00:01:00,100
+Biz niye gitmedik cumaya?
+
+15
+00:01:00,780 --> 00:01:06,700
+Bu gördüğünüz ATV'nin üzerine tahtadan plakalarla tank şekli verip kendi tankımızı yapmaya çalışacağız.
+
+16
+00:01:06,700 --> 00:01:08,700
+Daha sonrasında... +Savaşa gideceğiz!
+
+17
+00:01:08,820 --> 00:01:11,540
+2.5 metre yaparsak çok dışarıya doğru kalacak.
+
+18
+00:01:11,540 --> 00:01:13,420
+2.30 - 2.40 metre falan. +Tamam.
+
+19
+00:01:18,780 --> 00:01:21,700
++Tekerleri dışarıda kalacak şekilde... 2.30'a 1.50 metre.
+
+20
+00:01:21,740 --> 00:01:25,820
++Aynen, 2.30'a 1.50 metre. Ya, 2.50 metreye 1.50 metre ortalama bir tank olacak.
+
+21
+00:01:25,820 --> 00:01:26,740
+Bayağı da büyük yani!
+
+22
+00:01:26,740 --> 00:01:29,040
+Normal araba büyüklüğünden biraz büyük bir şey olacak. +Evet.
+
+23
+00:01:29,200 --> 00:01:32,500
+Şuan baktığımızda sadece bir ATV görüyoruz ama...
+
+24
+00:01:32,640 --> 00:01:35,700
+...ben hayal edebiliyorum, umarım siz de anlayabiliyorsunuzdur.
+
+25
+00:01:35,760 --> 00:01:38,720
+Çok güzel olacak, şurada da namlumuz var. Namluyu da göstereyim.
+
+26
+00:01:42,520 --> 00:01:44,520
+Bu da tankın... +Hahaha!
+
+27
+00:01:44,760 --> 00:01:46,760
+Bu da tankın namlusu olacak, bak!
+
+28
+00:01:47,140 --> 00:01:50,360
+Şuradan dışarıya doğru çıkacak. İçinden de sağa sola havai fişek atacağız.
+
+29
+00:01:50,480 --> 00:01:51,440
+Nasıl?
+
+30
+00:01:52,320 --> 00:01:54,320
+Bak, gördün mü tankı?
+
+31
+00:01:54,420 --> 00:01:57,620
+Nasıl proje? +Hahahha!
+
+32
+00:01:57,800 --> 00:01:59,680
+AutoCAD'den çizsem bu kadar olur ancak.
+
+33
+00:01:59,680 --> 00:02:01,340
+Bak, şuraya bak ya!
+
+34
+00:02:02,100 --> 00:02:03,700
+Tövbe tövbe ya!
+
+35
+00:02:06,640 --> 00:02:08,640
+Tank yapımı için demir satın aldık.
+
+36
+00:02:08,940 --> 00:02:11,500
+Bu demirleri kesip, kaynatıp tankımızı oluşturacağız.
+
+37
+00:02:11,500 --> 00:02:13,420
++Ne kadar tuttu? Bayağı tuttu.
+
+38
+00:02:13,560 --> 00:02:15,460
++Kaç para? Acıttı vallahi, söylemeyeyim şimdi.
+
+39
+00:02:15,460 --> 00:02:18,260
++Kaç lira, söyle. Demir 1000 lira civarı tuttu.
+
+40
+00:02:18,280 --> 00:02:20,500
++Harbi mi? Aynen, çekil.
+
+41
+00:02:20,820 --> 00:02:21,680
+Çekil!
+
+42
+00:02:21,920 --> 00:02:23,100
+Arkamdan çekil!
+
+43
+00:02:27,980 --> 00:02:31,380
+Arkadaşlar, tankımızı yapmamız için ilk başta bir demir iskelet oluşturacağız.
+
+44
+00:02:31,380 --> 00:02:36,080
+Yani bu ATV'nin tam üzerini kaplayıp tank haline dönüşecek.
+
+45
+00:02:36,080 --> 00:02:40,220
+İskeleti oluşturmak için 40'a 20 demir profiller satın aldık.
+
+46
+00:02:40,320 --> 00:02:43,980
+Bu profilleri keseceğiz, kaynaklayacağız ve öncelikle kendimize bir iskelet oluşturacağız.
+
+47
+00:02:43,980 --> 00:02:48,040
+Daha sonrasında da oluşturduğumuz iskeletin üzerini ahşap ile değil mi?
+
+48
+00:02:48,040 --> 00:02:50,820
++Evet, ahşap ile. Ahşap ile kaplayıp boyayacağız.
+
+49
+00:02:50,820 --> 00:02:54,060
+Ve yavaş yavaş, kademe kademe tankımız ortaya çıkmaya başlayacak.
+
+50
+00:02:54,080 --> 00:02:56,400
+Şuan projeyi tam olarak kafamızda oturtmaya çalışıyoruz.
+
+51
+00:02:56,460 --> 00:03:00,600
+Nasıl yapalım, yarım dışarıda mı kalsın? Kafam gözüksün mü yoksa üstü kapalı mı olsun?
+
+52
+00:03:00,600 --> 00:03:03,320
+Bunları planlayacağız, daha sonrasında yavaş yavaş yapmaya başlayacağız.
+
+53
+00:03:03,360 --> 00:03:06,800
+Artık tankımızı yapmaya başlıyoruz, temel atma töreninde de ilk bıçağı ben vuruyorum!
+
+54
+00:03:06,800 --> 00:03:08,800
+Hayırlı, uğurlu olsun arkadaşlar! +Bravo!
+
+55
+00:03:16,920 --> 00:03:23,380
+//Müzik
+
+56
+00:03:32,340 --> 00:03:33,240
+Kestik!
+
+57
+00:03:34,960 --> 00:03:36,800
+Ustaların işi zor, ben sana söyleyeyim.
+
+58
+00:03:36,880 --> 00:03:37,560
+Bayağı zor!
+
+59
+00:03:37,560 --> 00:03:38,600
+Güzel kestim mi? +Evet.
+
+60
+00:03:38,600 --> 00:03:40,100
+Doğru söyle! +Güzel olmuş.
+
+61
+00:03:41,000 --> 00:03:43,400
+Ben kesersem böyle keserim. Yamuk yumuk hahaha!
+
+62
+00:03:43,640 --> 00:03:45,120
+Buyrun hocam.
+
+63
+00:03:45,660 --> 00:03:48,340
+//Müzik
+
+64
+00:03:49,080 --> 00:03:51,080
+Şöyle anlatayım; tankımızın genişliği bu.
+
+65
+00:03:51,100 --> 00:03:51,940
+Anladın mı?
+
+66
+00:03:52,020 --> 00:03:54,520
+Bunun üzerinden çıkartacağız, bunun üzerinden indireceğiz.
+
+67
+00:03:55,360 --> 00:04:00,780
+Bu teknenin en altındaki iskeleti olur ya; o iskeleti yapıyoruz şuanda.
+
+68
+00:04:01,000 --> 00:04:33,080
+//Müzik
+
+69
+00:04:33,640 --> 00:04:35,540
+Az daha pantolon yanıyordu!
+
+70
+00:04:35,820 --> 00:04:37,820
+Ah, sıcaklık hissettim. -Bir şey olmaz, bir şey olmaz.
+
+71
+00:04:37,820 --> 00:04:39,000
+Sıcaklık hissettim!
+
+72
+00:04:39,060 --> 00:04:42,300
+Normalde bu düz kesilir, niye eğimli kestim? -Tam oturtmak için abi.
+
+73
+00:04:42,300 --> 00:04:43,520
+Bak, gel.
+
+74
+00:04:43,520 --> 00:04:45,720
+Sanki bu burası için kesilmiş gibi. Gördün mü?
+
+75
+00:04:46,080 --> 00:04:46,960
+-Bravo.
+
+76
+00:04:47,960 --> 00:04:50,360
+Hahaha, kolaydı.
+
+77
+00:04:50,360 --> 00:04:52,300
+Böyle bir tane demir indireceğiz aşağıya.
+
+78
+00:04:52,440 --> 00:04:54,440
+Böyle ve şu şekilde aşağıya doğru gidecek.
+
+79
+00:04:55,400 --> 00:05:16,440
+//Müzik
+
+80
+00:05:17,120 --> 00:05:23,480
+4 tane sundurma kestik, bu sundurmaları ana iskeletten aşağıya indirip yan taraflarını yapmayı planlıyoruz.
+
+81
+00:05:24,900 --> 00:05:33,980
+//Müzik
+
+82
+00:05:34,280 --> 00:05:38,380
+Arkadaşlar, temel iskeletimiz neredeyse bitmek üzere. Şöyle yandan göstereyim.
+
+83
+00:05:39,220 --> 00:05:41,220
+Tam olarak gerçekleştirdik, tank gibi olacak.
+
+84
+00:05:41,220 --> 00:05:44,560
+Şöyle geliyor, kavisli. Buraları kontrplak ile kaplayacağız.
+
+85
+00:05:44,640 --> 00:05:50,360
+Bir de şöyle üst katı olacak ve üst kattan da en son bizim oturacağımız bölüme oval sundurma yapacağız.
+
+86
+00:05:50,960 --> 00:05:52,960
+En son da atışları yapmak üzere...
+
+87
+00:05:53,020 --> 00:05:55,720
+Vallahi güzel gidiyor, yaklaşık 4 saattir falan uğraşıyoruz.
+
+88
+00:05:55,720 --> 00:05:57,680
+Hava biraz soğudu, o yüzden montumuzu giydik.
+
+89
+00:05:57,680 --> 00:06:00,520
+Ustalar çalışmaya devam ediyor, ben de onlara çıraklık yapıyorum.
+
+90
+00:06:00,680 --> 00:06:04,920
+Arkadaşlar, az önce kaynaktan kopan bir parça ayakkabıya delik açtı.
+
+91
+00:06:04,920 --> 00:06:05,900
++Hahah!
+
+92
+00:06:06,860 --> 00:06:08,220
++Ayağın yandı mı kanka?
+
+93
+00:06:09,180 --> 00:06:11,420
++Ovvv!
+
+94
+00:06:13,800 --> 00:06:15,260
++Geçmiş olsun kardeşim. -Sağol.
+
+95
+00:06:15,320 --> 00:06:17,860
++Evet, tankımızın ilk gazisi!
+
+96
+00:06:18,140 --> 00:06:20,500
+-Tanka benim adımı verin gençler! +Hahah!
+
+97
+00:06:20,740 --> 00:06:23,880
+Siyasi bir espri yapacaktım da zor tuttum kendimi. Hahaha!
+
+98
+00:06:25,980 --> 00:06:27,540
+Bak, şöyle düşün Yasir abi.
+
+99
+00:06:27,740 --> 00:06:29,740
+Şuradan girdin, kapıyı belki buradan veririz.
+
+100
+00:06:29,820 --> 00:06:32,460
+Belki kapı bile vermeyiz, direkt üstünden tırmanarak bineriz.
+
+101
+00:06:36,220 --> 00:06:39,520
+Şuan burayı kapattığımız zaman sen direksiyonu görmüyorsun.
+
+102
+00:06:40,440 --> 00:06:44,200
+Anladın mı? Öne de oval bir şey yapacağız şu şekilde.
+
+103
+00:06:45,260 --> 00:06:48,940
+Namlu buradan çıkacak, şuan şurayı kapalı düşün.
+
+104
+00:06:49,260 --> 00:06:50,880
+Böyle kapalı burası.
+
+105
+00:06:52,120 --> 00:06:53,400
+Ama içerisinde biri var.
+
+106
+00:06:54,000 --> 00:06:56,100
+Şurası da şöyle oval. Şuan nasıl gözüküyorum?
+
+107
+00:06:56,340 --> 00:06:58,060
++Yani güzel!
+
+108
+00:06:58,120 --> 00:07:00,540
+Yani bayağı bir şeyler çıkmaya başladı ortaya değil mi? +Aynen.
+
+109
+00:07:01,200 --> 00:07:02,960
++Çocuklar dövüşmeyin!
+
+110
+00:07:03,100 --> 00:07:06,680
+Ya, yemin ederim bu çocuklar benim ömrümden ömür çaldılar. Yeter artık!
+
+111
+00:07:06,920 --> 00:07:09,920
+Çocuklar benim ömrümü çaldı, artık yeter! +Videomuza like attınız mı?
+
+112
+00:07:09,920 --> 00:07:11,120
+Ayıp ediyorsunuz ama...
+
+113
+00:07:11,280 --> 00:07:16,080
+Bu videoya bence 250 bin like yakışır.
+
+114
+00:07:16,080 --> 00:07:17,140
+250 bin like!
+
+115
+00:07:17,340 --> 00:07:19,540
+Bizi sevenler atsa yeter zaten, gelir o!
+
+116
+00:07:19,980 --> 00:07:23,800
+Şimdi tankın metal aksamını hazırladık, iskeletini hazırladık.
+
+117
+00:07:24,040 --> 00:07:27,160
+İskeletin üzerini kaplamak için de böyle... Su suntası mıydı bunlar?
+
+118
+00:07:27,160 --> 00:07:27,900
++Su kontrası.
+
+119
+00:07:27,900 --> 00:07:28,820
+Su kontrası...
+
+120
+00:07:28,920 --> 00:07:32,640
+Su kontrası denilen şöyle ince ve esnek tahtalardan aldık.
+
+121
+00:07:32,700 --> 00:07:34,920
+Bununla iskeletin üzerine şekil vereceğiz.
+
+122
+00:07:34,920 --> 00:07:39,920
+4 milimetre kalınlığında su kontrası aldık. Bununla iskeletimizi kaplayacağız.
+
+123
+00:07:39,920 --> 00:07:42,140
+Bu da yaklaşık 500 lira civarında tuttu.
+
+124
+00:07:42,500 --> 00:07:52,500
+//Müzik
+
+125
+00:07:52,980 --> 00:07:55,980
+Su kontrası ile iskeletimizin üzerini kaplayacağız!
+
+126
+00:07:55,980 --> 00:08:00,820
+Zaten şuanda %70 - %80 oranında iskelet bitmiş durumda.
+
+127
+00:08:00,860 --> 00:08:04,500
+Biraz kaynaklarımız kaldı. Mesela şurada metal parçalar var, onları kaynatacağız.
+
+128
+00:08:04,500 --> 00:08:07,700
+Görünmeye başladı mı? Tank gibi gözüküyor mu? +Abi, gerçekten tank gibi gözükmeye başladı...
+
+129
+00:08:07,700 --> 00:08:11,400
+...+ama üstüne oval... Tabi, eksik var.
+
+130
+00:08:11,720 --> 00:08:12,900
+Şurası kaynayacak.
+
+131
+00:08:13,260 --> 00:08:16,460
+Bir de üstte bizim önümüzü siper edecek.
+
+132
+00:08:16,520 --> 00:08:19,660
+Rüzgardan, mermilerden bizi koruyacak kısmı yapacağız.
+
+133
+00:08:19,660 --> 00:08:21,360
+Oradan sadece gözlerim gözükecek.
+
+134
+00:08:21,360 --> 00:08:23,140
+-Evet, sadece gözlerin gözükecek. -Timsah gibi!
+
+135
+00:08:23,140 --> 00:08:25,840
+Denizden çıktım, buz gibi havayı engelliyorum! Hahhaa!
+
+136
+00:08:25,920 --> 00:08:31,300
+Cidden böyle çok uğraştığımız ve sonucunda güzel şeyler çıkarttığımız videoları çok seviyorum.
+
+137
+00:08:33,640 --> 00:08:36,640
+Üstümüz başımız biraz kirlendi, kusura bakmayın. Çalışıyoruz, o yüzden.
+
+138
+00:08:36,800 --> 00:08:40,700
+İşçiler, emekçiler anlar da zengin çocukları oradan eleştirirler bizi.
+
+139
+00:08:40,700 --> 00:08:42,220
+Güzel bir söz söyleyeyim mi sana? +Söyle.
+
+140
+00:08:42,280 --> 00:08:45,460
+'Kirli eller medeniyetin aynasıdır!'
+
+141
+00:08:45,960 --> 00:08:48,680
+Ölçüleri aldık, şimdi parça parça kesiyoruz.
+
+142
+00:08:48,700 --> 00:08:51,760
+Birazdan kıyafet giydirir gibi iskeletimizi giydireceğiz.
+
+143
+00:08:52,240 --> 00:09:01,580
+//Müzik
+
+144
+00:09:01,880 --> 00:09:02,980
+Bas!
+
+145
+00:09:05,440 --> 00:09:06,460
+Haydi bismillah.
+
+146
+00:09:06,460 --> 00:09:07,660
+Bas bas!
+
+147
+00:09:07,900 --> 00:09:09,020
+Bu 1-
+
+148
+00:09:10,520 --> 00:09:11,820
+Getir, şuraya da atalım.
+
+149
+00:09:11,900 --> 00:09:15,320
+Bak, burada bir tane mimar var. Mimarım, bu konu hakkında ne düşünüyorsunuz?
+
+150
+00:09:15,360 --> 00:09:16,240
+*Güzel gidiyor.
+
+151
+00:09:17,600 --> 00:09:20,080
++Nasıl duruyor? *Çok iyi gidiyor, hahah!
+
+152
+00:09:20,080 --> 00:09:22,000
+*Harika yapıyorsunuz! +Beğendin mi?
+
+153
+00:09:22,000 --> 00:09:23,220
+*Beğendim, çok güzel.
+
+154
+00:09:26,260 --> 00:09:28,900
+Arkadaşlar, şuanda tankımızın kaba montajı bitti.
+
+155
+00:09:28,900 --> 00:09:31,480
+Üzerini kaplamaya başladık ama ufak kısımlar kaldı.
+
+156
+00:09:31,620 --> 00:09:33,700
+Hava da soğuduğu ve saat de geç olduğu için...
+
+157
+00:09:33,780 --> 00:09:38,420
+Şimdi tankımızı spor salonumuzun içerisine alacağız ve çalışmalara içeride devam edeceğiz.
+
+158
+00:09:38,420 --> 00:09:41,220
+Vallahi güzel oluyor ya, ne diyorsun? +Haydi bakalım.
+
+159
+00:09:41,220 --> 00:09:42,000
+Haydi!
+
+160
+00:09:46,200 --> 00:09:50,220
+Daha şuanda bu ham hali. Bunu boyayacağız, üzerine desenlerimizi yapacağız.
+
+161
+00:09:50,220 --> 00:09:51,580
+Birkaç tane sürprizimiz var.
+
+162
+00:09:51,660 --> 00:09:55,280
+Videoyu kesinlikle atlamadan izleyin çünkü vallahi çok pis bozulurum!
+
+163
+00:09:56,700 --> 00:10:16,780
+//Müzik
+
+164
+00:10:18,160 --> 00:10:20,600
++Siz yerinize mi oturdunuz öyle?
+
+165
+00:10:20,600 --> 00:10:22,100
+Otur bakalım çocuğum.
+
+166
+00:10:22,100 --> 00:10:23,900
+Otur, otur!
+
+167
+00:10:24,220 --> 00:10:25,320
+Yat!
+
+168
+00:10:25,680 --> 00:10:27,940
+Gece saat 00:00, bakalım daha kaç saat devam edecek?
+
+169
+00:10:27,940 --> 00:10:30,980
+2-3 saatlik işimiz var, olmazsa yarın da devam edeceğiz.
+
+170
+00:10:31,040 --> 00:10:33,180
+Bakalım nasıl olacak, niye nefes nefese kaldım?
+
+171
+00:10:34,420 --> 00:10:36,900
+Heyecandan, bunların hepsi heyecandan!
+
+172
+00:10:38,100 --> 00:10:52,140
+//Müzik
+
+173
+00:10:54,300 --> 00:10:56,300
++Yoruldu bugün, uyuyakaldı.
+
+174
+00:10:56,420 --> 00:10:57,480
++Dayanamadı.
+
+175
+00:11:04,040 --> 00:11:10,440
+//Müzik
+
+176
+00:11:11,680 --> 00:11:13,080
+Saat 02:25...
+
+177
+00:11:13,560 --> 00:11:17,060
+Bugünlük yeter, bugünlük paydos diyoruz. Yaklaşık 16 saattir çalışıyoruz.
+
+178
+00:11:17,220 --> 00:11:19,180
+Sabah görüşmek üzere, kendinize iyi bakın.
+
+179
+00:11:19,300 --> 00:11:22,500
+Evet arkadaşlar, ikinci gün için tekrardan tankı yaptığımız yere geldik.
+
+180
+00:11:22,500 --> 00:11:25,560
+Bu kadar uzun süreceğini tahmin etmiyordum ama bayağı uğraştırdı!
+
+181
+00:11:25,560 --> 00:11:27,120
+Dün akşam çok güzel bir haber aldım!
+
+182
+00:11:27,120 --> 00:11:30,280
+Biliyorsunuz, sizlere İnstagramdan kendime tank yaptığımı duyurmuştum.
+
+183
+00:11:30,280 --> 00:11:33,800
+Bir sponsor firma bunu duymuş olacak ki tankımıza sponsor oldu.
+
+184
+00:11:33,800 --> 00:11:36,300
+World Of Tanks oyunu tankımıza sponsor oldu.
+
+185
+00:11:36,300 --> 00:11:39,420
+Tankımız inanılmaz maliyetliydi, böylece bedavaya gelmiş oldu.
+
+186
+00:11:39,420 --> 00:11:41,120
+Bu bence inanılmaz gurur verici bir şey.
+
+187
+00:11:41,120 --> 00:11:42,940
+Çok kısa onların görüntüsü var, onu izleyeceğiz.
+
+188
+00:11:43,000 --> 00:11:45,000
+Daha sonrasında tankımızı yapmaya devam ediyoruz...
+
+189
+00:11:46,400 --> 00:11:49,520
+Evet arkadaşlar, size World Of Tanks oyunundan bahsetmek istiyorum.
+
+190
+00:11:49,540 --> 00:11:53,120
+Oyunumuzu oynaması tamamen ücretsiz, indirmesi tamamen ücretsiz.
+
+191
+00:11:53,220 --> 00:11:57,460
+Oyunun içerisinde 11 farklı tank modeli, 30 farklı harita bulunuyor.
+
+192
+00:11:57,480 --> 00:12:00,320
+Haritaların hepsi de gerçekten alıntı arkadaşlar.
+
+193
+00:12:01,440 --> 00:12:06,380
+Eğer yanda gösterdiğim kod ile oyunu indirirseniz bizim tankımızı da oyuna alma ihtimalleri var,
+
+194
+00:12:06,380 --> 00:12:09,040
+biz de bir Türk tankı olarak bu oyuna katılabiliriz.
+
+195
+00:12:09,080 --> 00:12:15,740
+Ayrıca 7 gün premium üyelik, 500 altın ve premium bir tank hediyesi var arkadaşlar!
+
+196
+00:12:15,740 --> 00:12:19,200
+Haydi, oyunu indirin! Birlikte oynayalım, videomuza devam edelim...
+
+197
+00:12:21,480 --> 00:12:24,320
+Gece karanlığında ne yaptık hiç bilmiyorum ama şimdi inceleyelim.
+
+198
+00:12:24,320 --> 00:12:26,600
+Bugün tankın ufak tefek eksiklikleri tamamlayacağız.
+
+199
+00:12:27,320 --> 00:12:29,140
+Modifiyesini yapacağız. Kolay gelsin!
+
+200
+00:12:29,240 --> 00:12:31,240
+Ege, kolay gelsin! -Eyvallah abicim.
+
+201
+00:12:31,240 --> 00:12:32,480
+Merhaba... *Merhaba.
+
+202
+00:12:32,620 --> 00:12:34,680
+Oooo! +Vaayy!!
+
+203
+00:12:35,060 --> 00:12:36,700
++Vuhuu!!
+
+204
+00:12:37,160 --> 00:12:41,440
+Dün gece o kadar çok çalıştık ki... Yorgunluktan ne yaptığımızı anlayamadık.
+
+205
+00:12:41,440 --> 00:12:45,220
+Evet gittim, ulan olmadı mı acaba ya? Kötü mü gözüküyor acaba falan demiştim ama...
+
+206
+00:12:45,220 --> 00:12:46,680
+Harbiden güzel gözüküyor.
+
+207
+00:12:46,760 --> 00:12:50,940
+Buna bir kat daha boya atacağız, tam askeri haki yeşili olacak.
+
+208
+00:12:51,160 --> 00:12:54,920
+Bütün rengini tamamladıktan sonra bunun üzerine kamuflaj desenini atacağız.
+
+209
+00:12:56,160 --> 00:12:57,160
+Boyalarımız var...
+
+210
+00:12:57,360 --> 00:13:00,060
+Şöyle eski grafiti zamanlarımdan kalma MTN boyalar var.
+
+211
+00:13:00,060 --> 00:13:01,700
+Başka da boya bulamadığımız için...
+
+212
+00:13:01,960 --> 00:13:03,960
+Sprey boyalar aldık. Kahverengi, beyaz, siyah.
+
+213
+00:13:04,200 --> 00:13:06,020
+Çok güzel bir kamuflaj deseni yapacağız.
+
+214
+00:13:06,200 --> 00:13:07,720
+Şu üst tarafında...
+
+215
+00:13:08,060 --> 00:13:12,060
+Hani tanklarda adamlar çıkar, kafaları gözükür ya. O kısmı kestik, dün akşam hazırladık ama...
+
+216
+00:13:12,060 --> 00:13:14,340
+...çok uykumuz geldiği için bırakmak zorunda kaldık.
+
+217
+00:13:14,360 --> 00:13:18,020
+O kısmını buraya yapacağız, daha sonrasında da namlusu hazırlanacak.
+
+218
+00:13:18,200 --> 00:13:22,200
+Biliyorsunuz, namluyu gerçek yapacağız ve namludan havai fişek falan gönderebiliriz.
+
+219
+00:13:22,200 --> 00:13:23,620
+Öyle bir spoiler vereyim size.
+
+220
+00:13:23,740 --> 00:13:26,420
+Vallahi güzel gözüküyor, ne diyorsun? +Gerçekten 10 numara olmuş!
+
+221
+00:13:26,560 --> 00:13:28,340
+Şöyle üzerine oturayım.
+
+222
+00:13:29,760 --> 00:13:32,840
+Ulan tankım var lan, adam olun oğlum!
+
+223
+00:13:33,940 --> 00:13:35,560
+Hahahaha!
+
+224
+00:13:36,300 --> 00:14:20,340
+//Müzik
+
+225
+00:14:21,680 --> 00:14:24,920
+Evet arkadaşlar, gördüğünüz gibi ikinci günün de sonuna geldik.
+
+226
+00:14:25,000 --> 00:14:28,680
+Sabahtan beri uğraşıyoruz, bu kadar uzun süreceğini tahmin etmemiştim.
+
+227
+00:14:28,840 --> 00:14:32,260
+Sabah geldiğimizde astar boyasını atmıştık, üzerine bir boya daha attık.
+
+228
+00:14:32,260 --> 00:14:33,540
+İki saat sonra kurudu.
+
+229
+00:14:33,540 --> 00:14:35,480
+Tahta olduğu için onu da emdi.
+
+230
+00:14:35,480 --> 00:14:36,720
+Su kontrası kullanıyoruz.
+
+231
+00:14:36,800 --> 00:14:38,980
+Sonra üçüncü kata bir kez daha yeşil boya attık.
+
+232
+00:14:38,980 --> 00:14:41,240
+Bu sefer tam olarak istediğimiz renge ulaştık.
+
+233
+00:14:41,300 --> 00:14:44,740
+Daha sonrasında da sprey boyalarımızla kamuflaj desenini verdik.
+
+234
+00:14:44,740 --> 00:14:46,300
+Şuanda %80 hazır...
+
+235
+00:14:46,300 --> 00:14:50,100
+Henüz namlusu takılmadı ve oturacağımız kısım hala hazırlanmadı.
+
+236
+00:14:50,240 --> 00:14:53,320
+Orası da tamamlandıktan sonra gerçekten inanılmaz olacak!
+
+237
+00:14:53,440 --> 00:14:58,380
+Şuradan da kafam çıkacak, namlusundan da havai fişekleri atarsak bu iş tamam!
+
+238
+00:14:58,820 --> 00:14:59,680
+Güzel!
+
+239
+00:15:01,700 --> 00:15:03,700
+Artık yarın son halini sizinle paylaşacağım.
+
+240
+00:15:03,700 --> 00:15:05,380
+Şimdi eve gidiyoruz, gerçekten çok yorulduk.
+
+241
+00:15:05,380 --> 00:15:06,700
+Gece saat geç oldu.
+
+242
+00:15:06,760 --> 00:15:10,720
+Namlusu takılmış, oturacak yeri hazırlanmış bir şekilde görüşmek üzere!
+
+243
+00:15:11,120 --> 00:15:58,780
+//Askeri müzik
+
+244
+00:16:01,160 --> 00:16:05,420
+Evet arkadaşlar, gördüğünüz gibi bir ATV'den kendimize efsane bir tank yaptık!
+
+245
+00:16:05,620 --> 00:16:08,180
+Bu tankla birlikte sokakta gezmemi istiyorsanız...
+
+246
+00:16:08,200 --> 00:16:11,680
+...efsane maceralar yapmamı istiyorsanız kanalıma abone olmayı unutmayın!
+
+247
+00:16:11,680 --> 00:16:13,660
+Abone olarak destek verebilirsiniz.
+
+248
+00:16:13,660 --> 00:16:16,220
+Bence olun çünkü namlusu bile çalışıyor yani!
+
+249
+00:16:16,380 --> 00:16:17,620
+Onu söyleyeyim de....
+
+250
+00:16:18,140 --> 00:16:23,080
+//Askeri müzik
+
+251
+00:16:23,700 --> 00:16:27,140
+İnstagram: delimine

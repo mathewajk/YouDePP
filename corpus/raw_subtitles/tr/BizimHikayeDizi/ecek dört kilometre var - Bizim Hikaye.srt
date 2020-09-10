@@ -1,0 +1,35 @@
+1
+00:00:03,035 --> 00:00:05,895
+Süper! Tamam mı? - Tamamdır... Ne kadar?
+
+2
+00:00:05,895 --> 00:00:06,895
+20 TL
+
+3
+00:00:10,885 --> 00:00:12,815
+20 TL... Al...
+
+4
+00:00:15,665 --> 00:00:17,935
+Teşekkür ettim. Kolay gelsin.
+
+5
+00:00:20,845 --> 00:00:22,275
+Bak gördüğün üzre, hallettim.
+
+6
+00:00:23,075 --> 00:00:24,075
+Sen hallettin?
+
+7
+00:00:25,425 --> 00:00:26,425
+Sağ ol...
+
+8
+00:00:26,835 --> 00:00:29,705
+Artık benzin aldığımıza göre kavga edecek bir şey de kalmadı?
+
+9
+00:00:30,005 --> 00:00:31,995
+Tabi 4 kilometre var sadece.

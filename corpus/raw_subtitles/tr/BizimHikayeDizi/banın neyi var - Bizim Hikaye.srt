@@ -1,0 +1,51 @@
+1
+00:00:00,235 --> 00:00:01,235
+Annenin nesi var?
+
+2
+00:00:01,975 --> 00:00:03,745
+Senin babanın neyi var?
+
+3
+00:00:04,345 --> 00:00:07,605
+Sen baya zeki kızsın... - Senin kadar olmasam da..
+
+4
+00:00:12,545 --> 00:00:15,305
+Sen şu CAN'ı tanıyor musun?
+
+5
+00:00:15,440 --> 00:00:16,240
+Hangi CAN?
+
+6
+00:00:17,460 --> 00:00:20,400
+Bizim sınıftaki... - Şu yakışıklı olan mı?
+
+7
+00:00:22,780 --> 00:00:25,600
+Yakışıklı olan... - Biraz işte, ne oldu ki?
+
+8
+00:00:28,140 --> 00:00:29,180
+Yani...
+
+9
+00:00:29,815 --> 00:00:33,095
+İnternetten böyle fotoğraflarını beğenmiş sürekli...
+
+10
+00:00:34,255 --> 00:00:35,865
+Ben de merak ettim yani...
+
+11
+00:00:36,225 --> 00:00:37,665
+Tanıyor musun filan?
+
+12
+00:00:37,995 --> 00:00:39,245
+Biraz tanıyorum.
+
+13
+00:00:40,345 --> 00:00:41,345
+Anladım.
