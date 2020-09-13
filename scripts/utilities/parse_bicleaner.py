@@ -10,11 +10,11 @@ def main(args):
 
 def parse(corpus, l1, l2):
 
-    out_path_l1 = path.join("corpus", "bicleaner", l1)
+    out_path_l1 = path.join("corpus", "parallel_data",  "bicleaner", l1)
     if not path.exists(out_path_l1):
         makedirs(out_path_l1)
 
-    out_path_l2 = path.join("corpus", "bicleaner", l2)
+    out_path_l2 = path.join("corpus", "parallel_data", "bicleaner", l2)
     if not path.exists(out_path_l2):
         makedirs(out_path_l2)
 
@@ -23,11 +23,12 @@ def parse(corpus, l1, l2):
 
     parsed_sentences = 1
     total_sentences = 1
+
+    l1_buffer = ''
+    l2_buffer = ''
+
     with open(corpus, "r") as paracrawl_data, open(path.join(out_path_l1, l1 + '-' + l2 + '_' + l1 + '-parse.jsonl'), 'w') as l1_out, \
          open(path.join(out_path_l2, l1 + '-' + l2 + '_' + l2 + '-parse.jsonl'), 'w') as l2_out:
-
-        l1_buffer = ''
-        l2_buffer = ''
 
         for line in paracrawl_data:
             line = line.strip().split('\t')
@@ -73,10 +74,10 @@ def parse(corpus, l1, l2):
                 l1_out.write("\n")
                 l2_out.write("\n")
 
-                print("Batch complete: {0} sentences parsed / {2} sentences scanned".format(parsed_sentences, total_sentences))
+                print("Batch complete: {0} sentences parsed / {1} sentences scanned".format(parsed_sentences, total_sentences))
 
             parsed_sentences += 1
-            if(parsed_sentences % 500000 == 0):
+            if(parsed_sentences % 100000 == 0):
                 break
 
     print("Total sentences checked: {0}, total sentences parsed: {1}".format(total_sentences, parsed_sentences))
