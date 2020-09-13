@@ -54,31 +54,32 @@ def parse(corpus, l1, l2):
                     l1_parse = nlp_l1(l1_doc)
                 except RecursionError as e:
                     logging.critical("Could not parse {0}: recursion depth exceeded: sentence {0}, language {1}".format(parsed_sentences, l1))
-                    break
+                    continue
                 except RuntimeError as e:
                     logging.critical("CUDA out of memory! sentence {0}, language {1}".format(parsed_sentences, l1))
-                    break
+                    continue
 
                 try:
                     l2_parse = nlp_l2(l2_doc)
                 except RecursionError as e:
                     logging.critical("Could not parse {0}: recursion depth exceeded: sentence {0}, language {1}".format(parsed_sentences, l2))
-                    break
+                    continue
                 except RuntimeError as e:
                     logging.critical("CUDA out of memory! sentence {0}, language {1}".format(parsed_sentences, l2))
-                    break
+                    continue
 
                 l1_out.write(json.dumps(l1_parse.to_dict()))
                 l2_out.write(json.dumps(l2_parse.to_dict()))
                 l1_out.write("\n")
                 l2_out.write("\n")
 
-                print("Batch complete: {0}".format(parsed_sentences))
+                print("Batch complete: {0} sentences parsed / {2} sentences scanned".format(parsed_sentences, total_sentences))
 
             parsed_sentences += 1
             if(parsed_sentences % 500000 == 0):
-                print("Total sentences checked: {0}, total sentences parsed: {1}".format(total_sentences, parsed_sentences))
-                return
+                break
+
+    print("Total sentences checked: {0}, total sentences parsed: {1}".format(total_sentences, parsed_sentences))
 
     return
 
