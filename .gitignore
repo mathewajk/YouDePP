@@ -10,6 +10,7 @@ writeup/
 old/
 processed_subtitles/auto/
 dependency_counts/
+parallel_data/
 plots/
 
 *.ipynb*
