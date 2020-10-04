@@ -55,7 +55,7 @@ def main(args):
     # Metadata
     found_count, total_count, total_time = (0, 0, 0)
 
-    with open(args.file, "r") as video_file:
+    with open(path.join("corpus", "channel_data", args.code, args.file), "r") as video_file:
 
         for line in list(video_file)[args.r:]:
 
