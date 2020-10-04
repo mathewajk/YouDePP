@@ -7,9 +7,11 @@
 backups/
 writeup/
 *_temp
+
 old/
 processed_subtitles/auto/
 dependency_counts/
+data/
 parallel_data/
 plots/
 
