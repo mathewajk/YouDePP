@@ -63,7 +63,13 @@ def parse_file(nlp_ja, nlp_en, wiki_fn, file_id, dep_path):
 
     with open(wiki_fn, "r") as wiki_in, open(dependencies_fn_ja, "w") as dependencies_out_ja, open(dependencies_fn_en, "w") as dependencies_out_en:
 
-        wiki_doc = xml.dom.minidom.parse(wiki_fn).documentElement
+        wiki_doc = None
+        try:
+            wiki_doc = xml.dom.minidom.parse(wiki_fn).documentElement
+        except xml.parsers.expat.ExpatError as e:
+            logging.critical("Could not parse file {0}".format(wiki_fn))
+            return (0, 0)
+
         ja_en_pairs = [get_pair(sen) for sen in wiki_doc.getElementsByTagName("sen")]
 
         ja_doc = ''
@@ -84,6 +90,9 @@ def parse_file(nlp_ja, nlp_en, wiki_fn, file_id, dep_path):
             return (0, 0)
         except RuntimeError:
             logging.critical("CUDA out of memory!".format(file_id))
+            return (0, 0)
+        except IndexError:
+            logging.critical("Stanza encountered an error processing the batch".format(file_id))
             return (0, 0)
 
         json.dump(ja_parse.to_dict(), dependencies_out_ja)

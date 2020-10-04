@@ -20,12 +20,18 @@ def main(args):
     for fn in fns:
         with open(fn) as file_in:
             if type == "json":
-                json_data = json.load(file_in)
-                length += len(stanza.Document(json_data).sentences)
+                try:
+                    json_data = json.load(file_in)
+                    length += len(stanza.Document(json_data).sentences)
+                except:
+                    continue
             else:
                 for line in file_in:
-                    json_data = json.loads(line)
-                    length += len(stanza.Document(json_data).sentences)
+                    try:
+                        json_data = json.loads(line)
+                        length += len(stanza.Document(json_data).sentences)
+                    except:
+                        continue
     print("Found {0} sentences".format(length))
 
 if __name__ == '__main__':

@@ -18,8 +18,8 @@ def parse(corpus, l1, l2):
     if not path.exists(out_path_l2):
         makedirs(out_path_l2)
 
-    nlp_l1 = stanza.Pipeline(lang=l1, use_gpu=True)
-    nlp_l2 = stanza.Pipeline(lang=l2, use_gpu=True)
+    nlp_l1 = stanza.Pipeline(lang=l1, dir=path.join('/mnt', 'd', 'tools', 'stanza_resources'), use_gpu=True)
+    nlp_l2 = stanza.Pipeline(lang=l2, dir=path.join('/mnt', 'd', 'tools', 'stanza_resources'), use_gpu=True)
 
     parsed_sentences = 1
     total_sentences = 1
@@ -31,11 +31,15 @@ def parse(corpus, l1, l2):
          open(path.join(out_path_l2, l1 + '-' + l2 + '_' + l2 + '-parse.jsonl'), 'w') as l2_out:
 
         for line in paracrawl_data:
+            if(total_sentences <= 189305):
+                total_sentences += 1
+                continue
+
             line = line.strip().split('\t')
 
             total_sentences  += 1
 
-            if(line[3][-1] not in ["。", "！", "？"]):
+            if(line[2][-1] not in ["。", "！", "？", '.', '!', '?'] or line[3][-1] not in ["。", "！", "？", '.', '!', '?']):
                 continue
 
             l1_buffer = l1_buffer + line[2] + '\n'
