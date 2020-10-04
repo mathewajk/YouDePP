@@ -11,10 +11,10 @@ writeup/
 old/
 processed_subtitles/auto/
 dependency_counts/
-data/
 dependencies/
-parallel_data/
-plots/
+
+data/analyses/
+data/plots/
 
 *.ipynb*
 *_tobecorrected
