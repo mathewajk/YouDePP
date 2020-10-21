@@ -1,0 +1,2039 @@
+1
+00:00:00,000 --> 00:00:07,700
+ragazzi ragazzi ragazzi è uscita 1.14.21
+
+2
+00:00:07,910 --> 00:00:14,849
+appena aggiornato avviato il gioco e ho
+
+3
+00:00:12,269 --> 00:00:18,150
+appena anche iniziato a registrare vi
+
+4
+00:00:14,849 --> 00:00:20,340
+starete chiedendo perché devi preparare
+
+5
+00:00:18,150 --> 00:00:22,590
+un po più nell'episodio più pare di
+
+6
+00:00:20,340 --> 00:00:25,260
+materiali fai delle cose
+
+7
+00:00:22,590 --> 00:00:28,410
+in teoria sì in teoria sì
+
+8
+00:00:25,260 --> 00:00:32,520
+in pratica sto pagando addosso
+
+9
+00:00:28,410 --> 00:00:35,940
+ora vi spiego perché ho aggiornato il
+
+10
+00:00:32,520 --> 00:00:39,690
+mondo ma mancano delle cose penso non ho
+
+11
+00:00:35,940 --> 00:00:41,129
+avuto 14.2 non ho aggiornato a 1.15 che
+
+12
+00:00:39,690 --> 00:00:44,430
+capitò aggiornamento dell'anno prossimo
+
+13
+00:00:41,129 --> 00:00:47,820
+no 1 punto 14.2 che doveva essere solo
+
+14
+00:00:44,430 --> 00:00:49,350
+una correzione della performance e altri
+
+15
+00:00:47,820 --> 00:00:52,820
+bug fix e hanno aggiunto anche altre
+
+16
+00:00:49,350 --> 00:00:58,140
+cose ma nulla è troppo impegnativo
+
+17
+00:00:52,820 --> 00:01:00,329
+perché domanda semplice domanda semplice
+
+18
+00:00:58,140 --> 00:01:02,280
+io comunque lo dico ho fatto il backup
+
+19
+00:01:00,329 --> 00:01:04,949
+del mondo perché quando a giorni ti
+
+20
+00:01:02,280 --> 00:01:06,810
+chiede file backup cioè te lo fa lui da
+
+21
+00:01:04,949 --> 00:01:09,330
+solo praticamente quindi ho un backup
+
+22
+00:01:06,810 --> 00:01:11,490
+del mondo però o comunque una domanda la
+
+23
+00:01:09,330 --> 00:01:12,869
+fabi che è il motivo per cui mi sto
+
+24
+00:01:11,490 --> 00:01:16,590
+pagando un po addosso in questo momento
+
+25
+00:01:12,869 --> 00:01:17,640
+ed è la seguente prima domanda dov'è il
+
+26
+00:01:16,590 --> 00:01:20,189
+mio pollo
+
+27
+00:01:17,640 --> 00:01:22,680
+dove sono i miei harbour stand con le
+
+28
+00:01:20,189 --> 00:01:24,810
+armature ma soprattutto dove sono tutti
+
+29
+00:01:22,680 --> 00:01:27,299
+gli item frame è la domanda più
+
+30
+00:01:24,810 --> 00:01:29,820
+importante è la seguente ma io ora
+
+31
+00:01:27,299 --> 00:01:33,119
+quando che però col destro e proverò ad
+
+32
+00:01:29,820 --> 00:01:35,700
+aprire queste feste ci sarà qualcosa qua
+
+33
+00:01:33,119 --> 00:01:38,159
+dentro per a qualcosa che vi spalleggia
+
+34
+00:01:35,700 --> 00:01:41,479
+mente cacando addosso non so se si
+
+35
+00:01:38,159 --> 00:01:49,530
+percepisce allora diamo un occhio
+
+36
+00:01:41,479 --> 00:01:52,530
+no allora allora prima di vedere se
+
+37
+00:01:49,530 --> 00:01:56,520
+effettivamente c'è o non c'è la roba
+
+38
+00:01:52,530 --> 00:02:00,409
+dentro le ceste se la matematica non è
+
+39
+00:01:56,520 --> 00:02:02,909
+un'opinione e se qualcuno mi vuole male
+
+40
+00:02:00,409 --> 00:02:05,369
+se lì non ci sono più i latin frames
+
+41
+00:02:02,909 --> 00:02:08,209
+vuol dire che neanche qui la stanza dei
+
+42
+00:02:05,369 --> 00:02:12,150
+biscotti non ci sono più i aten frames
+
+43
+00:02:08,209 --> 00:02:17,030
+mannaggia è invece ci sono allora spetta
+
+44
+00:02:12,150 --> 00:02:19,910
+ok a faccia allarme c'è qua c'è tutto
+
+45
+00:02:17,030 --> 00:02:23,129
+perché nella mia stanza mancano le cose
+
+46
+00:02:19,910 --> 00:02:27,510
+pure che solo gli mancano le cose e
+
+47
+00:02:23,129 --> 00:02:28,680
+soprattutto perché mancano le cose e ora
+
+48
+00:02:27,510 --> 00:02:32,760
+la domanda più importante
+
+49
+00:02:28,680 --> 00:02:34,890
+aveva la più importante è la seguente le
+
+50
+00:02:32,760 --> 00:02:36,330
+ceste sono pieno vuote perché sono vuote
+
+51
+00:02:34,890 --> 00:02:38,489
+leccese devo per forza prendere il
+
+52
+00:02:36,330 --> 00:02:41,550
+backup e cercai di rifare
+
+53
+00:02:38,489 --> 00:02:43,110
+l'aggiornamento non capisco perché mi ha
+
+54
+00:02:41,550 --> 00:02:46,050
+dato questo problema perché ha fatto
+
+55
+00:02:43,110 --> 00:02:48,690
+sparire delle cose poi registrarlo
+
+56
+00:02:46,050 --> 00:02:49,080
+perché c'è poi backup quindi non succede
+
+57
+00:02:48,690 --> 00:02:51,330
+nulla
+
+58
+00:02:49,080 --> 00:02:54,060
+però voglio vedere voglio vedere se
+
+59
+00:02:51,330 --> 00:02:57,450
+esplode tutto oppure no chesta caso quei
+
+60
+00:02:54,060 --> 00:03:00,530
+diamanti questa 3 2 1
+
+61
+00:02:57,450 --> 00:03:03,900
+ok ok ci sono le cose dentro allora
+
+62
+00:03:00,530 --> 00:03:07,170
+mannaggia e allora magicamente non si sa
+
+63
+00:03:03,900 --> 00:03:11,459
+perché mi sono scomparsi gli item frame
+
+64
+00:03:07,170 --> 00:03:12,440
+no la mappa capito quanto ci ho messo a
+
+65
+00:03:11,459 --> 00:03:16,830
+fare quella mappa
+
+66
+00:03:12,440 --> 00:03:18,750
+no dai a viggiù romena solita l'ansia
+
+67
+00:03:16,830 --> 00:03:21,420
+per un momento detto è calasse ha bucato
+
+68
+00:03:18,750 --> 00:03:23,610
+il mondo è una paura che ogni volta che
+
+69
+00:03:21,420 --> 00:03:27,180
+c'è un aggiornamento perché è molto
+
+70
+00:03:23,610 --> 00:03:29,069
+molto probabile in realtà mi è successo
+
+71
+00:03:27,180 --> 00:03:30,989
+una volta che si scaricasse
+
+72
+00:03:29,069 --> 00:03:34,170
+completamente dove sono i miei la ma
+
+73
+00:03:30,989 --> 00:03:37,170
+dove sono i miei fottutissimi lama o due
+
+74
+00:03:34,170 --> 00:03:39,090
+la ma qui due bellissimi la ma avevo io
+
+75
+00:03:37,170 --> 00:03:41,610
+c'è la mano però qua tutti gli altri
+
+76
+00:03:39,090 --> 00:03:44,159
+modi invece ci sono file ama però c'è
+
+77
+00:03:41,610 --> 00:03:46,110
+anche da dire che a volte ed espongono
+
+78
+00:03:44,159 --> 00:03:49,470
+da soli e sono un po strani la ma perché
+
+79
+00:03:46,110 --> 00:03:53,519
+vanno con il village con la carovana tg1
+
+80
+00:03:49,470 --> 00:03:55,890
+mi stavo altamente alterando che pensavo
+
+81
+00:03:53,519 --> 00:03:59,939
+che tutto il mondo stesse per andare a
+
+82
+00:03:55,890 --> 00:04:02,580
+quel paese e mi dispiaceva solo pensiero
+
+83
+00:03:59,939 --> 00:04:04,980
+mi stava urtando altamente io ho mi
+
+84
+00:04:02,580 --> 00:04:06,750
+sembra tutto il resto mi sembra a posto
+
+85
+00:04:04,980 --> 00:04:07,950
+e anche lì ci sono i the il frame quindi
+
+86
+00:04:06,750 --> 00:04:10,470
+era solo
+
+87
+00:04:07,950 --> 00:04:11,910
+problema del mio magazzino forse perché
+
+88
+00:04:10,470 --> 00:04:14,819
+c'era dentro
+
+89
+00:04:11,910 --> 00:04:18,209
+quindi nel momento in cui ho aggiornato
+
+90
+00:04:14,819 --> 00:04:19,799
+io ho loggato e tipo in quel chan che
+
+91
+00:04:18,209 --> 00:04:22,200
+c'era un problema però questa è
+
+92
+00:04:19,799 --> 00:04:23,760
+pericolosa come cosa ragazzi molto
+
+93
+00:04:22,200 --> 00:04:25,560
+pericoloso perché vuol dire che la
+
+94
+00:04:23,760 --> 00:04:28,320
+prossima volta che aggiorno se sono lì
+
+95
+00:04:25,560 --> 00:04:29,940
+magari si buca a non c'è più il chunk è
+
+96
+00:04:28,320 --> 00:04:34,290
+che succede
+
+97
+00:04:29,940 --> 00:04:36,330
+non si sa porca vacca va bene cioè va
+
+98
+00:04:34,290 --> 00:04:40,200
+bene no bene un corno anche l'ovetto di
+
+99
+00:04:36,330 --> 00:04:42,810
+tartaruga allora proviamo a caricare di
+
+100
+00:04:40,200 --> 00:04:45,990
+nuovo l'aggiornamento cioè proviamo ben
+
+101
+00:04:42,810 --> 00:04:48,900
+due backup non lo devo trovare lo trovo
+
+102
+00:04:45,990 --> 00:04:52,600
+lo prendo e prova di fare propri file
+
+103
+00:04:48,900 --> 00:04:56,890
+aggiornamento l'unica e non
+
+104
+00:04:52,600 --> 00:04:58,750
+sono nella 14.1 questo invece è un 1 non
+
+105
+00:04:56,890 --> 00:05:04,260
+si vede bene ma è un 1 questo è il
+
+106
+00:04:58,750 --> 00:05:07,770
+backup e niente manca manca qui tutto
+
+107
+00:05:04,260 --> 00:05:10,470
+perché ciò che cade addosso perché non
+
+108
+00:05:07,770 --> 00:05:14,580
+volevo riprovare a fare l'aggiornamento
+
+109
+00:05:10,470 --> 00:05:19,150
+per far sì che tutte le cose rimanessero
+
+110
+00:05:14,580 --> 00:05:22,270
+a quanto pare non è il caso
+
+111
+00:05:19,150 --> 00:05:23,860
+noi non gli piace che bello l'albero e
+
+112
+00:05:22,270 --> 00:05:26,380
+niente a questo punto ricarico d'altro
+
+113
+00:05:23,860 --> 00:05:29,700
+giorno e cioè purtroppo non c'è niente
+
+114
+00:05:26,380 --> 00:05:32,740
+da fare quindi mi trovo costretto a
+
+115
+00:05:29,700 --> 00:05:35,590
+niente a rimettere le cose che posso
+
+116
+00:05:32,740 --> 00:05:37,180
+rimettere ea scalare un attimino perché
+
+117
+00:05:35,590 --> 00:05:40,420
+poca vacca cioè voglio dire
+
+118
+00:05:37,180 --> 00:05:44,560
+nic all mettiamo i due a uno stand
+
+119
+00:05:40,420 --> 00:05:47,050
+mettiamo uno qui è uno qui le armature
+
+120
+00:05:44,560 --> 00:05:49,570
+ovviamente non ne ho più dove andare a
+
+121
+00:05:47,050 --> 00:05:52,660
+prenderne altre chain mail
+
+122
+00:05:49,570 --> 00:05:55,450
+potrei fare sì l'armatura di di ferro
+
+123
+00:05:52,660 --> 00:05:58,240
+normalissima polo nel caso direi che
+
+124
+00:05:55,450 --> 00:06:01,870
+voglio dire qui era d'oro l'opera di
+
+125
+00:05:58,240 --> 00:06:04,720
+ferro diamante forse mi sembra ci
+
+126
+00:06:01,870 --> 00:06:06,130
+fossero armatura di diamante una certa
+
+127
+00:06:04,720 --> 00:06:09,550
+intanto prendiamo questo andiamo a
+
+128
+00:06:06,130 --> 00:06:11,860
+cuocere tutto poi assolutamente dovrò
+
+129
+00:06:09,550 --> 00:06:15,910
+prendere sta facendo anche lotte devo
+
+130
+00:06:11,860 --> 00:06:18,100
+prendere del team frame deve avere un po
+
+131
+00:06:15,910 --> 00:06:18,580
+di paglia da parte per fortuna posso
+
+132
+00:06:18,100 --> 00:06:20,290
+recuperare
+
+133
+00:06:18,580 --> 00:06:22,950
+vi giuro ogni volta che succede una cosa
+
+134
+00:06:20,290 --> 00:06:26,260
+di questo tipo mi viene una paura
+
+135
+00:06:22,950 --> 00:06:29,590
+proprio altissima avanzata un po di
+
+136
+00:06:26,260 --> 00:06:34,240
+pietra perché dico io spendo così tante
+
+137
+00:06:29,590 --> 00:06:37,060
+ore per portare del progresso del mondo
+
+138
+00:06:34,240 --> 00:06:39,010
+e lo faccio molto volentieri
+
+139
+00:06:37,060 --> 00:06:41,110
+faccio molto inter perché mancato un
+
+140
+00:06:39,010 --> 00:06:43,420
+gioco che mi piace molto e vedere il
+
+141
+00:06:41,110 --> 00:06:44,920
+mondo che piano piano prende forma
+
+142
+00:06:43,420 --> 00:06:47,590
+cambia in continuazione
+
+143
+00:06:44,920 --> 00:06:49,360
+adesso aver fatto che cioè sta roba
+
+144
+00:06:47,590 --> 00:06:51,340
+bellissimo da vedere anche il drago
+
+145
+00:06:49,360 --> 00:06:52,480
+bello ci vuole un botto di tempo però
+
+146
+00:06:51,340 --> 00:06:53,560
+per fare queste cose
+
+147
+00:06:52,480 --> 00:06:56,400
+e il fatto che dopo un aggiornamento
+
+148
+00:06:53,560 --> 00:07:01,000
+così all'improvviso boom esplode tutto
+
+149
+00:06:56,400 --> 00:07:04,230
+ecco non è esattamente ciò che mi fa
+
+150
+00:07:01,000 --> 00:07:07,500
+piacere se proprio devo dirlo
+
+151
+00:07:04,230 --> 00:07:10,380
+non riesco neanche a capire il senso di
+
+152
+00:07:07,500 --> 00:07:12,560
+tutto ciò cha come sia possibile che è
+
+153
+00:07:10,380 --> 00:07:15,590
+out of nowhere questo all'improvviso
+
+154
+00:07:12,560 --> 00:07:19,140
+deciso di esplodere il magazzino e di
+
+155
+00:07:15,590 --> 00:07:22,050
+behrami goethe in frame e gli arm stand
+
+156
+00:07:19,140 --> 00:07:25,230
+cioè non riesco a capire cosa potrebbe
+
+157
+00:07:22,050 --> 00:07:29,130
+essere successo capisci e anche nel back
+
+158
+00:07:25,230 --> 00:07:33,990
+up cioè il backup e il salvataggio del
+
+159
+00:07:29,130 --> 00:07:35,190
+mondo prima che prima che ci sarà
+
+160
+00:07:33,990 --> 00:07:36,840
+aggiornamento cioè prima che ci sia
+
+161
+00:07:35,190 --> 00:07:40,970
+qualsiasi tipo di modifica e proprio per
+
+162
+00:07:36,840 --> 00:07:43,860
+quello che sono così stranito perché
+
+163
+00:07:40,970 --> 00:07:44,670
+cioè voglio dire non è la prima volta
+
+164
+00:07:43,860 --> 00:07:47,370
+che mi succede
+
+165
+00:07:44,670 --> 00:07:50,970
+ve l'ho già detto lo faccio il presente
+
+166
+00:07:47,370 --> 00:07:52,920
+era già capitato in passato una volta
+
+167
+00:07:50,970 --> 00:07:55,140
+per fortuna solo una volta ma
+
+168
+00:07:52,920 --> 00:07:58,950
+addirittura nella prima o nella seconda
+
+169
+00:07:55,140 --> 00:08:02,070
+stagione di minecraft sì penso di sì né
+
+170
+00:07:58,950 --> 00:08:05,220
+no no nella prima nella prima stagione
+
+171
+00:08:02,070 --> 00:08:07,820
+di minecraft ita a una certa metà a casa
+
+172
+00:08:05,220 --> 00:08:11,000
+tutto il cian che resettato perso tutto
+
+173
+00:08:07,820 --> 00:08:14,760
+tra cui le ceste con dentro la mia roba
+
+174
+00:08:11,000 --> 00:08:16,470
+quindi ora si sta roba qua molto
+
+175
+00:08:14,760 --> 00:08:21,120
+onestamente dove iniziare a fare backup
+
+176
+00:08:16,470 --> 00:08:22,620
+a ogni episodio è una palla assurda però
+
+177
+00:08:21,120 --> 00:08:25,610
+forse dovrei fare davvero un backup a
+
+178
+00:08:22,620 --> 00:08:27,540
+ogni ogni episodio o ancora meglio
+
+179
+00:08:25,610 --> 00:08:31,230
+ancora meglio forse dovrei passare
+
+180
+00:08:27,540 --> 00:08:32,910
+anch'io a utilizzare i serve così modo
+
+181
+00:08:31,230 --> 00:08:35,940
+di minecraft non sarà più solamente sul
+
+182
+00:08:32,910 --> 00:08:39,330
+mio computer ma sarà su un server che
+
+183
+00:08:35,940 --> 00:08:42,630
+alfa i suoi backup ogni tot e che io
+
+184
+00:08:39,330 --> 00:08:45,630
+posso ricaricare i backup certa non lo
+
+185
+00:08:42,630 --> 00:08:46,850
+so secondo voi ha esperienza da questo
+
+186
+00:08:45,630 --> 00:08:50,010
+punto di vista e può darmi suggerimenti
+
+187
+00:08:46,850 --> 00:08:50,820
+sono ben accetti e li aspetto qua sotto
+
+188
+00:08:50,010 --> 00:08:55,140
+nei commenti
+
+189
+00:08:50,820 --> 00:08:59,010
+perché è una cosa che potenzialmente
+
+190
+00:08:55,140 --> 00:09:03,330
+dovrò fare assolutamente anzi perché
+
+191
+00:08:59,010 --> 00:09:05,190
+altrimenti qui cioè viene l'ansia capito
+
+192
+00:09:03,330 --> 00:09:07,150
+capite già quante ore di gioco ci ho
+
+193
+00:09:05,190 --> 00:09:11,440
+passato sta roba
+
+194
+00:09:07,150 --> 00:09:12,640
+ho più di 550 ore di gioco del cio è
+
+195
+00:09:11,440 --> 00:09:14,860
+vero che va avanti da più di un anno
+
+196
+00:09:12,640 --> 00:09:18,100
+però è ancora se tutto se ne va a quel
+
+197
+00:09:14,860 --> 00:09:20,860
+paese così un istante non mi piace non
+
+198
+00:09:18,100 --> 00:09:23,440
+mi va bene lo devo dire io poi non ho
+
+199
+00:09:20,860 --> 00:09:25,990
+più un legno perché soprattutto di là di
+
+200
+00:09:23,440 --> 00:09:28,960
+quanto lasciano fare al 38 devo mettere
+
+201
+00:09:25,990 --> 00:09:30,430
+sicuramente un paio di cui e poi devo
+
+202
+00:09:28,960 --> 00:09:33,910
+mettere lo farò anche di qua quindi
+
+203
+00:09:30,430 --> 00:09:35,500
+tavolette ma sai cosa forse cioè ormai
+
+204
+00:09:33,910 --> 00:09:38,110
+ho imparato un po
+
+205
+00:09:35,500 --> 00:09:40,360
+qual è il mood delle cose questi qui
+
+206
+00:09:38,110 --> 00:09:43,000
+laterali non sono così sempre pieni
+
+207
+00:09:40,360 --> 00:09:46,810
+poteri lasciarne solo uno ai lati così
+
+208
+00:09:43,000 --> 00:09:51,600
+risparmiamo anche direi che possiamo
+
+209
+00:09:46,810 --> 00:09:54,880
+rimettere un altro vetto di di tartaruga
+
+210
+00:09:51,600 --> 00:09:56,470
+e avanzava ok
+
+211
+00:09:54,880 --> 00:09:57,970
+a me dispiace un po soprattutto perché
+
+212
+00:09:56,470 --> 00:09:58,470
+perdi il materiale all'interno delle
+
+213
+00:09:57,970 --> 00:10:01,750
+robe
+
+214
+00:09:58,470 --> 00:10:07,450
+perciò i due armature ho perso se per su
+
+215
+00:10:01,750 --> 00:10:09,850
+due armature e non solo tacchio perso
+
+216
+00:10:07,450 --> 00:10:19,000
+un'altra testa di drago sbaglio come
+
+217
+00:10:09,850 --> 00:10:21,310
+sulla testa di drago qui no no è un bel
+
+218
+00:10:19,000 --> 00:10:24,930
+momento signori questo non è un bel
+
+219
+00:10:21,310 --> 00:10:28,060
+momento non è un bel momento per niente
+
+220
+00:10:24,930 --> 00:10:29,890
+diavolo andiamo a inserire tutti gli
+
+221
+00:10:28,060 --> 00:10:34,810
+oggetti del caso
+
+222
+00:10:29,890 --> 00:10:37,510
+qua ci mettiamo uno della network ok e
+
+223
+00:10:34,810 --> 00:10:42,970
+di qua stessa roba è un blocchetto di
+
+224
+00:10:37,510 --> 00:10:45,580
+terra la nota personale mai più inserire
+
+225
+00:10:42,970 --> 00:10:48,880
+oggetti di valore in cose come armour
+
+226
+00:10:45,580 --> 00:10:50,800
+stand e che poi perché mai più cioè non
+
+227
+00:10:48,880 --> 00:10:52,660
+mi era mai successo prima questa cosa in
+
+228
+00:10:50,800 --> 00:10:54,730
+particolare che sono in questo chunk
+
+229
+00:10:52,660 --> 00:10:56,470
+boom tutto scomparso
+
+230
+00:10:54,730 --> 00:10:59,620
+se sparivano anche le ceste raga era
+
+231
+00:10:56,470 --> 00:11:03,490
+alla fine era la fine è una res dunque
+
+232
+00:10:59,620 --> 00:11:07,320
+uno shooter che in cui l'anci ma avevo
+
+233
+00:11:03,490 --> 00:11:07,320
+bisogno mettiamoci un pezzo di sabbia
+
+234
+00:11:07,470 --> 00:11:13,520
+ok per lo meno abbiamo ripristinato un
+
+235
+00:11:10,680 --> 00:11:16,080
+minimo d'ordine potrei fare sicuramente
+
+236
+00:11:13,520 --> 00:11:20,180
+la natura che manca di via ad esempio
+
+237
+00:11:16,080 --> 00:11:22,130
+qui facciamo l'elmetto e leggins
+
+238
+00:11:20,180 --> 00:11:26,610
+un'armatura ce l'abbiamo
+
+239
+00:11:22,130 --> 00:11:28,110
+facciamo così ok e di qua beh di qua
+
+240
+00:11:26,610 --> 00:11:30,570
+buonanotte potremo mettere una d'oro
+
+241
+00:11:28,110 --> 00:11:32,280
+questo punto facciamo un piccolo upgrade
+
+242
+00:11:30,570 --> 00:11:33,630
+se cosi si può considerare anche
+
+243
+00:11:32,280 --> 00:11:35,510
+sbilanciare gli amanti quindi upgrade
+
+244
+00:11:33,630 --> 00:11:39,360
+non so come bene coda che io intenda
+
+245
+00:11:35,510 --> 00:11:44,270
+facciamo così facciamo così così
+
+246
+00:11:39,360 --> 00:11:46,980
+non faccio la ces plate et voilà
+
+247
+00:11:44,270 --> 00:11:49,560
+anche questo lo devo fare i blocchi
+
+248
+00:11:46,980 --> 00:11:51,110
+dorothy intasino troppo spazio occupato
+
+249
+00:11:49,560 --> 00:11:58,590
+bam bam bam bam
+
+250
+00:11:51,110 --> 00:12:00,450
+ok non un altro armatura quindi voilà ok
+
+251
+00:11:58,590 --> 00:12:01,470
+a d'oro dove molto carina semmai tipo
+
+252
+00:12:00,450 --> 00:12:05,250
+cavalli e dello zodiaco
+
+253
+00:12:01,470 --> 00:12:07,280
+ok e abbiamo perso il pollo quindi direi
+
+254
+00:12:05,250 --> 00:12:10,620
+che a questo punto possiamo rimuovere
+
+255
+00:12:07,280 --> 00:12:13,230
+questo sistema di rob che non ci serve
+
+256
+00:12:10,620 --> 00:12:15,780
+semplicemente quindi proprio lasciare
+
+257
+00:12:13,230 --> 00:12:18,660
+stare e un'altra cosa che voglio fare è
+
+258
+00:12:15,780 --> 00:12:20,400
+già che ci siamo siamo qui siamo non
+
+259
+00:12:18,660 --> 00:12:21,840
+dico perdendo tempo ma stiamo facendo
+
+260
+00:12:20,400 --> 00:12:24,470
+cose
+
+261
+00:12:21,840 --> 00:12:27,000
+prendiamo un altro paio di sì lantern
+
+262
+00:12:24,470 --> 00:12:30,240
+sostituiamo alcuni blocchi con delle si
+
+263
+00:12:27,000 --> 00:12:34,830
+lantern così posso rimuovere poi con
+
+264
+00:12:30,240 --> 00:12:36,660
+calma tutte le torce e restiamo puliti
+
+265
+00:12:34,830 --> 00:12:39,120
+un po come manca smodato in cui alla
+
+266
+00:12:36,660 --> 00:12:42,450
+fine un rimorso tutto anche qui che fai
+
+267
+00:12:39,120 --> 00:12:46,280
+tu metti no no questo no questo
+
+268
+00:12:42,450 --> 00:12:49,110
+assolutamente no siamo una torcia la
+
+269
+00:12:46,280 --> 00:12:50,640
+lampada si lantern qui abbiamo delle
+
+270
+00:12:49,110 --> 00:12:54,900
+torce vediamo se posso provare qualche
+
+271
+00:12:50,640 --> 00:12:57,150
+modo f3 alla mano se c'è un 8 possono
+
+272
+00:12:54,900 --> 00:12:59,420
+sposare in modo c'è un 9 quindi non può
+
+273
+00:12:57,150 --> 00:13:04,680
+secondo a nessuno
+
+274
+00:12:59,420 --> 00:13:06,990
+ok ma c'è un 8 diane non va bene
+
+275
+00:13:04,680 --> 00:13:09,210
+mettiamo qua un'altra lampada allora ok
+
+276
+00:13:06,990 --> 00:13:12,000
+io avevo messer a cavallo nessuno può
+
+277
+00:13:09,210 --> 00:13:13,260
+più spronare e fare cose siamo tutti
+
+278
+00:13:12,000 --> 00:13:16,140
+tutti felici mettiamo un altra acqua
+
+279
+00:13:13,260 --> 00:13:18,690
+davanti giusto per ok non ci sono più
+
+280
+00:13:16,140 --> 00:13:20,520
+troppe realtà le torce ci sono però
+
+281
+00:13:18,690 --> 00:13:22,630
+potrebbero anche non esserci
+
+282
+00:13:20,520 --> 00:13:25,630
+questo punto prendiamo anche sti due
+
+283
+00:13:22,630 --> 00:13:28,630
+cose cesellati anzi meglio ancora vedono
+
+284
+00:13:25,630 --> 00:13:30,070
+dell'android mettiamo a posto di queste
+
+285
+00:13:28,630 --> 00:13:32,860
+torce qua
+
+286
+00:13:30,070 --> 00:13:37,000
+al contrario tanto son belle adesso
+
+287
+00:13:32,860 --> 00:13:38,050
+sotto anche il no sbagliato a piazzare
+
+288
+00:13:37,000 --> 00:13:41,530
+ti rendi conto
+
+289
+00:13:38,050 --> 00:13:43,030
+mannaggia a me o non ho parole però mi
+
+290
+00:13:41,530 --> 00:13:46,180
+sono storto di nuovo che deve essere
+
+291
+00:13:43,030 --> 00:13:52,210
+verso mannaggia fa rompendo tutto mio
+
+292
+00:13:46,180 --> 00:13:55,360
+io come ci arrivo ma sono più danni che
+
+293
+00:13:52,210 --> 00:14:00,220
+altro signore sono un po scombussolato e
+
+294
+00:13:55,360 --> 00:14:02,380
+l'ansia e la serie porta vacca 556 tipo
+
+295
+00:14:00,220 --> 00:14:05,050
+9 del genere ore di gioco potrebbero
+
+296
+00:14:02,380 --> 00:14:08,620
+venir buttati nel cesso così cioè perché
+
+297
+00:14:05,050 --> 00:14:11,350
+allora iso episodio non ero troppo
+
+298
+00:14:08,620 --> 00:14:13,960
+turbato tacchi guarda che è successo mi
+
+299
+00:14:11,350 --> 00:14:15,520
+tocca di caricare il backup quando
+
+300
+00:14:13,960 --> 00:14:16,900
+ricarichi backup e anche il backup
+
+301
+00:14:15,520 --> 00:14:19,180
+problemi
+
+302
+00:14:16,900 --> 00:14:22,150
+è lì che ti cade addosso è lì che ti
+
+303
+00:14:19,180 --> 00:14:24,970
+cade addosso ok legano tutte le torce a
+
+304
+00:14:22,150 --> 00:14:27,730
+questo punto non ci sono più torce nel
+
+305
+00:14:24,970 --> 00:14:29,830
+nostro magazzino il che è davvero bello
+
+306
+00:14:27,730 --> 00:14:31,900
+perché vuol dire che siamo a prova di
+
+307
+00:14:29,830 --> 00:14:34,750
+spawn di mob st quando ci sono dei
+
+308
+00:14:31,900 --> 00:14:36,790
+blocchi strani con un livello di luci un
+
+309
+00:14:34,750 --> 00:14:38,650
+po basso no dovremmo essere a posto
+
+310
+00:14:36,790 --> 00:14:41,530
+anche qua sopra anche qua sopra
+
+311
+00:14:38,650 --> 00:14:42,880
+incredibilmente e allora siamo a cavallo
+
+312
+00:14:41,530 --> 00:14:44,800
+ora fuori piano piano sta diventando
+
+313
+00:14:42,880 --> 00:14:48,130
+notte io voglio però a prendere un
+
+314
+00:14:44,800 --> 00:14:52,660
+secchio d'acqua e questo episodio è un
+
+315
+00:14:48,130 --> 00:14:54,520
+po strano è decisamente un po strano non
+
+316
+00:14:52,660 --> 00:14:56,980
+so se riuscisse faremo qualcosa in
+
+317
+00:14:54,520 --> 00:14:58,240
+questo episodio molto sinceramente però
+
+318
+00:14:56,980 --> 00:14:58,840
+voglio parlarvi di un progetto che
+
+319
+00:14:58,240 --> 00:15:01,240
+voglio fare
+
+320
+00:14:58,840 --> 00:15:04,900
+vuoi portare avanti perché stavo
+
+321
+00:15:01,240 --> 00:15:07,600
+osservando qui ora con questa con la
+
+322
+00:15:04,900 --> 00:15:09,970
+possibilità di mettere la foga più
+
+323
+00:15:07,600 --> 00:15:12,160
+lontana visto che tutto ottimizzato era
+
+324
+00:15:09,970 --> 00:15:14,860
+come vedete non larga cioè posso fare
+
+325
+00:15:12,160 --> 00:15:19,570
+cose e va abbastanza bene
+
+326
+00:15:14,860 --> 00:15:22,150
+faccio i miei 100 110 fps quando si
+
+327
+00:15:19,570 --> 00:15:25,690
+muove 610 fps quando sto fermo scende
+
+328
+00:15:22,150 --> 00:15:28,270
+ovviamente perché risparmio e non è male
+
+329
+00:15:25,690 --> 00:15:29,860
+tra l'altro ho messo il limite degli fps
+
+330
+00:15:28,270 --> 00:15:31,900
+perché non ha senso andare oltre
+
+331
+00:15:29,860 --> 00:15:33,769
+semplicemente perché comunque registro
+
+332
+00:15:31,900 --> 00:15:36,019
+computer è stressato tutto quanto
+
+333
+00:15:33,769 --> 00:15:39,199
+per quanto sarebbe bello avere un ponte
+
+334
+00:15:36,019 --> 00:15:41,389
+sospeso che da quell'isola arriva alla
+
+335
+00:15:39,199 --> 00:15:44,420
+statua del drago e unisce queste due
+
+336
+00:15:41,389 --> 00:15:46,610
+cose sarebbe avere una figata pazzesca e
+
+337
+00:15:44,420 --> 00:15:49,519
+mi è venuto in mente un commento che mi
+
+338
+00:15:46,610 --> 00:15:51,589
+avete lasciato nei commenti di qualche
+
+339
+00:15:49,519 --> 00:15:53,899
+video scorso non mi ricordo di preciso
+
+340
+00:15:51,589 --> 00:15:56,179
+quale ma se non sbaglio era quello in
+
+341
+00:15:53,899 --> 00:15:59,869
+cui costruivo al drago perché dietro il
+
+342
+00:15:56,179 --> 00:16:01,429
+drago c'erano delle isole interessanti e
+
+343
+00:15:59,869 --> 00:16:02,929
+mettete sul riprova costruire dei ponti
+
+344
+00:16:01,429 --> 00:16:05,299
+che collegano queste isole sarebbe una
+
+345
+00:16:02,929 --> 00:16:06,499
+figata pazzesca indubbiamente e mi avete
+
+346
+00:16:05,299 --> 00:16:09,350
+lasciato questo suggerimento mi ha detto
+
+347
+00:16:06,499 --> 00:16:12,049
+sui pendii campfire spegne lì con
+
+348
+00:16:09,350 --> 00:16:14,239
+dell'acqua e utilizza il cam fire per
+
+349
+00:16:12,049 --> 00:16:16,489
+fare i ponti sospesi perché tu ci puoi
+
+350
+00:16:14,239 --> 00:16:18,079
+camminare sopra e sono tipo degli slam
+
+351
+00:16:16,489 --> 00:16:20,929
+ma super particolari perché sono
+
+352
+00:16:18,079 --> 00:16:24,980
+composti da più legno quindi è vero che
+
+353
+00:16:20,929 --> 00:16:27,079
+diventa costoso abbastanza costoso
+
+354
+00:16:24,980 --> 00:16:29,689
+costruirli e che se di compiti da solo
+
+355
+00:16:27,079 --> 00:16:32,259
+il circuito non te li dà i blocchi che è
+
+356
+00:16:29,689 --> 00:16:35,889
+utilizzato quindi legno di sticca però
+
+357
+00:16:32,259 --> 00:16:39,730
+potrebbe essere interessante
+
+358
+00:16:35,889 --> 00:16:43,369
+sbaglio o tipo vedo delle robe arancioni
+
+359
+00:16:39,730 --> 00:16:47,600
+perché delle cose arancioni
+
+360
+00:16:43,369 --> 00:16:50,230
+scusate ma sono io o quell'albero ora è
+
+361
+00:16:47,600 --> 00:16:52,449
+arancione poi mi avvicino diventa verde
+
+362
+00:16:50,230 --> 00:16:55,009
+cosa sta succedendo
+
+363
+00:16:52,449 --> 00:16:59,029
+non lo so cioè vedi ci sono delle ombre
+
+364
+00:16:55,009 --> 00:17:01,360
+arancioni sulle cose vengano mi piace
+
+365
+00:16:59,029 --> 00:17:05,750
+non mi piace
+
+366
+00:17:01,360 --> 00:17:10,130
+potrebbero esserci dei problemi in vista
+
+367
+00:17:05,750 --> 00:17:13,189
+non mi piace non mi piace e oggi volevo
+
+368
+00:17:10,130 --> 00:17:14,929
+rifare la biblioteca però dovevo prima
+
+369
+00:17:13,189 --> 00:17:18,740
+mente mi raccogliere diamanti non è il
+
+370
+00:17:14,929 --> 00:17:21,620
+caso direi devo fare un altro
+
+371
+00:17:18,740 --> 00:17:24,260
+esperimento visto che siamo qui stiamo
+
+372
+00:17:21,620 --> 00:17:27,500
+facendo un po di beta testing del mondo
+
+373
+00:17:24,260 --> 00:17:28,820
+per capire se ha senso oppure no vivere
+
+374
+00:17:27,500 --> 00:17:30,980
+nella vita
+
+375
+00:17:28,820 --> 00:17:34,130
+potremmo fare un altro testa prendiamo
+
+376
+00:17:30,980 --> 00:17:38,480
+piccone con seal touch e proviamo a
+
+377
+00:17:34,130 --> 00:17:40,700
+creare un campo fire amo sono un can
+
+378
+00:17:38,480 --> 00:17:43,520
+find the fare ma no perché solo che fai
+
+379
+00:17:40,700 --> 00:17:45,490
+ha voglia quanto costa penso fossero
+
+380
+00:17:43,520 --> 00:17:46,660
+branks un log
+
+381
+00:17:45,490 --> 00:17:48,610
+non mi ricordavo questo piccolo
+
+382
+00:17:46,660 --> 00:17:50,770
+dettaglio comunque mettiamo caso io
+
+383
+00:17:48,610 --> 00:17:53,200
+piazzi sto coso se uso in piccole con
+
+384
+00:17:50,770 --> 00:17:56,110
+seal taccia funziona
+
+385
+00:17:53,200 --> 00:17:57,250
+me lo ridà i meloni da perfetto questa è
+
+386
+00:17:56,110 --> 00:17:59,110
+una cosa positiva perché vuol dire che
+
+387
+00:17:57,250 --> 00:18:02,890
+possiamo costruire effettivamente un
+
+388
+00:17:59,110 --> 00:18:05,950
+ponte cioè potremo fare delle cose è è
+
+389
+00:18:02,890 --> 00:18:08,200
+positiva come cosa molto positiva
+
+390
+00:18:05,950 --> 00:18:09,910
+ad esempio vediamo altri log che a
+
+391
+00:18:08,200 --> 00:18:11,500
+questo punto devo fermare in grande
+
+392
+00:18:09,910 --> 00:18:13,870
+quantità cioè dovrò prendere degli
+
+393
+00:18:11,500 --> 00:18:15,460
+spruce e farli crescere raccoglie tutto
+
+394
+00:18:13,870 --> 00:18:17,650
+quel legno per forza in maniera più
+
+395
+00:18:15,460 --> 00:18:20,200
+semplice per fare tanto legno ma anche
+
+396
+00:18:17,650 --> 00:18:21,790
+tanti sampling anche se ho solamente 11
+
+397
+00:18:20,200 --> 00:18:23,890
+va bene lasciamo stare per il momento
+
+398
+00:18:21,790 --> 00:18:26,080
+prendiamo un po di questi vediamo di
+
+399
+00:18:23,890 --> 00:18:29,500
+captarne un po di sti cosi 4 che al 4
+
+400
+00:18:26,080 --> 00:18:33,460
+non mi sembra male se io chiudo la porta
+
+401
+00:18:29,500 --> 00:18:35,460
+e prova a dirla in cima all a in cima
+
+402
+00:18:33,460 --> 00:18:38,760
+non lo so vediamo poi va bene serve la
+
+403
+00:18:35,460 --> 00:18:45,330
+guarda e tutto rosso perché tutto rosso
+
+404
+00:18:38,760 --> 00:18:48,010
+perché mi dà fastidio non capisco bene
+
+405
+00:18:45,330 --> 00:18:51,070
+stiamo calmi
+
+406
+00:18:48,010 --> 00:18:54,730
+allora se io provo a prendere un the
+
+407
+00:18:51,070 --> 00:18:58,240
+fire e provo a fare così
+
+408
+00:18:54,730 --> 00:19:00,429
+no non così certo è un po lentino ed ha
+
+409
+00:18:58,240 --> 00:19:02,320
+da fare tutto però mettiamo caso io qui
+
+410
+00:19:00,429 --> 00:19:07,120
+abbia una roba di questo tipo
+
+411
+00:19:02,320 --> 00:19:09,220
+ok e metto questo qui ok abbiamo già un
+
+412
+00:19:07,120 --> 00:19:10,540
+problema e ho già un problema perché
+
+413
+00:19:09,220 --> 00:19:12,220
+giustamente il cam file non si può
+
+414
+00:19:10,540 --> 00:19:16,140
+piazzare su come se fosse davvero uno
+
+415
+00:19:12,220 --> 00:19:19,559
+slam alto questo è un problema perché
+
+416
+00:19:16,140 --> 00:19:23,710
+avevo intenzione di fare il ponticello
+
+417
+00:19:19,559 --> 00:19:25,450
+sensato ok che avesse un senso quindi
+
+418
+00:19:23,710 --> 00:19:26,620
+che andasse anche verso l'alto verso il
+
+419
+00:19:25,450 --> 00:19:28,420
+basso
+
+420
+00:19:26,620 --> 00:19:31,540
+però se non posso farlo cioè se ma se
+
+421
+00:19:28,420 --> 00:19:32,890
+cosa farebbe questo non so se poi ne
+
+422
+00:19:31,540 --> 00:19:35,890
+vale comunque la pena cioè dovrei
+
+423
+00:19:32,890 --> 00:19:39,880
+mettere tipo qua sotto tipo delle fans
+
+424
+00:19:35,890 --> 00:19:43,660
+proviamo a spegnere questi cosi guarda
+
+425
+00:19:39,880 --> 00:19:46,630
+quanto fumo che fa ok
+
+426
+00:19:43,660 --> 00:19:48,730
+ah beh sicuramente ti dà il mood un po
+
+427
+00:19:46,630 --> 00:19:49,929
+di un ponticello
+
+428
+00:19:48,730 --> 00:19:52,030
+solo che poi devi creare dei
+
+429
+00:19:49,929 --> 00:19:53,559
+collegamenti collegamenti che comunque
+
+430
+00:19:52,030 --> 00:19:56,230
+noi possiamo fare cioè non ci interessa
+
+431
+00:19:53,559 --> 00:19:58,800
+molto quindi ci può stare signori ci può
+
+432
+00:19:56,230 --> 00:20:01,020
+stare è super costoso
+
+433
+00:19:58,800 --> 00:20:04,250
+perché costa un botto che ognuno di
+
+434
+00:20:01,020 --> 00:20:06,870
+questi ci sono tre log iii log di legno
+
+435
+00:20:04,250 --> 00:20:08,730
+cioè con un altro ne fai due se hai
+
+436
+00:20:06,870 --> 00:20:11,010
+fortuna anche se di base sono cinque e
+
+437
+00:20:08,730 --> 00:20:12,510
+loco in un albero cazzi proprio per
+
+438
+00:20:11,010 --> 00:20:15,540
+entrare in mood bisogna questo episodio
+
+439
+00:20:12,510 --> 00:20:16,680
+ha dato un po così nel senso ci sono
+
+440
+00:20:15,540 --> 00:20:18,210
+stati problemi con il mondo
+
+441
+00:20:16,680 --> 00:20:22,890
+probabilmente che si chiamerà così
+
+442
+00:20:18,210 --> 00:20:26,550
+questo video e delle cose però è una
+
+443
+00:20:22,890 --> 00:20:29,030
+cosa importante comunque the bible per
+
+444
+00:20:26,550 --> 00:20:29,030
+tutti
+
+445
+00:20:29,070 --> 00:20:32,910
+guarda che albero che uscito fuori la
+
+446
+00:20:31,170 --> 00:20:37,350
+cosa positiva che qui almeno vengono
+
+447
+00:20:32,910 --> 00:20:39,750
+fuori un botto ma davvero un botto di
+
+448
+00:20:37,350 --> 00:20:42,210
+stack di legno almeno due se non ricordo
+
+449
+00:20:39,750 --> 00:20:43,530
+male ovviamente non siano tutte le
+
+450
+00:20:42,210 --> 00:20:46,140
+foglie sperando che ci dia
+
+451
+00:20:43,530 --> 00:20:47,450
+non lo so almeno quattro alberelli anche
+
+452
+00:20:46,140 --> 00:20:49,800
+se è molto improbabile
+
+453
+00:20:47,450 --> 00:20:52,350
+queste cose sono utili perché da un
+
+454
+00:20:49,800 --> 00:20:54,330
+botto di legno mano dal mend hanno
+
+455
+00:20:52,350 --> 00:20:56,130
+talmente pochi alberelli che non riesci
+
+456
+00:20:54,330 --> 00:20:58,710
+se non hai una fan di alberi di questo
+
+457
+00:20:56,130 --> 00:21:01,980
+tipo a fare tutto avendo nel dubbio
+
+458
+00:20:58,710 --> 00:21:03,030
+rompiamo comunque tutto va cioè non
+
+459
+00:21:01,980 --> 00:21:05,840
+vorrei dire ma mai dato solo un
+
+460
+00:21:03,030 --> 00:21:10,560
+alberello un alberello
+
+461
+00:21:05,840 --> 00:21:13,890
+no non basta un alberello zio tra
+
+462
+00:21:10,560 --> 00:21:17,190
+inoltre ok ho visto male 3 non è il
+
+463
+00:21:13,890 --> 00:21:18,150
+massimo perché 4 era almeno un rientro
+
+464
+00:21:17,190 --> 00:21:19,770
+dell'investimento
+
+465
+00:21:18,150 --> 00:21:21,660
+nonostante abbia comunque ottenuto tutto
+
+466
+00:21:19,770 --> 00:21:24,810
+quello che avevo bisogno cioè il legno
+
+467
+00:21:21,660 --> 00:21:29,160
+però attacco ma lì c'è gente stiamo
+
+468
+00:21:24,810 --> 00:21:32,240
+calmi ammazziamo tutti dove l'altro con
+
+469
+00:21:29,160 --> 00:21:35,690
+l'armatura d'oro a chi vedo è ti vedo si
+
+470
+00:21:32,240 --> 00:21:38,360
+celi dietro l'albero tv ok se lo scorso
+
+471
+00:21:35,690 --> 00:21:41,340
+magari qua terra c'è un altro alberello
+
+472
+00:21:38,360 --> 00:21:43,140
+sarebbe un'ottima cosa
+
+473
+00:21:41,340 --> 00:21:46,860
+comunque niente o è incredibile quanto
+
+474
+00:21:43,140 --> 00:21:49,470
+si affida l'isola che esce dal dalla
+
+475
+00:21:46,860 --> 00:21:52,800
+terra che vola e sopra c'è un albero
+
+476
+00:21:49,470 --> 00:21:55,950
+enorme tutto illuminato figo
+
+477
+00:21:52,800 --> 00:21:58,200
+bello bello mi piace con questi raggi
+
+478
+00:21:55,950 --> 00:22:01,980
+della morte che figata
+
+479
+00:21:58,200 --> 00:22:04,500
+che figata lo bello ok a quanti
+
+480
+00:22:01,980 --> 00:22:07,440
+riusciamo a farne o 36 campfire in
+
+481
+00:22:04,500 --> 00:22:09,540
+totale con quasi 2 stack di spruce log e
+
+482
+00:22:07,440 --> 00:22:10,550
+turisti che ti dico dovuto fare
+
+483
+00:22:09,540 --> 00:22:15,710
+non male
+
+484
+00:22:10,550 --> 00:22:19,940
+normali 36 campfire 5 avevo già sono 30
+
+485
+00:22:15,710 --> 00:22:23,360
+facciamo 30 nel suo stack posso fare una
+
+486
+00:22:19,940 --> 00:22:26,390
+piccola parte però si può fare si può
+
+487
+00:22:23,360 --> 00:22:27,500
+fare lo faremo sicuramente con calma in
+
+488
+00:22:26,390 --> 00:22:30,100
+uno dei prossimi episodi
+
+489
+00:22:27,500 --> 00:22:32,570
+non so se nel prossimo cari facciamo ora
+
+490
+00:22:30,100 --> 00:22:34,700
+come si chiama o la libreria nuova
+
+491
+00:22:32,570 --> 00:22:36,620
+biblioteca nuova o questo fantomatico
+
+492
+00:22:34,700 --> 00:22:38,600
+ponte perché se devo capire bene come
+
+493
+00:22:36,620 --> 00:22:39,620
+farlo però vi prego di scrivere qua
+
+494
+00:22:38,600 --> 00:22:41,960
+sotto nei commenti che aveva più
+
+495
+00:22:39,620 --> 00:22:43,550
+importante dei suggerimenti su se voi
+
+496
+00:22:41,960 --> 00:22:45,740
+giocate a minecraft se avete un mondo
+
+497
+00:22:43,550 --> 00:22:48,470
+tipo il mio compito in cui investite
+
+498
+00:22:45,740 --> 00:22:50,480
+tanto tempo come fate se avete un server
+
+499
+00:22:48,470 --> 00:22:52,010
+con dei backup costanti se fate voi
+
+500
+00:22:50,480 --> 00:22:55,040
+backup a mano insomma la chimenti
+
+501
+00:22:52,010 --> 00:22:57,530
+suggerimenti sicuramente l'opzione
+
+502
+00:22:55,040 --> 00:22:58,730
+server potrebbe essere interessante e
+
+503
+00:22:57,530 --> 00:23:00,050
+nulla
+
+504
+00:22:58,730 --> 00:23:02,300
+io intanto vi saluto e vi ringrazio
+
+505
+00:23:00,050 --> 00:23:05,060
+tantissimo per la visione questo è un po
+
+506
+00:23:02,300 --> 00:23:06,230
+particolare ma era giusto parlare anche
+
+507
+00:23:05,060 --> 00:23:08,930
+di queste cose perché sono cose che
+
+508
+00:23:06,230 --> 00:23:10,230
+succedono e niente io vi saluto ciao a
+
+509
+00:23:08,930 --> 00:23:28,729
+tutti
+
+510
+00:23:10,230 --> 00:23:28,729
+[Musica]

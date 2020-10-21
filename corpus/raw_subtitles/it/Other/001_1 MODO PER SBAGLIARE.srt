@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:01,460
+Ciao, sono Daniele Doesn't Matter
+
+2
+00:00:01,460 --> 00:00:02,540
+e oggi è Giovedì.
+
+3
+00:00:02,540 --> 00:00:04,160
+Scusate, ho sbagliato, ci vediamo domani.

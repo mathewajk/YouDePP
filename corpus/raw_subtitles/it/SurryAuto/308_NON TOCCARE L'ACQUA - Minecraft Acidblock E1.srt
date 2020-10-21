@@ -1,0 +1,1535 @@
+1
+00:00:00,000 --> 00:00:04,470
+ciao a tutti che ciotti e benvenuti in
+
+2
+00:00:01,680 --> 00:00:07,080
+questo nuovissimo video della nuova sede
+
+3
+00:00:04,470 --> 00:00:10,710
+delle sette che si chiama e isid bloc
+
+4
+00:00:07,080 --> 00:00:12,690
+signori questa è una mappa vanilla e
+
+5
+00:00:10,710 --> 00:00:15,240
+prima che alcuni di voi insegno dire no
+
+6
+00:00:12,690 --> 00:00:17,580
+che bello volevo tornasse una serie mo
+
+7
+00:00:15,240 --> 00:00:19,619
+data questa è una serie fil rouge
+
+8
+00:00:17,580 --> 00:00:21,840
+anticipato nel video di ieri la porterò
+
+9
+00:00:19,619 --> 00:00:24,150
+non dovrebbe essere anche troppo lunga a
+
+10
+00:00:21,840 --> 00:00:25,949
+dire a dire il vero potrebbe durare una
+
+11
+00:00:24,150 --> 00:00:28,349
+decina episodi come magari una dozzina
+
+12
+00:00:25,949 --> 00:00:31,230
+una ventina non lo so però non dovrebbe
+
+13
+00:00:28,349 --> 00:00:34,079
+durare troppo sicuro non tre mamma mia
+
+14
+00:00:31,230 --> 00:00:37,440
+che succede adesso appena mi sono appena
+
+15
+00:00:34,079 --> 00:00:41,219
+entrato anche poi attaccarmi così avete
+
+16
+00:00:37,440 --> 00:00:43,620
+fatto sta che già in programma di dare
+
+17
+00:00:41,219 --> 00:00:44,879
+un occhio a diversi pacchetti mode visto
+
+18
+00:00:43,620 --> 00:00:45,960
+che mi è piaciuta tanto anche a me
+
+19
+00:00:44,879 --> 00:00:47,670
+l'ultima serie
+
+20
+00:00:45,960 --> 00:00:51,030
+e vabbè facciamoci ammazzare luciano un
+
+21
+00:00:47,670 --> 00:00:53,730
+modo di difendermi quindi ammazzati ad
+
+22
+00:00:51,030 --> 00:00:55,559
+ammazzarmi veloci prima che remissione
+
+23
+00:00:53,730 --> 00:00:57,840
+sono poi dai non ce la fa deve
+
+24
+00:00:55,559 --> 00:00:59,879
+incoraggiarli io attacca mi grazie
+
+25
+00:00:57,840 --> 00:01:02,280
+alleluia lettura e mi attaccheranno
+
+26
+00:00:59,879 --> 00:01:05,610
+anche è invece no
+
+27
+00:01:02,280 --> 00:01:08,520
+porca vacca ok siamo partiti volevo dire
+
+28
+00:01:05,610 --> 00:01:10,590
+cose c'è andrea lobby ma anche no quanto
+
+29
+00:01:08,520 --> 00:01:12,150
+pare diavolo
+
+30
+00:01:10,590 --> 00:01:14,760
+ok c'è un problema non posso non per sé
+
+31
+00:01:12,150 --> 00:01:18,000
+nulla alla si chiama easy block proprio
+
+32
+00:01:14,760 --> 00:01:20,520
+perché siamo in un oceano che ci dà
+
+33
+00:01:18,000 --> 00:01:21,900
+l'effetto del with her quindi non
+
+34
+00:01:20,520 --> 00:01:23,670
+possiamo toccare l'acqua
+
+35
+00:01:21,900 --> 00:01:25,259
+tenete di certo chi l'acqua ti fa male
+
+36
+00:01:23,670 --> 00:01:27,509
+non ho troppi labati dall'effetto de
+
+37
+00:01:25,259 --> 00:01:29,430
+with her per tot secondi che non è poco
+
+38
+00:01:27,509 --> 00:01:30,780
+non è sicuramente pop accesso veramente
+
+39
+00:01:29,430 --> 00:01:32,549
+un problema perché non posso rompere
+
+40
+00:01:30,780 --> 00:01:33,150
+nulla quindi devo restare la mappa che
+
+41
+00:01:32,549 --> 00:01:36,659
+bello
+
+42
+00:01:33,150 --> 00:01:38,130
+ok rieccoci la mappa dell 1.13 i viola
+
+43
+00:01:36,659 --> 00:01:40,049
+giocano in 1 punto cattolici perché non
+
+44
+00:01:38,130 --> 00:01:41,939
+ci sono limitazioni non ti dice po
+
+45
+00:01:40,049 --> 00:01:45,930
+giocarla solo in questa versione quindi
+
+46
+00:01:41,939 --> 00:01:49,829
+andiamo senza nessun tipo di indugio su
+
+47
+00:01:45,930 --> 00:01:51,030
+segugio a ok ci siamo a singh blocco 1.0
+
+48
+00:01:49,829 --> 00:01:52,110
+finalmente possiamo vedere che cosa
+
+49
+00:01:51,030 --> 00:01:54,180
+succede
+
+50
+00:01:52,110 --> 00:01:55,950
+matt griffin allora di base cioè
+
+51
+00:01:54,180 --> 00:01:57,990
+lasciare tutto default in realtà
+
+52
+00:01:55,950 --> 00:02:00,719
+vediamo poi dentro cosa c'è bottone
+
+53
+00:01:57,990 --> 00:02:04,530
+stato ventures con un villager mario
+
+54
+00:02:00,719 --> 00:02:06,390
+zuccon va bene è italiano il creatore di
+
+55
+00:02:04,530 --> 00:02:09,239
+questa mappa potrebbe tranquillamente
+
+56
+00:02:06,390 --> 00:02:11,629
+esserlo vediamo cos'altro cè ho visto
+
+57
+00:02:09,239 --> 00:02:13,680
+delle robe qui in fondo sono dei libri
+
+58
+00:02:11,629 --> 00:02:16,319
+adblock buy
+
+59
+00:02:13,680 --> 00:02:19,799
+ok che qualcuno di questi mi dà ai
+
+60
+00:02:16,319 --> 00:02:24,209
+blocchi intro e adesso di crediti qui
+
+61
+00:02:19,799 --> 00:02:27,659
+cruz open lista ies a ci sono delle
+
+62
+00:02:24,209 --> 00:02:30,389
+ricette speciali su un sito web però a
+
+63
+00:02:27,659 --> 00:02:32,310
+caso va bene ok
+
+64
+00:02:30,389 --> 00:02:35,340
+iniziamo aver già fatto ci siano delle
+
+65
+00:02:32,310 --> 00:02:38,849
+ricette speciali promette bene che di
+
+66
+00:02:35,340 --> 00:02:39,900
+solito ok a che beh allora posso rompere
+
+67
+00:02:38,849 --> 00:02:41,670
+le cose
+
+68
+00:02:39,900 --> 00:02:44,489
+alleluia prima evidentemente non ero
+
+69
+00:02:41,670 --> 00:02:47,010
+nella ge modi giusta allora abbiamo
+
+70
+00:02:44,489 --> 00:02:48,450
+delle isole attorno a noi io ne vedo 4
+
+71
+00:02:47,010 --> 00:02:50,579
+per il momento uno per ogni punto
+
+72
+00:02:48,450 --> 00:02:53,790
+cardinale abbiamo un bellissimo albero
+
+73
+00:02:50,579 --> 00:02:57,180
+che io inizierei a rompere per ottenere
+
+74
+00:02:53,790 --> 00:02:59,519
+i sapling del caso iniziamo a capire il
+
+75
+00:02:57,180 --> 00:03:00,959
+cubo qui abbiamo una cesta come tutti i
+
+76
+00:02:59,519 --> 00:03:04,280
+libri che peso e avevo già letto e
+
+77
+00:03:00,959 --> 00:03:05,879
+realtà cioè su quelle a precious tips ok
+
+78
+00:03:04,280 --> 00:03:08,280
+consigli utili
+
+79
+00:03:05,879 --> 00:03:11,609
+vediamo cosa ci dice sta usate skype
+
+80
+00:03:08,280 --> 00:03:14,010
+around you to kraft bone mi aspetta come
+
+81
+00:03:11,609 --> 00:03:16,200
+cup per farle bon mia ma in realtà non è
+
+82
+00:03:14,010 --> 00:03:18,060
+che mi dica moltissimo isayblog questa è
+
+83
+00:03:16,200 --> 00:03:20,040
+la mia mappa che si è fatta male poteva
+
+84
+00:03:18,060 --> 00:03:22,500
+fare un po meglio la mappa e qui abbiamo
+
+85
+00:03:20,040 --> 00:03:24,030
+una mappa vuota invece è fan c'è
+
+86
+00:03:22,500 --> 00:03:26,819
+qualcosa sul suo pezzo di carta
+
+87
+00:03:24,030 --> 00:03:28,709
+assolutamente nulla e ciments quali sono
+
+88
+00:03:26,819 --> 00:03:30,629
+gli achievement di questa mappa ottieni
+
+89
+00:03:28,709 --> 00:03:32,849
+16 blocchi di grave
+
+90
+00:03:30,629 --> 00:03:34,560
+air one kraft ha un aereo ning ott che
+
+91
+00:03:32,849 --> 00:03:36,659
+hanno tre ricette particolari qui poi
+
+92
+00:03:34,560 --> 00:03:40,079
+devo andare a vedere sul sito golden
+
+93
+00:03:36,659 --> 00:03:42,479
+coral kraft all'header tunic che tira un
+
+94
+00:03:40,079 --> 00:03:45,479
+effetto di rigenerazione ottimo già
+
+95
+00:03:42,479 --> 00:03:48,540
+questo è figo così posso nuotare
+
+96
+00:03:45,479 --> 00:03:50,280
+mi piace mi piace ok mi piacciono queste
+
+97
+00:03:48,540 --> 00:03:52,290
+mappe in cui c'è sempre un twist
+
+98
+00:03:50,280 --> 00:03:54,389
+ok non è paragonabile a una serie mo
+
+99
+00:03:52,290 --> 00:03:56,280
+data e ne sono consapevole però il fatto
+
+100
+00:03:54,389 --> 00:03:58,530
+ci sia questo twist in cui se crafty
+
+101
+00:03:56,280 --> 00:04:00,419
+un'armatura di pelle automaticamente ti
+
+102
+00:03:58,530 --> 00:04:03,989
+rigenera la vita è un po come se fosse
+
+103
+00:04:00,419 --> 00:04:06,659
+una serie mutata quindi allora cerchiamo
+
+104
+00:04:03,989 --> 00:04:07,799
+di ottenere degli alberelli perché me
+
+105
+00:04:06,659 --> 00:04:09,569
+l'ha giocato 1
+
+106
+00:04:07,799 --> 00:04:11,759
+questa è la prima sede le sette vanilla
+
+107
+00:04:09,569 --> 00:04:13,409
+moda cioè modificata con i comandi
+
+108
+00:04:11,759 --> 00:04:16,019
+blocco da rob è però il vanilla che
+
+109
+00:04:13,409 --> 00:04:18,930
+faccio nella 1.14 tra l'altro quindi
+
+110
+00:04:16,019 --> 00:04:21,269
+urla urla cioè più o meno ora voglio
+
+111
+00:04:18,930 --> 00:04:23,820
+vedermi com'è che gli dà un isoletta
+
+112
+00:04:21,269 --> 00:04:26,880
+così arrivò ad avere della pelle
+
+113
+00:04:23,820 --> 00:04:28,770
+per fare ciò che devo fare cioè per fare
+
+114
+00:04:26,880 --> 00:04:31,110
+del tuning per fare tutti ad management
+
+115
+00:04:28,770 --> 00:04:32,940
+la serie finisce quando tutti
+
+116
+00:04:31,110 --> 00:04:34,560
+advancement sono completati per lo meno
+
+117
+00:04:32,940 --> 00:04:37,950
+questo è quello che dice
+
+118
+00:04:34,560 --> 00:04:40,320
+all'interno della pagina vorrei evitare
+
+119
+00:04:37,950 --> 00:04:42,150
+di buttarmi dove non posso stare perché
+
+120
+00:04:40,320 --> 00:04:44,850
+poi muoio sai non è proprio il massimo o
+
+121
+00:04:42,150 --> 00:04:47,310
+solamente uno csep l'ing mannaggia lo
+
+122
+00:04:44,850 --> 00:04:48,630
+metteremo qui aspetteremo che cresca ora
+
+123
+00:04:47,310 --> 00:04:50,940
+io non ho ben capito invece la questione
+
+124
+00:04:48,630 --> 00:04:54,450
+del tempo cioè secondo quale principio
+
+125
+00:04:50,940 --> 00:04:55,530
+se mi butto qui prendo del kelp che
+
+126
+00:04:54,450 --> 00:04:57,870
+torna a casa
+
+127
+00:04:55,530 --> 00:05:00,810
+riesco a sopravvivere sempre tanto ora
+
+128
+00:04:57,870 --> 00:05:01,950
+muoio porca vacca se muoio non muoio hiv
+
+129
+00:05:00,810 --> 00:05:05,270
+william dura tantissimo
+
+130
+00:05:01,950 --> 00:05:08,580
+cioè seguito il cap mida del buon milan
+
+131
+00:05:05,270 --> 00:05:10,140
+appare forse devo tenerne di più forse
+
+132
+00:05:08,580 --> 00:05:12,540
+per ottenere di più qualche commissione
+
+133
+00:05:10,140 --> 00:05:14,190
+non c'è un tanto che il quantum vorrebbe
+
+134
+00:05:12,540 --> 00:05:17,670
+però a scavare questi blocchetti ne
+
+135
+00:05:14,190 --> 00:05:18,450
+consentivano un po di terra e posso
+
+136
+00:05:17,670 --> 00:05:19,890
+avvicinarmi di più
+
+137
+00:05:18,450 --> 00:05:22,170
+no non usiamo la terra che sicuramente
+
+138
+00:05:19,890 --> 00:05:24,300
+poi ci servirà in futuro potrei dare del
+
+139
+00:05:22,170 --> 00:05:28,890
+legno poteva fare così tanto comunque
+
+140
+00:05:24,300 --> 00:05:31,170
+dal leggio al cosa no in teoria sì lo so
+
+141
+00:05:28,890 --> 00:05:36,000
+che è il massimo ma potrebbe essere
+
+142
+00:05:31,170 --> 00:05:38,070
+necessario morire e cala per ottenere il
+
+143
+00:05:36,000 --> 00:05:40,590
+gap di dover e cala già non c'è più
+
+144
+00:05:38,070 --> 00:05:43,980
+perché affondi 6 capo dovresti call
+
+145
+00:05:40,590 --> 00:05:47,580
+galleggiare un botto anzi ce no invece
+
+146
+00:05:43,980 --> 00:05:49,410
+no affonda torna su ok come sta tornando
+
+147
+00:05:47,580 --> 00:05:52,350
+su di qua poi non c'è più nient'altro
+
+148
+00:05:49,410 --> 00:05:54,270
+i suoi pesciolini dediche prendiamo atto
+
+149
+00:05:52,350 --> 00:05:56,250
+di queste non ne voglio uno dei voglio
+
+150
+00:05:54,270 --> 00:05:58,770
+due perché i numeri da allora c'è da
+
+151
+00:05:56,250 --> 00:06:01,650
+dire che sto mandando di ricette e il
+
+152
+00:05:58,770 --> 00:06:04,050
+club mi serve cioè non mi serve a nulla
+
+153
+00:06:01,650 --> 00:06:06,630
+non mi serve qua c'è il corallo che
+
+154
+00:06:04,050 --> 00:06:08,520
+sarebbe qualcosa ma non c'è non mi
+
+155
+00:06:06,630 --> 00:06:10,920
+sembra nulla di troppo particolare
+
+156
+00:06:08,520 --> 00:06:13,770
+quindi torniamo sul nostro pesce steve
+
+157
+00:06:10,920 --> 00:06:16,110
+se capiamo che cos'è che mi diceva io
+
+158
+00:06:13,770 --> 00:06:20,370
+non ce l'ho fatta di me se devo morire
+
+159
+00:06:16,110 --> 00:06:25,440
+buttate lì a kemp ok ora ne ho quattro
+
+160
+00:06:20,370 --> 00:06:29,940
+non intendesse kelp bloc o un drive the
+
+161
+00:06:25,440 --> 00:06:32,669
+block ma sembra strano eppure potrebbe
+
+162
+00:06:29,940 --> 00:06:35,010
+essere eppure potrebbe essere la in
+
+163
+00:06:32,669 --> 00:06:37,139
+questo caso farò subito una farm di kelp
+
+164
+00:06:35,010 --> 00:06:39,539
+lì c'è un monumento
+
+165
+00:06:37,139 --> 00:06:43,050
+ahia c'è un monumento dell'oceano raga
+
+166
+00:06:39,539 --> 00:06:44,099
+non è un buon segno non è minimamente un
+
+167
+00:06:43,050 --> 00:06:45,719
+buon segno vuol dire che dovrò
+
+168
+00:06:44,099 --> 00:06:47,279
+esplorarla una certa
+
+169
+00:06:45,719 --> 00:06:49,199
+ecco comunque sta piovendo l'alberello
+
+170
+00:06:47,279 --> 00:06:51,840
+non cresce mai nella vita
+
+171
+00:06:49,199 --> 00:06:53,969
+prendiamo legno con disposizione ibra
+
+172
+00:06:51,840 --> 00:06:56,430
+che non c'è manco della pietra qua sotto
+
+173
+00:06:53,969 --> 00:06:58,860
+cioè io come già come posso fare cose
+
+174
+00:06:56,430 --> 00:07:00,990
+tendono un kobe sul generator posso
+
+175
+00:06:58,860 --> 00:07:01,590
+vivere solo di alberi so se vi rendete
+
+176
+00:07:00,990 --> 00:07:04,110
+conto
+
+177
+00:07:01,590 --> 00:07:07,889
+la mia vita dipende dagli alberi in
+
+178
+00:07:04,110 --> 00:07:10,319
+questo momento allora facciamo così mi
+
+179
+00:07:07,889 --> 00:07:13,289
+sacrifico un attimino per ottenere un
+
+180
+00:07:10,319 --> 00:07:15,840
+botto di kelp ora morirò sicuramente ma
+
+181
+00:07:13,289 --> 00:07:17,400
+tanto galleggia sta roba quindi c'è una
+
+182
+00:07:15,840 --> 00:07:19,590
+rovina
+
+183
+00:07:17,400 --> 00:07:21,900
+mi è sembrato di vedere una rovina il
+
+184
+00:07:19,590 --> 00:07:24,000
+problema è che senza la leather to lick
+
+185
+00:07:21,900 --> 00:07:25,919
+non posso fare nulla allora ne ho qua
+
+186
+00:07:24,000 --> 00:07:27,930
+vicino prendiamo grazie un po di questa
+
+187
+00:07:25,919 --> 00:07:31,650
+roba qui io direi che possiamo investire
+
+188
+00:07:27,930 --> 00:07:33,629
+nel creare una crafting table perché
+
+189
+00:07:31,650 --> 00:07:35,370
+voglio capire se il mondiale kraft abile
+
+190
+00:07:33,629 --> 00:07:37,979
+oppure no secondo quale principio lui
+
+191
+00:07:35,370 --> 00:07:41,310
+vuole darmi il boom mia faccio così ok
+
+192
+00:07:37,979 --> 00:07:44,270
+nove pezzi di kelp non mi danno un cat
+
+193
+00:07:41,310 --> 00:07:47,370
+block pensi mi danno un buon mihal
+
+194
+00:07:44,270 --> 00:07:50,069
+costosetto l'amichetto è poca vacca 6
+
+195
+00:07:47,370 --> 00:07:52,219
+costosetto va bene ad ora buttiamoci
+
+196
+00:07:50,069 --> 00:07:55,319
+facciamo un giretto a raccogliere tutto
+
+197
+00:07:52,219 --> 00:07:57,240
+non riesco neanche a notare purtroppo
+
+198
+00:07:55,319 --> 00:07:58,139
+perché quando subisci da non te lo fa
+
+199
+00:07:57,240 --> 00:08:00,149
+fare
+
+200
+00:07:58,139 --> 00:08:05,460
+comunque se riesco a sopravvivere a mi
+
+201
+00:08:00,149 --> 00:08:07,830
+porto a casa due bon mia forza ora
+
+202
+00:08:05,460 --> 00:08:09,389
+questo avrebbe cresce anche se mi spiace
+
+203
+00:08:07,830 --> 00:08:13,770
+levarlo perché ormai già lo stadio che
+
+204
+00:08:09,389 --> 00:08:17,169
+stadio è stage one action quindi devo
+
+205
+00:08:13,770 --> 00:08:21,219
+tornare giù dove fatto nel giu
+
+206
+00:08:17,169 --> 00:08:23,080
+tanto a crescere cresce mi butto rompi
+
+207
+00:08:21,219 --> 00:08:27,479
+tutto robbie non ti rompi rompe ok mi
+
+208
+00:08:23,080 --> 00:08:30,550
+ributto vado a rompere altri di questi
+
+209
+00:08:27,479 --> 00:08:32,680
+mi rompo tanti tanto comunque poi dovrò
+
+210
+00:08:30,550 --> 00:08:36,459
+a fermarli e qua c'è una rovina cioè
+
+211
+00:08:32,680 --> 00:08:41,110
+rovina c'è una un relitto provino
+
+212
+00:08:36,459 --> 00:08:43,719
+chiamava se un relitto dai mori dai ok
+
+213
+00:08:41,110 --> 00:08:45,760
+ora ho anche sull'albero grande e forse
+
+214
+00:08:43,719 --> 00:08:48,430
+era un po più comodo ecco se stavi un po
+
+215
+00:08:45,760 --> 00:08:49,709
+calmino però va bene uguale questa cosa
+
+216
+00:08:48,430 --> 00:08:51,850
+che abbiamo a disposizione del bon mia
+
+217
+00:08:49,709 --> 00:08:53,860
+ci aiuterà tantissimo
+
+218
+00:08:51,850 --> 00:08:56,290
+sicuramente perché vuol dire che posso
+
+219
+00:08:53,860 --> 00:08:58,750
+fermare quello che voglio posso far male
+
+220
+00:08:56,290 --> 00:09:00,459
+gli alberi posso fermare il cibo che è
+
+221
+00:08:58,750 --> 00:09:02,560
+una svolta epocale
+
+222
+00:09:00,459 --> 00:09:04,180
+e tutto ciò che ne deriva nel momento in
+
+223
+00:09:02,560 --> 00:09:09,040
+cui riuscirò ad ottenere anche
+
+224
+00:09:04,180 --> 00:09:12,699
+dell'acqua aspetta lo sai che a me sta
+
+225
+00:09:09,040 --> 00:09:16,570
+vedendo un piccolo dubbio è che ma io la
+
+226
+00:09:12,699 --> 00:09:18,850
+butto lì posso captare una barca è
+
+227
+00:09:16,570 --> 00:09:22,690
+giusto un'idea elmas e kraft assi una
+
+228
+00:09:18,850 --> 00:09:27,279
+barca e ammettessi quanto prendo
+
+229
+00:09:22,690 --> 00:09:30,550
+comunque un botto di dando l'inizio è un
+
+230
+00:09:27,279 --> 00:09:32,920
+inizio provato più veloce ok o 60 ed
+
+231
+00:09:30,550 --> 00:09:34,570
+cioè ok riesco a fermarmi un botto
+
+232
+00:09:32,920 --> 00:09:36,279
+questo è poco ma sicuro
+
+233
+00:09:34,570 --> 00:09:38,529
+vediamo sembra molto alberello temete
+
+234
+00:09:36,279 --> 00:09:42,240
+siamo nella merda
+
+235
+00:09:38,529 --> 00:09:45,990
+ok ecco lo posso lasciare tutto così
+
+236
+00:09:42,240 --> 00:09:48,490
+andiamo anche a costo di prendere danno
+
+237
+00:09:45,990 --> 00:09:52,140
+una dittatura dietro sono deroghe muori
+
+238
+00:09:48,490 --> 00:09:55,269
+beh la cosa non si distrugge
+
+239
+00:09:52,140 --> 00:09:57,760
+se vai avanti indietro purtroppo non è
+
+240
+00:09:55,269 --> 00:09:59,410
+nell'interesse del gioco il fatto di
+
+241
+00:09:57,760 --> 00:10:01,600
+morire in continuazione cioè non era
+
+242
+00:09:59,410 --> 00:10:03,069
+nelle regole per annunciare le regole
+
+243
+00:10:01,600 --> 00:10:05,470
+che in un primo di de aqua apposta
+
+244
+00:10:03,069 --> 00:10:07,720
+altrimenti cioè come fai a quello
+
+245
+00:10:05,470 --> 00:10:10,420
+villager chiama colombi leggerla in
+
+246
+00:10:07,720 --> 00:10:12,310
+fondo interessante
+
+247
+00:10:10,420 --> 00:10:15,670
+intanto qua piove io piazzerà un altro
+
+248
+00:10:12,310 --> 00:10:18,190
+set l'ing e allora in occhio questa cosa
+
+249
+00:10:15,670 --> 00:10:20,019
+non cresce se vedo un tipo di vabbè ho
+
+250
+00:10:18,190 --> 00:10:20,829
+capito cosa bisogna andare avanti a bonn
+
+251
+00:10:20,019 --> 00:10:22,389
+milan
+
+252
+00:10:20,829 --> 00:10:23,740
+purtroppo non possiamo fermarli sulla
+
+253
+00:10:22,389 --> 00:10:26,850
+terraferma abbiamo bisogno comunque di
+
+254
+00:10:23,740 --> 00:10:29,589
+acqua e per ottenere dell'acqua potremmo
+
+255
+00:10:26,850 --> 00:10:30,700
+facciamo
+
+256
+00:10:29,589 --> 00:10:33,640
+voglio far crescere
+
+257
+00:10:30,700 --> 00:10:35,110
+della roba prima è che l'acqua comunque
+
+258
+00:10:33,640 --> 00:10:36,970
+per me sarà un problema quindi finché
+
+259
+00:10:35,110 --> 00:10:41,350
+non posso automatizzare lo è un problema
+
+260
+00:10:36,970 --> 00:10:42,070
+davvero quanto bonbon mia quanto ok po
+
+261
+00:10:41,350 --> 00:10:43,150
+32
+
+262
+00:10:42,070 --> 00:10:45,160
+allora prima questi cinque pezzi
+
+263
+00:10:43,150 --> 00:10:50,250
+facciamo di crescere
+
+264
+00:10:45,160 --> 00:10:54,130
+dai dai 5 buon milan non cresci a mode
+
+265
+00:10:50,250 --> 00:10:55,360
+con let's go dai voi fareste scherzi ma
+
+266
+00:10:54,130 --> 00:10:58,000
+sicuramente una delle prime cose che
+
+267
+00:10:55,360 --> 00:10:59,800
+vorrò fare non è creare un piccone come
+
+268
+00:10:58,000 --> 00:11:01,930
+al solito per far mai della coop stop
+
+269
+00:10:59,800 --> 00:11:05,530
+perché qui la coppia stone non c'è non
+
+270
+00:11:01,930 --> 00:11:07,150
+abbiamo un po bolso generator è una gran
+
+271
+00:11:05,530 --> 00:11:08,680
+cagata dove lo chiedete c'è solamente
+
+272
+00:11:07,150 --> 00:11:14,530
+diverso rispetto al solito però io come
+
+273
+00:11:08,680 --> 00:11:18,300
+faccio io dice ho attenzione ci sono
+
+274
+00:11:14,530 --> 00:11:20,860
+delle mucche mucche vuol dire pelle
+
+275
+00:11:18,300 --> 00:11:22,660
+mucche più il fatto che posso far male e
+
+276
+00:11:20,860 --> 00:11:24,550
+bown mihal in qualche modo devo ancora
+
+277
+00:11:22,660 --> 00:11:26,350
+capire come è tanta roba
+
+278
+00:11:24,550 --> 00:11:29,140
+ora potremo fare una cosa di questo tipo
+
+279
+00:11:26,350 --> 00:11:33,610
+se io prendo un po di legno lo prendo e
+
+280
+00:11:29,140 --> 00:11:37,060
+lo trasformo in slam posso andare a
+
+281
+00:11:33,610 --> 00:11:40,540
+creare una zona
+
+282
+00:11:37,060 --> 00:11:42,310
+prima voglio morire non per poco che
+
+283
+00:11:40,540 --> 00:11:43,600
+dicevo al suo rivale la stiamo nel
+
+284
+00:11:42,310 --> 00:11:47,590
+continuato è non posso fare nient'altro
+
+285
+00:11:43,600 --> 00:11:49,500
+altrimenti ha sempre avuto qui posso
+
+286
+00:11:47,590 --> 00:11:54,010
+fare una cosa che non è il massimo
+
+287
+00:11:49,500 --> 00:11:56,200
+sicuramente è calato sbagliato non
+
+288
+00:11:54,010 --> 00:11:59,440
+assoluta una subita di morire tornato il
+
+289
+00:11:56,200 --> 00:12:02,530
+programma ma ora non è sicuramente il
+
+290
+00:11:59,440 --> 00:12:04,090
+massimo anzi no ho sbagliato duramente c
+
+291
+00:12:02,530 --> 00:12:05,860
+la terra con la poca terra che ha faccio
+
+292
+00:12:04,090 --> 00:12:09,100
+così sai solo di un blocco e non va bene
+
+293
+00:12:05,860 --> 00:12:13,060
+eccoli un blocco di terra e ci metto
+
+294
+00:12:09,100 --> 00:12:14,860
+sopra un kelp è una fan di kemp cioè
+
+295
+00:12:13,060 --> 00:12:17,830
+sarà solamente di un blocco ma io posso
+
+296
+00:12:14,860 --> 00:12:19,810
+raccogliere facilmente e tu mi dirai e
+
+297
+00:12:17,830 --> 00:12:21,430
+ho capito eletto come la morte fa pena
+
+298
+00:12:19,810 --> 00:12:22,600
+qui a tutti questi che vedi in giro lo
+
+299
+00:12:21,430 --> 00:12:25,330
+so però dammi tempo
+
+300
+00:12:22,600 --> 00:12:26,530
+dammi tempo tanto qua è tutto notte
+
+301
+00:12:25,330 --> 00:12:28,390
+tutto buio non è che si può far molto
+
+302
+00:12:26,530 --> 00:12:30,400
+cercando di entrare nell'ottica di
+
+303
+00:12:28,390 --> 00:12:31,660
+farmar e queste cose perché io posso
+
+304
+00:12:30,400 --> 00:12:33,750
+anche prendere tutti chiari ma se poi
+
+305
+00:12:31,660 --> 00:12:35,800
+come l'avanza manco uno è un casino
+
+306
+00:12:33,750 --> 00:12:36,760
+ora sto sprecando del legno
+
+307
+00:12:35,800 --> 00:12:39,160
+effettivamente perché ho sbagliato a
+
+308
+00:12:36,760 --> 00:12:42,070
+piazzarlo però potrebbe essere un buon
+
+309
+00:12:39,160 --> 00:12:44,290
+inizio questo signore è un 2x2
+
+310
+00:12:42,070 --> 00:12:46,959
+non è molto ma è un lavoro né
+
+311
+00:12:44,290 --> 00:12:47,829
+facciamo un bel con tornino sta roba
+
+312
+00:12:46,959 --> 00:12:51,759
+tutti contenti
+
+313
+00:12:47,829 --> 00:12:53,649
+voilà ecco alla morto fermo anche se non
+
+314
+00:12:51,759 --> 00:12:55,839
+lo voglio incredibile prendiamo gli
+
+315
+00:12:53,649 --> 00:12:57,940
+altri tre pezzettini di kemp e li
+
+316
+00:12:55,839 --> 00:13:01,389
+mettiamo a crescere intanto ok
+
+317
+00:12:57,940 --> 00:13:04,329
+questa è la nostra mini ma l'aver omini
+
+318
+00:13:01,389 --> 00:13:07,980
+farm di kemp mettiamo anche un con
+
+319
+00:13:04,329 --> 00:13:10,690
+tornino fatto così e basta
+
+320
+00:13:07,980 --> 00:13:11,709
+ora lasciamo qui in legno abbiamo la
+
+321
+00:13:10,690 --> 00:13:13,870
+partia pronta
+
+322
+00:13:11,709 --> 00:13:17,740
+io mi butto con grandissima cattiveria
+
+323
+00:13:13,870 --> 00:13:19,810
+prova a correre di qua e a spaccare più
+
+324
+00:13:17,740 --> 00:13:22,050
+nuova possibile cioè così mi ritrovo con
+
+325
+00:13:19,810 --> 00:13:27,279
+un macello di kelp da poter accogliere
+
+326
+00:13:22,050 --> 00:13:30,250
+guarda lì si è lontano ciò però datemi
+
+327
+00:13:27,279 --> 00:13:31,690
+tempo voglio dire a rigor di logica io
+
+328
+00:13:30,250 --> 00:13:37,060
+posso comunque fare una cosa di questo
+
+329
+00:13:31,690 --> 00:13:40,630
+tipo se non è la zona che mi fa male ma
+
+330
+00:13:37,060 --> 00:13:45,389
+è l'acqua che mi fa male io sono furbo e
+
+331
+00:13:40,630 --> 00:13:48,579
+faccio così creo un ponticello
+
+332
+00:13:45,389 --> 00:13:50,440
+sull'acqua e siamo tutti molto molto
+
+333
+00:13:48,579 --> 00:13:52,750
+molto contento però posso dire
+
+334
+00:13:50,440 --> 00:13:55,120
+siamo molto contenti ok non so non sono
+
+335
+00:13:52,750 --> 00:13:57,430
+arrivato dove doveva arrivare ma va bene
+
+336
+00:13:55,120 --> 00:14:00,490
+perché io posso fare così posso
+
+337
+00:13:57,430 --> 00:14:02,199
+raccogliere questi stack di kelp tornare
+
+338
+00:14:00,490 --> 00:14:04,720
+attivo sul ponticello recupero la mia
+
+339
+00:14:02,199 --> 00:14:07,110
+vita su un felice diventerà un problema
+
+340
+00:14:04,720 --> 00:14:08,620
+sicuramente per il fatto dei mob ma
+
+341
+00:14:07,110 --> 00:14:13,899
+tempo al tempo
+
+342
+00:14:08,620 --> 00:14:18,610
+datemi tempo è cresciuto tempo non più
+
+343
+00:14:13,899 --> 00:14:21,670
+l'anno ok figata
+
+344
+00:14:18,610 --> 00:14:24,910
+se sto su uno slam mezz'acqua non prendo
+
+345
+00:14:21,670 --> 00:14:26,709
+danno potrebbe essere utile questa cosa
+
+346
+00:14:24,910 --> 00:14:29,470
+signori ho firmato il mio primo blocco
+
+347
+00:14:26,709 --> 00:14:33,310
+di kemp è derivato il primo drowned
+
+348
+00:14:29,470 --> 00:14:35,950
+porca vacca via tu via
+
+349
+00:14:33,310 --> 00:14:39,730
+riesco a rompere questa magari sarebbe
+
+350
+00:14:35,950 --> 00:14:41,260
+ottimo rapporto di qui la metto la m ok
+
+351
+00:14:39,730 --> 00:14:45,370
+sono morto ma dovrebbe essere tutto lo
+
+352
+00:14:41,260 --> 00:14:47,410
+stesso punto ora no tagliata ma è tutto
+
+353
+00:14:45,370 --> 00:14:51,180
+di qua nostro 2
+
+354
+00:14:47,410 --> 00:14:55,360
+tutto qua sotto no gli altri un drowned
+
+355
+00:14:51,180 --> 00:14:57,940
+quindi che su cui le mie ma cosa mi è
+
+356
+00:14:55,360 --> 00:14:59,920
+salito sulla barca al grande faber
+
+357
+00:14:57,940 --> 00:15:05,230
+non mi lamenterò che lascia tutti i miei
+
+358
+00:14:59,920 --> 00:15:06,580
+cup che ho raccolto frati persi ma no va
+
+359
+00:15:05,230 --> 00:15:08,470
+bene se io abbia un nuovo amichetto per
+
+360
+00:15:06,580 --> 00:15:11,560
+questa serie che chiamerei poi non mi
+
+361
+00:15:08,470 --> 00:15:14,050
+toccare che chiameremo ecco lì dov'erano
+
+362
+00:15:11,560 --> 00:15:15,370
+finiti 35 e che come lo chiamiamo non so
+
+363
+00:15:14,050 --> 00:15:18,250
+siete un dove qua sotto per il nostro
+
+364
+00:15:15,370 --> 00:15:19,690
+amico ground tanto yo del tempo che
+
+365
+00:15:18,250 --> 00:15:21,570
+possono trasformare in bobina non farò
+
+366
+00:15:19,690 --> 00:15:26,529
+molto volentieri perché ho necessità
+
+367
+00:15:21,570 --> 00:15:28,960
+sbagliato necessità di legno a savani al
+
+368
+00:15:26,529 --> 00:15:31,029
+cheese volta la vita se il signorino e
+
+369
+00:15:28,960 --> 00:15:33,040
+ci vediamo domani con il prossimo e
+
+370
+00:15:31,029 --> 00:15:35,260
+secondo episodio di questa sede le sette
+
+371
+00:15:33,040 --> 00:15:37,120
+nella e si blocca in cui potenzialmente
+
+372
+00:15:35,260 --> 00:15:39,730
+potremmo già fare un botto robe fighe
+
+373
+00:15:37,120 --> 00:15:41,380
+perchè abbiamo i bambini cioè è la
+
+374
+00:15:39,730 --> 00:15:43,300
+difficoltà maggiore di solito in tutte
+
+375
+00:15:41,380 --> 00:15:44,500
+queste mappe survival il fatto che non
+
+376
+00:15:43,300 --> 00:15:46,600
+ha il buon mia
+
+377
+00:15:44,500 --> 00:15:49,270
+il fatto che qui noi ce l'abbiamo c
+
+378
+00:15:46,600 --> 00:15:50,650
+svolta tutta la serie a quindi via santi
+
+379
+00:15:49,270 --> 00:15:52,030
+show per la visione di cosa ne pensate
+
+380
+00:15:50,650 --> 00:15:53,440
+ha messo in un concetto davvero davvero
+
+381
+00:15:52,030 --> 00:15:55,720
+molto interessante soprattutto per
+
+382
+00:15:53,440 --> 00:15:57,330
+essere una mappa vanilla e nulla io vi
+
+383
+00:15:55,720 --> 00:16:15,830
+saluto ciao tutti
+
+384
+00:15:57,330 --> 00:16:15,830
+[Musica]

@@ -58,7 +58,7 @@ def process_caption_files(channel, language, captions_fns, start, end):
             if language == 'ja':
                 processed_captions = list(process_captions_ja(captions_in))
             else:
-                processed_captions = list(process_captions(captions_in, channel))
+                processed_captions = list(process_captions(captions_in, channel, language))
 
             logging.info("Found {0} lines".format(len(processed_captions)))
 
@@ -72,7 +72,7 @@ def process_caption_files(channel, language, captions_fns, start, end):
     logging.info("Processed {0} files".format(video_count))
 
 
-def process_captions(captions, channel):
+def process_captions(captions, channel, language):
     for line in captions:
 
         if line and not re.search("^[0-9]([0-9:,\-\ >])*\n", line):
@@ -83,9 +83,13 @@ def process_captions(captions, channel):
 
             line = re.sub(r'\([^)]*\)', '', line) # Remove parens
             line = re.sub(r'<[^)]*>', '', line)   # Remove HTML
-            line = re.sub("[-♫♡♥♪→↑↖↓←⇓\(\)\[\]\n]", "", line)
+            line = re.sub("[\\\/\^\_~-♫♡♥♪→↑↖↓←⇓\(\)\[\]☆★♬\n]", "", line)
             line = re.sub("[!?]", ".", line)
-            line = re.sub("\.\.\.", "", line)
+            line = re.sub("^( )*\-", "", line)
+            ine = re.sub(" \- ", ' ', line)
+            line = re.sub("\.\.\.", ".", line)
+            line = re.sub("\.\.", ".", line)
+            line = line.strip()
 
             if line:
                 if(channel != "AdvokatEgorov"):
@@ -93,8 +97,13 @@ def process_captions(captions, channel):
                         line += '.'
                 no_attr = re.split("[:]", line)
                 if len(no_attr) > 1:
-                    yield ("".join(no_attr[1:]))
+                    no_attr = "".join(no_attr[1:])
+                    if(language != "ko"):
+                        no_attr = no_attr.capitalize()
+                    yield (no_attr)
                 else:
+                    if(language != "ko"):
+                        line = line.capitalize()
                     yield line
 
 

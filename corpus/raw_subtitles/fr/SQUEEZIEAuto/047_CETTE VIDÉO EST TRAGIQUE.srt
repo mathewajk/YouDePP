@@ -1,0 +1,807 @@
+1
+00:00:00,000 --> 00:00:04,560
+alerte bennett faute il vient de sortir
+
+2
+00:00:01,979 --> 00:00:06,629
+un nouveau jeu c'est qui bennett faut
+
+3
+00:00:04,560 --> 00:00:07,950
+dit le créateur de coopé de clopes mes
+
+4
+00:00:06,629 --> 00:00:09,000
+amis j'aimerais que mon garçon gamme
+
+5
+00:00:07,950 --> 00:00:10,679
+aujourd'hui on va essayer de pas paniqué
+
+6
+00:00:09,000 --> 00:00:12,570
+on va jouer un jeu extrêmement dur qui
+
+7
+00:00:10,679 --> 00:00:16,170
+s'appelle getting over it littéralement
+
+8
+00:00:12,570 --> 00:00:17,369
+la traduction de dar hubert invesco se
+
+9
+00:00:16,170 --> 00:00:18,420
+remettre je préfère la version allemande
+
+10
+00:00:17,369 --> 00:00:19,740
+c'est extrêmement simple c'est un jeu
+
+11
+00:00:18,420 --> 00:00:21,119
+dans lequel nous allons jouer à monsieur
+
+12
+00:00:19,740 --> 00:00:23,340
+qui est dans un pot et qui possède un
+
+13
+00:00:21,119 --> 00:00:24,689
+marteau le but était simple c'est comme
+
+14
+00:00:23,340 --> 00:00:26,400
+dans le web et d'en cloque il faut
+
+15
+00:00:24,689 --> 00:00:28,380
+avancer voilà arrivés au bout de la map
+
+16
+00:00:26,400 --> 00:00:30,090
+ces partis sans plus tarder comment sous
+
+17
+00:00:28,380 --> 00:00:30,869
+a ragé alors comme d'après la difficulté
+
+18
+00:00:30,090 --> 00:00:34,040
+ça va être quoi ça va être d'intégrer
+
+19
+00:00:30,869 --> 00:00:35,160
+les contrôles c'est chaud i would make
+
+20
+00:00:34,040 --> 00:00:37,739
+wahaha
+
+21
+00:00:35,160 --> 00:00:39,270
+on dirait pas mais en vrai le jeu est
+
+22
+00:00:37,739 --> 00:00:40,410
+hyper bien fait il va falloir intégrer
+
+23
+00:00:39,270 --> 00:00:41,460
+la physique du jeu pour pouvoir passer
+
+24
+00:00:40,410 --> 00:00:43,350
+les niveaux ouais on peut se déplacer
+
+25
+00:00:41,460 --> 00:00:44,850
+comme ça grâce à notre petit marteau
+
+26
+00:00:43,350 --> 00:00:46,140
+alors le but de jeu littéralement de te
+
+27
+00:00:44,850 --> 00:00:47,219
+mettre à bout c'est à dire que le mec
+
+28
+00:00:46,140 --> 00:00:49,750
+l'a dit lui-même putain est-ce qu'on
+
+29
+00:00:47,219 --> 00:00:52,219
+peut pas pété larmes je travaille kraft
+
+30
+00:00:49,750 --> 00:00:56,670
+[Musique]
+
+31
+00:00:52,219 --> 00:00:57,930
+que je suis content hockey putain arrête
+
+32
+00:00:56,670 --> 00:00:59,250
+avec ta musique classique là tu me
+
+33
+00:00:57,930 --> 00:01:00,539
+traites je lis pas ce que tu dis parce
+
+34
+00:00:59,250 --> 00:01:06,600
+qu'en fait je parle français ne m'a pas
+
+35
+00:01:00,539 --> 00:01:08,549
+anglais et je veux juste ne sait trop
+
+36
+00:01:06,600 --> 00:01:09,659
+passive ce jeu c'est trop facile manqué
+
+37
+00:01:08,549 --> 00:01:10,799
+la difficulté en fait c'est de se
+
+38
+00:01:09,659 --> 00:01:12,030
+démerder pour pas retourner en arrière
+
+39
+00:01:10,799 --> 00:01:12,930
+parce qu'en fait tu contrôles rien ce
+
+40
+00:01:12,030 --> 00:01:16,189
+que tu fais alors qu'il fait genre tu
+
+41
+00:01:12,930 --> 00:01:16,189
+que tu comprends ce que tu veux non
+
+42
+00:01:17,870 --> 00:01:26,050
+[Musique]
+
+43
+00:01:23,520 --> 00:01:27,190
+alors là c'est dur en fait là je pense
+
+44
+00:01:26,050 --> 00:01:30,360
+c'est une situation adéquat on prend le
+
+45
+00:01:27,190 --> 00:01:30,360
+temps de réfléchir bondoukou le score
+
+46
+00:01:32,220 --> 00:01:40,300
+non non non non c'était pas si un ami à
+
+47
+00:01:38,770 --> 00:01:41,770
+vous passe vraiment une journée a envoyé
+
+48
+00:01:40,300 --> 00:01:42,430
+cette vidéo elle termine première ta vie
+
+49
+00:01:41,770 --> 00:01:45,430
+n'est pas si terrible
+
+50
+00:01:42,430 --> 00:01:45,760
+putain un os et aimons ce qu'est ce que
+
+51
+00:01:45,430 --> 00:01:50,080
+j'aime faire
+
+52
+00:01:45,760 --> 00:01:55,180
+ok là là pour réfléchir non oh c'était
+
+53
+00:01:50,080 --> 00:01:56,800
+pas non non non à chaque fois doucement
+
+54
+00:01:55,180 --> 00:01:58,120
+doucement doucement doucement doucement
+
+55
+00:01:56,800 --> 00:02:01,420
+ok là mais qu'on peut le faire quand on
+
+56
+00:01:58,120 --> 00:02:02,320
+sautera sur l'attention c'est bon c'est
+
+57
+00:02:01,420 --> 00:02:02,560
+bon on attend faut pas revenir en
+
+58
+00:02:02,320 --> 00:02:03,340
+arrière
+
+59
+00:02:02,560 --> 00:02:08,429
+attends qu est ce que je fais qu'est ce
+
+60
+00:02:03,340 --> 00:02:13,300
+que je fais je sais plus quoi faire
+
+61
+00:02:08,429 --> 00:02:14,710
+oh yes attend les mecs là on a atteint
+
+62
+00:02:13,300 --> 00:02:17,440
+un summum dans la difficulté comment je
+
+63
+00:02:14,710 --> 00:02:30,010
+passe sache comment bas faut jeter à ok
+
+64
+00:02:17,440 --> 00:02:33,950
+de là au numéro yahoo je reviens putain
+
+65
+00:02:30,010 --> 00:02:38,920
+non yes allez on y arrive
+
+66
+00:02:33,950 --> 00:02:38,920
+ah non je vais pas tomber je pas ton nom
+
+67
+00:02:39,700 --> 00:02:43,190
+alors comment au monde sa a même fait
+
+68
+00:02:41,959 --> 00:02:44,239
+fausse poussée de l'aude j'ai compris il
+
+69
+00:02:43,190 --> 00:02:45,410
+faut aller sur celui-là je vous le dis
+
+70
+00:02:44,239 --> 00:02:46,459
+hein si vraiment je retourne à gauche
+
+71
+00:02:45,410 --> 00:02:50,120
+fait une dépression nerveuse sous vos
+
+72
+00:02:46,459 --> 00:02:52,390
+yeux en direct au la vie est dure peut
+
+73
+00:02:50,120 --> 00:02:52,390
+s'en servir
+
+74
+00:03:01,020 --> 00:03:04,959
+[Musique]
+
+75
+00:03:05,480 --> 00:03:08,659
+yes ouais les amis je viens de
+
+76
+00:03:07,489 --> 00:03:09,890
+comprendre qu'en fait ici il ya un trou
+
+77
+00:03:08,659 --> 00:03:10,879
+voilà je pensais que c'était plein dans
+
+78
+00:03:09,890 --> 00:03:12,110
+fête s'est pas plaint je suis juste
+
+79
+00:03:10,879 --> 00:03:15,830
+débile mais là il faut s'accrocher
+
+80
+00:03:12,110 --> 00:03:16,760
+putain de lampes aux attendes il s'agit
+
+81
+00:03:15,830 --> 00:03:19,120
+il s'agit de ne pas tout gâcher
+
+82
+00:03:16,760 --> 00:03:19,120
+maintenant
+
+83
+00:03:19,150 --> 00:03:25,610
+putain c'est tellement dur il n'ya pas
+
+84
+00:03:21,170 --> 00:03:27,290
+des spasmes ont manipulé ce marteau au
+
+85
+00:03:25,610 --> 00:03:29,060
+qu'est ce qu'on fait j'ai besoin d'avoir
+
+86
+00:03:27,290 --> 00:03:34,519
+fini le jeu c'est comme ça mais kmec mec
+
+87
+00:03:29,060 --> 00:03:36,019
+respirait plus respirer plus y en a un
+
+88
+00:03:34,519 --> 00:03:41,989
+qui a inspiré ce pour sa phase et manon
+
+89
+00:03:36,019 --> 00:03:43,700
+yeah yeahs mais vous imaginez 43 bis
+
+90
+00:03:41,989 --> 00:03:45,590
+allée au quotidien quand on avance bien
+
+91
+00:03:43,700 --> 00:03:46,640
+comme ça je suis vraiment heureux et je
+
+92
+00:03:45,590 --> 00:03:47,840
+suis tellement heureux qu'on perde toute
+
+93
+00:03:46,640 --> 00:03:49,340
+progression d'un coup allez on est chaud
+
+94
+00:03:47,840 --> 00:03:50,959
+on se remet dans le bain dans le bar des
+
+95
+00:03:49,340 --> 00:03:52,370
+gens qui ont confiance en eux après tout
+
+96
+00:03:50,959 --> 00:03:55,760
+on a fini dax auch iii et c'était le
+
+97
+00:03:52,370 --> 00:03:57,379
+plus dur de tous donc c'est bon on a
+
+98
+00:03:55,760 --> 00:03:58,730
+réussi ok alors la suite qu'est ce que
+
+99
+00:03:57,379 --> 00:03:59,660
+c'est halal à ce quelque chose c'est que
+
+100
+00:03:58,730 --> 00:04:01,370
+si on tombe je crois qu'on retombe au
+
+101
+00:03:59,660 --> 00:04:02,900
+tout début du jeu en fait un choix que
+
+102
+00:04:01,370 --> 00:04:03,440
+c'est ça la blague une escalade en
+
+103
+00:04:02,900 --> 00:04:04,910
+escalade
+
+104
+00:04:03,440 --> 00:04:06,829
+comment pas trop le décor mais on est
+
+105
+00:04:04,910 --> 00:04:12,169
+pas mal ah lalala lalala
+
+106
+00:04:06,829 --> 00:04:13,370
+c'est un bon ok pas femme on analyse le
+
+107
+00:04:12,169 --> 00:04:14,329
+parcours c'est normal de faire des
+
+108
+00:04:13,370 --> 00:04:15,440
+petites erreurs pour moi là on est en
+
+109
+00:04:14,329 --> 00:04:17,919
+train d'analyser pincourt on est hyper
+
+110
+00:04:15,440 --> 00:04:17,919
+bien envoyé
+
+111
+00:04:32,660 --> 00:04:35,910
+mais c'est pas possible ce qui vient de
+
+112
+00:04:34,650 --> 00:04:37,590
+se passer c'est pas réel c'est dans ma
+
+113
+00:04:35,910 --> 00:04:39,000
+tête ça n'existe pas il s'est passé quoi
+
+114
+00:04:37,590 --> 00:04:42,930
+vous sur vos écrans là on en est
+
+115
+00:04:39,000 --> 00:04:44,430
+vraiment non mais vraiment bah voilà ça
+
+116
+00:04:42,930 --> 00:04:47,260
+y est
+
+117
+00:04:44,430 --> 00:04:49,870
+[Applaudissements]
+
+118
+00:04:47,260 --> 00:04:50,980
+yes à cette fois on y va on est déchaîné
+
+119
+00:04:49,870 --> 00:04:51,910
+avant si je retourne c'est quand même
+
+120
+00:04:50,980 --> 00:04:53,140
+tout ça j ai acheté hier je suis sûr
+
+121
+00:04:51,910 --> 00:04:54,190
+qu'à pas un gameplay youtube ou avec est
+
+122
+00:04:53,140 --> 00:04:55,180
+tombé de cette manière vraiment je sais
+
+123
+00:04:54,190 --> 00:04:55,540
+pas pourquoi je sens qu'il ya une sorte
+
+124
+00:04:55,180 --> 00:04:57,640
+de blog
+
+125
+00:04:55,540 --> 00:04:58,780
+oh putain pardon pardon pardon c'est
+
+126
+00:04:57,640 --> 00:04:59,890
+faux mais parce que quand je pars en
+
+127
+00:04:58,780 --> 00:05:00,880
+flèche contrôle mal bahamas c'est
+
+128
+00:04:59,890 --> 00:05:01,960
+incroyable je me rappelle ma masse
+
+129
+00:05:00,880 --> 00:05:04,150
+musculaire parce que ça j'ai besoin d'un
+
+130
+00:05:01,960 --> 00:05:06,720
+contrôle du cuir nappa papale ap ap ap
+
+131
+00:05:04,150 --> 00:05:17,590
+ap ap ap ap à la bal à papa papa
+
+132
+00:05:06,720 --> 00:05:18,940
+yes yes yes cool un mec je refuse de vos
+
+133
+00:05:17,590 --> 00:05:20,980
+penderies gameplay aussi nul je veux au
+
+134
+00:05:18,940 --> 00:05:22,210
+moins arriver au bout du niveau d'après
+
+135
+00:05:20,980 --> 00:05:23,950
+con mais au final regarder c'est ce que
+
+136
+00:05:22,210 --> 00:05:24,730
+je disais on a galéré à passer ce prix
+
+137
+00:05:23,950 --> 00:05:26,440
+est nouvelle mais maintenant qu'on a
+
+138
+00:05:24,730 --> 00:05:27,850
+intégré la technique est bon on galère
+
+139
+00:05:26,440 --> 00:05:29,880
+plus trop voilà pourquoi j'ai dix agents
+
+140
+00:05:27,850 --> 00:05:32,470
+comme tapoter par le putain de carmat
+
+141
+00:05:29,880 --> 00:05:33,700
+c'est incroyable c'est incroyable mais
+
+142
+00:05:32,470 --> 00:05:34,930
+quand tu crois était au plus bas en fait
+
+143
+00:05:33,700 --> 00:05:36,760
+t'es pas au plus bas yatuu en plus bas
+
+144
+00:05:34,930 --> 00:05:38,980
+âge postillonne comme un sagouin j'en
+
+145
+00:05:36,760 --> 00:05:40,270
+peux plus mec je suis pire joueur juste
+
+146
+00:05:38,980 --> 00:05:42,280
+je craque quoi mais vraiment là je suis
+
+147
+00:05:40,270 --> 00:05:43,510
+pas bien nerveusement je suis pas bien
+
+148
+00:05:42,280 --> 00:05:45,220
+[Musique]
+
+149
+00:05:43,510 --> 00:05:47,050
+ok les a mis là par contre j'ai pas vous
+
+150
+00:05:45,220 --> 00:05:48,880
+mito à chaque fois savais pas mais à
+
+151
+00:05:47,050 --> 00:05:50,980
+chaque fois c'est dit putain deux
+
+152
+00:05:48,880 --> 00:05:52,360
+minutes de rage vous revenir à ce putain
+
+153
+00:05:50,980 --> 00:05:54,160
+d'endroits bien je vais vous dire un
+
+154
+00:05:52,360 --> 00:05:55,330
+truc le club ça c'est que je rage comme
+
+155
+00:05:54,160 --> 00:05:57,370
+un fort comme jamais c'est à dire que
+
+156
+00:05:55,330 --> 00:06:01,960
+j'ai jamais aussi peu avancé en 1h15 sur
+
+157
+00:05:57,370 --> 00:06:04,330
+un jeu je sais vous avez eu très peur la
+
+158
+00:06:01,960 --> 00:06:05,950
+vérité c'est que moi aussi qu'est-ce
+
+159
+00:06:04,330 --> 00:06:07,150
+viège détourner l'attention du jeu de
+
+160
+00:06:05,950 --> 00:06:10,780
+merde anzin blagues nulles pour pouvoir
+
+161
+00:06:07,150 --> 00:06:12,130
+gagner alors à temps oh j'ai rien
+
+162
+00:06:10,780 --> 00:06:12,940
+compris mais tout ce que je sais c'est
+
+163
+00:06:12,130 --> 00:06:16,600
+que j'ai les larmes aux yeux et que là
+
+164
+00:06:12,940 --> 00:06:17,710
+on est en train d'y arriver à âmes et je
+
+165
+00:06:16,600 --> 00:06:19,090
+vous jure que j'aurais essayé je vous
+
+166
+00:06:17,710 --> 00:06:21,160
+j'aurais essayé mais là je fais les
+
+167
+00:06:19,090 --> 00:06:23,110
+filles arrivent plus à rien oh putain
+
+168
+00:06:21,160 --> 00:06:24,310
+mais regardez c'est fou le jeu m'indique
+
+169
+00:06:23,110 --> 00:06:25,390
+qu'il faut que j'arrête j'ai plus le
+
+170
+00:06:24,310 --> 00:06:26,530
+mouvement j'ai perdu mon lit mais j'ai
+
+171
+00:06:25,390 --> 00:06:27,700
+perdu moulinet c'est comme un mec qu'a
+
+172
+00:06:26,530 --> 00:06:28,990
+pas fait de vélo pendant dix ans bah
+
+173
+00:06:27,700 --> 00:06:30,040
+quoi ils montent dessus il s'est en fait
+
+174
+00:06:28,990 --> 00:06:31,240
+un mauvais exemple je crois que le pire
+
+175
+00:06:30,040 --> 00:06:32,860
+c'est de se dire que j'ai réussi à les
+
+176
+00:06:31,240 --> 00:06:34,480
+passer une fois éclat j'arrive plus je
+
+177
+00:06:32,860 --> 00:06:35,830
+suis une énorme merde toute la france me
+
+178
+00:06:34,480 --> 00:06:37,120
+regarde en mode mais putain mais c'est
+
+179
+00:06:35,830 --> 00:06:38,230
+chiant ta vidéo et que moi je les
+
+180
+00:06:37,120 --> 00:06:39,370
+regarde et je dis bah ouais mais aussi
+
+181
+00:06:38,230 --> 00:06:42,430
+mes parents ils m'ont pas fait fort aux
+
+182
+00:06:39,370 --> 00:06:55,240
+jeux vidéo oh putain mais dans la ville
+
+183
+00:06:42,430 --> 00:06:56,230
+armes et la putain allez vas-y le cas ça
+
+184
+00:06:55,240 --> 00:06:58,890
+dégage je m'en bats les couilles
+
+185
+00:06:56,230 --> 00:06:58,890
+maintenant j'y vais
+
+186
+00:06:59,070 --> 00:07:02,000
+montmagny
+
+187
+00:07:03,520 --> 00:07:13,120
+[Musique]
+
+188
+00:07:10,169 --> 00:07:15,480
+karassine
+
+189
+00:07:13,120 --> 00:07:17,030
+j'ai pu manger bientôt
+
+190
+00:07:15,480 --> 00:07:19,940
+ces jeux
+
+191
+00:07:17,030 --> 00:07:23,729
+n'arrive à rien ce gâchis si on réédite
+
+192
+00:07:19,940 --> 00:07:27,199
+son nom
+
+193
+00:07:23,729 --> 00:07:30,059
+quant au chic vintage est moche et je
+
+194
+00:07:27,199 --> 00:07:33,499
+m'attends japonais qui parlent ils
+
+195
+00:07:30,059 --> 00:07:33,499
+avaient raison vous juste persévérer
+
+196
+00:07:33,589 --> 00:07:40,370
+putain putain comment j'ai fait mec mais
+
+197
+00:07:37,020 --> 00:07:40,370
+qu on a réussi non
+
+198
+00:07:41,169 --> 00:07:45,330
+alors ça y est on a passé deux nouvelles
+
+199
+00:07:42,639 --> 00:07:45,330
+non
+
+200
+00:07:49,699 --> 00:07:55,399
+on les nourrit nos tirages pendant l'aïd
+
+201
+00:07:57,510 --> 00:08:00,660
+[Musique]
+
+202
+00:08:02,169 --> 00:08:04,319
+st

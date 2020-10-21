@@ -1,0 +1,907 @@
+1
+00:00:00,000 --> 00:00:04,140
+ciao a tutti che certi minuti questo
+
+2
+00:00:01,350 --> 00:00:08,849
+nuovissimo video dello snap shot di
+
+3
+00:00:04,140 --> 00:00:11,040
+minecraft siamo nel 19v 08 beach è stato
+
+4
+00:00:08,849 --> 00:00:13,019
+lo 0 8 al poi per fissare un po di bug
+
+5
+00:00:11,040 --> 00:00:17,220
+un po di crash che stavano accadendo
+
+6
+00:00:13,019 --> 00:00:19,199
+hanno fatto uscire il 19 08 be allora
+
+7
+00:00:17,220 --> 00:00:21,600
+noi ci siamo lasciate l'ultima volta con
+
+8
+00:00:19,199 --> 00:00:22,920
+tutta questa marea di volpi che ora
+
+9
+00:00:21,600 --> 00:00:24,390
+fanno molto più casino rispetto
+
+10
+00:00:22,920 --> 00:00:24,859
+all'altra volta non so se ve ne rendete
+
+11
+00:00:24,390 --> 00:00:27,150
+conto
+
+12
+00:00:24,859 --> 00:00:30,119
+anche se non c'è tra il change log il
+
+13
+00:00:27,150 --> 00:00:33,420
+fatto che a orale voti fatto più casino
+
+14
+00:00:30,119 --> 00:00:35,010
+no semplicemente fa un casino non so se
+
+15
+00:00:33,420 --> 00:00:36,690
+è una cosa che ho trovato solo io perché
+
+16
+00:00:35,010 --> 00:00:38,370
+non le sento una settimana però vabbè
+
+17
+00:00:36,690 --> 00:00:40,290
+lasciamo spagna o parlano invece delle
+
+18
+00:00:38,370 --> 00:00:43,590
+modifiche ci sono state in questo
+
+19
+00:00:40,290 --> 00:00:46,410
+snapshot allora c'è un po di roba un po
+
+20
+00:00:43,590 --> 00:00:49,350
+di roba brutta che hanno fissato ad una
+
+21
+00:00:46,410 --> 00:00:50,550
+cosa è un po di roba bella però in
+
+22
+00:00:49,350 --> 00:00:52,020
+generale
+
+23
+00:00:50,550 --> 00:00:55,440
+andrò a vedere tutto così siamo a posto
+
+24
+00:00:52,020 --> 00:00:58,739
+filiamo solamente il tempo che siamo
+
+25
+00:00:55,440 --> 00:00:58,920
+tutti belli belli contenti ah che bello
+
+26
+00:00:58,739 --> 00:01:01,260
+eh
+
+27
+00:00:58,920 --> 00:01:04,949
+partiamo proprio con leggere tutto il
+
+28
+00:01:01,260 --> 00:01:05,700
+centro passo per passo primo oggetto di
+
+29
+00:01:04,949 --> 00:01:08,369
+oggi
+
+30
+00:01:05,700 --> 00:01:11,010
+ogni volta che espone un villaggio ci
+
+31
+00:01:08,369 --> 00:01:13,530
+sarà all'interno del villaggio anche un
+
+32
+00:01:11,010 --> 00:01:15,030
+iron golem prima al era un golem
+
+33
+00:01:13,530 --> 00:01:17,759
+spronava solo se c'era una certa
+
+34
+00:01:15,030 --> 00:01:20,820
+quantità di pilla geri ora spawn ha
+
+35
+00:01:17,759 --> 00:01:23,280
+sempre questa è la cosa più brutta di
+
+36
+00:01:20,820 --> 00:01:25,740
+questo snapshot perché non mi sono
+
+37
+00:01:23,280 --> 00:01:28,020
+informato proprio super bene ma una cosa
+
+38
+00:01:25,740 --> 00:01:30,360
+che ho visto sono stati 23 video di
+
+39
+00:01:28,020 --> 00:01:32,299
+persone tecniche che trattano ormai
+
+40
+00:01:30,360 --> 00:01:34,650
+incarti mania tecnica su youtube
+
+41
+00:01:32,299 --> 00:01:37,020
+youtuber stranieri che hanno analizzato
+
+42
+00:01:34,650 --> 00:01:38,460
+questa cosa e hanno capito che questa
+
+43
+00:01:37,020 --> 00:01:40,500
+modifica cioè il fatto che ogni village
+
+44
+00:01:38,460 --> 00:01:43,409
+che ogni villaggio abbia un aereo golem
+
+45
+00:01:40,500 --> 00:01:44,820
+ha fatto ha rotto le ai non farm ora non
+
+46
+00:01:43,409 --> 00:01:45,990
+metto in dubbio che riusciamo a trovare
+
+47
+00:01:44,820 --> 00:01:48,659
+un altro modo per farlo perché lo
+
+48
+00:01:45,990 --> 00:01:51,240
+trovano sempre però ecco sappiamo tutti
+
+49
+00:01:48,659 --> 00:01:54,060
+quanto comodo fossero le ere un farmaco
+
+50
+00:01:51,240 --> 00:01:56,490
+potenzialmente come le conosciamo ora
+
+51
+00:01:54,060 --> 00:01:57,390
+dovrebbero essere rotte broken non
+
+52
+00:01:56,490 --> 00:01:59,700
+funzionano più
+
+53
+00:01:57,390 --> 00:02:02,340
+questo questo è quello che è trapelato
+
+54
+00:01:59,700 --> 00:02:04,799
+con questo aggiornamento per il momento
+
+55
+00:02:02,340 --> 00:02:07,079
+poi altra cosa che invece è leggermente
+
+56
+00:02:04,799 --> 00:02:08,580
+più interessante così non parliamo di
+
+57
+00:02:07,079 --> 00:02:11,340
+questo fatto degli aerei un gol che un
+
+58
+00:02:08,580 --> 00:02:13,220
+po bruttino facciamo spronare un clip e
+
+59
+00:02:11,340 --> 00:02:16,040
+il clipper non soffre
+
+60
+00:02:13,220 --> 00:02:19,430
+il il sole e può restare qui tutto il
+
+61
+00:02:16,040 --> 00:02:24,340
+tempo che vuole ci spariamo addosso una
+
+62
+00:02:19,430 --> 00:02:26,960
+pozione della invisibilità splash potion
+
+63
+00:02:24,340 --> 00:02:30,460
+invisibility ce la spassiamo addosso
+
+64
+00:02:26,960 --> 00:02:33,710
+perché ora a quanto pare hanno
+
+65
+00:02:30,460 --> 00:02:36,680
+modificato la pozione dell'invisibilità
+
+66
+00:02:33,710 --> 00:02:40,340
+per far sì che effettivamente siamo
+
+67
+00:02:36,680 --> 00:02:42,560
+invisibili a mob e tutte le cose del del
+
+68
+00:02:40,340 --> 00:02:45,580
+caso come si deve nel senso che non ci
+
+69
+00:02:42,560 --> 00:02:50,620
+sono più quei piccoli problemini che
+
+70
+00:02:45,580 --> 00:02:54,100
+ecco volevo dire che effettivamente
+
+71
+00:02:50,620 --> 00:02:54,100
+questo cambiamento
+
+72
+00:02:54,130 --> 00:02:58,250
+sembrava funzionare un po meglio fino a
+
+73
+00:02:56,780 --> 00:03:00,680
+un secondo fa
+
+74
+00:02:58,250 --> 00:03:03,590
+all'improvviso ha deciso che non era
+
+75
+00:03:00,680 --> 00:03:06,250
+così e che quindi il clipper esploso
+
+76
+00:03:03,590 --> 00:03:08,870
+comunque ecco vedi capiamo subito che
+
+77
+00:03:06,250 --> 00:03:12,140
+potenzialmente poteva andare un po
+
+78
+00:03:08,870 --> 00:03:14,450
+meglio questo questo punto dello snuff
+
+79
+00:03:12,140 --> 00:03:16,640
+di questo c'è angelo greco potevano
+
+80
+00:03:14,450 --> 00:03:18,350
+studiarlo un po di più potevano
+
+81
+00:03:16,640 --> 00:03:19,550
+lavorarci un po di più però
+
+82
+00:03:18,350 --> 00:03:21,769
+detto questo siamo prenderlo snapshot
+
+83
+00:03:19,550 --> 00:03:23,690
+quindi c'è stato dice un bug su ball e
+
+84
+00:03:21,769 --> 00:03:25,280
+robe li fanno apposta proprio per
+
+85
+00:03:23,690 --> 00:03:27,050
+testarli siamo in beta tester di
+
+86
+00:03:25,280 --> 00:03:29,269
+minecraft no in questo caso andiamo
+
+87
+00:03:27,050 --> 00:03:31,010
+avanti hanno aggiunto una cosa che è
+
+88
+00:03:29,269 --> 00:03:34,670
+effettivamente bella assegnato a
+
+89
+00:03:31,010 --> 00:03:37,280
+prendere un cavallo luciano spronare noi
+
+90
+00:03:34,670 --> 00:03:39,470
+abbiamo il solito armatura di ferro
+
+91
+00:03:37,280 --> 00:03:41,180
+armatura d'oro armatore di diamante di
+
+92
+00:03:39,470 --> 00:03:43,790
+cui sono cambiate le emoticon come
+
+93
+00:03:41,180 --> 00:03:45,530
+vedete le iconcine e abbiamo finalmente
+
+94
+00:03:43,790 --> 00:03:47,150
+anche quella di pelle
+
+95
+00:03:45,530 --> 00:03:49,549
+ora se io faccio spronare un cavallo e
+
+96
+00:03:47,150 --> 00:03:51,790
+gli metto armatura di pelle per tempi ma
+
+97
+00:03:49,549 --> 00:03:55,100
+devo farmi l'amico giustamente
+
+98
+00:03:51,790 --> 00:03:55,980
+facciamocelo amico un secondino 3 2 1
+
+99
+00:03:55,100 --> 00:03:58,830
+tra
+
+100
+00:03:55,980 --> 00:04:01,319
+tra la diventiamo amici per favore dai
+
+101
+00:03:58,830 --> 00:04:03,180
+dati questi cuoricini che so che tu sei
+
+102
+00:04:01,319 --> 00:04:06,150
+mio sei il cavallo nero che tutti
+
+103
+00:04:03,180 --> 00:04:08,909
+vorrebbero ok abbiamo l'armatura come
+
+104
+00:04:06,150 --> 00:04:11,010
+vedete di pelle molto carina molto
+
+105
+00:04:08,909 --> 00:04:13,140
+carina occupa tutto il corpo vedremo
+
+106
+00:04:11,010 --> 00:04:14,640
+perché sono modificato anche le altre si
+
+107
+00:04:13,140 --> 00:04:16,919
+hanno modificato leggermente anche le
+
+108
+00:04:14,640 --> 00:04:18,630
+altre mature sono molto belle ora sono
+
+109
+00:04:16,919 --> 00:04:21,079
+molto molto bella nonostante i cavalli
+
+110
+00:04:18,630 --> 00:04:22,770
+non abbiano un utilizzo proprio supera
+
+111
+00:04:21,079 --> 00:04:25,860
+interessante per quanto mi riguarda
+
+112
+00:04:22,770 --> 00:04:28,110
+perchè è difficile usarli con con
+
+113
+00:04:25,860 --> 00:04:30,090
+l'acqua con i mali dove per esplorare
+
+114
+00:04:28,110 --> 00:04:31,410
+insomma se li tra i cavalli non li usi
+
+115
+00:04:30,090 --> 00:04:33,150
+più poco ma sicuro
+
+116
+00:04:31,410 --> 00:04:36,060
+comunque devo a prendere una karting
+
+117
+00:04:33,150 --> 00:04:39,180
+table perché come le armature degli
+
+118
+00:04:36,060 --> 00:04:41,039
+esseri umani dei caratteri normali se io
+
+119
+00:04:39,180 --> 00:04:44,490
+prendo un colorante ad esempio prendiamo
+
+120
+00:04:41,039 --> 00:04:46,260
+un colore strano colorante che curante
+
+121
+00:04:44,490 --> 00:04:48,590
+poter prendere un collante che dici wow
+
+122
+00:04:46,260 --> 00:04:51,210
+resiste un'armatura di questo colore
+
+123
+00:04:48,590 --> 00:04:54,000
+rosa facciamo un cavallo rosa se io
+
+124
+00:04:51,210 --> 00:04:55,350
+vendo leather horse armor elmetto cose
+
+125
+00:04:54,000 --> 00:05:01,289
+rosa boom
+
+126
+00:04:55,350 --> 00:05:03,150
+abbiamo un cavallo che ora è in rosa
+
+127
+00:05:01,289 --> 00:05:06,150
+questo è il cavallo più veloce del
+
+128
+00:05:03,150 --> 00:05:08,940
+western cavallo più veloce di tutto il
+
+129
+00:05:06,150 --> 00:05:10,410
+mondo dell'universo è bellissimo è e
+
+130
+00:05:08,940 --> 00:05:11,700
+sarà anche la copertina di questo video
+
+131
+00:05:10,410 --> 00:05:12,950
+potenzialmente che la cosa più figa che
+
+132
+00:05:11,700 --> 00:05:16,260
+hanno aggiunto in realtà quindi perché
+
+133
+00:05:12,950 --> 00:05:18,870
+siamo un altro dà da fare e si esatto
+
+134
+00:05:16,260 --> 00:05:21,900
+però come anche per le armature normale
+
+135
+00:05:18,870 --> 00:05:24,870
+in realtà se prendo un calderone 6
+
+136
+00:05:21,900 --> 00:05:27,630
+brindisi uka eccolo qui e lo riempiamo
+
+137
+00:05:24,870 --> 00:05:30,930
+d'acqua con il nostro bicchiere tso e
+
+138
+00:05:27,630 --> 00:05:34,020
+facciamo così ci riprendiamo
+
+139
+00:05:30,930 --> 00:05:35,849
+dell'armatura a rigor di logica non c'è
+
+140
+00:05:34,020 --> 00:05:37,710
+scritto da nessuna parte ma come si può
+
+141
+00:05:35,849 --> 00:05:39,630
+colorare il maggior che buttandolo qua
+
+142
+00:05:37,710 --> 00:05:42,330
+dentro non funziona
+
+143
+00:05:39,630 --> 00:05:43,380
+ok cliccando col destro si si svuota
+
+144
+00:05:42,330 --> 00:05:46,770
+quindi possiamo prendere un altro
+
+145
+00:05:43,380 --> 00:05:49,020
+colorante e realizzare per esempio
+
+146
+00:05:46,770 --> 00:05:51,180
+l'armatura bianca e fare un cavallo nero
+
+147
+00:05:49,020 --> 00:05:52,530
+con l'armatura bianca dove viene una
+
+148
+00:05:51,180 --> 00:05:53,910
+cosa abbastanza figa
+
+149
+00:05:52,530 --> 00:05:56,849
+ok potrebbe uscire una cosa abbastanza
+
+150
+00:05:53,910 --> 00:05:59,030
+juventina anche no invece era una cosa
+
+151
+00:05:56,849 --> 00:06:00,830
+poco figa figa parla qua
+
+152
+00:05:59,030 --> 00:06:03,440
+l'attore lando come se non ci fosse un
+
+153
+00:06:00,830 --> 00:06:05,570
+domani mi piace puntate tutto il fatto
+
+154
+00:06:03,440 --> 00:06:09,680
+come hanno modificato leggermente tutto
+
+155
+00:06:05,570 --> 00:06:11,810
+come sottofinale zampe caruccio caruccio
+
+156
+00:06:09,680 --> 00:06:14,720
+non male ma cos'è quella roba sembra
+
+157
+00:06:11,810 --> 00:06:16,730
+tipo un tempio satanico a mezz'aria
+
+158
+00:06:14,720 --> 00:06:18,320
+sembra posto map
+
+159
+00:06:16,730 --> 00:06:22,820
+lasciamo stare odio dove ha finto
+
+160
+00:06:18,320 --> 00:06:26,780
+cavallo viso perché perdo sempre cavalli
+
+161
+00:06:22,820 --> 00:06:29,000
+o incredibile vieni qua che cacchio ti
+
+162
+00:06:26,780 --> 00:06:31,520
+devo le gare cosa interessante di questo
+
+163
+00:06:29,000 --> 00:06:34,760
+snapshot è che c'è scritto che si può
+
+164
+00:06:31,520 --> 00:06:37,730
+davvero diversissimi modi quindi sono
+
+165
+00:06:34,760 --> 00:06:40,160
+curioso di sapere quanti colori cioè
+
+166
+00:06:37,730 --> 00:06:42,260
+quanti colori ci sono manca su dovrebbe
+
+167
+00:06:40,160 --> 00:06:44,510
+essere 16 in teoria c'è un armatura
+
+168
+00:06:42,260 --> 00:06:47,720
+marrone scusa se questo è già marrone
+
+169
+00:06:44,510 --> 00:06:50,960
+del suo è uguale non è cambiato nulla
+
+170
+00:06:47,720 --> 00:06:52,490
+sì in effetti il colorante più inutile
+
+171
+00:06:50,960 --> 00:06:54,800
+del mondo durante marveaux nessuna
+
+172
+00:06:52,490 --> 00:06:58,130
+natura di pelle però vabbè ognuno il suo
+
+173
+00:06:54,800 --> 00:07:00,230
+avvocato per tra l'altro il bellissimo
+
+174
+00:06:58,130 --> 00:07:01,700
+mondo di reddit trovato anche questa
+
+175
+00:07:00,230 --> 00:07:03,230
+cosa il fatto che si possono mettere le
+
+176
+00:07:01,700 --> 00:07:05,240
+torte sulle porte
+
+177
+00:07:03,230 --> 00:07:06,650
+non so se la cosa di questo snapshot a
+
+178
+00:07:05,240 --> 00:07:09,590
+no mi sa che poi una cosa di questo
+
+179
+00:07:06,650 --> 00:07:12,290
+snuff perché non sapevo se potesse ok
+
+180
+00:07:09,590 --> 00:07:14,260
+sono davanti e torce sulle porte che
+
+181
+00:07:12,290 --> 00:07:16,370
+bello che sempre grazie al reddit
+
+182
+00:07:14,260 --> 00:07:20,020
+possiamo vedere un altro bug
+
+183
+00:07:16,370 --> 00:07:22,130
+molto interessante la prendiamo un arco
+
+184
+00:07:20,020 --> 00:07:28,850
+siamo incarti più avanti vedremo anche
+
+185
+00:07:22,130 --> 00:07:32,000
+la balestra piazziamo un pezzo così anzi
+
+186
+00:07:28,850 --> 00:07:34,130
+mettiamo qua siamo le frecce e vediamo
+
+187
+00:07:32,000 --> 00:07:35,750
+che sembrerebbe andare tutto bene in
+
+188
+00:07:34,130 --> 00:07:38,750
+realtà non so se hanno modificato con il
+
+189
+00:07:35,750 --> 00:07:43,070
+bie hano ecco qui riusciamo ad andare
+
+190
+00:07:38,750 --> 00:07:45,890
+oltre il vetro è un altro bellissimo bug
+
+191
+00:07:43,070 --> 00:07:47,900
+questo se permettete recensione di oltre
+
+192
+00:07:45,890 --> 00:07:49,670
+blocco di vetro diciamo da attraversare
+
+193
+00:07:47,900 --> 00:07:51,980
+non so se non penso sia voluto
+
+194
+00:07:49,670 --> 00:07:53,750
+sinceramente guardate riusciamo a tre
+
+195
+00:07:51,980 --> 00:07:57,760
+delle composizioni un po particolare
+
+196
+00:07:53,750 --> 00:08:02,030
+ecco se permettete rimangono a mezz'aria
+
+197
+00:07:57,760 --> 00:08:04,460
+e molto interessante il concept più o
+
+198
+00:08:02,030 --> 00:08:05,000
+meno a volte fusa dall'alto verso il
+
+199
+00:08:04,460 --> 00:08:07,790
+basso
+
+200
+00:08:05,000 --> 00:08:09,370
+un po meno dal basso verso l'alto
+
+201
+00:08:07,790 --> 00:08:12,740
+riusciamo ad uscire dal blocco
+
+202
+00:08:09,370 --> 00:08:15,110
+interessante e se vengo di qua
+
+203
+00:08:12,740 --> 00:08:16,729
+tutto giusto le prende tutte è che
+
+204
+00:08:15,110 --> 00:08:20,060
+questo si dovrebbe essere tutto per
+
+205
+00:08:16,729 --> 00:08:21,199
+questo snapshot 19v 08 b hanno anche
+
+206
+00:08:20,060 --> 00:08:23,569
+portato un paio di click
+
+207
+00:08:21,199 --> 00:08:25,069
+guardate un po che roba bella e niente
+
+208
+00:08:23,569 --> 00:08:26,539
+io sono altissimo per la visione ci
+
+209
+00:08:25,069 --> 00:08:31,940
+diamo prossimamente questa settimana
+
+210
+00:08:26,539 --> 00:08:35,060
+potenzialmente con il 10 09 09 19 wood
+
+211
+00:08:31,940 --> 00:08:36,169
+09 a si spera pensando bici non lo so
+
+212
+00:08:35,060 --> 00:08:38,240
+sperando che aggiungo una cosa di più
+
+213
+00:08:36,169 --> 00:08:40,370
+interessante anche se devo dire la
+
+214
+00:08:38,240 --> 00:08:42,260
+verità ha raggiunto già un botto di roba
+
+215
+00:08:40,370 --> 00:08:46,670
+e ora l'hanno dichiarato anche loro sono
+
+216
+00:08:42,260 --> 00:08:48,020
+nella diciamo sessione di bugfix quindi
+
+217
+00:08:46,670 --> 00:08:49,670
+sono aggiustano tutte le piccole cose
+
+218
+00:08:48,020 --> 00:08:52,760
+anche se quella di visibilità abbiamo
+
+219
+00:08:49,670 --> 00:08:54,680
+visto che sono benissimamente e si stava
+
+220
+00:08:52,760 --> 00:08:58,070
+preparando quindi al lancio della nuova
+
+221
+00:08:54,680 --> 00:08:59,390
+versione di minecraft 1.14
+
+222
+00:08:58,070 --> 00:09:00,800
+detto questo ve ne sono di soluzione ci
+
+223
+00:08:59,390 --> 00:09:02,149
+diamo pressione sul pianale iscrivetevi
+
+224
+00:09:00,800 --> 00:09:03,950
+se ancora mai fatto questo la campania
+
+225
+00:09:02,149 --> 00:09:06,640
+prima deve nessun video e vi saluto ciao
+
+226
+00:09:03,950 --> 00:09:06,640
+tutti
+
+227
+00:09:09,990 --> 00:09:25,419
+[Musica]

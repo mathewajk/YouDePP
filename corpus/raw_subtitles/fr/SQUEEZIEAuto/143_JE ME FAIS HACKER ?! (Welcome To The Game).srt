@@ -1,0 +1,835 @@
+1
+00:00:01,159 --> 00:00:04,350
+bonjour je suis un acteur ayant une
+
+2
+00:00:03,179 --> 00:00:08,700
+grande renommée aujourd'hui on va vivre
+
+3
+00:00:04,350 --> 00:00:10,740
+une heure dans ma pauvre en cadence
+
+4
+00:00:08,700 --> 00:00:12,240
+diffusé welcome to the game bienvenue
+
+5
+00:00:10,740 --> 00:00:13,980
+dans le jeu c'est le putain de nom du
+
+6
+00:00:12,240 --> 00:00:15,269
+jeu aujourd'hui on va être dans la peau
+
+7
+00:00:13,980 --> 00:00:16,980
+d'un hacker c'est parti nous game j'ai
+
+8
+00:00:15,269 --> 00:00:18,029
+pas tout compris à jour je préfère le
+
+9
+00:00:16,980 --> 00:00:19,439
+dire je vais pas faire le mytho mais en
+
+10
+00:00:18,029 --> 00:00:20,789
+gros on va aller sur le type web le
+
+11
+00:00:19,439 --> 00:00:21,990
+début et c'est quoi c'est la partie
+
+12
+00:00:20,789 --> 00:00:23,910
+invisible du web là où il ya tous les
+
+13
+00:00:21,990 --> 00:00:25,769
+trucs ghetto que google etc ne référence
+
+14
+00:00:23,910 --> 00:00:27,990
+pas qu'il m'appelle adam ce qu'on
+
+15
+00:00:25,769 --> 00:00:29,460
+cherche c'est 8 clés cachées sur le dip
+
+16
+00:00:27,990 --> 00:00:30,750
+web on peut pas les trouver sur tous les
+
+17
+00:00:29,460 --> 00:00:32,969
+sites mais à quelques sites qui les ont
+
+18
+00:00:30,750 --> 00:00:34,739
+on doit explorer chaque page cliquez sur
+
+19
+00:00:32,969 --> 00:00:36,239
+les liens et découvrir des trucs une clé
+
+20
+00:00:34,739 --> 00:00:37,980
+cachée ressemble à ça on va donc devoir
+
+21
+00:00:36,239 --> 00:00:39,660
+trouver ces huit codes et les remet dans
+
+22
+00:00:37,980 --> 00:00:40,170
+l'ordre pour atteindre un site web hors
+
+23
+00:00:39,660 --> 00:00:41,879
+du commun
+
+24
+00:00:40,170 --> 00:00:43,710
+on est paré avec notre grande expérience
+
+25
+00:00:41,879 --> 00:00:45,510
+de la cup quand tu explores le diplôme
+
+26
+00:00:43,710 --> 00:00:48,030
+tu est exposée face aux hackers super
+
+27
+00:00:45,510 --> 00:00:53,969
+bas je vais les contre-attaqués compte
+
+28
+00:00:48,030 --> 00:00:57,050
+c'est compliqué o'keeffe ce à quoi faut
+
+29
+00:00:53,969 --> 00:00:57,050
+le redire diriger vers la sortie
+
+30
+00:00:58,500 --> 00:01:02,220
+voilà allez tu vas plus pour qui bon
+
+31
+00:01:00,870 --> 00:01:07,790
+alors on peut être sûr du prêt bientôt
+
+32
+00:01:02,220 --> 00:01:07,790
+comment on fait oh non ça va chier
+
+33
+00:01:08,390 --> 00:01:12,110
+voilà où attendait un truc que je vais
+
+34
+00:01:10,610 --> 00:01:14,240
+te dire je passais légende ou pas mais
+
+35
+00:01:12,110 --> 00:01:15,440
+il est dit que plus tu vas profondeur
+
+36
+00:01:14,240 --> 00:01:16,580
+indique web puis tu as de chances de se
+
+37
+00:01:15,440 --> 00:01:18,380
+faire kidnapper par des mecs qui montre
+
+38
+00:01:16,580 --> 00:01:21,590
+localise je les attendrai avec mon gros
+
+39
+00:01:18,380 --> 00:01:23,869
+calibre je lèverai shot si tu penses que
+
+40
+00:01:21,590 --> 00:01:24,910
+80 de traquer juste éteint les lumières
+
+41
+00:01:23,869 --> 00:01:27,229
+de chez toi
+
+42
+00:01:24,910 --> 00:01:28,400
+abba d'accord ok si on se fait kidnapper
+
+43
+00:01:27,229 --> 00:01:31,520
+enfin ça allez c'est parti en vrille
+
+44
+00:01:28,400 --> 00:01:32,659
+dans le du poème jean-michel non mr
+
+45
+00:01:31,520 --> 00:01:34,460
+brock et même une page d'accueil
+
+46
+00:01:32,659 --> 00:01:35,750
+donc ça c'est la liste des sites dans le
+
+47
+00:01:34,460 --> 00:01:37,460
+dip web va devoir trouver les cotes sur
+
+48
+00:01:35,750 --> 00:01:38,630
+ces sites premiers sites dans le dip web
+
+49
+00:01:37,460 --> 00:01:40,070
+and auster qu'est ce que c'est que ça
+
+50
+00:01:38,630 --> 00:01:42,920
+d'accord ils marchent pas un oil est
+
+51
+00:01:40,070 --> 00:01:44,119
+d'accord tshosane wake ah ok alors
+
+52
+00:01:42,920 --> 00:01:45,470
+putain de recrues des codes l'adoma
+
+53
+00:01:44,119 --> 00:01:47,149
+question n'y a pas un code sur ce site
+
+54
+00:01:45,470 --> 00:01:49,250
+un code caché non il ya que des formes
+
+55
+00:01:47,149 --> 00:01:52,729
+bizarres de trucs improbables illuminati
+
+56
+00:01:49,250 --> 00:01:56,300
+ya rien viajes wah wah wah trois podiums
+
+57
+00:01:52,729 --> 00:01:59,229
+mondiaux maire du bugue bordel ok alors
+
+58
+00:01:56,300 --> 00:01:59,229
+il va soir à l'année vers le chemin
+
+59
+00:02:00,909 --> 00:02:08,319
+bonsoir des sorties ou tu veux nous
+
+60
+00:02:02,829 --> 00:02:11,230
+hacker ftp double a annoncé chantal
+
+61
+00:02:08,319 --> 00:02:13,870
+lignes de code c du rdpc aps longueur de
+
+62
+00:02:11,230 --> 00:02:17,980
+2 pc aps ringer et c'est quoi ce signe
+
+63
+00:02:13,870 --> 00:02:19,420
+bizarre auquel j'ai fait c'est bon ok ça
+
+64
+00:02:17,980 --> 00:02:19,959
+s'est fait un peu demandait pas qu'elle
+
+65
+00:02:19,420 --> 00:02:22,120
+ma technique
+
+66
+00:02:19,959 --> 00:02:23,200
+oh bah ça va des armes alors que
+
+67
+00:02:22,120 --> 00:02:24,459
+peut-être qu'il ya un truc cachés ici
+
+68
+00:02:23,200 --> 00:02:26,920
+qu'est ce qu'on prend on prend neuf
+
+69
+00:02:24,459 --> 00:02:29,580
+minutes mais toi un petit calibre 45 là
+
+70
+00:02:26,920 --> 00:02:29,580
+c'est à voir ça
+
+71
+00:02:35,700 --> 00:02:40,420
+ok ok ok rien ne nous échappera au nom
+
+72
+00:02:39,220 --> 00:02:41,800
+mais pas que le code va être cachés dans
+
+73
+00:02:40,420 --> 00:02:43,570
+tout ça mais non vous êtes sérieux et
+
+74
+00:02:41,800 --> 00:02:47,440
+mais jb g w o
+
+75
+00:02:43,570 --> 00:02:50,970
+on l'a on là il est là non non non
+
+76
+00:02:47,440 --> 00:02:50,970
+vainqueur de trois étapes putain
+
+77
+00:02:52,640 --> 00:03:01,290
+ok ok alors où la 1e c'est 5 à mon gars
+
+78
+00:02:56,159 --> 00:03:02,730
+que ces cinq à hyères tango dian qu'est
+
+79
+00:03:01,290 --> 00:03:04,860
+ce qui se passe ça va c'est qu'on ait
+
+80
+00:03:02,730 --> 00:03:06,060
+une team extrêmement entraîné d'anciens
+
+81
+00:03:04,860 --> 00:03:07,080
+militaires super de même qu'ils ont
+
+82
+00:03:06,060 --> 00:03:08,250
+kidnappés dans une heure c'est ça il
+
+83
+00:03:07,080 --> 00:03:09,510
+faut donner 25 mille dollars
+
+84
+00:03:08,250 --> 00:03:10,739
+ensuite ils font jobs est ensuite faut
+
+85
+00:03:09,510 --> 00:03:12,870
+leur redonner 25000 dollars les
+
+86
+00:03:10,739 --> 00:03:14,220
+résultats des gens affreusement des cd
+
+87
+00:03:12,870 --> 00:03:18,260
+ou des montages photoshop extrêmement
+
+88
+00:03:14,220 --> 00:03:18,260
+bien réussi on sait pas trop non non
+
+89
+00:03:20,959 --> 00:03:24,540
+allez allez allez ce bunker c'est quoi
+
+90
+00:03:23,340 --> 00:03:25,379
+ça là c'est sûr y'a un code il ya un
+
+91
+00:03:24,540 --> 00:03:29,640
+code qu'il parte faut chercher pour
+
+92
+00:03:25,379 --> 00:03:31,109
+chercher hier bruit j'ai eu un bruit gt1
+
+93
+00:03:29,640 --> 00:03:31,640
+lumière jetta lumière directe quoi ce
+
+94
+00:03:31,109 --> 00:03:34,379
+délire
+
+95
+00:03:31,640 --> 00:03:36,599
+yolain pas violent pas dans la maison je
+
+96
+00:03:34,379 --> 00:03:37,049
+suis très fier c'est bon c'est bon les
+
+97
+00:03:36,599 --> 00:03:38,040
+personnes
+
+98
+00:03:37,049 --> 00:03:39,120
+on est bien on est bien allez on y
+
+99
+00:03:38,040 --> 00:03:40,590
+retourne tous les humains ne sont pas
+
+100
+00:03:39,120 --> 00:03:41,790
+égaux il y en a quelques-uns qui sont
+
+101
+00:03:40,590 --> 00:03:43,260
+est supérieur aux autres d'accord ça
+
+102
+00:03:41,790 --> 00:03:44,760
+marche vraiment génial ce site on veut
+
+103
+00:03:43,260 --> 00:03:46,260
+des codes pour avoir accès à ce qu'ils à
+
+104
+00:03:44,760 --> 00:03:47,340
+ce que adam appel à red room
+
+105
+00:03:46,260 --> 00:03:48,629
+qu'est ce que c'est la red room trop de
+
+106
+00:03:47,340 --> 00:03:50,280
+questions / réponses qu'elle continue
+
+107
+00:03:48,629 --> 00:03:51,329
+oui de postes ces derniers d'ici à 108
+
+108
+00:03:50,280 --> 00:03:53,700
+postes est recommandé de la weed
+
+109
+00:03:51,329 --> 00:03:57,140
+d'accord 10 dollars le gramme 4e il veut
+
+110
+00:03:53,700 --> 00:03:57,140
+un bruit énorme
+
+111
+00:03:58,519 --> 00:04:04,430
+putain 6b 5 3 f la regarder sur cette
+
+112
+00:04:02,730 --> 00:04:08,430
+page on peut cliquer ici
+
+113
+00:04:04,430 --> 00:04:10,620
+ici au ya un truc h et maquiller un truc
+
+114
+00:04:08,430 --> 00:04:12,629
+cachée y avait un bruit vient brouiller
+
+115
+00:04:10,620 --> 00:04:13,980
+putain tu attends attends je suis en
+
+116
+00:04:12,629 --> 00:04:14,790
+forme auront à coeur la tuque pourquoi
+
+117
+00:04:13,980 --> 00:04:16,139
+celui qu'on ne peut pas éteindre la
+
+118
+00:04:14,790 --> 00:04:17,970
+lumière de sa maison sans s'étendre son
+
+119
+00:04:16,139 --> 00:04:19,079
+pc c'est complètement con et on n'a pas
+
+120
+00:04:17,970 --> 00:04:20,220
+de temps à perdre façon personne la voix
+
+121
+00:04:19,079 --> 00:04:21,959
+qui la paient impôts bolos comme double
+
+122
+00:04:20,220 --> 00:04:23,370
+ou créés à quoi il ya un bruit mais qui
+
+123
+00:04:21,959 --> 00:04:25,610
+est un bruit un bruit un bruit ce train
+
+124
+00:04:23,370 --> 00:04:25,610
+de faire
+
+125
+00:04:33,490 --> 00:04:37,760
+alors je voulais qu'on s'est fait avoir
+
+126
+00:04:36,170 --> 00:04:39,110
+ils pensent nous avoir si facilement
+
+127
+00:04:37,760 --> 00:04:40,490
+c'est moi leur dire que non et calvin
+
+128
+00:04:39,110 --> 00:04:41,930
+kidnappe il faut que j'aille chez le
+
+129
+00:04:40,490 --> 00:04:45,050
+coiffeur nouvelle game
+
+130
+00:04:41,930 --> 00:04:46,790
+ok on va trouver ses codes mon pote
+
+131
+00:04:45,050 --> 00:04:49,130
+c'est reparti la juste que ça change pas
+
+132
+00:04:46,790 --> 00:04:50,210
+c'est moi qu'on bouge le jeu ok ça
+
+133
+00:04:49,130 --> 00:04:51,410
+changeait quoi qu'on bouge le jeu putain
+
+134
+00:04:50,210 --> 00:04:52,370
+tous les sites ont changé c'est plus
+
+135
+00:04:51,410 --> 00:04:53,270
+comme thaler je perds tous mes repères
+
+136
+00:04:52,370 --> 00:04:54,830
+je suis comme la fouine
+
+137
+00:04:53,270 --> 00:04:56,000
+je suis sans repères familiers dans le
+
+138
+00:04:54,830 --> 00:04:58,550
+shop aux mondiaux peut acheter de
+
+139
+00:04:56,000 --> 00:05:01,930
+l'héroïne la cocaïne du speed plein de
+
+140
+00:04:58,550 --> 00:05:01,930
+trucs cool pour faire des super vidéo
+
+141
+00:05:02,190 --> 00:05:05,419
+c'était là
+
+142
+00:05:03,409 --> 00:05:06,649
+de l'école georges c'est sur cette page
+
+143
+00:05:05,419 --> 00:05:08,569
+qu'on avait vu en cause mais ça change
+
+144
+00:05:06,649 --> 00:05:09,860
+f des 32 f des 32 c'est noté on l'a
+
+145
+00:05:08,569 --> 00:05:11,439
+suivant news youtube hers
+
+146
+00:05:09,860 --> 00:05:14,449
+oh mon dieu des photos youtube hernu
+
+147
+00:05:11,439 --> 00:05:16,489
+putain voilà qui est intéressant ça
+
+148
+00:05:14,449 --> 00:05:17,839
+marche pas on ne le mets qui fabrique
+
+149
+00:05:16,489 --> 00:05:18,949
+des poupées de domec heures en on sait
+
+150
+00:05:17,839 --> 00:05:20,599
+que l'eau qui fait des poupées jeux
+
+151
+00:05:18,949 --> 00:05:21,229
+créer des jouets qui sont en fait des
+
+152
+00:05:20,599 --> 00:05:23,719
+femmes esclaves
+
+153
+00:05:21,229 --> 00:05:25,789
+vous vous demandez comment non contactez
+
+154
+00:05:23,719 --> 00:05:26,899
+moi si vous en voulez une tape à un code
+
+155
+00:05:25,789 --> 00:05:28,309
+à la place les mecs qui a forcément un
+
+156
+00:05:26,899 --> 00:05:31,069
+truc à faire avec le avec le chosen
+
+157
+00:05:28,309 --> 00:05:32,659
+américain voilà c'est ça suivent ensuite
+
+158
+00:05:31,069 --> 00:05:35,239
+c'est quoi je trouve le bon sur lequel
+
+159
+00:05:32,659 --> 00:05:36,469
+appuyer en fait ok c'est bon oh non non
+
+160
+00:05:35,239 --> 00:05:38,119
+non non non je t'ai pas le moment ce
+
+161
+00:05:36,469 --> 00:05:39,769
+n'est pas le moment ok alors c'est quoi
+
+162
+00:05:38,119 --> 00:05:42,099
+l'hymne ô mes mecs sénégal ans est
+
+163
+00:05:39,769 --> 00:05:42,099
+accusé
+
+164
+00:05:44,250 --> 00:05:47,410
+mais que ça va nous amener où ça c'est
+
+165
+00:05:46,210 --> 00:05:57,010
+quoi ce délire là il ya une énigme sur
+
+166
+00:05:47,410 --> 00:05:58,570
+cette page trope putain le mec il n'a
+
+167
+00:05:57,010 --> 00:05:59,710
+pas fait de bruit monga déjà qu'est ce
+
+168
+00:05:58,570 --> 00:06:01,090
+qu'ils faisaient là le mec et chassard
+
+169
+00:05:59,710 --> 00:06:02,200
+au carnage dans mon jardin il a cru que
+
+170
+00:06:01,090 --> 00:06:03,370
+c'était pour un gros carnage et je m'en
+
+171
+00:06:02,200 --> 00:06:04,120
+bats les couilles je joue pour un truc
+
+172
+00:06:03,370 --> 00:06:05,290
+c'est résoudre l'énigme
+
+173
+00:06:04,120 --> 00:06:06,790
+le reste je m'en fous le reste je m'en
+
+174
+00:06:05,290 --> 00:06:08,650
+fous d'école arrêteront j'm'en fous à
+
+175
+00:06:06,790 --> 00:06:12,060
+l'énigme change à chaque fois putain je
+
+176
+00:06:08,650 --> 00:06:15,910
+menais ma ok nickel nickel oui
+
+177
+00:06:12,060 --> 00:06:16,660
+yes suivant c'est quoi oui au putain
+
+178
+00:06:15,910 --> 00:06:18,430
+c'est quoi ce bordel
+
+179
+00:06:16,660 --> 00:06:20,470
+oh mon dieu faut cliquer sur l'un d'eux
+
+180
+00:06:18,430 --> 00:06:22,740
+oh il ya tellement de possibilités à et
+
+181
+00:06:20,470 --> 00:06:22,740
+celui-là
+
+182
+00:06:25,180 --> 00:06:29,560
+on a eu une urne on a eu ni heurts aux
+
+183
+00:06:27,460 --> 00:06:32,800
+mondiaux si je la mets pitié c'est la
+
+184
+00:06:29,560 --> 00:06:34,030
+fin du jeu the deep wiki 2 encore plus
+
+185
+00:06:32,800 --> 00:06:35,400
+de sites web dans lesquels cherché
+
+186
+00:06:34,030 --> 00:06:37,720
+pendant des heures sans rien trouver
+
+187
+00:06:35,400 --> 00:06:38,919
+vous savez quoi c'est que jade est un
+
+188
+00:06:37,720 --> 00:06:40,120
+hacker c'est dommage parce que j'étais
+
+189
+00:06:38,919 --> 00:06:41,320
+hyper fort je sais et je vais devenir
+
+190
+00:06:40,120 --> 00:06:42,460
+maçon fabriquer des maisons dans
+
+191
+00:06:41,320 --> 00:06:43,720
+lesquelles je sais plus à l'abri mais on
+
+192
+00:06:42,460 --> 00:06:44,979
+met la risquer d'être kidnappé à tout
+
+193
+00:06:43,720 --> 00:06:47,919
+moment mais chercher des codes pendant
+
+194
+00:06:44,979 --> 00:06:49,150
+des heures sur des sites perdu ça va ça
+
+195
+00:06:47,919 --> 00:06:49,539
+va le schéma crise d'accor dans la
+
+196
+00:06:49,150 --> 00:06:50,440
+trentaine
+
+197
+00:06:49,539 --> 00:06:52,419
+comment les jeunes cherchent pas de
+
+198
+00:06:50,440 --> 00:06:53,500
+cette vidéo sur welcome to the game
+
+199
+00:06:52,419 --> 00:06:54,639
+bienvenue dans le jeu bethioua nous
+
+200
+00:06:53,500 --> 00:06:55,780
+avait dit bienvenue dans le méandre est
+
+201
+00:06:54,639 --> 00:06:56,860
+vrai qu'il nous dise tout de suite ne
+
+202
+00:06:55,780 --> 00:06:58,180
+jouais pas bien là le fond du jeu est
+
+203
+00:06:56,860 --> 00:06:59,740
+bien mais j'avoue tu passe des heures à
+
+204
+00:06:58,180 --> 00:07:01,240
+chercher des codes sur des sites web et
+
+205
+00:06:59,740 --> 00:07:02,320
+un moment tu es un peu saoulé après
+
+206
+00:07:01,240 --> 00:07:03,639
+derrière avec le mec qui vient équipe
+
+207
+00:07:02,320 --> 00:07:06,240
+qui n'a pas de foule à la pression pour
+
+208
+00:07:03,639 --> 00:07:06,240
+sortir de son pays
+
+209
+00:07:08,970 --> 00:07:12,570
+voilà ça c'est pas mal

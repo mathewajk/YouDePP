@@ -1,0 +1,823 @@
+1
+00:00:00,000 --> 00:00:02,429
+bonjour le ministère de la culture vous
+
+2
+00:00:01,410 --> 00:00:03,389
+informe que si cette vidéo vous en
+
+3
+00:00:02,429 --> 00:00:04,350
+jalles vous pouvez cliquer sur le pouce
+
+4
+00:00:03,389 --> 00:00:07,049
+bleus et vous abonner à la chaîne des
+
+5
+00:00:04,350 --> 00:00:08,429
+knicks est mort voir clape sur la caméra
+
+6
+00:00:07,049 --> 00:00:09,990
+avec ma main gauche et j'ai ma main
+
+7
+00:00:08,429 --> 00:00:11,700
+droite pilonne je peux pas faire club
+
+8
+00:00:09,990 --> 00:00:12,780
+comme ça bonjour aujourd'hui on va jouer
+
+9
+00:00:11,700 --> 00:00:13,349
+à ce jeu division' là je suis à
+
+10
+00:00:12,780 --> 00:00:15,179
+copenhague
+
+11
+00:00:13,349 --> 00:00:18,150
+il fait hyper chaud je crève de chaud il
+
+12
+00:00:15,179 --> 00:00:19,740
+fait chaud cyril s'emballer et en fait
+
+13
+00:00:18,150 --> 00:00:21,240
+on va faire quelques kilomètres on va
+
+14
+00:00:19,740 --> 00:00:23,369
+traverser la mer on va aller en suède à
+
+15
+00:00:21,240 --> 00:00:24,330
+malmö oui la ville de zlatan ibrahimovic
+
+16
+00:00:23,369 --> 00:00:25,619
+c'est pas pour ça qu'on y voie est ce
+
+17
+00:00:24,330 --> 00:00:31,730
+qu'on va jouer à ce division' tout de
+
+18
+00:00:25,619 --> 00:00:36,000
+suite j'aimerais des avis quelque chose
+
+19
+00:00:31,730 --> 00:00:38,989
+je te connais toi bonsoir ses portes à
+
+20
+00:00:36,000 --> 00:00:40,800
+tête un peu à settat sétois d'accord
+
+21
+00:00:38,989 --> 00:00:45,469
+choisi enterrons ma vidéo ya pas de
+
+22
+00:00:40,800 --> 00:00:45,469
+problème tu veux faire quoi
+
+23
+00:00:49,740 --> 00:00:56,170
+mais vas-y v10 cook et n'hésite surtout
+
+24
+00:00:53,500 --> 00:00:59,730
+pas faire des interventions comme ça pas
+
+25
+00:00:56,170 --> 00:01:01,930
+aller au revoir je mets mon double
+
+26
+00:00:59,730 --> 00:01:05,590
+double micro tu vois j'ai le micro
+
+27
+00:01:01,930 --> 00:01:07,390
+perche pour parler avec mon équipe j'ai
+
+28
+00:01:05,590 --> 00:01:10,060
+le micro comme ça pour la vidéo du coup
+
+29
+00:01:07,390 --> 00:01:12,070
+j'ai l'air d'un con voilà parfait
+
+30
+00:01:10,060 --> 00:01:14,770
+premiers pas dans le jeu les amis je
+
+31
+00:01:12,070 --> 00:01:18,400
+viens d'arriver c'est la joie alors ça
+
+32
+00:01:14,770 --> 00:01:19,899
+c'est cette madame la ccma potes je sais
+
+33
+00:01:18,400 --> 00:01:21,130
+pas du tout ce qui lui est arrivé mais
+
+34
+00:01:19,899 --> 00:01:22,930
+elle n'est pas bien je la sens pas bien
+
+35
+00:01:21,130 --> 00:01:24,130
+et je pense qu'elle a une petite rage de
+
+36
+00:01:22,930 --> 00:01:25,660
+dents tu vois ce que je veux dire il est
+
+37
+00:01:24,130 --> 00:01:26,680
+en train de les observer la mâchoire les
+
+38
+00:01:25,660 --> 00:01:28,060
+mecs là les deux ils ont ramené une
+
+39
+00:01:26,680 --> 00:01:29,649
+civière alors qu'elles ajustent malodore
+
+40
+00:01:28,060 --> 00:01:32,700
+au final tu vois non ces bois n'a rien
+
+41
+00:01:29,649 --> 00:01:36,280
+je sais pas fait voir à droite
+
+42
+00:01:32,700 --> 00:01:36,930
+non ça va a l'air d'aller fait voir à
+
+43
+00:01:36,280 --> 00:01:40,180
+gauche
+
+44
+00:01:36,930 --> 00:01:42,640
+non ça m'a l'air d'aller à fait voir à
+
+45
+00:01:40,180 --> 00:01:45,130
+droite c'est pas bien vu non ça va l'air
+
+46
+00:01:42,640 --> 00:01:48,840
+d'aller ça va on a compris en ce qu on
+
+47
+00:01:45,130 --> 00:01:48,840
+peut rigoler pas ce qu'il fallait
+
+48
+00:01:49,259 --> 00:01:54,340
+qu'est-ce qui fait ça lui le monsieur
+
+49
+00:01:52,690 --> 00:01:58,180
+ici c'est pierre qui est développeur
+
+50
+00:01:54,340 --> 00:01:59,700
+chez ubisoft bien vu bienvenue bien vu
+
+51
+00:01:58,180 --> 00:02:04,060
+que j'avais moi aussi je veux faire ça
+
+52
+00:01:59,700 --> 00:02:06,010
+fait des mois et des mois alors attends
+
+53
+00:02:04,060 --> 00:02:07,960
+il ya quoi d'autre comme geste bavière
+
+54
+00:02:06,010 --> 00:02:11,920
+un grand vient va boire un verre ensuite
+
+55
+00:02:07,960 --> 00:02:13,540
+chaque lot c'est extrêmement confus et
+
+56
+00:02:11,920 --> 00:02:15,519
+moi voir un petit peu les gestes
+
+57
+00:02:13,540 --> 00:02:19,060
+mon cher pierre auger rien fait j'ai
+
+58
+00:02:15,519 --> 00:02:22,269
+rien fait ok merci je suis assez content
+
+59
+00:02:19,060 --> 00:02:24,909
+ça c'est genre va bien différent je suis
+
+60
+00:02:22,269 --> 00:02:26,590
+dans la merde allegro vient m'aider week
+
+61
+00:02:24,909 --> 00:02:28,209
+est appelé avec périard ne fait rien je
+
+62
+00:02:26,590 --> 00:02:30,400
+joue bien pas alors là je suis dans la
+
+63
+00:02:28,209 --> 00:02:31,989
+position donc je me rends j'imagine le
+
+64
+00:02:30,400 --> 00:02:33,819
+nombre de personnes en line qui vont se
+
+65
+00:02:31,989 --> 00:02:34,840
+faire défoncer alors que 2010 était de
+
+66
+00:02:33,819 --> 00:02:35,829
+bonne foi ou alors le nombre de
+
+67
+00:02:34,840 --> 00:02:37,030
+personnes qui vont faire ce geste
+
+68
+00:02:35,829 --> 00:02:39,310
+ensuite ils vont sortir une arme et qui
+
+69
+00:02:37,030 --> 00:02:41,109
+vont buter ça me fait penser à arma iii
+
+70
+00:02:39,310 --> 00:02:43,389
+et je me dis que s'il y avait eu c'est
+
+71
+00:02:41,109 --> 00:02:45,459
+magnifique geste d'un ram à trois là le
+
+72
+00:02:43,389 --> 00:02:46,750
+rp aura été malades et apitoyer sur un
+
+73
+00:02:45,459 --> 00:02:49,090
+petit peu de rp dans un dirigeable on
+
+74
+00:02:46,750 --> 00:02:52,299
+sait pas on sait pas ok donc ça cm2 pote
+
+75
+00:02:49,090 --> 00:02:55,269
+donc ce qu'il se rend ces pierres et
+
+76
+00:02:52,299 --> 00:02:58,260
+bronson c'est cyril enfin super connard
+
+77
+00:02:55,269 --> 00:03:01,659
+allez allez bien cyrille rejoint doux
+
+78
+00:02:58,260 --> 00:03:03,340
+assez ridicule mes bébés les débiles à
+
+79
+00:03:01,659 --> 00:03:05,950
+côté de moi il est des villes j'en peux
+
+80
+00:03:03,340 --> 00:03:08,079
+plus genève était ok ryan ans on
+
+81
+00:03:05,950 --> 00:03:10,359
+n'arrête pas on reste en rythme à ryadh
+
+82
+00:03:08,079 --> 00:03:12,430
+c'est bien ryan qui fait des efforts
+
+83
+00:03:10,359 --> 00:03:15,299
+depuis notre première rencontre à les
+
+84
+00:03:12,430 --> 00:03:18,699
+rails avec 18 zaza
+
+85
+00:03:15,299 --> 00:03:20,109
+bonjour voila on chante et on prend
+
+86
+00:03:18,699 --> 00:03:22,120
+chanter excuse nous met en danger leur
+
+87
+00:03:20,109 --> 00:03:26,079
+vie n'est pas rose or no capital
+
+88
+00:03:22,120 --> 00:03:28,019
+broadsoft fermeture innocents tués dans
+
+89
+00:03:26,079 --> 00:03:31,000
+sa bouche pleine et le ti la flottille
+
+90
+00:03:28,019 --> 00:03:32,579
+mais certainement pas les reins excusez
+
+91
+00:03:31,000 --> 00:03:35,739
+moi les gars vous en pensez quoi
+
+92
+00:03:32,579 --> 00:03:37,090
+pasqua jean michel c'est bien c'est bien
+
+93
+00:03:35,739 --> 00:03:39,250
+vous voir à temps si on le fait très
+
+94
+00:03:37,090 --> 00:03:41,370
+près ce que cg non pas oui ma réponse
+
+95
+00:03:39,250 --> 00:03:41,370
+est non
+
+96
+00:03:41,729 --> 00:03:47,470
+si un joueur va écouter juin repas enfin
+
+97
+00:03:44,859 --> 00:03:49,389
+bien ouais t'as mangé quoi pommes de
+
+98
+00:03:47,470 --> 00:03:51,879
+terre au four sympa ma femme m'a fait un
+
+99
+00:03:49,389 --> 00:03:54,930
+boeuf bourguignon est bonne la v3 et
+
+100
+00:03:51,879 --> 00:03:54,930
+ryan hill à petit
+
+101
+00:03:55,030 --> 00:03:58,780
+c'est ce qu'on n'ira pas sans des foyers
+
+102
+00:03:57,069 --> 00:03:59,680
+par ailleurs cité en difficulté
+
+103
+00:03:58,780 --> 00:04:03,970
+reviendras tu sautes est-ce que tu
+
+104
+00:03:59,680 --> 00:04:07,660
+t'appelles ryan tu as compris on
+
+105
+00:04:03,970 --> 00:04:11,610
+arrivera y arriver mais qui joue trop
+
+106
+00:04:07,660 --> 00:04:17,950
+pas objectif quoi c'est l'un des lames
+
+107
+00:04:11,610 --> 00:04:20,769
+allait aussi regardent s'y attendait pas
+
+108
+00:04:17,950 --> 00:04:25,300
+non je vais m'acheter tu vas tout le cas
+
+109
+00:04:20,769 --> 00:04:28,020
+c'est marrant mais je crois qu adjudant
+
+110
+00:04:25,300 --> 00:04:28,020
+ryan nous attend
+
+111
+00:04:29,800 --> 00:04:33,950
+je nourris
+
+112
+00:04:31,950 --> 00:04:33,950
+e
+
+113
+00:04:35,819 --> 00:04:43,509
+j'avance avec les boucliers les gars non
+
+114
+00:04:39,249 --> 00:04:46,990
+mais attends je lui mets ta quand il
+
+115
+00:04:43,509 --> 00:04:48,550
+applaudit avec son arme le gars sans
+
+116
+00:04:46,990 --> 00:04:51,729
+pression dans les escaliers le gars
+
+117
+00:04:48,550 --> 00:04:55,029
+escaliers peu vu
+
+118
+00:04:51,729 --> 00:04:56,770
+contact auprès d'un couvert à moi je
+
+119
+00:04:55,029 --> 00:04:59,439
+suis un gros lâche je t'adore dessus
+
+120
+00:04:56,770 --> 00:05:04,349
+comme ça on l'a la ola olé alors je vais
+
+121
+00:04:59,439 --> 00:05:04,349
+défoncer grenade grenade
+
+122
+00:05:04,559 --> 00:05:08,349
+j'en ai eu aucun
+
+123
+00:05:06,099 --> 00:05:13,779
+je suis content ça repartir sur une
+
+124
+00:05:08,349 --> 00:05:19,240
+grenade et aux grenades grenade vers
+
+125
+00:05:13,779 --> 00:05:24,180
+l'app j'ai pas dis put la rive j'arrive
+
+126
+00:05:19,240 --> 00:05:35,379
+je le rush commun les bus les tensions
+
+127
+00:05:24,180 --> 00:05:38,439
+grenade non je veux faire embaucher par
+
+128
+00:05:35,379 --> 00:05:40,770
+un mec avec une batte bien mais car sur
+
+129
+00:05:38,439 --> 00:05:40,770
+le comptoir
+
+130
+00:05:40,860 --> 00:05:48,180
+oh la vache bon il ya les vagues
+
+131
+00:05:43,389 --> 00:05:55,930
+débattent bars-tabacs non et je tiendrai
+
+132
+00:05:48,180 --> 00:06:00,870
+cavaliers du rau barriga y voit là sa
+
+133
+00:05:55,930 --> 00:06:00,870
+charge sur bois houston haut
+
+134
+00:06:04,689 --> 00:06:12,119
+oh là là tirer médias taxe fait
+
+135
+00:06:07,209 --> 00:06:12,119
+diversion aurait en effet regarder mais
+
+136
+00:06:13,979 --> 00:06:20,199
+oui coup dans le passé par derrière
+
+137
+00:06:17,319 --> 00:06:23,949
+naissance à la sq ont lu mais ce qu'on
+
+138
+00:06:20,199 --> 00:06:25,839
+lui mais on a perdu ryan assez bon je te
+
+139
+00:06:23,949 --> 00:06:26,860
+riva ils voyagent bouge pas bouge pas à
+
+140
+00:06:25,839 --> 00:06:28,229
+des années je m'occupe de lui
+
+141
+00:06:26,860 --> 00:06:34,889
+mais qu'est ce qui fait râler mais
+
+142
+00:06:28,229 --> 00:06:42,899
+hockey joué mais c'est allé brandson
+
+143
+00:06:34,889 --> 00:06:46,149
+audition juste en bas merci ryan merci
+
+144
+00:06:42,899 --> 00:06:47,800
+ladji dans mon camp a trop marque des
+
+145
+00:06:46,149 --> 00:06:49,539
+deux google derrière les c'est très
+
+146
+00:06:47,800 --> 00:06:51,429
+accueillants wahou pas ok c'est
+
+147
+00:06:49,539 --> 00:06:54,759
+l'anniversaire acquis maintenant libye
+
+148
+00:06:51,429 --> 00:06:56,349
+surprise je sais que tu aimais les
+
+149
+00:06:54,759 --> 00:07:02,169
+cadavres donc je me suis dit que ça te
+
+150
+00:06:56,349 --> 00:07:04,269
+plairait alors en fait ça te ça dit quoi
+
+151
+00:07:02,169 --> 00:07:06,129
+le boulot ça va être quoi
+
+152
+00:07:04,269 --> 00:07:08,110
+j'ai demandé une augmentation à ryan
+
+153
+00:07:06,129 --> 00:07:09,099
+mais points chauds et des pêches au wat
+
+154
+00:07:08,110 --> 00:07:12,879
+je vais libérer
+
+155
+00:07:09,099 --> 00:07:16,360
+jacky allez mr ben non plus tard en fait
+
+156
+00:07:12,879 --> 00:07:20,699
+j'ai pas le temps ok est ce que si je
+
+157
+00:07:16,360 --> 00:07:20,699
+vais libérer jackie casty on en a marre
+
+158
+00:07:20,700 --> 00:07:26,310
+allez jo tu peux y aller c'est fini on
+
+159
+00:07:24,930 --> 00:07:27,840
+se demande comment il a survécu il était
+
+160
+00:07:26,310 --> 00:07:29,280
+en plein milieu du du combat c'est quoi
+
+161
+00:07:27,840 --> 00:07:31,890
+tes petites boules téléguidé là elle me
+
+162
+00:07:29,280 --> 00:07:39,590
+suit la petite boule ses billets allait
+
+163
+00:07:31,890 --> 00:07:55,170
+bien enfin je faire la course avec trois
+
+164
+00:07:39,590 --> 00:07:56,520
+2 1 go broke seul arrête tes conneries
+
+165
+00:07:55,170 --> 00:07:59,850
+m'attendre watson c'est plus marrant
+
+166
+00:07:56,520 --> 00:08:06,780
+tube cet ascenseur super bon mais fier
+
+167
+00:07:59,850 --> 00:08:13,740
+de toi je vais mettre mon petit refuge
+
+168
+00:08:06,780 --> 00:08:14,420
+déployables juste ici au plat et un il
+
+169
+00:08:13,740 --> 00:08:16,890
+fait plaisir
+
+170
+00:08:14,420 --> 00:08:20,380
+ces petites boulettes la série les oui
+
+171
+00:08:16,890 --> 00:08:25,040
+et oui les petites poulettes rien chien
+
+172
+00:08:20,380 --> 00:08:27,980
+mais je pense qu il peut attaquer pas au
+
+173
+00:08:25,040 --> 00:08:29,720
+nombre en son nom ce n'est pas un thème
+
+174
+00:08:27,980 --> 00:08:31,670
+clé lors que tu de la journée c'est
+
+175
+00:08:29,720 --> 00:08:33,830
+parti entre dans la zone pvp ou panther
+
+176
+00:08:31,670 --> 00:08:35,570
+into the zone pvp tant les avants avant
+
+177
+00:08:33,830 --> 00:08:39,410
+d'y aller je vous propose un truc je
+
+178
+00:08:35,570 --> 00:08:41,210
+petit échauffement aller j'ai pas fait
+
+179
+00:08:39,410 --> 00:08:44,930
+attendre et je suis pas prête assez bon
+
+180
+00:08:41,210 --> 00:08:46,010
+voilà c'est bon c'est bon on est en
+
+181
+00:08:44,930 --> 00:08:55,070
+train de traquer des vrais cheveux
+
+182
+00:08:46,010 --> 00:09:00,770
+palpitant alors messieurs le roche jeudi
+
+183
+00:08:55,070 --> 00:09:04,120
+bénédicte ann alie t il un groupe assez
+
+184
+00:09:00,770 --> 00:09:04,120
+bon j med et balla diouf
+
+185
+00:09:05,440 --> 00:09:09,550
+ok bien jouer un chef achève h f
+
+186
+00:09:10,390 --> 00:09:16,100
+vas-y fais lui la paix mais à jouer je
+
+187
+00:09:14,540 --> 00:09:18,440
+me rends compte je me retire pas tu me
+
+188
+00:09:16,100 --> 00:09:19,520
+tire pas dessus je me rends je me rends
+
+189
+00:09:18,440 --> 00:09:23,540
+ne me tire potes
+
+190
+00:09:19,520 --> 00:09:25,850
+ouais j'ai un nouveau pote ça c'est cool
+
+191
+00:09:23,540 --> 00:09:27,620
+je suis mort c'est pas grave faute en
+
+192
+00:09:25,850 --> 00:09:29,390
+terre bonsoir je présentais les pierres
+
+193
+00:09:27,620 --> 00:09:30,980
+youtuber de renault tu voulais peut-être
+
+194
+00:09:29,390 --> 00:09:32,000
+pas contre eux connaissent que t'as
+
+195
+00:09:30,980 --> 00:09:35,930
+jamais montré ton visage sur you tube
+
+196
+00:09:32,000 --> 00:09:39,740
+toi c'est ah c'est toi mes parents ta
+
+197
+00:09:35,930 --> 00:09:43,550
+voix est totalement moi je suis dirix
+
+198
+00:09:39,740 --> 00:09:45,230
+neuf mois j'étais à huy enjeu pour tous
+
+199
+00:09:43,550 --> 00:09:47,360
+moi j'étais chez même pas qui j'étais en
+
+200
+00:09:45,230 --> 00:09:49,310
+fait je te connais tu râles et bronson
+
+201
+00:09:47,360 --> 00:09:50,630
+et moi je sais pas et bien mesdames
+
+202
+00:09:49,310 --> 00:09:51,800
+messieurs c'est la fin de cette vidéo si
+
+203
+00:09:50,630 --> 00:09:53,839
+vous avez aimé vous
+
+204
+00:09:51,800 --> 00:09:57,459
+et puis on se dit à bientôt pour une
+
+205
+00:09:53,839 --> 00:09:57,459
+prochaine bisous aux bleus
+
+206
+00:10:06,180 --> 00:10:09,050
+m

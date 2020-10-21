@@ -1,0 +1,1699 @@
+1
+00:00:00,000 --> 00:00:03,899
+eh bien vous jour les amis et bienvenue
+
+2
+00:00:02,040 --> 00:00:05,910
+dans cette vidéo making of de la vidéo
+
+3
+00:00:03,899 --> 00:00:07,470
+rainbow six sièges je suis avec théo qui
+
+4
+00:00:05,910 --> 00:00:09,599
+est le réalisateur de la vidéo et avec
+
+5
+00:00:07,470 --> 00:00:10,740
+julien qui a coécrit avec moi comme la
+
+6
+00:00:09,599 --> 00:00:12,450
+vidéo n'est pas sorti au moment où on
+
+7
+00:00:10,740 --> 00:00:13,290
+fait ce making-of faq je peux pas
+
+8
+00:00:12,450 --> 00:00:14,160
+demander aux gens de me poser des
+
+9
+00:00:13,290 --> 00:00:15,540
+questions parce qu'ils n'ont pas vu la
+
+10
+00:00:14,160 --> 00:00:16,680
+vidéo et en plus à l'aspect y tout ce
+
+11
+00:00:15,540 --> 00:00:18,210
+que j'ai fait c'est que j'ai écris moi
+
+12
+00:00:16,680 --> 00:00:19,710
+même des questions donc je vais me poser
+
+13
+00:00:18,210 --> 00:00:22,010
+des questions à nous mêmes c'est parti
+
+14
+00:00:19,710 --> 00:00:22,010
+pour la
+
+15
+00:00:22,720 --> 00:00:25,930
+robert question quand avez vous commencé
+
+16
+00:00:24,130 --> 00:00:26,919
+à bosser sur ce projet moi j'ai souvenir
+
+17
+00:00:25,930 --> 00:00:32,320
+d'avoir fait une vidéo avec vous on
+
+18
+00:00:26,919 --> 00:00:35,050
+regarde du bollywood petit replay avant
+
+19
+00:00:32,320 --> 00:00:36,670
+après quoi c'est les viols de mecs
+
+20
+00:00:35,050 --> 00:00:38,110
+pendant l'hiver et la d re fois c'était
+
+21
+00:00:36,670 --> 00:00:39,970
+juste avant l'été on avait commencé à
+
+22
+00:00:38,110 --> 00:00:41,860
+bosser sur ce projet à ce moment là
+
+23
+00:00:39,970 --> 00:00:43,510
+sachant que le projet avait été évoqué
+
+24
+00:00:41,860 --> 00:00:45,730
+avec ubisoft en février donc ça a mis
+
+25
+00:00:43,510 --> 00:00:47,320
+dix mois à 100 pourquoi avoir choisi de
+
+26
+00:00:45,730 --> 00:00:48,879
+faire un court métrage d'action au début
+
+27
+00:00:47,320 --> 00:00:50,260
+l'idée de départ il me semble c'était de
+
+28
+00:00:48,879 --> 00:00:51,129
+faire un clip come over butch exactement
+
+29
+00:00:50,260 --> 00:00:52,210
+pas la balle je crois qu'il fallait
+
+30
+00:00:51,129 --> 00:00:54,460
+faire un nouveau en doute comme on a
+
+31
+00:00:52,210 --> 00:00:56,260
+fait pour assassins comme zelda comme
+
+32
+00:00:54,460 --> 00:00:57,760
+howard bowles est en gros l'idée c'est
+
+33
+00:00:56,260 --> 00:00:59,170
+de faire je joue à rainbow six et puis
+
+34
+00:00:57,760 --> 00:01:00,339
+quand j'avance dans les couloirs hockey
+
+35
+00:00:59,170 --> 00:01:01,449
+enfin et comme pour faire un exemple moi
+
+36
+00:01:00,339 --> 00:01:03,040
+je suis la recrue j'ai pas trop
+
+37
+00:01:01,449 --> 00:01:05,340
+d'expérience et toi tu es fusent
+
+38
+00:01:03,040 --> 00:01:07,479
+tu mets des grenades dans les murs a
+
+39
+00:01:05,340 --> 00:01:08,799
+donc les réactions des gens devant sa
+
+40
+00:01:07,479 --> 00:01:10,509
+bave voilà votre réaction
+
+41
+00:01:08,799 --> 00:01:11,740
+je pense que l'univers de rainbow six il
+
+42
+00:01:10,509 --> 00:01:12,909
+est un peu plus réaliste il est arcade
+
+43
+00:01:11,740 --> 00:01:14,049
+un peu mais il est un peu plus réaliste
+
+44
+00:01:12,909 --> 00:01:16,210
+qui fait qu'on pouvait pas se permettre
+
+45
+00:01:14,049 --> 00:01:17,860
+voilà deux le québec trop frontalement
+
+46
+00:01:16,210 --> 00:01:20,229
+car j'ai vu qu'on est tous des grands
+
+47
+00:01:17,860 --> 00:01:21,250
+fans de roxy est aussi le réalisateur du
+
+48
+00:01:20,229 --> 00:01:24,159
+clip ce match tellement fan que je
+
+49
+00:01:21,250 --> 00:01:25,840
+connais bien ma terminale mais ouais en
+
+50
+00:01:24,159 --> 00:01:27,070
+fait on se disait plus tard une occasion
+
+51
+00:01:25,840 --> 00:01:29,200
+de faire une putain de scènes d'action
+
+52
+00:01:27,070 --> 00:01:30,850
+avec une musique un peu pop tout ça pas
+
+53
+00:01:29,200 --> 00:01:32,110
+de gagner un peu de fun un univers quoi
+
+54
+00:01:30,850 --> 00:01:33,790
+de créer un décalage nouvelles questions
+
+55
+00:01:32,110 --> 00:01:35,770
+que s'est il passé avec tes cheveux
+
+56
+00:01:33,790 --> 00:01:37,330
+julien bailly lors du matin écoute il ya
+
+57
+00:01:35,770 --> 00:01:38,800
+eu qui te pose d'un petit produit comme
+
+58
+00:01:37,330 --> 00:01:40,420
+ça ça donne un côté gryffondor un petit
+
+59
+00:01:38,800 --> 00:01:41,370
+peu et tu t'es pas demandé après cette
+
+60
+00:01:40,420 --> 00:01:43,750
+question n'avait pas de rapport avec
+
+61
+00:01:41,370 --> 00:01:46,060
+rainbow six noms et c'est la chargée de
+
+62
+00:01:43,750 --> 00:01:47,560
+préparer ces nakba qui a fait son moi je
+
+63
+00:01:46,060 --> 00:01:48,909
+suis là pour vous avez tourné
+
+64
+00:01:47,560 --> 00:01:50,470
+c'est vrai qu'il ya un grand décor
+
+65
+00:01:48,909 --> 00:01:50,950
+plusieurs salles démarche la grande
+
+66
+00:01:50,470 --> 00:01:52,510
+salle etc
+
+67
+00:01:50,950 --> 00:01:54,400
+on a tourné ou tout ça alors on a tourné
+
+68
+00:01:52,510 --> 00:01:56,140
+à qui aime bien un studio dans lequel on
+
+69
+00:01:54,400 --> 00:01:59,799
+a tourné tous énormément de choses vous
+
+70
+00:01:56,140 --> 00:02:01,810
+internet comme par exemple ça plaît bien
+
+71
+00:01:59,799 --> 00:02:03,159
+il a écrit à un truc avec une 3 ou en
+
+72
+00:02:01,810 --> 00:02:05,020
+gros il fallait qu'ils aient des murs
+
+73
+00:02:03,159 --> 00:02:06,549
+particulier des pièces particulières
+
+74
+00:02:05,020 --> 00:02:07,900
+qu'on puisse faire les actions entre
+
+75
+00:02:06,549 --> 00:02:09,789
+elles ont du coup on a dû faire un plan
+
+76
+00:02:07,900 --> 00:02:11,230
+très précis de tout ce qu'on voulait on
+
+77
+00:02:09,789 --> 00:02:12,489
+a reconstruit tout le décor de hasard
+
+78
+00:02:11,230 --> 00:02:15,569
+quoi tous les murs que vous voyez dans
+
+79
+00:02:12,489 --> 00:02:19,930
+l'image ce faux les portes les fenêtres
+
+80
+00:02:15,569 --> 00:02:22,209
+permet de créer l'illusion que c'était
+
+81
+00:02:19,930 --> 00:02:23,409
+là et on avait besoin aussi d'avoir des
+
+82
+00:02:22,209 --> 00:02:24,710
+faux murs des trucs parce que dans le
+
+83
+00:02:23,409 --> 00:02:25,910
+jeu on n'est plus vraiment quoi
+
+84
+00:02:24,710 --> 00:02:27,290
+on pouvait pas casser de vrai mur
+
+85
+00:02:25,910 --> 00:02:27,890
+nouvelle question c'est vous qui avez
+
+86
+00:02:27,290 --> 00:02:29,810
+fait les costumes
+
+87
+00:02:27,890 --> 00:02:31,430
+alors maintenant city oui je paye c'est
+
+88
+00:02:29,810 --> 00:02:32,630
+moi alors non c'était qu'au super je
+
+89
+00:02:31,430 --> 00:02:33,950
+connais pas le nom par coeur mais il se
+
+90
+00:02:32,630 --> 00:02:35,300
+sent le chalet croix sur la tête de théo
+
+91
+00:02:33,950 --> 00:02:37,190
+ces gens là qui ont fait tous les
+
+92
+00:02:35,300 --> 00:02:38,480
+costumes donc avertis costume avec les
+
+93
+00:02:37,190 --> 00:02:39,680
+costumes étaient champ mais regardez on
+
+94
+00:02:38,480 --> 00:02:41,480
+peut mettre maintenant à l'écran making
+
+95
+00:02:39,680 --> 00:02:42,980
+of des petites photos compare les persos
+
+96
+00:02:41,480 --> 00:02:44,870
+du jeu et nous dans la vraie vie qui
+
+97
+00:02:42,980 --> 00:02:47,090
+limite les persos du jeu
+
+98
+00:02:44,870 --> 00:02:49,250
+[Musique]
+
+99
+00:02:47,090 --> 00:02:51,620
+joli programme bon apparemment l'intimé
+
+100
+00:02:49,250 --> 00:02:54,190
+cup naturel très léger un effet bonne
+
+101
+00:02:51,620 --> 00:02:54,190
+mine en fait
+
+102
+00:02:58,450 --> 00:03:01,989
+je ne connais pas du tout le jeu
+
+103
+00:02:59,800 --> 00:03:03,730
+français s'appelle rainbow parce que
+
+104
+00:03:01,989 --> 00:03:06,930
+c'est un jeu avec des arcs en ciel et
+
+105
+00:03:03,730 --> 00:03:09,150
+qui cornes découvre mc lyte sans cheveux
+
+106
+00:03:06,930 --> 00:03:12,360
+[Musique]
+
+107
+00:03:09,150 --> 00:03:13,510
+bref voilà un très beau travail
+
+108
+00:03:12,360 --> 00:03:15,740
+[Musique]
+
+109
+00:03:13,510 --> 00:03:17,210
+j'ai pas l'air d'un moniteur de ski a
+
+110
+00:03:15,740 --> 00:03:19,790
+plutôt l'air du gars qui bat verbe
+
+111
+00:03:17,210 --> 00:03:21,680
+moniteur de ski je vais passer mon
+
+112
+00:03:19,790 --> 00:03:22,819
+étoile en commun vraiment pas respecté
+
+113
+00:03:21,680 --> 00:03:24,709
+on m'a mis
+
+114
+00:03:22,819 --> 00:03:25,939
+le pq vide au bout de mon fait voilà
+
+115
+00:03:24,709 --> 00:03:28,219
+comment voulez vous j'ai une crédibilité
+
+116
+00:03:25,939 --> 00:03:29,569
+trois fois en or le mail du ray direct
+
+117
+00:03:28,219 --> 00:03:30,650
+pas l'emmerder la fin j'ai peut-être de
+
+118
+00:03:29,569 --> 00:03:32,060
+gentils d'habitude vous m'avez rendu
+
+119
+00:03:30,650 --> 00:03:34,459
+méchant il ya une réflexion collective
+
+120
+00:03:32,060 --> 00:03:35,749
+qui veut que lendemain grant sachez que
+
+121
+00:03:34,459 --> 00:03:37,030
+l' inverse complètement valable
+
+122
+00:03:35,749 --> 00:03:39,019
+également
+
+123
+00:03:37,030 --> 00:03:41,269
+ça n'empêche pas d'avoir des enfants
+
+124
+00:03:39,019 --> 00:03:43,040
+pourquoi n'avoir coup sûr tout le monde
+
+125
+00:03:41,269 --> 00:03:45,859
+fait tout pour que je me sens le loin
+
+126
+00:03:43,040 --> 00:03:47,599
+possible du classement étaient deux
+
+127
+00:03:45,859 --> 00:03:50,410
+choses dans le duo vanessa aurait été le
+
+128
+00:03:47,599 --> 00:03:59,750
+seul choc du duo juge
+
+129
+00:03:50,410 --> 00:04:02,010
+[Musique]
+
+130
+00:03:59,750 --> 00:04:04,560
+le perso ne faut pas appeler à des
+
+131
+00:04:02,010 --> 00:04:05,940
+ramiers galère un peu à s'équiper tu
+
+132
+00:04:04,560 --> 00:04:08,990
+peux être là demain
+
+133
+00:04:05,940 --> 00:04:08,990
+ok demain c'est moche
+
+134
+00:04:10,030 --> 00:04:14,009
+[Musique]
+
+135
+00:04:14,090 --> 00:04:19,620
+voilà ça c'est mon perso et samoa aux
+
+136
+00:04:17,910 --> 00:04:21,000
+kabyles aux cabines croyable génial
+
+137
+00:04:19,620 --> 00:04:21,810
+c'est la palme la seule difficulté c'est
+
+138
+00:04:21,000 --> 00:04:23,400
+que dans le jeu il ya beaucoup de
+
+139
+00:04:21,810 --> 00:04:24,990
+personnes qui ont le visage couvert et
+
+140
+00:04:23,400 --> 00:04:26,850
+pour qu'on reconnaisse les guest et les
+
+141
+00:04:24,990 --> 00:04:28,380
+acteurs ben on a retiré les masques par
+
+142
+00:04:26,850 --> 00:04:29,550
+exemple ce net on a accroché son masque
+
+143
+00:04:28,380 --> 00:04:31,290
+à la poitrine pour qu'on comprenne que
+
+144
+00:04:29,550 --> 00:04:32,730
+c'est sledge fois pareil la nature ça
+
+145
+00:04:31,290 --> 00:04:33,990
+sur la bouche d'un bref mais globalement
+
+146
+00:04:32,730 --> 00:04:36,360
+on comprend quand même qui est qui et ce
+
+147
+00:04:33,990 --> 00:04:38,900
+truc cool alors une belle question alors
+
+148
+00:04:36,360 --> 00:04:40,860
+que theo est célibataire
+
+149
+00:04:38,900 --> 00:04:48,139
+oui
+
+150
+00:04:40,860 --> 00:04:50,139
+[Musique]
+
+151
+00:04:48,139 --> 00:04:50,139
+e
+
+152
+00:04:51,849 --> 00:04:55,969
+qui a composé la musique
+
+153
+00:04:54,379 --> 00:04:58,069
+la maman suivait dans sa jeunesse un
+
+154
+00:04:55,969 --> 00:04:59,749
+groupe qui s'appelait les frénétiques ce
+
+155
+00:04:58,069 --> 00:05:00,860
+voilà dans les années 80 m l'a fait
+
+156
+00:04:59,749 --> 00:05:02,060
+écouter plusieurs fois sa musique elle
+
+157
+00:05:00,860 --> 00:05:02,960
+aime énormément et en fait c'est un
+
+158
+00:05:02,060 --> 00:05:04,069
+groupe qui est très peu connue que
+
+159
+00:05:02,960 --> 00:05:05,150
+jamais trompé recettes donc un gros bide
+
+160
+00:05:04,069 --> 00:05:06,229
+au groupe frénétique s'ils sont tous
+
+161
+00:05:05,150 --> 00:05:07,430
+dans l'anonymat aujourd'hui puisqu'ils
+
+162
+00:05:06,229 --> 00:05:14,360
+ont fait 200 à l'époque mais sont
+
+163
+00:05:07,430 --> 00:05:15,349
+hautement et j'en sais rien bref en fait
+
+164
+00:05:14,360 --> 00:05:16,699
+je voulais que le court métrage choix
+
+165
+00:05:15,349 --> 00:05:18,650
+rythmée sur musique des années 80 comme
+
+166
+00:05:16,699 --> 00:05:19,879
+techonomy aau maniaque mais sauf que les
+
+167
+00:05:18,650 --> 00:05:21,379
+droits coûte très très cher mais les
+
+168
+00:05:19,879 --> 00:05:22,759
+fans de musique c'est à 80 moins connus
+
+169
+00:05:21,379 --> 00:05:23,990
+et prime j'ai repensé à ce truc là que
+
+170
+00:05:22,759 --> 00:05:25,460
+ma mère suivait quand j'étais plus jeune
+
+171
+00:05:23,990 --> 00:05:26,960
+donc on a contacté la maison de disques
+
+172
+00:05:25,460 --> 00:05:28,460
+on a eu les droits pour pas très cher et
+
+173
+00:05:26,960 --> 00:05:30,110
+du coup cette chanson là comme un acteur
+
+174
+00:05:28,460 --> 00:05:31,750
+sa jeunesse des années plus tard je
+
+175
+00:05:30,110 --> 00:05:34,460
+l'utilisé mois dans une
+
+176
+00:05:31,750 --> 00:05:34,849
+comment vous y êtes pris pour écrire le
+
+177
+00:05:34,460 --> 00:05:36,620
+scénario
+
+178
+00:05:34,849 --> 00:05:38,930
+c'est un peu la partie de ça c est
+
+179
+00:05:36,620 --> 00:05:40,370
+julien le docteur tout le monde à moi je
+
+180
+00:05:38,930 --> 00:05:41,870
+suis stagiaire mais j'ai beaucoup écrit
+
+181
+00:05:40,370 --> 00:05:43,219
+pour une fois sur toute l'année je
+
+182
+00:05:41,870 --> 00:05:44,210
+disais mais c'est stylé si lui il
+
+183
+00:05:43,219 --> 00:05:45,589
+interagit avec lui de cette manière et
+
+184
+00:05:44,210 --> 00:05:47,060
+qui se passe ça observé dans son oreille
+
+185
+00:05:45,589 --> 00:05:48,949
+comme ça et j'en reparlerai du cros
+
+186
+00:05:47,060 --> 00:05:50,659
+s'est transformée moi je déballe je lis
+
+187
+00:05:48,949 --> 00:05:52,699
+et je regarde t on chez ces faisabilité
+
+188
+00:05:50,659 --> 00:05:54,199
+m c'était une idée de toi je viens de
+
+189
+00:05:52,699 --> 00:05:55,580
+dire qu'un au début faisons parce que tu
+
+190
+00:05:54,199 --> 00:05:57,139
+joues qui part de son côté comme ça on
+
+191
+00:05:55,580 --> 00:05:58,430
+peut créer de situations parallèles tu
+
+192
+00:05:57,139 --> 00:05:59,569
+vois ce qu'ils sont encore bloquées dans
+
+193
+00:05:58,430 --> 00:06:00,830
+le piège et few ce qui est en train
+
+194
+00:05:59,569 --> 00:06:01,969
+d'attaquer les défenseurs avec sa
+
+195
+00:06:00,830 --> 00:06:02,839
+machine à grenade donc sa part et faire
+
+196
+00:06:01,969 --> 00:06:04,339
+des va-et-vient entre deux situations
+
+197
+00:06:02,839 --> 00:06:05,599
+c'est trop bien la recrue c'était cool
+
+198
+00:06:04,339 --> 00:06:07,069
+comme personnage quoi d'avoir un
+
+199
+00:06:05,599 --> 00:06:08,509
+personnage de mecs qui découvre qu'à pas
+
+200
+00:06:07,069 --> 00:06:09,860
+de pouvoir faire découvrir l'univers du
+
+201
+00:06:08,509 --> 00:06:11,330
+jeu que moi j'aime beaucoup plus on a
+
+202
+00:06:09,860 --> 00:06:12,439
+vraiment coécrit tous ensemble cette
+
+203
+00:06:11,330 --> 00:06:14,120
+vidéo je voulais trop bien vraiment
+
+204
+00:06:12,439 --> 00:06:14,569
+grâce où les trois essais un marché tout
+
+205
+00:06:14,120 --> 00:06:16,039
+de suite
+
+206
+00:06:14,569 --> 00:06:17,629
+qu'est-ce qui a été le plus dur à gérer
+
+207
+00:06:16,039 --> 00:06:19,219
+dans la réalisation de ce projet le
+
+208
+00:06:17,629 --> 00:06:20,569
+tempérament lucas laure ce qui était dur
+
+209
+00:06:19,219 --> 00:06:22,069
+mais on l'a vu en écrivant ce qu'il
+
+210
+00:06:20,569 --> 00:06:23,240
+fallait qu'on écrive un truc mais sur
+
+211
+00:06:22,069 --> 00:06:24,770
+une musique etc a rien à voir
+
+212
+00:06:23,240 --> 00:06:26,120
+il fallait qu'on arrive à faire entrer
+
+213
+00:06:24,770 --> 00:06:28,129
+toutes les actions en rythme avec la
+
+214
+00:06:26,120 --> 00:06:29,990
+musique mais une fois que les deux amis
+
+215
+00:06:28,129 --> 00:06:31,180
+si on écrit un truc qui était juste pas
+
+216
+00:06:29,990 --> 00:06:38,120
+faisable
+
+217
+00:06:31,180 --> 00:06:39,439
+une réunion de muri la tête on se
+
+218
+00:06:38,120 --> 00:06:40,460
+connaît pas forcément compte de toutes
+
+219
+00:06:39,439 --> 00:06:41,300
+les actions vu qu'à très peu de
+
+220
+00:06:40,460 --> 00:06:42,469
+dialogues il fallait que toutes les
+
+221
+00:06:41,300 --> 00:06:43,909
+actions rendre dans des phases de
+
+222
+00:06:42,469 --> 00:06:45,139
+parfois 25 secondes quoi ou à
+
+223
+00:06:43,909 --> 00:06:46,580
+l'avancement j'avais fait un shooting
+
+224
+00:06:45,139 --> 00:06:47,899
+board il y avait à chaque fois toutes
+
+225
+00:06:46,580 --> 00:06:49,219
+les actions montent et en musique pour
+
+226
+00:06:47,899 --> 00:06:51,500
+toute l'équipe se rendent compte de qui
+
+227
+00:06:49,219 --> 00:06:55,139
+doit faire quoi à quel moment quoi
+
+228
+00:06:51,500 --> 00:06:57,370
+[Musique]
+
+229
+00:06:55,139 --> 00:06:58,509
+et ouais c'est la difficulté en fait
+
+230
+00:06:57,370 --> 00:06:59,529
+c'était de faire de l'action sur une
+
+231
+00:06:58,509 --> 00:07:03,270
+musique qui appellent toute l'action
+
+232
+00:06:59,529 --> 00:07:03,270
+rien touché pour cet opus physique
+
+233
+00:07:03,779 --> 00:07:07,479
+anecdotes j'avais dans ma besace une
+
+234
+00:07:06,069 --> 00:07:08,770
+carte à jouer sur cette question je n'ai
+
+235
+00:07:07,479 --> 00:07:10,029
+rien touché parce que j'ai tout remis
+
+236
+00:07:08,770 --> 00:07:11,560
+dans la prod pour qu'on puisse réaliser
+
+237
+00:07:10,029 --> 00:07:12,759
+qu'on voulait faire et ça a coûté très
+
+238
+00:07:11,560 --> 00:07:13,930
+cher j'ai mis cette question pour qu'ils
+
+239
+00:07:12,759 --> 00:07:16,870
+puissent raconter si tu es vraiment un
+
+240
+00:07:13,930 --> 00:07:18,819
+patois juste pour donner un ordre d'idée
+
+241
+00:07:16,870 --> 00:07:20,560
+normalement pour une vidéo de genre si
+
+242
+00:07:18,819 --> 00:07:21,999
+cette mue qui ont une journée en fiction
+
+243
+00:07:20,560 --> 00:07:23,349
+là pour une vidéo de quatre minutes
+
+244
+00:07:21,999 --> 00:07:25,300
+on attendait 3 jours qu'on tellement il
+
+245
+00:07:23,349 --> 00:07:26,919
+ya de plans différents les décors les
+
+246
+00:07:25,300 --> 00:07:28,060
+personnes lors des actions et tout ça
+
+247
+00:07:26,919 --> 00:07:29,199
+combien de temps at il fallu pour faire
+
+248
+00:07:28,060 --> 00:07:30,069
+les effets spéciaux ça c'est une très
+
+249
+00:07:29,199 --> 00:07:30,939
+bonne question parce que moi quand je
+
+250
+00:07:30,069 --> 00:07:31,990
+vois un film c'est plein de trucs que je
+
+251
+00:07:30,939 --> 00:07:33,460
+me dis une fois quand tout ça à plus
+
+252
+00:07:31,990 --> 00:07:34,840
+trois semaines c'est guillaume grifoni
+
+253
+00:07:33,460 --> 00:07:36,400
+le sultan des effets spéciaux et à
+
+254
+00:07:34,840 --> 00:07:38,020
+s'occuper de quasiment tous les films de
+
+255
+00:07:36,400 --> 00:07:39,520
+ce film qui a pas mal de taton à des
+
+256
+00:07:38,020 --> 00:07:41,289
+hologrammes on va avoir de l'explosion
+
+257
+00:07:39,520 --> 00:07:43,270
+des pages exposant les
+
+258
+00:07:41,289 --> 00:07:45,699
+qui fait mal au dos l'impact de la
+
+259
+00:07:43,270 --> 00:07:47,289
+grosse répètera plus grosse vidéo sur
+
+260
+00:07:45,699 --> 00:07:48,309
+laquelle on a donc été aussi parce que
+
+261
+00:07:47,289 --> 00:07:50,379
+nous on a cru qu'on trouvait ça cool
+
+262
+00:07:48,309 --> 00:07:51,309
+s'il y avait des fixes réel les impacts
+
+263
+00:07:50,379 --> 00:07:52,629
+de balles sur le mur connaît la
+
+264
+00:07:51,309 --> 00:07:54,309
+fusillade entre les deux équipes il y
+
+265
+00:07:52,629 --> 00:07:56,289
+avait vraiment des petits explosif dans
+
+266
+00:07:54,309 --> 00:07:57,610
+le mur qui explosait sur le tournage
+
+267
+00:07:56,289 --> 00:07:58,899
+avait l'impression qu'ils avaient les
+
+268
+00:07:57,610 --> 00:08:00,490
+pattes qui a traversé le mur c'était
+
+269
+00:07:58,899 --> 00:08:02,020
+génial plus courtes ou sanitaire en
+
+270
+00:08:00,490 --> 00:08:03,939
+série entre aider at war mans donc là
+
+271
+00:08:02,020 --> 00:08:05,680
+pour une centaine d'euros avec le
+
+272
+00:08:03,939 --> 00:08:08,589
+deuxième film why à la batterie oh
+
+273
+00:08:05,680 --> 00:08:10,059
+certes à tata et des paroles parce que
+
+274
+00:08:08,589 --> 00:08:11,439
+vous voyez un mur avec des types qui
+
+275
+00:08:10,059 --> 00:08:12,069
+explosent mais daniel est très bien
+
+276
+00:08:11,439 --> 00:08:13,360
+équipé
+
+277
+00:08:12,069 --> 00:08:19,599
+en fait si tu es un peu notre xylophone
+
+278
+00:08:13,360 --> 00:08:20,589
+ya donc là ça va exploser à 5 cm de nos
+
+279
+00:08:19,599 --> 00:08:21,759
+jeux doit pas regarder parce qu'à des
+
+280
+00:08:20,589 --> 00:08:29,289
+jets de peinture et je peux perdre à
+
+281
+00:08:21,759 --> 00:08:31,089
+neige est-ce que julien a l'habitude de
+
+282
+00:08:29,289 --> 00:08:31,990
+monter des murs de la sorte et non c'est
+
+283
+00:08:31,089 --> 00:08:35,800
+vrai que tu as une certaine maîtrise
+
+284
+00:08:31,990 --> 00:08:37,149
+dans la vidéo sur weblin vrai j'ai pris
+
+285
+00:08:35,800 --> 00:08:42,310
+sur moi c'est qui fit notre chef
+
+286
+00:08:37,149 --> 00:08:43,810
+cascadeur cascade sur la je pense qu'il
+
+287
+00:08:42,310 --> 00:08:45,040
+est cascadeur est non alors bonjour et
+
+288
+00:08:43,810 --> 00:08:46,810
+tracté par un petit moteur électrique et
+
+289
+00:08:45,040 --> 00:08:48,190
+à la ceinture mais ici on va le tracter
+
+290
+00:08:46,810 --> 00:08:49,360
+à la main regardez bien suivi à ses
+
+291
+00:08:48,190 --> 00:08:51,760
+lecteurs de l'accord sa fin dans une
+
+292
+00:08:49,360 --> 00:08:53,500
+poulie torino et la corde redescend ici
+
+293
+00:08:51,760 --> 00:08:55,180
+aurait dragué cobas toute la difficulté
+
+294
+00:08:53,500 --> 00:08:56,199
+va résider dans le fait qu il doit faire
+
+295
+00:08:55,180 --> 00:08:58,930
+genre qu'il est à l'aise
+
+296
+00:08:56,199 --> 00:09:00,220
+ce n'est pas du tout à l'aise et
+
+297
+00:08:58,930 --> 00:09:01,959
+maintenant quelques images de julian
+
+298
+00:09:00,220 --> 00:09:04,230
+rappel est il à l'aise selon douch c'est
+
+299
+00:09:01,959 --> 00:09:04,230
+parti
+
+300
+00:09:04,390 --> 00:09:10,160
+de passage à niveau petit un peu moins
+
+301
+00:09:07,460 --> 00:09:12,260
+un petit tir bien vous fait ce dernier à
+
+302
+00:09:10,160 --> 00:09:15,030
+chantilly seront apaisées
+
+303
+00:09:12,260 --> 00:09:17,290
+[Musique]
+
+304
+00:09:15,030 --> 00:09:18,730
+le truc c'est que je vois rien mais bon
+
+305
+00:09:17,290 --> 00:09:19,750
+son avec ça glisse un peu à gauche
+
+306
+00:09:18,730 --> 00:09:22,840
+c'était plus facile aux claviers
+
+307
+00:09:19,750 --> 00:09:23,950
+cette phrase est de combien de temps tu
+
+308
+00:09:22,840 --> 00:09:25,510
+as dû répéter avant de réussir à faire
+
+309
+00:09:23,950 --> 00:09:26,770
+ta cascades squeeze ça m'a demandé pas
+
+310
+00:09:25,510 --> 00:09:28,690
+mal de temps mais heureusement j'ai fait
+
+311
+00:09:26,770 --> 00:09:30,040
+trois ans de gymnastique donc niveau la
+
+312
+00:09:28,690 --> 00:09:31,270
+détente la position a l'air tout ça je
+
+313
+00:09:30,040 --> 00:09:32,710
+connais un peu ça m'a fait penser à mon
+
+314
+00:09:31,270 --> 00:09:34,270
+service militaire aussi donc j'ai pas
+
+315
+00:09:32,710 --> 00:09:35,260
+trop galérer non plus bouger la scène la
+
+316
+00:09:34,270 --> 00:09:36,340
+plus stylée je suis content de l'avoir
+
+317
+00:09:35,260 --> 00:09:37,330
+fait est juste dommage que les taux
+
+318
+00:09:36,340 --> 00:09:38,230
+évoluent que j'ai une cagoule à ce
+
+319
+00:09:37,330 --> 00:09:39,160
+moment là ça peut être un peu les
+
+320
+00:09:38,230 --> 00:09:40,360
+couilles j'aurais aimé qu'on voit mon
+
+321
+00:09:39,160 --> 00:09:46,510
+visage par enfin bon c'est pas grave en
+
+322
+00:09:40,360 --> 00:09:47,710
+tout cas j'ai bon quand même pas dit
+
+323
+00:09:46,510 --> 00:09:48,550
+avant que saint etienne mois depuis le
+
+324
+00:09:47,710 --> 00:09:49,450
+début je dis à tout le monde c'est moi
+
+325
+00:09:48,550 --> 00:09:50,950
+qui l'ait fait non mais en fait tu l'as
+
+326
+00:09:49,450 --> 00:09:52,600
+fait mais l'été c'était pas où nous
+
+327
+00:09:50,950 --> 00:09:54,730
+sommes avec marc barr va faire la
+
+328
+00:09:52,600 --> 00:09:55,810
+cascade au moment où j'arrive en rappel
+
+329
+00:09:54,730 --> 00:09:57,340
+et je peux être là pas les synthés où
+
+330
+00:09:55,810 --> 00:09:58,810
+j'étais comme mais en fait je dégote
+
+331
+00:09:57,340 --> 00:10:00,670
+rien du tout je vais juste regarder
+
+332
+00:09:58,810 --> 00:10:02,170
+marqué tout faire des petites cordes qui
+
+333
+00:10:00,670 --> 00:10:04,000
+a été attaché avec une poulie ccrp
+
+334
+00:10:02,170 --> 00:10:05,200
+presse à part dont vraiment j'arrive de
+
+335
+00:10:04,000 --> 00:10:06,790
+l'immeuble pour faire ses jeux j'ai fait
+
+336
+00:10:05,200 --> 00:10:08,260
+tout est ok et orcières pas comme cause
+
+337
+00:10:06,790 --> 00:10:09,610
+de ça d'accord qui allez on va sur sa
+
+338
+00:10:08,260 --> 00:10:11,020
+tombe a été galère c'est qu'à chaque
+
+339
+00:10:09,610 --> 00:10:12,670
+fois qu'il faisait fallait remettre tous
+
+340
+00:10:11,020 --> 00:10:14,080
+les morceaux de planches je les regrette
+
+341
+00:10:12,670 --> 00:10:15,640
+tout ça pour qu'il puisse leur faire et
+
+342
+00:10:14,080 --> 00:10:17,140
+on avait du retard sur la journée ne pas
+
+343
+00:10:15,640 --> 00:10:18,340
+me laisser et il ya un des trois essais
+
+344
+00:10:17,140 --> 00:10:19,600
+qui fut très périlleuse c'était le
+
+345
+00:10:18,340 --> 00:10:20,920
+deuxième parce que les mails qui connaît
+
+346
+00:10:19,600 --> 00:10:22,180
+la corne se sont dit on va lâcher
+
+347
+00:10:20,920 --> 00:10:23,410
+pendant qu'il fait ça comme ça au lieu
+
+348
+00:10:22,180 --> 00:10:25,120
+d'aller vers le haut il ira tout droit
+
+349
+00:10:23,410 --> 00:10:27,130
+un peu plus les on achète trop tôt et ça
+
+350
+00:10:25,120 --> 00:10:29,510
+a donné ça
+
+351
+00:10:27,130 --> 00:10:30,920
+proto mais bon à part ce fait ils ont
+
+352
+00:10:29,510 --> 00:10:32,209
+trop gérer la roue là aussi c'est de
+
+353
+00:10:30,920 --> 00:10:33,560
+marquer la fête ils ont trop gérer
+
+354
+00:10:32,209 --> 00:10:35,600
+l'équipe de cascadeurs ou que bravo à
+
+355
+00:10:33,560 --> 00:10:36,920
+eux est ce que les armes tirées vraiment
+
+356
+00:10:35,600 --> 00:10:38,540
+un pote dans ce genre de film quand tu
+
+357
+00:10:36,920 --> 00:10:46,279
+prends les images de base des rushes
+
+358
+00:10:38,540 --> 00:10:47,600
+quoi et du coup moins un montage je fais
+
+359
+00:10:46,279 --> 00:10:48,950
+une première passe gérer c'est de
+
+360
+00:10:47,600 --> 00:10:50,420
+rajouter plein peints en gris mais
+
+361
+00:10:48,950 --> 00:10:51,830
+derrière c'est clément morin c'est le
+
+362
+00:10:50,420 --> 00:10:53,360
+montage son et c'est lui qui a repris
+
+363
+00:10:51,830 --> 00:10:56,120
+chaque geste mais parfois c'est juste un
+
+364
+00:10:53,360 --> 00:10:57,380
+bruit de frein encore un but pas d'âme
+
+365
+00:10:56,120 --> 00:10:58,880
+je me répète c'est important de parler
+
+366
+00:10:57,380 --> 00:11:01,130
+de ça parce que s'il n'y a pas ça on n'y
+
+367
+00:10:58,880 --> 00:11:02,750
+croit pas du tout regardé la vidéo avec
+
+368
+00:11:01,130 --> 00:11:08,760
+au 15 août design juste le son de la
+
+369
+00:11:02,750 --> 00:11:11,899
+camsa partie putain de merde
+
+370
+00:11:08,760 --> 00:11:11,899
+[Applaudissements]
+
+371
+00:11:14,220 --> 00:11:17,060
+putain de mer
+
+372
+00:11:19,570 --> 00:11:24,100
+clément s'est rajouté un milliard de son
+
+373
+00:11:22,300 --> 00:11:25,960
+en plus un fan du jeune il est beau et
+
+374
+00:11:24,100 --> 00:11:27,400
+connaître le jour et toi aussi dit rambo
+
+375
+00:11:25,960 --> 00:11:28,990
+et il est très bonne on est chaud comme
+
+376
+00:11:27,400 --> 00:11:30,280
+à mon avis le connaissant lycées la
+
+377
+00:11:28,990 --> 00:11:32,830
+petite connerie dedans il a glissé d'un
+
+378
+00:11:30,280 --> 00:11:34,690
+bruit de muay-thaï n'y a pas de moi je
+
+379
+00:11:32,830 --> 00:11:40,780
+trouvais le bruit vers la sphère là et
+
+380
+00:11:34,690 --> 00:11:42,370
+gagner notre respect déclaration d'amour
+
+381
+00:11:40,780 --> 00:11:44,380
+c'est super parce que déjà sur overblog
+
+382
+00:11:42,370 --> 00:11:45,850
+j'avais appris beaucoup de choses kembo
+
+383
+00:11:44,380 --> 00:11:46,750
+pareil j'ai appris plein de trucs et
+
+384
+00:11:45,850 --> 00:11:48,190
+tout et c'est hyper stimulant pour moi
+
+385
+00:11:46,750 --> 00:11:49,450
+merci beaucoup c'était une très bonne
+
+386
+00:11:48,190 --> 00:11:50,950
+aventure humaine même j'ai rencontré
+
+387
+00:11:49,450 --> 00:11:52,060
+plein de gens géniaux sur le tournage je
+
+388
+00:11:50,950 --> 00:11:53,560
+pense que nous avons répondu à toutes
+
+389
+00:11:52,060 --> 00:11:54,370
+les interrogations des genres si y en a
+
+390
+00:11:53,560 --> 00:11:55,360
+d'autres et ce n'est pas les poser dans
+
+391
+00:11:54,370 --> 00:11:56,650
+les commentaires et peut-être que je
+
+392
+00:11:55,360 --> 00:11:57,820
+faisais à certains on espère donc la
+
+393
+00:11:56,650 --> 00:11:58,900
+vidéo vous a plu on peut pas savoir à
+
+394
+00:11:57,820 --> 00:12:01,150
+l'heure actuelle ça fait chier ça m'a
+
+395
+00:11:58,900 --> 00:12:02,020
+énormément mais merci pour votre accueil
+
+396
+00:12:01,150 --> 00:12:03,460
+si ça vous a plu
+
+397
+00:12:02,020 --> 00:12:04,540
+et aussi ça vous a pas plu tant pis on a
+
+398
+00:12:03,460 --> 00:12:05,710
+donné le meilleur de nous et on a beau
+
+399
+00:12:04,540 --> 00:12:06,700
+donner le meilleur de soi-même et 2 dire
+
+400
+00:12:05,710 --> 00:12:08,350
+que ça va être bien c'est pas forcément
+
+401
+00:12:06,700 --> 00:12:10,090
+c'est comme ça c'est la création
+
+402
+00:12:08,350 --> 00:12:11,440
+merci à vous les gars gros kiff et puis
+
+403
+00:12:10,090 --> 00:12:13,930
+on se retrouve très bientôt pour de gros
+
+404
+00:12:11,440 --> 00:12:14,950
+projets ont déjà tueur ouais merci à
+
+405
+00:12:13,930 --> 00:12:16,270
+vous regarder la vidéo il n'était pas
+
+406
+00:12:14,950 --> 00:12:17,800
+passé par la chaîne de julien ici
+
+407
+00:12:16,270 --> 00:12:19,720
+présents afin de voir inviter le site
+
+408
+00:12:17,800 --> 00:12:21,220
+doté auchan drive the box d'axel un max
+
+409
+00:12:19,720 --> 00:12:22,600
+d'actu et à vous avoir agi de youtube
+
+410
+00:12:21,220 --> 00:12:24,500
+pour ce qu'impose une prochaine vidéo a
+
+411
+00:12:22,600 --> 00:12:32,679
+très vite la famille
+
+412
+00:12:24,500 --> 00:12:32,679
+[Musique]
+
+413
+00:12:35,730 --> 00:12:45,680
+cette pression là dedans
+
+414
+00:12:39,480 --> 00:12:45,680
+[Musique]
+
+415
+00:12:48,950 --> 00:12:51,500
+hahaha
+
+416
+00:12:50,000 --> 00:12:52,520
+ce qui arrive quand on joue le jeu de la
+
+417
+00:12:51,500 --> 00:12:54,770
+violence et que ça peut se retourner
+
+418
+00:12:52,520 --> 00:12:57,010
+contre vous j'adore me paraît si le
+
+419
+00:12:54,770 --> 00:12:57,010
+texte
+
+420
+00:12:57,190 --> 00:13:03,659
+ça s'est bien passé
+
+421
+00:13:00,390 --> 00:13:03,659
+[Applaudissements]
+
+422
+00:13:06,130 --> 00:13:13,370
+[Applaudissements]
+
+423
+00:13:09,560 --> 00:13:16,270
+voilà rassurés alors les gars bien alors
+
+424
+00:13:13,370 --> 00:13:16,270
+là plus personne
+
+425
+00:13:19,710 --> 00:13:25,970
+[Musique]

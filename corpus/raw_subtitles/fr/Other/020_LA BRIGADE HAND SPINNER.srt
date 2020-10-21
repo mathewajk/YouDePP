@@ -1,0 +1,79 @@
+1
+00:00:00,020 --> 00:00:07,820
+*Musique*
+
+2
+00:00:07,820 --> 00:00:09,920
+*Bruit hand spinner*
+
+3
+00:00:09,920 --> 00:00:13,400
+*Musique*
+
+4
+00:00:13,400 --> 00:00:26,120
+*Musique + bruit hand spinner*
+
+5
+00:00:26,120 --> 00:00:30,040
+*Musique*
+
+6
+00:00:30,040 --> 00:00:35,460
+*Musique + bruit hand spinner*
+
+7
+00:00:35,460 --> 00:01:19,780
+*Musique*
+
+8
+00:01:19,780 --> 00:01:26,600
+*Musique + bruit hand spinner*
+
+9
+00:01:26,600 --> 00:01:28,360
+(Dr Nozman) Mais qu'est-ce qu'ils foutent?
+
+10
+00:01:28,360 --> 00:01:31,740
+*Musique + bruit hand spinner*
+
+11
+00:01:31,740 --> 00:01:32,380
+*Bruit porte qui s'ouvre*
+
+12
+00:01:32,380 --> 00:01:45,060
+*Musique*
+
+13
+00:01:45,060 --> 00:01:49,420
+*Musique + bruit hand spinner*
+
+14
+00:01:49,420 --> 00:01:51,160
+*Musique*
+
+15
+00:01:51,160 --> 00:01:53,000
+*Musique + bruit hélicoptère*
+
+16
+00:01:53,000 --> 00:01:55,000
+*Musique assourdie sous l'eau*
+
+17
+00:01:55,000 --> 00:01:57,000
+*Musique*
+
+18
+00:01:57,000 --> 00:01:59,000
+*Musique + bruit moteur*
+
+19
+00:01:59,000 --> 00:02:01,260
+*Attention, please, two, one, two, 'Kay*
+
+20
+00:02:01,260 --> 00:02:05,520
+*Musique*

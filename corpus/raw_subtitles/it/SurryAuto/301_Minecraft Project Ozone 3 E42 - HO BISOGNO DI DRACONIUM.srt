@@ -1,0 +1,2159 @@
+1
+00:00:00,000 --> 00:00:03,449
+facciamo a tutti che ciotti e benvenuti
+
+2
+00:00:01,439 --> 00:00:05,970
+in questo nuovissimo video della project
+
+3
+00:00:03,449 --> 00:00:07,830
+contro i della serie delle 7 finalmente
+
+4
+00:00:05,970 --> 00:00:10,410
+lo scorso episodio abbiamo risolto il
+
+5
+00:00:07,830 --> 00:00:13,620
+problema del wireless del poter mandare
+
+6
+00:00:10,410 --> 00:00:17,010
+oggetti gas energia tutto identità che
+
+7
+00:00:13,620 --> 00:00:20,279
+possiamo avere in maniera di non dover
+
+8
+00:00:17,010 --> 00:00:22,439
+piazzare cari su cavi all'infinito ecco
+
+9
+00:00:20,279 --> 00:00:24,449
+questo gene ma sfruttare appieno questa
+
+10
+00:00:22,439 --> 00:00:28,260
+funzionalità del quantum menteng lo
+
+11
+00:00:24,449 --> 00:00:30,990
+porter credibile tutto d'un fiato perché
+
+12
+00:00:28,260 --> 00:00:33,480
+andremo a costruire un blocchetto che mi
+
+13
+00:00:30,990 --> 00:00:36,360
+avete suggerito in diversi in realtà
+
+14
+00:00:33,480 --> 00:00:38,910
+quando ho parlato della grada per i
+
+15
+00:00:36,360 --> 00:00:39,540
+filtri per fare il super filtro della
+
+16
+00:00:38,910 --> 00:00:41,570
+morte
+
+17
+00:00:39,540 --> 00:00:45,090
+ecco la prima che perde in chiacchiere
+
+18
+00:00:41,570 --> 00:00:47,670
+inutili che inutili no però per caricare
+
+19
+00:00:45,090 --> 00:00:49,530
+configurator non so se serviva davvero
+
+20
+00:00:47,670 --> 00:00:52,500
+caricarlo o meno fatto sta che ho
+
+21
+00:00:49,530 --> 00:00:54,360
+realizzato questo qui wire charger molto
+
+22
+00:00:52,500 --> 00:00:56,550
+semplice a captare tra l'altro ci ho
+
+23
+00:00:54,360 --> 00:01:00,449
+messo un capacitore a caso e quelli che
+
+24
+00:00:56,550 --> 00:01:02,039
+avevo niente funziona c'è 330.000
+
+25
+00:01:00,449 --> 00:01:03,930
+all'interno non è tantissimo
+
+26
+00:01:02,039 --> 00:01:07,049
+ci sono alcune cose per cui non servirà
+
+27
+00:01:03,930 --> 00:01:10,650
+però ce l'abbiamo poi nel caso sì sì tra
+
+28
+00:01:07,049 --> 00:01:13,229
+un upgrade di quello dicevo si parlava
+
+29
+00:01:10,650 --> 00:01:15,869
+di filtri del filtro super potente e di
+
+30
+00:01:13,229 --> 00:01:17,729
+come avesse necessità di ottenere gli
+
+31
+00:01:15,869 --> 00:01:19,740
+shooter allora lì per lì io ho detto
+
+32
+00:01:17,729 --> 00:01:21,930
+vabbè vado nel boyd così ciò anche la
+
+33
+00:01:19,740 --> 00:01:24,000
+scusa per uccidere nel drago per fare
+
+34
+00:01:21,930 --> 00:01:25,979
+cose insomma ci sta
+
+35
+00:01:24,000 --> 00:01:29,340
+vedete tutti sui risurre no no no ma
+
+36
+00:01:25,979 --> 00:01:33,390
+cosa fai non hai i soldi vai al che ora
+
+37
+00:01:29,340 --> 00:01:36,810
+non ritrovo più o meno ritrovarli oi
+
+38
+00:01:33,390 --> 00:01:39,479
+survival da qualche parte e la cosa
+
+39
+00:01:36,810 --> 00:01:42,150
+fighissima è che ho queste da qualche
+
+40
+00:01:39,479 --> 00:01:44,610
+parte non so di preciso dove forse ho
+
+41
+00:01:42,150 --> 00:01:50,340
+trovati dentro qualche cesta se non erro
+
+42
+00:01:44,610 --> 00:01:52,860
+sai che forse forse celle o non qui c'è
+
+43
+00:01:50,340 --> 00:01:54,750
+un po di teste di andré man normali e
+
+44
+00:01:52,860 --> 00:01:55,350
+siamo un po di teste di harem non queste
+
+45
+00:01:54,750 --> 00:01:57,509
+le altre
+
+46
+00:01:55,350 --> 00:01:58,500
+dimmi che ce le ho bisogno di queste
+
+47
+00:01:57,509 --> 00:02:00,299
+survival
+
+48
+00:01:58,500 --> 00:02:02,130
+avete presente quali sono le avevo già
+
+49
+00:02:00,299 --> 00:02:03,360
+trovate detto cacchio queste sul fi che
+
+50
+00:02:02,130 --> 00:02:05,729
+stiamo per fare diverse cose
+
+51
+00:02:03,360 --> 00:02:07,590
+ecco per l'appunto invece qui è tutto
+
+52
+00:02:05,729 --> 00:02:10,560
+pieno dobbiamo per forza prendere questo
+
+53
+00:02:07,590 --> 00:02:12,510
+survival e farne uno spoiler per
+
+54
+00:02:10,560 --> 00:02:13,580
+ottenere i the shakers sul che li
+
+55
+00:02:12,510 --> 00:02:15,230
+uccideremo
+
+56
+00:02:13,580 --> 00:02:16,880
+e otterremo le sciocche la shell che
+
+57
+00:02:15,230 --> 00:02:20,060
+sono ciò di cui ho bisogno per fare
+
+58
+00:02:16,880 --> 00:02:20,960
+super filtri della morte capito alla
+
+59
+00:02:20,060 --> 00:02:24,140
+grandissima
+
+60
+00:02:20,960 --> 00:02:25,940
+va bene così allora per fare questa roba
+
+61
+00:02:24,140 --> 00:02:26,270
+qui beh intanto devo trovare il soul vai
+
+62
+00:02:25,940 --> 00:02:30,230
+all
+
+63
+00:02:26,270 --> 00:02:34,040
+altrimenti siamo nella merda facciamo
+
+64
+00:02:30,230 --> 00:02:37,430
+così sul tengo premuto sono sicuro di
+
+65
+00:02:34,040 --> 00:02:39,830
+averle ok non so dove ma ce le ho
+
+66
+00:02:37,430 --> 00:02:40,610
+pensavo di averle no dai no no no no no
+
+67
+00:02:39,830 --> 00:02:43,330
+stiamo calmi
+
+68
+00:02:40,610 --> 00:02:46,220
+stiamo molto calmi cielo sicuro
+
+69
+00:02:43,330 --> 00:02:47,930
+inserendo un dubbio epocale di averle
+
+70
+00:02:46,220 --> 00:02:51,050
+lasciate da qualche parte
+
+71
+00:02:47,930 --> 00:02:53,450
+eccole mi stavo cadendo addosso mi stavo
+
+72
+00:02:51,050 --> 00:02:55,430
+letteralmente cadendo addosso anche
+
+73
+00:02:53,450 --> 00:02:58,520
+perché da un po che uno show nato allora
+
+74
+00:02:55,430 --> 00:03:00,410
+evitiamo le cose inutili e che non fanno
+
+75
+00:02:58,520 --> 00:03:01,340
+ridere tanto lo sappiamo tutti che non
+
+76
+00:03:00,410 --> 00:03:03,620
+fanno ridere
+
+77
+00:03:01,340 --> 00:03:05,270
+abbiamo sul bahia per farsi questo sul
+
+78
+00:03:03,620 --> 00:03:07,340
+bahia sia utile
+
+79
+00:03:05,270 --> 00:03:09,980
+abbiamo necessità dipendere anche un
+
+80
+00:03:07,340 --> 00:03:11,810
+broker spooner pro che espone che ora
+
+81
+00:03:09,980 --> 00:03:14,600
+qui non abbiamo ma sono sicuro di avere
+
+82
+00:03:11,810 --> 00:03:17,930
+nella mia casettina scendiamo di cui
+
+83
+00:03:14,600 --> 00:03:19,820
+prendiamo una di queste feste a caso una
+
+84
+00:03:17,930 --> 00:03:21,920
+di queste dovrebbe esserci all'interno
+
+85
+00:03:19,820 --> 00:03:23,989
+un broker spooner eccomi qua
+
+86
+00:03:21,920 --> 00:03:26,120
+ne abbiamo diversi ora le prenderemo uno
+
+87
+00:03:23,989 --> 00:03:28,100
+a caso questo due chiavi spider c'è
+
+88
+00:03:26,120 --> 00:03:31,459
+scritto con buy uil a powers pone nanev
+
+89
+00:03:28,100 --> 00:03:34,220
+to set sponta va bene facciamo che non
+
+90
+00:03:31,459 --> 00:03:36,620
+ci interessa perché in teoria io con il
+
+91
+00:03:34,220 --> 00:03:39,470
+soul binder se mette un qualsiasi tipo
+
+92
+00:03:36,620 --> 00:03:41,630
+di broken spooner insieme al soul vai al
+
+93
+00:03:39,470 --> 00:03:45,440
+di quello di cui ho bisogno io quindi ad
+
+94
+00:03:41,630 --> 00:03:48,620
+esempio per l'appunto il lo shooter mi
+
+95
+00:03:45,440 --> 00:03:51,500
+dava survival vuota e il blocco espone
+
+96
+00:03:48,620 --> 00:03:54,560
+con quello di cui ho bisogno quindi in
+
+97
+00:03:51,500 --> 00:03:57,590
+questo caso lo schalke era ok per fare
+
+98
+00:03:54,560 --> 00:04:00,019
+questo allora lì così sul binder
+
+99
+00:03:57,590 --> 00:04:02,269
+facciamolo cioè non non ci sono cazzi
+
+100
+00:04:00,019 --> 00:04:03,200
+bisogna farlo per forza per fare questo
+
+101
+00:04:02,269 --> 00:04:05,239
+sul binder
+
+102
+00:04:03,200 --> 00:04:07,130
+vediamo cosa ci serve non ho ancora
+
+103
+00:04:05,239 --> 00:04:10,370
+controllato so che mi servono le quattro
+
+104
+00:04:07,130 --> 00:04:15,140
+teste infatti poi mi serve un sol
+
+105
+00:04:10,370 --> 00:04:17,989
+machine chassis aia ok simple machine
+
+106
+00:04:15,140 --> 00:04:20,000
+chassis posso farlo perché inglese of
+
+107
+00:04:17,989 --> 00:04:22,460
+inflitti celotto punto sta roba
+
+108
+00:04:20,000 --> 00:04:23,240
+quello che mi manca forse la sul gas all
+
+109
+00:04:22,460 --> 00:04:26,360
+anno
+
+110
+00:04:23,240 --> 00:04:30,480
+sai che questo avevo già fatto
+
+111
+00:04:26,360 --> 00:04:33,419
+ok mamma mia di lusso ok abbiamo soul
+
+112
+00:04:30,480 --> 00:04:34,740
+atwood dai brand di lusso che non devono
+
+113
+00:04:33,419 --> 00:04:36,720
+per forza di farlo anzi prendiamole
+
+114
+00:04:34,740 --> 00:04:39,000
+tutti e mettiamole nel nostro crafting
+
+115
+00:04:36,720 --> 00:04:41,580
+generale così non devo venire tornare
+
+116
+00:04:39,000 --> 00:04:42,870
+ogni volta andiamo a realizzare anche il
+
+117
+00:04:41,580 --> 00:04:45,720
+nostro amichetto
+
+118
+00:04:42,870 --> 00:04:46,560
+quindi facciamo così così così lo
+
+119
+00:04:45,720 --> 00:04:48,419
+facciamo
+
+120
+00:04:46,560 --> 00:04:50,760
+mi mancano le sbarre di ferro non ho
+
+121
+00:04:48,419 --> 00:04:53,370
+delle sbarre di ferro mi sembra strano
+
+122
+00:04:50,760 --> 00:04:55,230
+prendiamo 6 pezzettini e le facciamo
+
+123
+00:04:53,370 --> 00:04:57,389
+amano queste non devo levare la ricetta
+
+124
+00:04:55,230 --> 00:05:02,040
+da lì perfetto
+
+125
+00:04:57,389 --> 00:05:06,240
+ok abbiamo il primo passaggio questo
+
+126
+00:05:02,040 --> 00:05:09,030
+prendiamo un sul cosentino qui e lo
+
+127
+00:05:06,240 --> 00:05:11,160
+portiamo con noi nel induction smelter e
+
+128
+00:05:09,030 --> 00:05:12,930
+troviamo questo rubettino in ciò di cui
+
+129
+00:05:11,160 --> 00:05:14,400
+abbiamo bisogno uno è una 2 bone
+
+130
+00:05:12,930 --> 00:05:17,870
+perfetto
+
+131
+00:05:14,400 --> 00:05:22,020
+cosa ci manca ci manca a il solarium
+
+132
+00:05:17,870 --> 00:05:22,650
+allora attenzione souls and gold i got
+
+133
+00:05:22,020 --> 00:05:24,570
+ok
+
+134
+00:05:22,650 --> 00:05:26,520
+pensavo peggio non so che cosa mi
+
+135
+00:05:24,570 --> 00:05:28,320
+venisse in mente mi stavano mi stessi
+
+136
+00:05:26,520 --> 00:05:30,120
+prevenire in mente pensavo servissero
+
+137
+00:05:28,320 --> 00:05:32,070
+non lo so se in 16 milioni di robe
+
+138
+00:05:30,120 --> 00:05:33,630
+strane che non mi ricordavo di averle
+
+139
+00:05:32,070 --> 00:05:35,900
+fatte ma sai che forse ci hanno gia un
+
+140
+00:05:33,630 --> 00:05:38,490
+po tra l'altro di questi solarium ingot
+
+141
+00:05:35,900 --> 00:05:42,390
+problema di cavolate ma forse un paio
+
+142
+00:05:38,490 --> 00:05:45,000
+perlomeno dovrei averne vediamo sola se
+
+143
+00:05:42,390 --> 00:05:45,720
+scrivo solo cosa mi esce ne ho solamente
+
+144
+00:05:45,000 --> 00:05:47,310
+due
+
+145
+00:05:45,720 --> 00:05:50,100
+va bene la facciamo così prendiamo uno
+
+146
+00:05:47,310 --> 00:05:52,020
+stack mezzo stanchi e mezzo stack ci
+
+147
+00:05:50,100 --> 00:05:54,210
+facciamo un po di queste lingotti che
+
+148
+00:05:52,020 --> 00:05:57,330
+magari in futuro serviranno facciamo
+
+149
+00:05:54,210 --> 00:05:59,070
+così 1 e 2 perfetto siamo lentissimi
+
+150
+00:05:57,330 --> 00:06:02,240
+non ci interessa ne ho bisogno solamente
+
+151
+00:05:59,070 --> 00:06:05,729
+di quattro pezzettini 2 cervogia lì sul
+
+152
+00:06:02,240 --> 00:06:08,100
+perfetto signori in teoria ci siamo
+
+153
+00:06:05,729 --> 00:06:10,410
+possiamo cartello sul binder il soul
+
+154
+00:06:08,100 --> 00:06:12,120
+binder ha bisogno di tanta energia ed è
+
+155
+00:06:10,410 --> 00:06:14,669
+per questo che vediamo il nostro quantum
+
+156
+00:06:12,120 --> 00:06:17,310
+in tangono porter a me il fatto che io
+
+157
+00:06:14,669 --> 00:06:19,620
+riesca a dirlo senza problemi ora mi sto
+
+158
+00:06:17,310 --> 00:06:22,080
+causando un botto comunque riteniamo il
+
+159
+00:06:19,620 --> 00:06:24,210
+nostro quanto un angolo porter beato
+
+160
+00:06:22,080 --> 00:06:26,550
+ancora miss mensola roma avevo già fatto
+
+161
+00:06:24,210 --> 00:06:28,020
+vabbè lasciamo stare cervo ora
+
+162
+00:06:26,550 --> 00:06:30,210
+nell'inventario perché me la sboccatura
+
+163
+00:06:28,020 --> 00:06:31,110
+l'aver le missioni sono fugate laga poco
+
+164
+00:06:30,210 --> 00:06:33,720
+ma sicuro
+
+165
+00:06:31,110 --> 00:06:35,520
+comunque alla qui abbiamo i temi conduit
+
+166
+00:06:33,720 --> 00:06:37,230
+non ci interessano
+
+167
+00:06:35,520 --> 00:06:39,240
+non ci interessano noi vogliamo fare una
+
+168
+00:06:37,230 --> 00:06:43,770
+cosa di questo tipo dobbiamo mettere un
+
+169
+00:06:39,240 --> 00:06:45,690
+sol binder tipo fa sotto merda ma ciò ha
+
+170
+00:06:43,770 --> 00:06:47,730
+nel proprio pensato questo è un problema
+
+171
+00:06:45,690 --> 00:06:49,980
+di nick è un po di cobb sono a qualche
+
+172
+00:06:47,730 --> 00:06:52,350
+parte di me con qualche tipo di blocco
+
+173
+00:06:49,980 --> 00:06:55,710
+da qualche parte potrebbe essermi utile
+
+174
+00:06:52,350 --> 00:06:58,080
+un singolo blocco prima che da questo
+
+175
+00:06:55,710 --> 00:06:59,700
+buco di satana esca qualcosa di cui mi
+
+176
+00:06:58,080 --> 00:07:03,750
+pentirò per sempre
+
+177
+00:06:59,700 --> 00:07:06,840
+grazie grazie ok
+
+178
+00:07:03,750 --> 00:07:10,290
+detto questo facciamo così mettiamo il
+
+179
+00:07:06,840 --> 00:07:12,060
+quantum ain't anglo porter tango coso a
+
+180
+00:07:10,290 --> 00:07:15,450
+questo input questo e apcom vogliamo
+
+181
+00:07:12,060 --> 00:07:18,090
+l'output e cala ma è appreso è da me lo
+
+182
+00:07:15,450 --> 00:07:20,970
+hanno vogliamo l'output questo e output
+
+183
+00:07:18,090 --> 00:07:22,860
+perfetto vogliamo il soul venderlo
+
+184
+00:07:20,970 --> 00:07:24,780
+piazzeremo qui ha bisogno di un
+
+185
+00:07:22,860 --> 00:07:26,400
+capacitor fortunatamente una cui di
+
+186
+00:07:24,780 --> 00:07:28,200
+capaci tra siamo pieni
+
+187
+00:07:26,400 --> 00:07:31,530
+ora non so quali di questi sia il più
+
+188
+00:07:28,200 --> 00:07:34,620
+forte promettere questo qui 700mila alla
+
+189
+00:07:31,530 --> 00:07:37,440
+faccio rogazzo ottimo ora soul vai al
+
+190
+00:07:34,620 --> 00:07:41,210
+broker spooner richiede 8 livelli di
+
+191
+00:07:37,440 --> 00:07:43,620
+esperienza e di esperienze glieli a ok
+
+192
+00:07:41,210 --> 00:07:44,990
+pensavo fosse scomparso tutto ma era
+
+193
+00:07:43,620 --> 00:07:48,590
+voluto un colpo
+
+194
+00:07:44,990 --> 00:07:51,200
+ok ci sono ci sono dei casini le testa
+
+195
+00:07:48,590 --> 00:07:52,940
+la testa sta girando le possono fare un
+
+196
+00:07:51,200 --> 00:07:57,710
+bello scrive che questo è una bella roba
+
+197
+00:07:52,940 --> 00:07:59,510
+da vedere è un po ti diciamo che un po
+
+198
+00:07:57,710 --> 00:08:01,010
+cazzuto però come te stiamo utilizzando
+
+199
+00:07:59,510 --> 00:08:04,130
+l'energia senza nessun tipo di problema
+
+200
+00:08:01,010 --> 00:08:05,450
+anzi ti dirò di più se vado qui dovrei
+
+201
+00:08:04,130 --> 00:08:08,480
+vedere che rimane comunque tutto
+
+202
+00:08:05,450 --> 00:08:10,340
+costantemente al massimo esatto cioè
+
+203
+00:08:08,480 --> 00:08:12,200
+abbiamo i magmatica d'animo che ora sono
+
+204
+00:08:10,340 --> 00:08:14,780
+pieni di lava quindi queste sono delle
+
+205
+00:08:12,200 --> 00:08:16,760
+piccole bestioline anche se abbiamo
+
+206
+00:08:14,780 --> 00:08:18,620
+visto che ho allevato un bel po di
+
+207
+00:08:16,760 --> 00:08:20,450
+energia da tutti due milioni e mezzo non
+
+208
+00:08:18,620 --> 00:08:22,580
+sono pochi e non treno tutti questi tre
+
+209
+00:08:20,450 --> 00:08:24,650
+motori che vanno alla grandissima con
+
+210
+00:08:22,580 --> 00:08:26,390
+l'etilene sono overpowered questi
+
+211
+00:08:24,650 --> 00:08:28,580
+ragazzi davvero se ci pensate
+
+212
+00:08:26,390 --> 00:08:31,340
+avrò speso sì cosa mezz'oretta di
+
+213
+00:08:28,580 --> 00:08:32,510
+episodio 40 minuti di episodio che poi
+
+214
+00:08:31,340 --> 00:08:34,670
+di tanto diventato di meno ovviamente
+
+215
+00:08:32,510 --> 00:08:35,570
+però per fare quelli samo lo dico a
+
+216
+00:08:34,670 --> 00:08:38,120
+posto ma quasi
+
+217
+00:08:35,570 --> 00:08:42,380
+comunque ora ci ritroviamo con una suv
+
+218
+00:08:38,120 --> 00:08:45,770
+l'hull empty e un blocco espone shooter
+
+219
+00:08:42,380 --> 00:08:47,090
+ok allora signori questo per renderlo
+
+220
+00:08:45,770 --> 00:08:49,970
+utilizzabile
+
+221
+00:08:47,090 --> 00:08:53,810
+dobbiamo stabilizzarlo per stabilizzarlo
+
+222
+00:08:49,970 --> 00:08:55,430
+allora wyvern possiamo farlo sai che
+
+223
+00:08:53,810 --> 00:08:59,540
+possiamo farlo wire level
+
+224
+00:08:55,430 --> 00:09:01,400
+non so cosa cambi sinceramente so che la
+
+225
+00:08:59,540 --> 00:09:03,770
+wake ancora non possiamo farlo perché ho
+
+226
+00:09:01,400 --> 00:09:06,890
+bisogno del film crafting per il momento
+
+227
+00:09:03,770 --> 00:09:11,300
+non c'e lo potrei farlo sì ma non ce
+
+228
+00:09:06,890 --> 00:09:13,370
+l'ho e potrei farlo da ed alta si poteva
+
+229
+00:09:11,300 --> 00:09:15,080
+farlo tranquillamente
+
+230
+00:09:13,370 --> 00:09:17,570
+anche perché il dracula drakon gas se
+
+231
+00:09:15,080 --> 00:09:19,190
+non sbaglio ce l'abbiamo e erro
+
+232
+00:09:17,570 --> 00:09:20,690
+oddio sa che forse draconian non ne
+
+233
+00:09:19,190 --> 00:09:26,570
+abbiamo
+
+234
+00:09:20,690 --> 00:09:28,790
+ah bella roba sono palesemente ironico
+
+235
+00:09:26,570 --> 00:09:31,340
+tra l'altro bella roba un corno comme
+
+236
+00:09:28,790 --> 00:09:33,350
+faccio senza tra podium ingot posso
+
+237
+00:09:31,340 --> 00:09:36,020
+ottenere in qualche modo dai suv non
+
+238
+00:09:33,350 --> 00:09:38,390
+sicuramente c'è un dragoni morciano che
+
+239
+00:09:36,020 --> 00:09:41,780
+ci tiene col da coni movies che si
+
+240
+00:09:38,390 --> 00:09:44,930
+ottiene con la and stone limestone però
+
+241
+00:09:41,780 --> 00:09:48,020
+è bello di papà io non ce l'ho io non ce
+
+242
+00:09:44,930 --> 00:09:53,270
+l'ho no in stone tra stand stone l'auto
+
+243
+00:09:48,020 --> 00:09:54,610
+dissolvere ok interessante interessante
+
+244
+00:09:53,270 --> 00:09:58,610
+peggio se la parola adatta
+
+245
+00:09:54,610 --> 00:10:01,940
+potrei avere qualche pezzettino
+
+246
+00:09:58,610 --> 00:10:04,519
+i dragoni un dust da qualche parte
+
+247
+00:10:01,940 --> 00:10:07,160
+la risposta a quanto pare no se la
+
+248
+00:10:04,519 --> 00:10:09,620
+risposta a questa domanda è no siamo in
+
+249
+00:10:07,160 --> 00:10:12,529
+una situazione un po sgradevole o
+
+250
+00:10:09,620 --> 00:10:14,180
+spiacevole ecco più che sgradevole si è
+
+251
+00:10:12,529 --> 00:10:15,829
+un po spiacevole la situazione perché io
+
+252
+00:10:14,180 --> 00:10:17,300
+ero già gasatissimo è pronto a fare
+
+253
+00:10:15,829 --> 00:10:20,000
+tutto a ecco dove era un'altra sul
+
+254
+00:10:17,300 --> 00:10:21,560
+bayern non avevo vista cioè prima oggi
+
+255
+00:10:20,000 --> 00:10:22,970
+ho aperto la cesta ce l'avevo qua
+
+256
+00:10:21,560 --> 00:10:24,290
+davanti non l'ho vista abbiamo immagini
+
+257
+00:10:22,970 --> 00:10:26,589
+commenti
+
+258
+00:10:24,290 --> 00:10:29,420
+lasciamo stare o se avete son cercato e
+
+259
+00:10:26,589 --> 00:10:32,029
+è un problema il problema non è un
+
+260
+00:10:29,420 --> 00:10:34,250
+problema insormontabile ma è sicuramente
+
+261
+00:10:32,029 --> 00:10:36,890
+un problema e ora cerchiamo di capire
+
+262
+00:10:34,250 --> 00:10:39,399
+come affrontarlo sicuramente una
+
+263
+00:10:36,890 --> 00:10:42,019
+soluzione potrebbe essere quella di
+
+264
+00:10:39,399 --> 00:10:43,370
+andare a minare perché nella project
+
+265
+00:10:42,019 --> 00:10:46,339
+room 3
+
+266
+00:10:43,370 --> 00:10:48,860
+spero che ci sia la possibilità di
+
+267
+00:10:46,339 --> 00:10:50,779
+trovarlo anche nel nuovo award c'è un
+
+268
+00:10:48,860 --> 00:10:54,320
+modo per genere langston controlliamo
+
+269
+00:10:50,779 --> 00:10:56,990
+subito vive riser ok ciò che ho appena
+
+270
+00:10:54,320 --> 00:11:00,910
+detto visto che c'è un modo per fare
+
+271
+00:10:56,990 --> 00:11:03,140
+line stone che è tramite la ex nihilo
+
+272
+00:11:00,910 --> 00:11:05,899
+creazioni lizano 1 stone barthel in cui
+
+273
+00:11:03,140 --> 00:11:08,630
+vado a pompare della lava ea inserire
+
+274
+00:11:05,899 --> 00:11:11,060
+agoston dust mida langston interessante
+
+275
+00:11:08,630 --> 00:11:13,070
+possiamo sfruttarlo a questa cosa perché
+
+276
+00:11:11,060 --> 00:11:18,410
+noi più che beviamo limestone l'andiamo
+
+277
+00:11:13,070 --> 00:11:21,170
+a rompere attraverso ci sarà un blocco
+
+278
+00:11:18,410 --> 00:11:22,310
+che mela rompe il cazzo vuoi dirmi che
+
+279
+00:11:21,170 --> 00:11:24,410
+non c'è un blocco che mi rompe
+
+280
+00:11:22,310 --> 00:11:26,600
+automaticamente a me ci sarebbe il
+
+281
+00:11:24,410 --> 00:11:29,269
+nostro amichetto l'auto dissolve che non
+
+282
+00:11:26,600 --> 00:11:32,990
+so come seacraft a vediamo auto
+
+283
+00:11:29,269 --> 00:11:35,540
+dissolvere non auto dissolvere non fa
+
+284
+00:11:32,990 --> 00:11:39,649
+vedere come siglata a e questo a farci
+
+285
+00:11:35,540 --> 00:11:41,360
+ragazze è un po impegnativo reinforced
+
+286
+00:11:39,649 --> 00:11:44,329
+machine che singh ha detto la nonna
+
+287
+00:11:41,360 --> 00:11:45,709
+sheen che si normale rinforzato o che
+
+288
+00:11:44,329 --> 00:11:48,019
+poteva essere un po impegnativo questo
+
+289
+00:11:45,709 --> 00:11:50,740
+macchinario non impossibile ma
+
+290
+00:11:48,019 --> 00:11:53,000
+impegnativo sicuramente comunque
+
+291
+00:11:50,740 --> 00:11:55,279
+potenzialmente abbiamo risolto problema
+
+292
+00:11:53,000 --> 00:11:57,980
+perché si può fare speravo si potesse
+
+293
+00:11:55,279 --> 00:11:59,510
+fare in maniera più semplice se è vero
+
+294
+00:11:57,980 --> 00:12:00,499
+che abbiamo gli hammers tutto quanto
+
+295
+00:11:59,510 --> 00:12:03,049
+però
+
+296
+00:12:00,499 --> 00:12:04,369
+cosa è sicura ora la lava non è
+
+297
+00:12:03,049 --> 00:12:06,439
+assolutamente un problema
+
+298
+00:12:04,369 --> 00:12:08,269
+abbiamo necessità di fare un barile di
+
+299
+00:12:06,439 --> 00:12:11,689
+pietra questo è poco ma sicuro
+
+300
+00:12:08,269 --> 00:12:13,819
+1 stone bar del pre fighissimo anche se
+
+301
+00:12:11,689 --> 00:12:15,439
+il nostro amichetto la zenith fornes non
+
+302
+00:12:13,819 --> 00:12:17,239
+sprecasse carburante
+
+303
+00:12:15,439 --> 00:12:20,589
+mi spiego voglio dire annuncio anche con
+
+304
+00:12:17,239 --> 00:12:23,749
+l'energia funziona anche con l'energia
+
+305
+00:12:20,589 --> 00:12:27,199
+sai che son curioso vedere sto coso come
+
+306
+00:12:23,749 --> 00:12:28,399
+funziona con attaccato un cavo
+
+307
+00:12:27,199 --> 00:12:29,869
+dell'energia
+
+308
+00:12:28,399 --> 00:12:32,539
+perché quello è il simbolo che è
+
+309
+00:12:29,869 --> 00:12:36,139
+successo qua un header bene ha passato e
+
+310
+00:12:32,539 --> 00:12:39,109
+mi ha rubato ma dimmi tu stupidi and her
+
+311
+00:12:36,139 --> 00:12:40,669
+me allora se io levo la fornace che
+
+312
+00:12:39,109 --> 00:12:45,199
+comunque è una signora bestia perché
+
+313
+00:12:40,669 --> 00:12:48,499
+livello segnalo quindi non è male no
+
+314
+00:12:45,199 --> 00:12:49,519
+quando prendo lo riceve no come non
+
+315
+00:12:48,499 --> 00:12:51,439
+detto
+
+316
+00:12:49,519 --> 00:12:52,459
+il tutto casato visto quelli il cui f
+
+317
+00:12:51,439 --> 00:12:55,699
+all
+
+318
+00:12:52,459 --> 00:12:58,099
+o forse ho capito bruciando roba e così
+
+319
+00:12:55,699 --> 00:13:01,009
+fosse un generatore potrebbe aver senso
+
+320
+00:12:58,099 --> 00:13:02,359
+ma se non avessimo qua sopra
+
+321
+00:13:01,009 --> 00:13:04,479
+comunque potrebbe aver senso per noi
+
+322
+00:13:02,359 --> 00:13:07,129
+avere una super fornace a disposizione
+
+323
+00:13:04,479 --> 00:13:08,449
+comunque allora facciamo il nostro stone
+
+324
+00:13:07,129 --> 00:13:09,799
+barthel
+
+325
+00:13:08,449 --> 00:13:11,239
+forse anche più di uno avrebbe senso
+
+326
+00:13:09,799 --> 00:13:12,949
+farne e vediamo se riusciamo
+
+327
+00:13:11,239 --> 00:13:14,689
+automatizzare la generazione di enstone
+
+328
+00:13:12,949 --> 00:13:16,819
+ha detto che la lava non è assolutamente
+
+329
+00:13:14,689 --> 00:13:18,319
+un problema
+
+330
+00:13:16,819 --> 00:13:21,589
+se io provo a mettere tipo un
+
+331
+00:13:18,319 --> 00:13:23,839
+pressurized conduit di qualche tipo
+
+332
+00:13:21,589 --> 00:13:25,189
+dovrei averne uno forse allora facciamo
+
+333
+00:13:23,839 --> 00:13:27,289
+così facciamo così
+
+334
+00:13:25,189 --> 00:13:30,499
+vedevo 3 fusco facciamo un pezzo rise
+
+335
+00:13:27,289 --> 00:13:33,189
+food conduit le nostre showman palla va
+
+336
+00:13:30,499 --> 00:13:37,359
+dentro il nostro obiettivo è quello
+
+337
+00:13:33,189 --> 00:13:40,819
+extract ok la lava c'è possiamo inserire
+
+338
+00:13:37,359 --> 00:13:43,429
+la boston c'è da capire se possiamo
+
+339
+00:13:40,819 --> 00:13:44,749
+inserirla normalmente oppure no
+
+340
+00:13:43,429 --> 00:13:48,429
+comunque già fatto che è fattibile ci
+
+341
+00:13:44,749 --> 00:13:53,539
+aiuta molto potremmo utilizzare un
+
+342
+00:13:48,429 --> 00:13:55,729
+mechanical user cola che abbiamo usato
+
+343
+00:13:53,539 --> 00:13:58,099
+per la fan di ender dragon di ender dra
+
+344
+00:13:55,729 --> 00:14:01,249
+di dragon age scusate allora facciamo
+
+345
+00:13:58,099 --> 00:14:05,799
+prima al drop per e poi questo qui
+
+346
+00:14:01,249 --> 00:14:09,229
+perfetto allora in teoria abbiamo tutto
+
+347
+00:14:05,799 --> 00:14:12,229
+cosa ci serve ci sarebbe anche un metodo
+
+348
+00:14:09,229 --> 00:14:14,060
+per tenere dell'agro stone allora
+
+349
+00:14:12,229 --> 00:14:15,560
+sicuramente useremo l'auto si va
+
+350
+00:14:14,060 --> 00:14:18,230
+perché ci dà al 9 per cento di
+
+351
+00:14:15,560 --> 00:14:20,410
+possibilità rispetto al resto qui
+
+352
+00:14:18,230 --> 00:14:22,910
+comunque la produzione di dust continua
+
+353
+00:14:20,410 --> 00:14:25,460
+anche forse troppo che ci sono giuseppe
+
+354
+00:14:22,910 --> 00:14:28,550
+più così tanto così tanta roba
+
+355
+00:14:25,460 --> 00:14:29,540
+e però è dotato utile comunque aver
+
+356
+00:14:28,550 --> 00:14:31,460
+creato questa auto sip
+
+357
+00:14:29,540 --> 00:14:34,640
+quindi abbiamo a farlo qua tutto nostro
+
+358
+00:14:31,460 --> 00:14:37,910
+signor meccanismo abbiamo bisogno di c'è
+
+359
+00:14:34,640 --> 00:14:40,760
+uno qua nell'angolino 1 stone burrell un
+
+360
+00:14:37,910 --> 00:14:42,470
+pressurized fluid conduit che potremo
+
+361
+00:14:40,760 --> 00:14:46,610
+mettere anche sotto questo ce lo leviamo
+
+362
+00:14:42,470 --> 00:14:50,150
+subito dalle palle bisogno di un tender
+
+363
+00:14:46,610 --> 00:14:52,760
+tank sicuramente tom signor render tank
+
+364
+00:14:50,150 --> 00:14:55,190
+facciamo così posso farlo cosa manca
+
+365
+00:14:52,760 --> 00:14:56,570
+posso farlo alla grande e se in output
+
+366
+00:14:55,190 --> 00:15:01,700
+quindi sentiamo prima
+
+367
+00:14:56,570 --> 00:15:05,720
+ok output lo spariamo e lo mettiamo qua
+
+368
+00:15:01,700 --> 00:15:08,330
+sotto e lo colleghiamo anche mettiamo
+
+369
+00:15:05,720 --> 00:15:11,990
+questo in output extract e cosa sarà
+
+370
+00:15:08,330 --> 00:15:16,240
+sempre pieno di lava ora con i mercati
+
+371
+00:15:11,990 --> 00:15:20,840
+call user noi in teoria possiamo sia
+
+372
+00:15:16,240 --> 00:15:22,490
+cliccare col destro che altre cose però
+
+373
+00:15:20,840 --> 00:15:24,860
+con calma always on
+
+374
+00:15:22,490 --> 00:15:27,410
+va bene tipo se ora prende della glaston
+
+375
+00:15:24,860 --> 00:15:32,930
+ora in teoria lì con l'agro stones e
+
+376
+00:15:27,410 --> 00:15:35,750
+prova a cliccare su un land stone non è
+
+377
+00:15:32,930 --> 00:15:39,200
+che poi succede qualcos'altro
+
+378
+00:15:35,750 --> 00:15:41,150
+cioè in teoria alleva line stone e poi
+
+379
+00:15:39,200 --> 00:15:44,800
+prova a fare qualcos'altro sandro
+
+380
+00:15:41,150 --> 00:15:47,870
+agroton d'asta non va bene non è ciò che
+
+381
+00:15:44,800 --> 00:15:51,950
+necessitava quindi non è un genere click
+
+382
+00:15:47,870 --> 00:15:53,750
+può fare gli usa temono bloc
+
+383
+00:15:51,950 --> 00:15:55,580
+vediamo così cosa succede chi c'era
+
+384
+00:15:53,750 --> 00:15:58,550
+assolutamente niente
+
+385
+00:15:55,580 --> 00:16:01,160
+quindi abbiamo un problema se al posto
+
+386
+00:15:58,550 --> 00:16:04,790
+di fare così possiamo utilizzare un
+
+387
+00:16:01,160 --> 00:16:07,250
+conduit con cioè lo shopping tipo una
+
+388
+00:16:04,790 --> 00:16:11,420
+cesta con conduit se poi vuoi inserire
+
+389
+00:16:07,250 --> 00:16:15,200
+con un tubo qua dentro la roba come
+
+390
+00:16:11,420 --> 00:16:19,220
+reagisci son curioso e windsurf
+
+391
+00:16:15,200 --> 00:16:22,940
+ok è partito ok con il conduit funziona
+
+392
+00:16:19,220 --> 00:16:24,470
+quindi questo ci risolve un bel problema
+
+393
+00:16:22,940 --> 00:16:25,730
+ora abbiamo solamente il rimuovere
+
+394
+00:16:24,470 --> 00:16:26,900
+questa roba
+
+395
+00:16:25,730 --> 00:16:27,519
+e a questo punto la mia domanda è
+
+396
+00:16:26,900 --> 00:16:30,050
+un'altra
+
+397
+00:16:27,519 --> 00:16:33,800
+noi non abbiamo l'auto hammer qua dentro
+
+398
+00:16:30,050 --> 00:16:35,569
+purtroppo quindi per per rompere per
+
+399
+00:16:33,800 --> 00:16:39,379
+presto crusher come facciamo
+
+400
+00:16:35,569 --> 00:16:42,370
+o mamma mia diventa complicato diventa
+
+401
+00:16:39,379 --> 00:16:46,459
+dannatamente complicato non per forza
+
+402
+00:16:42,370 --> 00:16:48,620
+però vanno in crash scuola ed stone sera
+
+403
+00:16:46,459 --> 00:16:51,500
+mette in un crusher amava dovrebbe
+
+404
+00:16:48,620 --> 00:16:53,480
+funzionare ceva crusher apposta niente
+
+405
+00:16:51,500 --> 00:16:56,420
+l'unica cosa che gli permetterebbe di
+
+406
+00:16:53,480 --> 00:16:59,060
+avere la cache sandstone è questo super
+
+407
+00:16:56,420 --> 00:17:02,420
+macchinario della moto d'arma shinari
+
+408
+00:16:59,060 --> 00:17:03,589
+che è impegnativo comunque ecco magari
+
+409
+00:17:02,420 --> 00:17:05,870
+non è il caso
+
+410
+00:17:03,589 --> 00:17:07,819
+c'è un'altra c'è stava diamo l'ultima
+
+411
+00:17:05,870 --> 00:17:09,919
+cosa che mi manca è capire se c'è anche
+
+412
+00:17:07,819 --> 00:17:14,059
+un output di questo nostro amichetto
+
+413
+00:17:09,919 --> 00:17:16,189
+cioè se io faccio qua insert quite
+
+414
+00:17:14,059 --> 00:17:19,400
+struct la bibbia
+
+415
+00:17:16,189 --> 00:17:23,150
+ok quindi a rigor di logica se io faccio
+
+416
+00:17:19,400 --> 00:17:25,819
+così con un po di timing ci vuole del
+
+417
+00:17:23,150 --> 00:17:27,669
+tempo ma dovremmo riuscire a ottenere
+
+418
+00:17:25,819 --> 00:17:29,630
+una grande quantità di enstone
+
+419
+00:17:27,669 --> 00:17:31,010
+un'infinita quantità di hands on perché
+
+420
+00:17:29,630 --> 00:17:32,929
+noi comunque la gloss con la generiamo
+
+421
+00:17:31,010 --> 00:17:35,210
+anzi tiro di più in teoria gen chiamo
+
+422
+00:17:32,929 --> 00:17:38,440
+proprio quella d'asta o sbaglio la
+
+423
+00:17:35,210 --> 00:17:40,640
+d'asta all'interno del nostro amichetto
+
+424
+00:17:38,440 --> 00:17:44,659
+ci dà anche l'ugl houston
+
+425
+00:17:40,640 --> 00:17:47,539
+ok alla grande e la and stone può essere
+
+426
+00:17:44,659 --> 00:17:49,880
+salvata non può essere si vada può solo
+
+427
+00:17:47,539 --> 00:17:51,380
+essere ammirata comunque agosto noi
+
+428
+00:17:49,880 --> 00:17:53,960
+siamo messi abbastanza bene ti direi
+
+429
+00:17:51,380 --> 00:17:56,150
+abbia di 22 stack
+
+430
+00:17:53,960 --> 00:17:57,409
+ci sono cose più brutte nella vita è ora
+
+431
+00:17:56,150 --> 00:18:01,010
+si dà il caso che io un hummer ce
+
+432
+00:17:57,409 --> 00:18:03,799
+l'abbia però farlo manualmente sconfigge
+
+433
+00:18:01,010 --> 00:18:06,350
+un po tutto il senso di questa serie
+
+434
+00:18:03,799 --> 00:18:08,720
+siamo d'accordo su questo ok non sto
+
+435
+00:18:06,350 --> 00:18:11,120
+dicendo di no sto dicendo che fare col
+
+436
+00:18:08,720 --> 00:18:12,980
+super macchinario potrebbe diventare un
+
+437
+00:18:11,120 --> 00:18:14,870
+po palloso è vero che il drago hume ci
+
+438
+00:18:12,980 --> 00:18:15,980
+serve ci serve anche in grandi quantità
+
+439
+00:18:14,870 --> 00:18:17,570
+come inizio
+
+440
+00:18:15,980 --> 00:18:19,700
+potremmo accontentarci di una cache
+
+441
+00:18:17,570 --> 00:18:22,340
+dance ton che se io vado a infilare qua
+
+442
+00:18:19,700 --> 00:18:24,500
+dentro con tanta cattiveria in teoria
+
+443
+00:18:22,340 --> 00:18:26,630
+dovrebbe darmi dei risultati
+
+444
+00:18:24,500 --> 00:18:29,120
+dammi ciò di cui ho bisogno non le
+
+445
+00:18:26,630 --> 00:18:29,929
+prosperity shard a bravo il dragon
+
+446
+00:18:29,120 --> 00:18:32,570
+humour peace
+
+447
+00:18:29,929 --> 00:18:35,210
+in realtà io ho bisogno di cosa una
+
+448
+00:18:32,570 --> 00:18:37,669
+decina di pezzi drago odium per fare
+
+449
+00:18:35,210 --> 00:18:38,759
+aspetti cos'è che mi serviva già mi son
+
+450
+00:18:37,669 --> 00:18:42,059
+scordato
+
+451
+00:18:38,759 --> 00:18:44,329
+a ilda con i core del file da conico
+
+452
+00:18:42,059 --> 00:18:49,199
+l'uso di quattro di questi per fare il
+
+453
+00:18:44,329 --> 00:18:53,249
+passaggio successivo se lo trovo di
+
+454
+00:18:49,199 --> 00:18:55,709
+altri 44 un corso sono 48 12 16 sono
+
+455
+00:18:53,249 --> 00:18:58,289
+venti pezzi dal conio ming ott
+
+456
+00:18:55,709 --> 00:19:01,679
+ma ti dirò ce la possiamo fare non so se
+
+457
+00:18:58,289 --> 00:19:02,999
+vale la pena ma possiamo farcela
+
+458
+00:19:01,679 --> 00:19:06,209
+vediamo quanti me ne ha generati
+
+459
+00:19:02,999 --> 00:19:13,409
+comunque dovremmo averli qui eccoli sono
+
+460
+00:19:06,209 --> 00:19:15,449
+quattro ok 4 che cacata ora questi vanno
+
+461
+00:19:13,409 --> 00:19:17,909
+cotti o possono essere polverizzati è
+
+462
+00:19:15,449 --> 00:19:20,519
+una grande difesa hanno scherzavo me
+
+463
+00:19:17,909 --> 00:19:23,699
+dando uno più complicato del previsto
+
+464
+00:19:20,519 --> 00:19:27,319
+questi possono essere ripeto ato2 da
+
+465
+00:19:23,699 --> 00:19:29,069
+coni un dust è una drakon young lust ok
+
+466
+00:19:27,319 --> 00:19:32,339
+per lo meno al senso
+
+467
+00:19:29,069 --> 00:19:35,699
+ecco io vorrei evitare grazie i nuggets
+
+468
+00:19:32,339 --> 00:19:38,759
+piacere brody ingot questo casino 4 ciak
+
+469
+00:19:35,699 --> 00:19:40,589
+per due lingotti mamma e benché non
+
+470
+00:19:38,759 --> 00:19:43,139
+posso neanche comprimerla perché
+
+471
+00:19:40,589 --> 00:19:46,559
+compressa non entra all'interno del suv
+
+472
+00:19:43,139 --> 00:19:49,319
+so che è un po palloso per me non per
+
+473
+00:19:46,559 --> 00:19:50,999
+voi c'è promette un taglio ma devo
+
+474
+00:19:49,319 --> 00:19:52,919
+realizzare col super macchinario della
+
+475
+00:19:50,999 --> 00:19:55,169
+morte cioè se voglio andare avanti e
+
+476
+00:19:52,919 --> 00:19:57,299
+provare a fare altre cose devo per forza
+
+477
+00:19:55,169 --> 00:19:59,009
+cioè la palla più grossa è l'attacco
+
+478
+00:19:57,299 --> 00:19:59,579
+bisogno di un botto di cobalto la vera
+
+479
+00:19:59,009 --> 00:20:01,259
+svolta
+
+480
+00:19:59,579 --> 00:20:05,399
+serve trovare una delle mie amichette
+
+481
+00:20:01,259 --> 00:20:08,489
+mucche che c'è il molten cobalt perché
+
+482
+00:20:05,399 --> 00:20:10,619
+uso sicuro che c'è che esiste dove farmi
+
+483
+00:20:08,489 --> 00:20:12,629
+un co altere andar in giro in giro a
+
+484
+00:20:10,619 --> 00:20:16,079
+cercare le mucche che sarebbe la svolta
+
+485
+00:20:12,629 --> 00:20:18,839
+proprio di sempre epocale lo so che ci
+
+486
+00:20:16,079 --> 00:20:22,109
+sei mucca del cobalto
+
+487
+00:20:18,839 --> 00:20:24,929
+io credo in te prima o poi ti troverò lo
+
+488
+00:20:22,109 --> 00:20:27,809
+giuro anche se il momento solo pecore
+
+489
+00:20:24,929 --> 00:20:30,019
+eccole ma come lo sapevo che dovevo
+
+490
+00:20:27,809 --> 00:20:32,069
+prenderle quando le avevo all'inizio
+
+491
+00:20:30,019 --> 00:20:34,619
+esplorando una certa missioni tratto
+
+492
+00:20:32,069 --> 00:20:37,139
+tipo 4.000 mucche colorate devo
+
+493
+00:20:34,619 --> 00:20:39,029
+prenderle tutte far accoppiare mi
+
+494
+00:20:37,139 --> 00:20:43,079
+ritrovavo vincibile ecco le mucche
+
+495
+00:20:39,029 --> 00:20:45,569
+colorate chi siete cosa mi date blazing
+
+496
+00:20:43,079 --> 00:20:47,669
+per il fiume è un po tardi per quello
+
+497
+00:20:45,569 --> 00:20:51,629
+visto che posso kraft harlow metano
+
+498
+00:20:47,669 --> 00:20:52,370
+liquido ma ti dirò e dell'extra planets
+
+499
+00:20:51,629 --> 00:20:55,100
+ha addirittura
+
+500
+00:20:52,370 --> 00:20:57,800
+beh qualcosa servirà galactica garatti
+
+501
+00:20:55,100 --> 00:21:00,800
+kraft planets a qualcosa serve la sto
+
+502
+00:20:57,800 --> 00:21:03,860
+coso sicuro rimani qui rimane di un
+
+503
+00:21:00,800 --> 00:21:06,980
+attimino per favore tu cos'è rexton di
+
+504
+00:21:03,860 --> 00:21:09,020
+stabilize treadstone copiare ste cose
+
+505
+00:21:06,980 --> 00:21:11,180
+poi sai che insomma ecco il metano a
+
+506
+00:21:09,020 --> 00:21:14,120
+qualcosa serve merda devo dire che non
+
+507
+00:21:11,180 --> 00:21:18,130
+c'è o non c'è blocco che ti fa catturare
+
+508
+00:21:14,120 --> 00:21:20,180
+le mucche a si chiama muf lewis la mode
+
+509
+00:21:18,130 --> 00:21:20,960
+c'è questo è tutto ciò che ho a
+
+510
+00:21:20,180 --> 00:21:22,910
+disposizione
+
+511
+00:21:20,960 --> 00:21:24,650
+cose che non sono neanche effettivamente
+
+512
+00:21:22,910 --> 00:21:26,120
+deve fare un esperimento prima di
+
+513
+00:21:24,650 --> 00:21:28,280
+chiudere questo video perché devo fare
+
+514
+00:21:26,120 --> 00:21:30,590
+tanta roba prima del prossimo si vendono
+
+515
+00:21:28,280 --> 00:21:34,670
+a soul vai al dice che possa catturare
+
+516
+00:21:30,590 --> 00:21:36,440
+l'anima di una di un'entità se posso
+
+517
+00:21:34,670 --> 00:21:41,030
+catturare una mucca e poi rilasciarla
+
+518
+00:21:36,440 --> 00:21:41,570
+conta giusto cioè capire se poi va bene
+
+519
+00:21:41,030 --> 00:21:43,670
+o no
+
+520
+00:21:41,570 --> 00:21:46,130
+non usiamo una su quella verde dove te
+
+521
+00:21:43,670 --> 00:21:49,580
+l'ho già persa poi eccola però su questa
+
+522
+00:21:46,130 --> 00:21:52,400
+qui shifted ok cielo fluid cau
+
+523
+00:21:49,580 --> 00:21:53,390
+basin piloti come se faccio così show di
+
+524
+00:21:52,400 --> 00:21:55,910
+nuovo
+
+525
+00:21:53,390 --> 00:21:58,520
+ok quindi signore e signori e le salvai
+
+526
+00:21:55,910 --> 00:22:00,500
+alla cessarono la vita perché ci
+
+527
+00:21:58,520 --> 00:22:03,320
+permettono di tenere da parte le mucche
+
+528
+00:22:00,500 --> 00:22:04,400
+non so come sfruttarle appieno perché
+
+529
+00:22:03,320 --> 00:22:08,179
+sinceramente
+
+530
+00:22:04,400 --> 00:22:11,210
+cioè voglio dire una volta c'è una volta
+
+531
+00:22:08,179 --> 00:22:14,300
+nella stock con l'aic stackhouse la
+
+532
+00:22:11,210 --> 00:22:17,000
+fluid causa aa.vv lo spot dove metterle
+
+533
+00:22:14,300 --> 00:22:19,760
+stavano ferme se qui devo tenere a giro
+
+534
+00:22:17,000 --> 00:22:21,110
+è un casino bene ragazzi ma per questo
+
+535
+00:22:19,760 --> 00:22:22,670
+video è tutto invece sono antico per la
+
+536
+00:22:21,110 --> 00:22:24,200
+visione ci siamo domani alle 7 con il
+
+537
+00:22:22,670 --> 00:22:26,780
+prossimo episodio di essere delle sette
+
+538
+00:22:24,200 --> 00:22:27,770
+c'è un botto è roba da fare è nulla
+
+539
+00:22:26,780 --> 00:22:47,969
+ciao a tutti
+
+540
+00:22:27,770 --> 00:22:47,969
+[Musica]

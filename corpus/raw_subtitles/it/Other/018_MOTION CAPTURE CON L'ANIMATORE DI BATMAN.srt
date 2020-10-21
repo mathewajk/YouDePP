@@ -1,0 +1,23 @@
+1
+00:00:19,340 --> 00:00:24,960
+Sono un animatore cinematografico di videogame e uso molto il Motion capture
+
+2
+00:00:24,960 --> 00:00:29,620
+Solitamente usiamo grandi studios per il Motion capture con sistemi come Vicon
+
+3
+00:00:29,620 --> 00:00:34,480
+Ma quello che vi mostro oggi è una versione molto più semplice e low budget che si può usare in casa
+
+4
+00:00:34,480 --> 00:00:41,680
+Questo è un sistema nuovo creato da una compagnia cinese (Perception Neuron)
+
+5
+00:00:41,680 --> 00:00:50,920
+costa più o meno 1000 dollari e usa un giro neurons che vengono allineati con piccole cinghie
+
+6
+00:00:50,920 --> 00:00:55,480
+Si indossano e si collegano wireless al computer

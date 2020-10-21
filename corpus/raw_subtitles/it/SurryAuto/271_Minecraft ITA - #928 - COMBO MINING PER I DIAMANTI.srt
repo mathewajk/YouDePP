@@ -1,0 +1,2923 @@
+1
+00:00:00,000 --> 00:00:03,959
+ciao a tutti che certi e benvenuti in
+
+2
+00:00:01,439 --> 00:00:06,930
+questo nuovissimo video di minecraft ita
+
+3
+00:00:03,959 --> 00:00:09,450
+signori dopo l'ultimo episodio dove
+
+4
+00:00:06,930 --> 00:00:11,519
+abbiamo completato la parte estetica nel
+
+5
+00:00:09,450 --> 00:00:13,440
+nostro mondo che devo essere sincero è
+
+6
+00:00:11,519 --> 00:00:15,120
+molto più bella vista con le shaders
+
+7
+00:00:13,440 --> 00:00:17,670
+direi che arrivato il momento di testare
+
+8
+00:00:15,120 --> 00:00:19,410
+effettivamente tutto il motivo per cui
+
+9
+00:00:17,670 --> 00:00:20,400
+abbiamo fatto questo macchinario cioè le
+
+10
+00:00:19,410 --> 00:00:21,990
+produzioni
+
+11
+00:00:20,400 --> 00:00:24,180
+allora se avrà sicuramente con le
+
+12
+00:00:21,990 --> 00:00:26,130
+scegliere se tutto molto più bello però
+
+13
+00:00:24,180 --> 00:00:27,900
+sapete come la penso la scelta son belle
+
+14
+00:00:26,130 --> 00:00:31,170
+per fare degli screen o per fare ad
+
+15
+00:00:27,900 --> 00:00:33,780
+esempio un piccolo tour estetico del
+
+16
+00:00:31,170 --> 00:00:37,320
+mondo ma per il gameplay vero e proprio
+
+17
+00:00:33,780 --> 00:00:40,770
+sono talmente abituato a giocare con ak
+
+18
+00:00:37,320 --> 00:00:44,399
+esploso un clip ma ha preso fuoco
+
+19
+00:00:40,770 --> 00:00:45,750
+maledetto e ha preso fuoco la scala
+
+20
+00:00:44,399 --> 00:00:48,840
+devo ricordarmi di prendere un po di
+
+21
+00:00:45,750 --> 00:00:50,789
+legno di lee burke di betulla va bene
+
+22
+00:00:48,840 --> 00:00:52,590
+comunque sapete come la penso le shaders
+
+23
+00:00:50,789 --> 00:00:53,850
+figata pazzesca ma per fare degli screen
+
+24
+00:00:52,590 --> 00:00:55,739
+per fare dei giri
+
+25
+00:00:53,850 --> 00:00:57,750
+se vi porta qualcuno invece ad ivan fai
+
+26
+00:00:55,739 --> 00:00:59,760
+vedere con le robe cioè con le sceglie
+
+27
+00:00:57,750 --> 00:01:02,160
+saputo fighissimo quella quale shaders
+
+28
+00:00:59,760 --> 00:01:03,180
+fighissimo il drago anche villa gino
+
+29
+00:01:02,160 --> 00:01:04,920
+anche se non c'è nulla di troppo
+
+30
+00:01:03,180 --> 00:01:06,540
+maestoso nel village eno
+
+31
+00:01:04,920 --> 00:01:08,400
+insomma rende tutto molto molto
+
+32
+00:01:06,540 --> 00:01:11,939
+particolare e quella zona del nether
+
+33
+00:01:08,400 --> 00:01:15,659
+ancora di più è molto molto bella
+
+34
+00:01:11,939 --> 00:01:17,790
+allora si può ancora fatta o cosa cioè
+
+35
+00:01:15,659 --> 00:01:20,340
+magari qualche modifichino poi la farò
+
+36
+00:01:17,790 --> 00:01:22,500
+perché mai una mezza struttura con i
+
+37
+00:01:20,340 --> 00:01:24,590
+miei del vizio al mezzatorre che compare
+
+38
+00:01:22,500 --> 00:01:27,299
+qualcosa del genere potrebbe avere senso
+
+39
+00:01:24,590 --> 00:01:30,420
+però vabbè non ci interessa per oggi per
+
+40
+00:01:27,299 --> 00:01:32,970
+oggi no perché oggi andiamo a fare come
+
+41
+00:01:30,420 --> 00:01:34,770
+dicevo il test il test vero e proprio
+
+42
+00:01:32,970 --> 00:01:38,520
+per cui andiamo a prendere delle pozioni
+
+43
+00:01:34,770 --> 00:01:42,740
+e ne prenderemo 4 e 4 sono davvero tante
+
+44
+00:01:38,520 --> 00:01:44,490
+perché sono 8 16 20 più di mezz'ora di
+
+45
+00:01:42,740 --> 00:01:46,890
+velocità
+
+46
+00:01:44,490 --> 00:01:49,710
+vorrei anche far notare che ho preferito
+
+47
+00:01:46,890 --> 00:01:52,740
+fare le pozioni la velocità mettendo la
+
+48
+00:01:49,710 --> 00:01:56,610
+red stone e non la gloss con la blue
+
+49
+00:01:52,740 --> 00:01:58,890
+stone potenzia le pozioni quindi avrei
+
+50
+00:01:56,610 --> 00:02:01,530
+avuto velocità 2 la resto invece aumenta
+
+51
+00:01:58,890 --> 00:02:04,170
+la durata visto che la pozione di
+
+52
+00:02:01,530 --> 00:02:06,990
+velocità due dura solo un minuto e
+
+53
+00:02:04,170 --> 00:02:08,399
+trenta è venuti dal doppio velocità
+
+54
+00:02:06,990 --> 00:02:09,690
+quindi al 20 per cento vai al 40 per
+
+55
+00:02:08,399 --> 00:02:13,590
+cento dovrebbe essere una cosa di questo
+
+56
+00:02:09,690 --> 00:02:15,780
+tipo è alta velocità due no questa sfida
+
+57
+00:02:13,590 --> 00:02:17,940
+ti dirò non mi dispiace speed 2 va è
+
+58
+00:02:15,780 --> 00:02:20,099
+molto più veloce però dura solo minuto e
+
+59
+00:02:17,940 --> 00:02:22,440
+mezzo e non voglio riempimi l'inventario
+
+60
+00:02:20,099 --> 00:02:24,000
+di pozioni cioè un minuto e mezzo e che
+
+61
+00:02:22,440 --> 00:02:25,950
+per fare otto minuti di mettere con
+
+62
+00:02:24,000 --> 00:02:28,650
+cinque posizioni dentro tipo 9 del
+
+63
+00:02:25,950 --> 00:02:31,019
+genere è sono una in più di questo per
+
+64
+00:02:28,650 --> 00:02:33,180
+l'equivalente di una pozione di velocità
+
+65
+00:02:31,019 --> 00:02:35,819
+a 1 quindi proveremo ad andare in giro
+
+66
+00:02:33,180 --> 00:02:38,430
+con la velocità 1 vediamo a the open era
+
+67
+00:02:35,819 --> 00:02:39,900
+assolutamente una tractor ai per chi lo
+
+68
+00:02:38,430 --> 00:02:43,799
+avesse capito tutto questo è per
+
+69
+00:02:39,900 --> 00:02:44,879
+sperimentare la tecnica del mining uno
+
+70
+00:02:43,799 --> 00:02:49,110
+per uno
+
+71
+00:02:44,879 --> 00:02:50,730
+però utilizzando la velocità perché era
+
+72
+00:02:49,110 --> 00:02:52,769
+il l'unico problema che avevamo e fatto
+
+73
+00:02:50,730 --> 00:02:55,950
+che si andava lenti se ora non abbiamo
+
+74
+00:02:52,769 --> 00:02:57,630
+manco più lenti potenzialmente potrebbe
+
+75
+00:02:55,950 --> 00:02:59,700
+essere il metodo perfetto per raccoglie
+
+76
+00:02:57,630 --> 00:03:01,590
+una grande grande quantità di diamanti
+
+77
+00:02:59,700 --> 00:03:03,930
+ricordo che sono ancora in ricerca di
+
+78
+00:03:01,590 --> 00:03:06,870
+diamante perché devo terminare la nostra
+
+79
+00:03:03,930 --> 00:03:09,769
+bellissima e simpaticissima a amica qui
+
+80
+00:03:06,870 --> 00:03:12,180
+l'ha lanciato in the bolla gigante che
+
+81
+00:03:09,769 --> 00:03:14,250
+non faremo tutto in diamanti ai lati
+
+82
+00:03:12,180 --> 00:03:15,420
+l'abbiamo già deciso
+
+83
+00:03:14,250 --> 00:03:17,129
+però mi manca a tutti i diamanti per
+
+84
+00:03:15,420 --> 00:03:20,340
+fare i bordini e visto che da troppo
+
+85
+00:03:17,129 --> 00:03:21,959
+tempo li mi dà fastidio vedere la vuota
+
+86
+00:03:20,340 --> 00:03:24,750
+ci proviamo per le opere più diamanti
+
+87
+00:03:21,959 --> 00:03:26,579
+possibili con mezz'ora di budget ma
+
+88
+00:03:24,750 --> 00:03:28,319
+dipende da quanti ne troviamo intanto io
+
+89
+00:03:26,579 --> 00:03:30,329
+vi parlerò come al solito di un paio di
+
+90
+00:03:28,319 --> 00:03:32,220
+cose che mi passano per la testa e
+
+91
+00:03:30,329 --> 00:03:34,260
+vediamo insieme dove andiamo a parare
+
+92
+00:03:32,220 --> 00:03:35,609
+allora possiamo infilarci di qui che
+
+93
+00:03:34,260 --> 00:03:39,299
+dice sì se non sbaglio era proprio di
+
+94
+00:03:35,609 --> 00:03:42,060
+qualche c'era uno degli ultimi sbuchi da
+
+95
+00:03:39,299 --> 00:03:43,470
+cui sono venuto tanto noi non interessa
+
+96
+00:03:42,060 --> 00:03:46,349
+trovare una caverna noi interessa
+
+97
+00:03:43,470 --> 00:03:48,569
+trovare lo spazio giusto ecco per inciso
+
+98
+00:03:46,349 --> 00:03:51,290
+invece ho trovato la caverna alla grande
+
+99
+00:03:48,569 --> 00:03:54,840
+20 18 19 a guardà manco a farlo apposta
+
+100
+00:03:51,290 --> 00:03:56,280
+dove siamo finiti buongiorni simo qua
+
+101
+00:03:54,840 --> 00:03:58,590
+devo fatto l'esperimento per trovare
+
+102
+00:03:56,280 --> 00:04:00,900
+diamanti beh visto che qui abbiamo già
+
+103
+00:03:58,590 --> 00:04:02,370
+fatto un esperimento perché no partiamo
+
+104
+00:04:00,900 --> 00:04:04,169
+noi facciamo un altro qui non so se
+
+105
+00:04:02,370 --> 00:04:05,700
+ricordate dove sono venute ho detto però
+
+106
+00:04:04,169 --> 00:04:07,290
+a scavare un chan quintero vediamo
+
+107
+00:04:05,700 --> 00:04:08,730
+quanti diamanti trovo alla fine non
+
+108
+00:04:07,290 --> 00:04:10,799
+entrati anche tantissimi se non ricordo
+
+109
+00:04:08,730 --> 00:04:12,150
+male però oggi andrà meglio signori oggi
+
+110
+00:04:10,799 --> 00:04:14,639
+andrà molto meglio oggi dovremmo un
+
+111
+00:04:12,150 --> 00:04:16,859
+botto di roba quindi facciamo così mi
+
+112
+00:04:14,639 --> 00:04:18,930
+metto qui in teoria metterà tractor no
+
+113
+00:04:16,859 --> 00:04:20,820
+non li ora quella trappeto sai che non
+
+114
+00:04:18,930 --> 00:04:22,650
+mi ricordo calcio se non mi ricordo se
+
+115
+00:04:20,820 --> 00:04:23,250
+funziona meno cioè come funziona per lo
+
+116
+00:04:22,650 --> 00:04:26,500
+meno
+
+117
+00:04:23,250 --> 00:04:28,390
+ammetti così fai così e voilà
+
+118
+00:04:26,500 --> 00:04:30,040
+entriamo dentro riprendiamo a tractor
+
+119
+00:04:28,390 --> 00:04:32,800
+che potrebbe essere utile metti caso
+
+120
+00:04:30,040 --> 00:04:36,250
+vogliamo allontanarci da dove siamo ok
+
+121
+00:04:32,800 --> 00:04:37,540
+iniziamo a scavare mettiamo la torcia
+
+122
+00:04:36,250 --> 00:04:38,500
+nella mano secondaria
+
+123
+00:04:37,540 --> 00:04:41,350
+così non abbiamo bisogno di
+
+124
+00:04:38,500 --> 00:04:42,070
+assolutamente nulla ti dirò c'è già un
+
+125
+00:04:41,350 --> 00:04:44,770
+buon inizio
+
+126
+00:04:42,070 --> 00:04:48,910
+c'è un buon inizio nel magico mondo di
+
+127
+00:04:44,770 --> 00:04:51,760
+suri e dei suoi scavi perché già trovato
+
+128
+00:04:48,910 --> 00:04:53,530
+un botto di roba rexton ferro ferro
+
+129
+00:04:51,760 --> 00:04:55,600
+quasi tuo figlio e che alla fine serve
+
+130
+00:04:53,530 --> 00:04:57,280
+sempre ci ho anche già un po di cobb
+
+131
+00:04:55,600 --> 00:04:57,580
+sono a disposizione per bloccare tutti i
+
+132
+00:04:57,280 --> 00:04:59,830
+buchi
+
+133
+00:04:57,580 --> 00:05:02,200
+ok allora questa è la velocità classica
+
+134
+00:04:59,830 --> 00:05:04,900
+con cui andiamo andavamo in giro quando
+
+135
+00:05:02,200 --> 00:05:07,600
+scavavamo con l'uno per uno
+
+136
+00:05:04,900 --> 00:05:09,010
+proviamo a bere la prima funzione e
+
+137
+00:05:07,600 --> 00:05:11,740
+vediamo qual è la differenza la
+
+138
+00:05:09,010 --> 00:05:15,130
+differenza c'è indubbiamente però non la
+
+139
+00:05:11,740 --> 00:05:17,080
+vedo una differenza abissale a chi ha un
+
+140
+00:05:15,130 --> 00:05:19,180
+occhio allenato sicuramente si è reso
+
+141
+00:05:17,080 --> 00:05:20,320
+conto che la differenza c'è non solo
+
+142
+00:05:19,180 --> 00:05:22,060
+dalle particelle ma dal fatto che
+
+143
+00:05:20,320 --> 00:05:24,250
+effettivamente al sila c'è un pezzo di
+
+144
+00:05:22,060 --> 00:05:27,610
+ferro con mancato effettivamente sistema
+
+145
+00:05:24,250 --> 00:05:30,240
+andando più veloci però non pensavo che
+
+146
+00:05:27,610 --> 00:05:33,190
+essere così bassi cioè essere per terra
+
+147
+00:05:30,240 --> 00:05:35,220
+rallentasse così tanto speravo che la
+
+148
+00:05:33,190 --> 00:05:38,669
+posiziona la velocità riuscisse a
+
+149
+00:05:35,220 --> 00:05:40,960
+permettermi di scavare a macchinetta
+
+150
+00:05:38,669 --> 00:05:41,830
+nella mia testa ho detto cacchio che
+
+151
+00:05:40,960 --> 00:05:44,680
+figata
+
+152
+00:05:41,830 --> 00:05:46,840
+posso scavare più veloce della creative
+
+153
+00:05:44,680 --> 00:05:48,160
+e tipo dei mondi in crati quando scavi
+
+154
+00:05:46,840 --> 00:05:50,800
+in realtà va in molto più lento rispetto
+
+155
+00:05:48,160 --> 00:05:56,200
+a un piccolo è normale ecco in questo
+
+156
+00:05:50,800 --> 00:05:58,810
+caso ecco non lava lava lava tante cose
+
+157
+00:05:56,200 --> 00:06:00,310
+ma noi non la vogliamo
+
+158
+00:05:58,810 --> 00:06:02,590
+iniziamo a scavare a caso tanto prima o
+
+159
+00:06:00,310 --> 00:06:05,260
+poi quando dobbiamo uscire usciamo da
+
+160
+00:06:02,590 --> 00:06:07,720
+livello a ma anche massimo livello 5
+
+161
+00:06:05,260 --> 00:06:10,479
+ma su stupido o salire posso dire un
+
+162
+00:06:07,720 --> 00:06:12,520
+botto 5 troppo basso eccovi su questa
+
+163
+00:06:10,479 --> 00:06:14,680
+una cosa non ho controllato bene ma ci
+
+164
+00:06:12,520 --> 00:06:17,860
+sarà un punto senza grave da queste
+
+165
+00:06:14,680 --> 00:06:19,690
+parti grazie arca watt e prendiamo la
+
+166
+00:06:17,860 --> 00:06:21,100
+palla insieme a rompere
+
+167
+00:06:19,690 --> 00:06:23,290
+purtroppo ho fatto un errore perché non
+
+168
+00:06:21,100 --> 00:06:24,340
+non capire bene dove sei cosa stai
+
+169
+00:06:23,290 --> 00:06:26,500
+facendo
+
+170
+00:06:24,340 --> 00:06:28,900
+ti porta poi a fare queste cose qui che
+
+171
+00:06:26,500 --> 00:06:31,690
+scavi a caso posti dove non dovesse
+
+172
+00:06:28,900 --> 00:06:34,750
+scavare il punto perfetto lo sappiamo
+
+173
+00:06:31,690 --> 00:06:37,390
+tutti è il 12 alla foto dato anche una
+
+174
+00:06:34,750 --> 00:06:39,220
+caverna per una caverna vuota piazzano
+
+175
+00:06:37,390 --> 00:06:40,350
+una torcia qui giusto per evitare che
+
+176
+00:06:39,220 --> 00:06:43,630
+espone qualcuno
+
+177
+00:06:40,350 --> 00:06:44,380
+aspetta aspetta questo questo è un mio
+
+178
+00:06:43,630 --> 00:06:46,570
+vecchio tunnel
+
+179
+00:06:44,380 --> 00:06:48,550
+eh si questo mio vecchio tunnel uno per
+
+180
+00:06:46,570 --> 00:06:51,520
+uno dove sono venuto non mi ricordo dove
+
+181
+00:06:48,550 --> 00:06:52,840
+cacchio sono uscito però se questo il
+
+182
+00:06:51,520 --> 00:06:54,640
+mio vecchio tunnel uno per uno a questo
+
+183
+00:06:52,840 --> 00:06:57,940
+punto se siamo altezza 12
+
+184
+00:06:54,640 --> 00:06:59,380
+facciamolo qui abbiamo qua clicchiamo e
+
+185
+00:06:57,940 --> 00:07:01,510
+noi siamo scavare riprendiamo la nostra
+
+186
+00:06:59,380 --> 00:07:04,210
+porticina che è magica e in tutto questo
+
+187
+00:07:01,510 --> 00:07:07,150
+aveva consumato neanche un paio di
+
+188
+00:07:04,210 --> 00:07:09,040
+minuti di pozione sì esatto sono ora a 6
+
+189
+00:07:07,150 --> 00:07:12,160
+quindi alla grande lo so che stiamo
+
+190
+00:07:09,040 --> 00:07:14,110
+cercando i diamanti ma come sapete anche
+
+191
+00:07:12,160 --> 00:07:16,660
+il ferro è un attimo in un punto dolente
+
+192
+00:07:14,110 --> 00:07:19,120
+mi avete linkato in tantissimi una farm
+
+193
+00:07:16,660 --> 00:07:21,970
+di ferro nuova di 1.14 quindi poi gli
+
+194
+00:07:19,120 --> 00:07:23,770
+darò un occhio e quali sicuramente sarà
+
+195
+00:07:21,970 --> 00:07:25,090
+uno dei prossimi upgrade tengo a fare al
+
+196
+00:07:23,770 --> 00:07:26,800
+nostro mondo
+
+197
+00:07:25,090 --> 00:07:29,140
+intanto però mentre noi scaviamo e
+
+198
+00:07:26,800 --> 00:07:31,420
+sfruttiamo al massimo non l'acqua
+
+199
+00:07:29,140 --> 00:07:33,520
+sicuramente non l'acqua perché non
+
+200
+00:07:31,420 --> 00:07:35,440
+volevo l'acqua stai calmo in che
+
+201
+00:07:33,520 --> 00:07:37,390
+sfruttiamo al massimo il potere della
+
+202
+00:07:35,440 --> 00:07:39,640
+nostra posizione di velocità che devo
+
+203
+00:07:37,390 --> 00:07:42,010
+dire si sente si sente a differenza con
+
+204
+00:07:39,640 --> 00:07:43,630
+speed 2 andrea ancora più veloce
+
+205
+00:07:42,010 --> 00:07:45,970
+e se volete stare più comodo ma dura
+
+206
+00:07:43,630 --> 00:07:48,250
+solo minuto e 30 cioè dove aver già
+
+207
+00:07:45,970 --> 00:07:50,380
+spiegate 2 per andare effettivamente sai
+
+208
+00:07:48,250 --> 00:07:51,250
+che forse ha senso fare un tentativo con
+
+209
+00:07:50,380 --> 00:07:53,650
+la pozione 2
+
+210
+00:07:51,250 --> 00:07:55,750
+voglio dire alla fine dei conti sì è
+
+211
+00:07:53,650 --> 00:07:57,610
+vero dura di meno non la più veloce
+
+212
+00:07:55,750 --> 00:08:01,320
+se vai il doppio più veloce non riesce a
+
+213
+00:07:57,610 --> 00:08:03,850
+scavare a razzo con il piccone è
+
+214
+00:08:01,320 --> 00:08:05,650
+sicuramente il più divertente il qualche
+
+215
+00:08:03,850 --> 00:08:07,360
+quasi sono torce cioè un fisco sempre in
+
+216
+00:08:05,650 --> 00:08:10,300
+passato ho già visitato incredibile
+
+217
+00:08:07,360 --> 00:08:11,350
+va bene a mente scaviamo è vero un po se
+
+218
+00:08:10,300 --> 00:08:13,360
+ci sono storie dei diamanti
+
+219
+00:08:11,350 --> 00:08:15,130
+volevo parlarvi di una cosa allora
+
+220
+00:08:13,360 --> 00:08:17,410
+questo weekend mi seguì sugli scambi lo
+
+221
+00:08:15,130 --> 00:08:18,730
+sa seguitemi se non mi seguite delle
+
+222
+00:08:17,410 --> 00:08:21,310
+storie quando vado in giro faccio cose
+
+223
+00:08:18,730 --> 00:08:23,350
+mi chiamo suri stranamente dominate un
+
+224
+00:08:21,310 --> 00:08:25,210
+po ha pure il burrone
+
+225
+00:08:23,350 --> 00:08:28,300
+va bene il cambio direzione e sono
+
+226
+00:08:25,210 --> 00:08:29,620
+andato un week end al lago in montagna
+
+227
+00:08:28,300 --> 00:08:31,030
+con i miei genitori perché mi hanno
+
+228
+00:08:29,620 --> 00:08:32,500
+invitato non era in programma
+
+229
+00:08:31,030 --> 00:08:34,090
+mi hanno scritto tipo due giorni piano
+
+230
+00:08:32,500 --> 00:08:36,220
+detto sai vero questo weekend ho
+
+231
+00:08:34,090 --> 00:08:38,080
+controllato fede conti ero libero anche
+
+232
+00:08:36,220 --> 00:08:40,540
+se un periodo impegnativo perché adesso
+
+233
+00:08:38,080 --> 00:08:43,960
+signori ci sarà un nuovo video
+
+234
+00:08:40,540 --> 00:08:46,390
+importante dei mezzi e aiuti quando ci
+
+235
+00:08:43,960 --> 00:08:48,070
+sono diamo a quello scheletro dopo uno
+
+236
+00:08:46,390 --> 00:08:50,320
+scheletro con un'armatura addirittura
+
+237
+00:08:48,070 --> 00:08:53,649
+aveva fatto sta che mi sono ritrovato in
+
+238
+00:08:50,320 --> 00:08:56,220
+trentino con i miei genitori
+
+239
+00:08:53,649 --> 00:08:59,649
+un week end al lago e tornando a casa
+
+240
+00:08:56,220 --> 00:09:00,970
+mattina mi sono reso conto di una cosa
+
+241
+00:08:59,649 --> 00:09:02,649
+lascia stare in questo weekend
+
+242
+00:09:00,970 --> 00:09:04,329
+particolare perché nei week end tra me i
+
+243
+00:09:02,649 --> 00:09:06,430
+miei genitori quindi non avrei bloccato
+
+244
+00:09:04,329 --> 00:09:08,079
+a prescindere però mi sono reso conto
+
+245
+00:09:06,430 --> 00:09:10,990
+che rispetto a qualche anno fa
+
+246
+00:09:08,079 --> 00:09:11,829
+e voi sapete io faccio youtube da tanti
+
+247
+00:09:10,990 --> 00:09:14,139
+tanti anni
+
+248
+00:09:11,829 --> 00:09:17,019
+c'è gente di voi che mi segue davvero da
+
+249
+00:09:14,139 --> 00:09:19,660
+secoli e fa un botto piacere infatti ho
+
+250
+00:09:17,019 --> 00:09:21,369
+notato anche un botto di voi nel posto
+
+251
+00:09:19,660 --> 00:09:24,579
+in cui sono andato mi fa sempre sempre
+
+252
+00:09:21,369 --> 00:09:27,129
+tanto tanto piacere e rispetto a qualche
+
+253
+00:09:24,579 --> 00:09:29,769
+anno fa non rogo più come una volta
+
+254
+00:09:27,129 --> 00:09:31,689
+ari stefano ogni tanto blog a sasha cioè
+
+255
+00:09:29,769 --> 00:09:34,240
+quello che blocca poi fa le spese così
+
+256
+00:09:31,689 --> 00:09:35,949
+droga sempre io ormai blogo davvero
+
+257
+00:09:34,240 --> 00:09:38,499
+davvero poco sarà che sono passato alla
+
+258
+00:09:35,949 --> 00:09:40,420
+giacca 5 che è la videocamera potente
+
+259
+00:09:38,499 --> 00:09:42,639
+quindi ora bloggare con altre cose non
+
+260
+00:09:40,420 --> 00:09:45,069
+me non mi spiega più di tanto
+
+261
+00:09:42,639 --> 00:09:48,220
+eppure sono sempre stato una persona che
+
+262
+00:09:45,069 --> 00:09:50,860
+ha dato sempre tantissimo valore blog e
+
+263
+00:09:48,220 --> 00:09:54,699
+il semplice motivo che è la cosa più
+
+264
+00:09:50,860 --> 00:09:57,100
+comoda per poi un giorno ricordarsi
+
+265
+00:09:54,699 --> 00:10:00,999
+quello che hai fatto con gli amici cioè
+
+266
+00:09:57,100 --> 00:10:03,100
+sono proprio memorie che ti mantieni e
+
+267
+00:10:00,999 --> 00:10:05,050
+volgare quindi esprime anche le tue
+
+268
+00:10:03,100 --> 00:10:06,939
+opinioni sulle cose rispetto alle foto
+
+269
+00:10:05,050 --> 00:10:08,829
+cioè tutta un altra roba infatti un
+
+270
+00:10:06,939 --> 00:10:10,899
+questo io vedo sempre quando vai a fare
+
+271
+00:10:08,829 --> 00:10:13,540
+una vacanza anche se non fai lo youtube
+
+272
+00:10:10,899 --> 00:10:15,519
+era blog ha anche secondi non deve per
+
+273
+00:10:13,540 --> 00:10:17,559
+forza parlare ma fai dei video fai delle
+
+274
+00:10:15,519 --> 00:10:20,499
+cose creati dei ricordi che poi tenderei
+
+275
+00:10:17,559 --> 00:10:21,970
+a rivedere tra 5 10 anni credimi fa la
+
+276
+00:10:20,499 --> 00:10:24,819
+differenza che lo faccio ora con i video
+
+277
+00:10:21,970 --> 00:10:27,639
+ed i 34 anni fa e sono davvero davvero
+
+278
+00:10:24,819 --> 00:10:29,110
+belli e sempre bello riguardarli e non
+
+279
+00:10:27,639 --> 00:10:31,029
+so perché ho tarsu un po questa cosa
+
+280
+00:10:29,110 --> 00:10:33,850
+ultimamente di mettermi lì e volgare
+
+281
+00:10:31,029 --> 00:10:35,709
+cioè finisco sempre le spese dico cazzo
+
+282
+00:10:33,850 --> 00:10:38,439
+mi sapete a tanto tanto tanto piaciuto
+
+283
+00:10:35,709 --> 00:10:40,959
+bloccarla questa esperienza o only
+
+284
+00:10:38,439 --> 00:10:42,879
+perché per il momento decido di che
+
+285
+00:10:40,959 --> 00:10:46,089
+preferisco godermi l'esperienza però so
+
+286
+00:10:42,879 --> 00:10:47,139
+che volgare o non so che cosa in
+
+287
+00:10:46,089 --> 00:10:49,029
+particolare infatti non sta operando un
+
+288
+00:10:47,139 --> 00:10:50,499
+po voi poi magari di temi e se c'è
+
+289
+00:10:49,029 --> 00:10:52,449
+qualche youtuber che secondo i video che
+
+290
+00:10:50,499 --> 00:10:53,980
+vuole esprimere anche la tua opinione
+
+291
+00:10:52,449 --> 00:10:56,049
+questo il commento se vuoi scrivere in
+
+292
+00:10:53,980 --> 00:10:58,569
+direct fai pure è una cosa su cui stavo
+
+293
+00:10:56,049 --> 00:11:00,990
+riflettendo perché nel momento dico no
+
+294
+00:10:58,569 --> 00:11:03,060
+che mi fa fare di bloggare
+
+295
+00:11:00,990 --> 00:11:05,070
+voglio godermi il momento poi finisce il
+
+296
+00:11:03,060 --> 00:11:08,070
+momento dico caso sono un coglione
+
+297
+00:11:05,070 --> 00:11:09,630
+dovevo bloccarlo sia per condividerlo
+
+298
+00:11:08,070 --> 00:11:11,250
+con voi perché ci sono alcune cose che
+
+299
+00:11:09,630 --> 00:11:14,130
+dico cacchio questo è stato bellissimo
+
+300
+00:11:11,250 --> 00:11:17,040
+un video sul canale e per un altro verso
+
+301
+00:11:14,130 --> 00:11:19,500
+invece per il fatto di un po più egoista
+
+302
+00:11:17,040 --> 00:11:20,700
+ovviamente è di cacchio questo sarebbe
+
+303
+00:11:19,500 --> 00:11:23,160
+bellissimo
+
+304
+00:11:20,700 --> 00:11:26,490
+non solo ricordarmelo ma rivederlo tra
+
+305
+00:11:23,160 --> 00:11:29,040
+qualche anno e tutti sti ragionamenti e
+
+306
+00:11:26,490 --> 00:11:32,250
+come dicevo forse uno dei punti che mi
+
+307
+00:11:29,040 --> 00:11:36,480
+ha spinto a smettere un po di bloggare è
+
+308
+00:11:32,250 --> 00:11:38,520
+la questione della qualità cioè dopo 6 v
+
+309
+00:11:36,480 --> 00:11:42,029
+dove madagascar i video in svizzera
+
+310
+00:11:38,520 --> 00:11:43,649
+questi vi è un po più lunghi in cui si
+
+311
+00:11:42,029 --> 00:11:46,730
+blocco infatti comunque i miei obiettivi
+
+312
+00:11:43,649 --> 00:11:50,310
+li faccia dei mini filmini in realtà
+
+313
+00:11:46,730 --> 00:11:52,740
+hanno sempre una qualità molto alta per
+
+314
+00:11:50,310 --> 00:11:54,870
+quanto magari a me non sempre piacciono
+
+315
+00:11:52,740 --> 00:11:56,790
+come vengono fuori sono molto i commenti
+
+316
+00:11:54,870 --> 00:11:58,620
+che che lasciate sotto quei video e mi
+
+317
+00:11:56,790 --> 00:12:00,060
+rendo conto che comunque sono dei bei
+
+318
+00:11:58,620 --> 00:12:02,940
+blog male nessun di qualità ma piacciono
+
+319
+00:12:00,060 --> 00:12:05,430
+ok 6 la famosa frase ora io non è bello
+
+320
+00:12:02,940 --> 00:12:06,570
+ma piace è magari piace e che mi fa
+
+321
+00:12:05,430 --> 00:12:08,880
+sempre piacere
+
+322
+00:12:06,570 --> 00:12:11,760
+e a queste qualità sai quando avrò di
+
+323
+00:12:08,880 --> 00:12:14,579
+con una videocamera un setup degli
+
+324
+00:12:11,760 --> 00:12:17,220
+obiettivi che ti danno tutta una resa
+
+325
+00:12:14,579 --> 00:12:18,720
+fotografica la goody amanti primi
+
+326
+00:12:17,220 --> 00:12:21,120
+diamanti di oggi sopra la sua blaber
+
+327
+00:12:18,720 --> 00:12:22,589
+andò da cinque minuti buoni che facciamo
+
+328
+00:12:21,120 --> 00:12:24,060
+a prenderli quanti sono non sono neanche
+
+329
+00:12:22,589 --> 00:12:25,770
+tanti diamanti
+
+330
+00:12:24,060 --> 00:12:28,079
+ora invece scherzavo sono tanti diamanti
+
+331
+00:12:25,770 --> 00:12:29,970
+facciamo così a dati non mi ha dati no
+
+332
+00:12:28,079 --> 00:12:32,279
+si alimentano pieno tra l'altro anche
+
+333
+00:12:29,970 --> 00:12:33,870
+neanche finita la pozione non meno
+
+334
+00:12:32,279 --> 00:12:35,910
+neanche reso conto sto parlando così
+
+335
+00:12:33,870 --> 00:12:39,720
+come un deficiente da mezz'ora quanti
+
+336
+00:12:35,910 --> 00:12:40,950
+sono solo 8 solo 8 diamanti e me o tre
+
+337
+00:12:39,720 --> 00:12:41,490
+ore a dire che siamo stati anche
+
+338
+00:12:40,950 --> 00:12:42,930
+fortunati
+
+339
+00:12:41,490 --> 00:12:44,640
+bravo dati abbiamo trovato i primi
+
+340
+00:12:42,930 --> 00:12:46,980
+diamanti sicuramente troveremo altri
+
+341
+00:12:44,640 --> 00:12:49,740
+alla mangiamo la prossima pozione aguada
+
+342
+00:12:46,980 --> 00:12:51,720
+differenza cioè io me ne sono reso conto
+
+343
+00:12:49,740 --> 00:12:52,980
+ma in realtà un pochino sì anche perché
+
+344
+00:12:51,720 --> 00:12:54,959
+fa finta di camminare non so se avete
+
+345
+00:12:52,980 --> 00:12:57,450
+notato che tipo fa il passettino che
+
+346
+00:12:54,959 --> 00:12:59,570
+prima non faceva o magari sulla mia
+
+347
+00:12:57,450 --> 00:13:01,760
+impressione vado veloce uguale
+
+348
+00:12:59,570 --> 00:13:05,270
+sono piegate epocali quando blog con un
+
+349
+00:13:01,760 --> 00:13:08,300
+setup che è nato ok che ti dà una resa
+
+350
+00:13:05,270 --> 00:13:10,880
+grafica importante poi se non hai quella
+
+351
+00:13:08,300 --> 00:13:12,890
+resa grafica non magari non ti piace lo
+
+352
+00:13:10,880 --> 00:13:14,480
+stesso che il motivo per cui escono ha
+
+353
+00:13:12,890 --> 00:13:16,280
+provato a bloccare di più col telefono e
+
+354
+00:13:14,480 --> 00:13:18,230
+non con un altro anziano progetto solo
+
+355
+00:13:16,280 --> 00:13:20,780
+col telefono stoccolma poi mi riguardo
+
+356
+00:13:18,230 --> 00:13:22,460
+visto così vedo se mi piacciono
+
+357
+00:13:20,780 --> 00:13:24,470
+è vero che con queste fotocamere
+
+358
+00:13:22,460 --> 00:13:25,310
+obiettivi fai dei video davvero davvero
+
+359
+00:13:24,470 --> 00:13:26,960
+belli
+
+360
+00:13:25,310 --> 00:13:29,150
+il video madagascar ragazzi o questo è
+
+361
+00:13:26,960 --> 00:13:31,850
+un altro di matt uno per uno
+
+362
+00:13:29,150 --> 00:13:34,310
+video mascara a volte lo riguardo e
+
+363
+00:13:31,850 --> 00:13:36,620
+cacchio ragazza cioè cosa ho fatto
+
+364
+00:13:34,310 --> 00:13:38,120
+è davvero bello alcuni pezzi sembra
+
+365
+00:13:36,620 --> 00:13:41,570
+davvero un documentario e lo dico con
+
+366
+00:13:38,120 --> 00:13:43,610
+tanta umiltà ma c'è anche con tanto
+
+367
+00:13:41,570 --> 00:13:44,990
+orgoglio cacchio york sono un ragazzo
+
+368
+00:13:43,610 --> 00:13:46,880
+che non ho mai studiato ste cose che
+
+369
+00:13:44,990 --> 00:13:48,050
+faccio da autodidatta da anni come un po
+
+370
+00:13:46,880 --> 00:13:50,150
+tutto
+
+371
+00:13:48,050 --> 00:13:52,700
+sull'uscita fa una cosa che cacchio è
+
+372
+00:13:50,150 --> 00:13:53,690
+davvero bella e mi guardo volentieri e
+
+373
+00:13:52,700 --> 00:13:55,130
+quindi ho già note mi sentivo affatto
+
+374
+00:13:53,690 --> 00:13:58,070
+che figata dato punto di vista dico
+
+375
+00:13:55,130 --> 00:14:00,650
+cacchio però 60 ii e ferragosto in
+
+376
+00:13:58,070 --> 00:14:03,950
+madagascar con 40 gradi l'ombra
+
+377
+00:14:00,650 --> 00:14:05,870
+all'ombra e mi sono messo con uno zaino
+
+378
+00:14:03,950 --> 00:14:07,640
+pesantissimo sulle spalle nella lunga
+
+379
+00:14:05,870 --> 00:14:08,630
+cioè mi ricordo che è stato molto
+
+380
+00:14:07,640 --> 00:14:11,270
+faticoso
+
+381
+00:14:08,630 --> 00:14:14,240
+questo bilanciamento di fatica e
+
+382
+00:14:11,270 --> 00:14:17,270
+risultato che non mi spinge più affari
+
+383
+00:14:14,240 --> 00:14:19,130
+blog oppure non so che cosa volevo
+
+384
+00:14:17,270 --> 00:14:21,200
+parlavano un po magari qualche voi a
+
+385
+00:14:19,130 --> 00:14:23,030
+qualche suggerimento utile perché è un
+
+386
+00:14:21,200 --> 00:14:25,430
+po il principio del burn out
+
+387
+00:14:23,030 --> 00:14:27,560
+lo so che picchia presente sicuramente
+
+388
+00:14:25,430 --> 00:14:29,060
+nei commenti qualcuno di voi avrà
+
+389
+00:14:27,560 --> 00:14:30,710
+presente in misura dei suggerimenti
+
+390
+00:14:29,060 --> 00:14:32,780
+utili premi suggerirà qualche il libro
+
+391
+00:14:30,710 --> 00:14:35,030
+bello da leggere il bonato di solito
+
+392
+00:14:32,780 --> 00:14:38,660
+quando fai talmente tanto spesso una
+
+393
+00:14:35,030 --> 00:14:42,590
+cosa quando la fai così frequentemente o
+
+394
+00:14:38,660 --> 00:14:46,070
+così come dire così tanta non frequenza
+
+395
+00:14:42,590 --> 00:14:47,510
+ma solo quando la fai così tanto
+
+396
+00:14:46,070 --> 00:14:49,940
+non intendo solo a training in termini
+
+397
+00:14:47,510 --> 00:14:52,130
+di frequenza che una certa esplodi ti
+
+398
+00:14:49,940 --> 00:14:53,390
+passava con la voglia di farlo e mi è
+
+399
+00:14:52,130 --> 00:14:55,610
+capitato in passato magari che non avevo
+
+400
+00:14:53,390 --> 00:14:57,520
+più voglia di portare avanti magari
+
+401
+00:14:55,610 --> 00:15:00,550
+alcuni mondi alcune serie
+
+402
+00:14:57,520 --> 00:15:03,010
+delle 7 o altri anche dei videogiochi e
+
+403
+00:15:00,550 --> 00:15:05,050
+mi è successo però in generale poco
+
+404
+00:15:03,010 --> 00:15:08,770
+trucco videogiochi invece coni con i
+
+405
+00:15:05,050 --> 00:15:10,390
+blog passata un po la voglia volevo
+
+406
+00:15:08,770 --> 00:15:12,040
+capire un po perché volevo parlare male
+
+407
+00:15:10,390 --> 00:15:15,130
+così in questo episodio come fate un po
+
+408
+00:15:12,040 --> 00:15:16,480
+d'annata lista però so che piacciono
+
+409
+00:15:15,130 --> 00:15:18,780
+anche questi video in cui mi metto e
+
+410
+00:15:16,480 --> 00:15:21,910
+parlo di cose dico quale potrebbe essere
+
+411
+00:15:18,780 --> 00:15:23,980
+per me una possibile soluzione a cui ho
+
+412
+00:15:21,910 --> 00:15:25,330
+pensato perché ti devi sempre fare delle
+
+413
+00:15:23,980 --> 00:15:29,050
+domande di ricerca ai dati delle
+
+414
+00:15:25,330 --> 00:15:30,610
+risposte è la risposta che provo a darmi
+
+415
+00:15:29,050 --> 00:15:31,660
+è la seguente poi vedete cosa ne pensate
+
+416
+00:15:30,610 --> 00:15:33,550
+nei commenti
+
+417
+00:15:31,660 --> 00:15:35,500
+poi più a fare i blog anche qui a milano
+
+418
+00:15:33,550 --> 00:15:38,350
+anche magari quando sto tutto il giorno
+
+419
+00:15:35,500 --> 00:15:40,750
+in casa a lavorare a bloccare anche
+
+420
+00:15:38,350 --> 00:15:42,520
+quelle cose lì e mettere tanto comunque
+
+421
+00:15:40,750 --> 00:15:45,010
+blog e mettere magari un paio a
+
+422
+00:15:42,520 --> 00:15:47,560
+settimana se va bene uno uno ogni due
+
+423
+00:15:45,010 --> 00:15:49,900
+settimane capito sono e molto cosi però
+
+424
+00:15:47,560 --> 00:15:52,840
+volete provare a bloccare un po di più
+
+425
+00:15:49,900 --> 00:15:53,830
+cose normali anche più tranquille perché
+
+426
+00:15:52,840 --> 00:15:56,080
+insieme a tutta la questione della
+
+427
+00:15:53,830 --> 00:15:59,110
+grafica sai c'è anche un altro principio
+
+428
+00:15:56,080 --> 00:16:02,200
+che è il principio del delle alzare il
+
+429
+00:15:59,110 --> 00:16:04,780
+livello è una cosa che io dico spesso ea
+
+430
+00:16:02,200 --> 00:16:07,200
+cui tengo particolarmente che anche il
+
+431
+00:16:04,780 --> 00:16:10,570
+principio un po base della generazione
+
+432
+00:16:07,200 --> 00:16:13,900
+cosiddetto burn out cioè quando tu vuoi
+
+433
+00:16:10,570 --> 00:16:15,280
+sempre cercare di fare meglio nella vita
+
+434
+00:16:13,900 --> 00:16:17,050
+in generale che ora io sto parlando di
+
+435
+00:16:15,280 --> 00:16:18,970
+youtube può essere nel tuo lavoro nella
+
+436
+00:16:17,050 --> 00:16:21,130
+scuola così ciechi sempre di alzare
+
+437
+00:16:18,970 --> 00:16:22,720
+l'asticella e poi è difficile tornare
+
+438
+00:16:21,130 --> 00:16:24,190
+indietro
+
+439
+00:16:22,720 --> 00:16:26,110
+quindi per me ora quando devo fare un
+
+440
+00:16:24,190 --> 00:16:28,720
+blog essere sempre caso mini filmino e
+
+441
+00:16:26,110 --> 00:16:30,100
+vedi la svizzera vedi stoccolma anche se
+
+442
+00:16:28,720 --> 00:16:32,380
+quel video era meno curato perché volevo
+
+443
+00:16:30,100 --> 00:16:35,530
+davvero godermi solo l'esperienza oppure
+
+444
+00:16:32,380 --> 00:16:37,060
+il madagascar e se è una roba del genere
+
+445
+00:16:35,530 --> 00:16:39,010
+allora mi caso dico calcio che figata
+
+446
+00:16:37,060 --> 00:16:42,100
+può venire fuori c'è una più normale in
+
+447
+00:16:39,010 --> 00:16:45,520
+passa un po la voglia blog rogo così un
+
+448
+00:16:42,100 --> 00:16:48,760
+po perché voglio ricordarmi che però con
+
+449
+00:16:45,520 --> 00:16:50,560
+meno come un fuoco non è bello come
+
+450
+00:16:48,760 --> 00:16:52,000
+quello non è bello come quell'altro
+
+451
+00:16:50,560 --> 00:16:54,370
+e questo è un errore che secondo me
+
+452
+00:16:52,000 --> 00:16:57,490
+facciamo se alcuni come youtubers i
+
+453
+00:16:54,370 --> 00:16:59,440
+altri come qualsiasi altra cosa sia che
+
+454
+00:16:57,490 --> 00:17:01,360
+tu faccia è anche questa una cosa su cui
+
+455
+00:16:59,440 --> 00:17:02,950
+voglio lavorare per parlo ancora perchè
+
+456
+00:17:01,360 --> 00:17:06,160
+sono davvero curioso leggere i vostri
+
+457
+00:17:02,950 --> 00:17:07,390
+commenti 6 metterò qui dopo la fase dopo
+
+458
+00:17:06,160 --> 00:17:09,490
+quella tra sei delle sette world
+
+459
+00:17:07,390 --> 00:17:11,020
+quantità del genere mi metto e le voglio
+
+460
+00:17:09,490 --> 00:17:12,850
+legge tutti i commenti qui mi raccomando
+
+461
+00:17:11,020 --> 00:17:14,620
+c sotto commenti lunghi sensati
+
+462
+00:17:12,850 --> 00:17:17,170
+ragionateci perché sono cose belle
+
+463
+00:17:14,620 --> 00:17:20,589
+queste su cui ragionare su cose su cui
+
+464
+00:17:17,170 --> 00:17:22,660
+ragionare ma porca vacca qua manco stai
+
+465
+00:17:20,589 --> 00:17:25,480
+calmo intanto ti dico stai calmo
+
+466
+00:17:22,660 --> 00:17:27,490
+scheletro quadri rende scherzando alla
+
+467
+00:17:25,480 --> 00:17:30,910
+fine dei conti diamanti ne ho trovati
+
+468
+00:17:27,490 --> 00:17:33,160
+solo 8 e ne fece della lava qui c'era
+
+469
+00:17:30,910 --> 00:17:35,650
+della lava vogliamo vedere cosa c'è qua
+
+470
+00:17:33,160 --> 00:17:37,210
+nella caverna ti dirò vediamoci acqua
+
+471
+00:17:35,650 --> 00:17:39,700
+nella caverna perché non ho mai
+
+472
+00:17:37,210 --> 00:17:41,260
+esplorata qua c'è un botto di ferro ad
+
+473
+00:17:39,700 --> 00:17:43,750
+esempio a ricordiamoci che il nostro
+
+474
+00:17:41,260 --> 00:17:46,630
+comune della morte qui tanto per tornare
+
+475
+00:17:43,750 --> 00:17:49,360
+su non è che chissà cosa devo solo fare
+
+476
+00:17:46,630 --> 00:17:52,060
+un enorme che va verso l'alto
+
+477
+00:17:49,360 --> 00:17:54,940
+guarda quanto ferro però avrò trovato
+
+478
+00:17:52,060 --> 00:17:56,260
+uno stacco e mezzo finora quasi quasi
+
+479
+00:17:54,940 --> 00:17:58,440
+uno stack e e mezzo c'è anche del resto
+
+480
+00:17:56,260 --> 00:18:01,510
+va bene solo l'esperienza perché domanda
+
+481
+00:17:58,440 --> 00:18:03,880
+alimentare pieno dove svuotarlo un po e
+
+482
+00:18:01,510 --> 00:18:06,190
+qui c'è un bel sistema di caverne ti
+
+483
+00:18:03,880 --> 00:18:08,620
+dirò la verità ma il sistema di caverne
+
+484
+00:18:06,190 --> 00:18:10,540
+che è un po contro la filosofia che
+
+485
+00:18:08,620 --> 00:18:13,540
+dovevamo sperimentare in questo video
+
+486
+00:18:10,540 --> 00:18:15,430
+cioè la questione dell uno per uno per
+
+487
+00:18:13,540 --> 00:18:17,800
+uno non spiegare le torce cose di questo
+
+488
+00:18:15,430 --> 00:18:19,780
+tipo essere una cosa interessante se
+
+489
+00:18:17,800 --> 00:18:21,220
+siamo uno stack e mezzo poi siamo un po
+
+490
+00:18:19,780 --> 00:18:23,440
+di tutto ha strappato e propria copiano
+
+491
+00:18:21,220 --> 00:18:27,790
+alimentaria che odio la diorite il
+
+492
+00:18:23,440 --> 00:18:29,920
+granito il limit brutta roba vai via
+
+493
+00:18:27,790 --> 00:18:32,290
+è un sistema di caverne bello grosso ti
+
+494
+00:18:29,920 --> 00:18:33,640
+dirò la verità cioè qua continua sale
+
+495
+00:18:32,290 --> 00:18:36,310
+addirittura ma io non voglio salire
+
+496
+00:18:33,640 --> 00:18:37,480
+io restare costante con come coordinate
+
+497
+00:18:36,310 --> 00:18:39,250
+soprattutto a y
+
+498
+00:18:37,480 --> 00:18:40,450
+cioè no sulla ypsilon voglio stare
+
+499
+00:18:39,250 --> 00:18:42,100
+costante perché voglio trovare di
+
+500
+00:18:40,450 --> 00:18:44,440
+diamanti però trovato stato un botto di
+
+501
+00:18:42,100 --> 00:18:47,530
+roba cioè quasi uno stack d'oro 2 stack
+
+502
+00:18:44,440 --> 00:18:50,470
+di ferro uno stack di resto così for fun
+
+503
+00:18:47,530 --> 00:18:52,330
+3 stack quasi di lapislazzuli sono anche
+
+504
+00:18:50,470 --> 00:18:55,720
+troppi cioè non mi servono
+
+505
+00:18:52,330 --> 00:18:57,880
+ed è così 8 diamanti tirarmene di più è
+
+506
+00:18:55,720 --> 00:18:59,890
+certa il mio amichetto con un po ma ora
+
+507
+00:18:57,880 --> 00:19:01,660
+in po ti dico non mi interessa via
+
+508
+00:18:59,890 --> 00:19:03,780
+proseguiamo per la nostra strada
+
+509
+00:19:01,660 --> 00:19:05,860
+vi dirò questo diciamo così diciamo così
+
+510
+00:19:03,780 --> 00:19:08,230
+scaviamo andiamo di qualche che ti
+
+511
+00:19:05,860 --> 00:19:10,900
+lascia il laghetto di lava e prova a
+
+512
+00:19:08,230 --> 00:19:13,390
+scavare un po signori vi vedo cosa
+
+513
+00:19:10,900 --> 00:19:15,280
+riesco a trovare perché sto blaterando
+
+514
+00:19:13,390 --> 00:19:16,990
+da mezz'ora lo so che molti piacciono
+
+515
+00:19:15,280 --> 00:19:18,880
+questi video ma ad altri no
+
+516
+00:19:16,990 --> 00:19:21,520
+quindi visto che so già che ciò il mio
+
+517
+00:19:18,880 --> 00:19:24,010
+fan club del progresso e che dice no
+
+518
+00:19:21,520 --> 00:19:24,580
+sono è fatto abbastanza oggi e mi metto
+
+519
+00:19:24,010 --> 00:19:26,980
+a trovare
+
+520
+00:19:24,580 --> 00:19:29,380
+un po di diamanti signori e vedo vedo
+
+521
+00:19:26,980 --> 00:19:31,390
+che punto arrivò tasse cioè se scavo
+
+522
+00:19:29,380 --> 00:19:35,860
+così non sto facendo altro che scavare
+
+523
+00:19:31,390 --> 00:19:39,130
+in orizzontale cioè normale solo per
+
+524
+00:19:35,860 --> 00:19:40,960
+terra non è il massimo vero pressione al
+
+525
+00:19:39,130 --> 00:19:43,029
+massimo trovato altri avanti stavano a
+
+526
+00:19:40,960 --> 00:19:45,100
+fare la copertina per questo video ha
+
+527
+00:19:43,029 --> 00:19:47,230
+fatto apparire perché sembra che sono
+
+528
+00:19:45,100 --> 00:19:49,149
+nuotando solo che non sto nuotando
+
+529
+00:19:47,230 --> 00:19:51,100
+io non vorrei che questo fosse ancora un
+
+530
+00:19:49,149 --> 00:19:53,649
+glitch il alta e se come potrebbe
+
+531
+00:19:51,100 --> 00:19:55,539
+esserlo un glitch e dico anzi piacerebbe
+
+532
+00:19:53,649 --> 00:19:56,799
+arrivare con le mani unite così per
+
+533
+00:19:55,539 --> 00:20:02,350
+farla copertina qui dobbiamo andare un
+
+534
+00:19:56,799 --> 00:20:05,590
+pò indietro e poi va avanti
+
+535
+00:20:02,350 --> 00:20:07,029
+no ci accontenteremo di questa una bella
+
+536
+00:20:05,590 --> 00:20:08,980
+copertina facetime so che sono due
+
+537
+00:20:07,029 --> 00:20:11,380
+diamanti file coperti ragazzi è sempre
+
+538
+00:20:08,980 --> 00:20:16,269
+complicato a malapena questa bella
+
+539
+00:20:11,380 --> 00:20:17,860
+copertina o due o tre di lusso
+
+540
+00:20:16,269 --> 00:20:20,559
+basta che di qui la quantità di ferro
+
+541
+00:20:17,860 --> 00:20:23,049
+che io sto trovando cioè non ha senso
+
+542
+00:20:20,559 --> 00:20:24,460
+soggetti potre stack e passa questo
+
+543
+00:20:23,049 --> 00:20:26,679
+contenimento e rapido forse il terzo
+
+544
+00:20:24,460 --> 00:20:28,419
+step pro gest tutta staff coop
+
+545
+00:20:26,679 --> 00:20:29,639
+stroncando d'inventario ti giuro mi dà
+
+546
+00:20:28,419 --> 00:20:33,850
+un fastidio
+
+547
+00:20:29,639 --> 00:20:35,740
+con questi siamo al terzo terzo stack di
+
+548
+00:20:33,850 --> 00:20:38,470
+ferro prevedibile erano tutte ste vene
+
+549
+00:20:35,740 --> 00:20:39,639
+incredibili porto di roba e già che ci
+
+550
+00:20:38,470 --> 00:20:40,899
+sono ragazzi siamo qui stiamo parlando
+
+551
+00:20:39,639 --> 00:20:43,360
+lo so che ho detto di aver fatto un po
+
+552
+00:20:40,899 --> 00:20:46,019
+di progresso ma ho voglia di parlare
+
+553
+00:20:43,360 --> 00:20:48,399
+oggi quindi questo tipo mezzo podcast
+
+554
+00:20:46,019 --> 00:20:48,940
+questo weekend prima di partire per il
+
+555
+00:20:48,399 --> 00:20:50,559
+weekend
+
+556
+00:20:48,940 --> 00:20:52,899
+ho iniziato a stringere things curato un
+
+557
+00:20:50,559 --> 00:20:55,000
+po in treno un po durante la sera
+
+558
+00:20:52,899 --> 00:20:57,639
+durante il week end e al ritorno ho
+
+559
+00:20:55,000 --> 00:20:59,350
+guardato l'ultimo episodio in terreno e
+
+560
+00:20:57,639 --> 00:21:01,149
+lo ha finto di volare in m se ne gestice
+
+561
+00:20:59,350 --> 00:21:02,740
+della terza stagione non farò spoiler
+
+562
+00:21:01,149 --> 00:21:03,940
+ovviamente come potuti immaginare che
+
+563
+00:21:02,740 --> 00:21:08,500
+non sono figli di puttana
+
+564
+00:21:03,940 --> 00:21:10,360
+però volevo fare diciamo un piccolo
+
+565
+00:21:08,500 --> 00:21:13,779
+plauso mi è piaciuta molto la terza
+
+566
+00:21:10,360 --> 00:21:14,860
+stagione forse più della seconda la
+
+567
+00:21:13,779 --> 00:21:16,660
+prima
+
+568
+00:21:14,860 --> 00:21:18,549
+allora della prima non mi ricordo manco
+
+569
+00:21:16,660 --> 00:21:20,500
+benissimo la prima però la terza è
+
+570
+00:21:18,549 --> 00:21:23,020
+davvero bella
+
+571
+00:21:20,500 --> 00:21:24,220
+un botto di attori lo rivalutati a
+
+572
+00:21:23,020 --> 00:21:26,260
+livello attoriale
+
+573
+00:21:24,220 --> 00:21:29,679
+tanta roba figa a livello di storia è
+
+574
+00:21:26,260 --> 00:21:32,830
+scritta bene ci sono solo le solite cose
+
+575
+00:21:29,679 --> 00:21:35,530
+non mi piacciono distruggersi tipo non
+
+576
+00:21:32,830 --> 00:21:37,570
+so dirle e basta
+
+577
+00:21:35,530 --> 00:21:39,670
+niente volevo dirvelo ora ci vediamo
+
+578
+00:21:37,570 --> 00:21:41,380
+quanto però altri diamanti spero spero
+
+579
+00:21:39,670 --> 00:21:43,750
+perché sto scrivendo comunque da
+
+580
+00:21:41,380 --> 00:21:44,440
+mezz'ora anche se non sono tutte le
+
+581
+00:21:43,750 --> 00:21:46,540
+emozioni
+
+582
+00:21:44,440 --> 00:21:49,540
+e invece no le usate quasi tutte or
+
+583
+00:21:46,540 --> 00:21:51,669
+cavalca ci credo ho ritrovato un mio
+
+584
+00:21:49,540 --> 00:21:54,160
+vecchio percorso ha detto andiamo
+
+585
+00:21:51,669 --> 00:21:55,870
+indietro credo che succede diamo usiamo
+
+586
+00:21:54,160 --> 00:21:59,559
+l'ultima posizione velocità tra l'altro
+
+587
+00:21:55,870 --> 00:22:02,710
+let's go beaches nice
+
+588
+00:21:59,559 --> 00:22:07,150
+allora spetta stai calmo vediamo di
+
+589
+00:22:02,710 --> 00:22:10,720
+lusso quanti sono sopra anche ok non
+
+590
+00:22:07,150 --> 00:22:14,370
+sono tre no aspetta aspetta larice
+
+591
+00:22:10,720 --> 00:22:18,160
+neanche di qua sono 2x2
+
+592
+00:22:14,370 --> 00:22:20,950
+ok è classico da 5 allora qua sotto si
+
+593
+00:22:18,160 --> 00:22:25,210
+sa nient'altro ma eccolo da 6 dai ti
+
+594
+00:22:20,950 --> 00:22:26,860
+prego david i diamanti voglio portare un
+
+595
+00:22:25,210 --> 00:22:29,470
+po di davanti a casa così in arrivo le
+
+596
+00:22:26,860 --> 00:22:31,690
+comunali hai fatto di al 5 va beh meglio
+
+597
+00:22:29,470 --> 00:22:34,570
+di niente da ambiti tutto va in piccole
+
+598
+00:22:31,690 --> 00:22:35,740
+con fortuna io credo in te beh 25
+
+599
+00:22:34,570 --> 00:22:38,559
+diamanti
+
+600
+00:22:35,740 --> 00:22:40,780
+meglio di niente poco ma sicuro possiamo
+
+601
+00:22:38,559 --> 00:22:42,429
+concludere una cosa di certo che
+
+602
+00:22:40,780 --> 00:22:44,110
+nonostante tutto quello che si dica
+
+603
+00:22:42,429 --> 00:22:45,910
+statistica con statistica comunque ci
+
+604
+00:22:44,110 --> 00:22:47,320
+vuole una buona dose di culo perché
+
+605
+00:22:45,910 --> 00:22:49,330
+l'altra volta con uno per uno attuato un
+
+606
+00:22:47,320 --> 00:22:52,030
+botto i diamanti ma perché ho avuto culo
+
+607
+00:22:49,330 --> 00:22:54,160
+ora hanno trovati non tantissimi ma c'è
+
+608
+00:22:52,030 --> 00:22:55,660
+il doppio tour dove cacchio son finito
+
+609
+00:22:54,160 --> 00:22:59,890
+andiamo di qua mente più comodo non
+
+610
+00:22:55,660 --> 00:23:05,110
+sprechi torce non sprechi cibo che è una
+
+611
+00:22:59,890 --> 00:23:08,080
+grande cosa però i vari diamanti dipende
+
+612
+00:23:05,110 --> 00:23:10,330
+la trota ho avuto culo ora un po meno si
+
+613
+00:23:08,080 --> 00:23:13,510
+son 25 diamanti non sono pochi mezzo
+
+614
+00:23:10,330 --> 00:23:15,790
+star però poteva andarmi meglio ecco
+
+615
+00:23:13,510 --> 00:23:17,890
+stessa storia stessa storia dei primati
+
+616
+00:23:15,790 --> 00:23:19,360
+dicevo dei blog l'asticella lo scorso
+
+617
+00:23:17,890 --> 00:23:21,730
+scorso video trovato un botto di
+
+618
+00:23:19,360 --> 00:23:23,080
+diamanti così era quasi uno stack no lei
+
+619
+00:23:21,730 --> 00:23:25,270
+non mi ricordo ha usato un botto di
+
+620
+00:23:23,080 --> 00:23:27,429
+diamanti mi pare ora tu altrimenti 5 non
+
+621
+00:23:25,270 --> 00:23:28,210
+mi bastano comunque tanti 25 diamanti
+
+622
+00:23:27,429 --> 00:23:31,630
+non si cade
+
+623
+00:23:28,210 --> 00:23:32,380
+standard e poi è normale che definisce
+
+624
+00:23:31,630 --> 00:23:34,600
+la merda
+
+625
+00:23:32,380 --> 00:23:38,140
+ok siamo attenti so perché della lava
+
+626
+00:23:34,600 --> 00:23:41,170
+ciò che un bello illuminato signore io
+
+627
+00:23:38,140 --> 00:23:42,580
+penso che mi metterò a cercare altri
+
+628
+00:23:41,170 --> 00:23:45,190
+diamanti più alto perché non ha certo
+
+629
+00:23:42,580 --> 00:23:47,770
+finire quella cacchio di enchanting the
+
+630
+00:23:45,190 --> 00:23:50,350
+ball enorme spero di trovarne di più ma
+
+631
+00:23:47,770 --> 00:23:53,650
+comunque mezzo stack non è male stiamo
+
+632
+00:23:50,350 --> 00:23:58,650
+attenti a non cadere non uscire dalla
+
+633
+00:23:53,650 --> 00:24:01,120
+caverna bar da una miniera abbandonata
+
+634
+00:23:58,650 --> 00:24:03,130
+guarda un po te ma dove cacchio su
+
+635
+00:24:01,120 --> 00:24:04,960
+finito da notare quanto è bello avere
+
+636
+00:24:03,130 --> 00:24:06,340
+depp stryder ragazzi che cammina e
+
+637
+00:24:04,960 --> 00:24:08,650
+l'acqua come se non fosse niente
+
+638
+00:24:06,340 --> 00:24:09,880
+bellissimo sensazione più bella del
+
+639
+00:24:08,650 --> 00:24:12,690
+mondo soprattutto quando ci ha abituato
+
+640
+00:24:09,880 --> 00:24:17,020
+invece a dover far fatica
+
+641
+00:24:12,690 --> 00:24:21,000
+vai così grande miniera abbandonata 123
+
+642
+00:24:17,020 --> 00:24:23,770
+di russo siamo a 32 mezzo staff preciso
+
+643
+00:24:21,000 --> 00:24:26,980
+grazie viene abbandonata ti voglio bene
+
+644
+00:24:23,770 --> 00:24:30,330
+cos'altro di qua un altro belga vantino
+
+645
+00:24:26,980 --> 00:24:33,190
+pensione su di time meglio amantino
+
+646
+00:24:30,330 --> 00:24:35,950
+diamanti intendiamo in tempo non va bene
+
+647
+00:24:33,190 --> 00:24:37,870
+dovrei farmi delle torce perché quando
+
+648
+00:24:35,950 --> 00:24:40,720
+vado in caverna normale ovviamente hai
+
+649
+00:24:37,870 --> 00:24:42,670
+bisogno di torce diciamo così così e
+
+650
+00:24:40,720 --> 00:24:44,800
+così quale mezzo stack mi sembra più che
+
+651
+00:24:42,670 --> 00:24:47,860
+su e bay play un attimino stamira
+
+652
+00:24:44,800 --> 00:24:50,910
+abbandonata ma non mi sembra un gran che
+
+653
+00:24:47,860 --> 00:24:54,700
+ti dirò la verità un diamanti let's go
+
+654
+00:24:50,910 --> 00:24:57,070
+beta 2 di lusso
+
+655
+00:24:54,700 --> 00:24:58,810
+cos'è st botta di culo improvvisa qua
+
+656
+00:24:57,070 --> 00:25:02,860
+c'è troppa lava per i miei gusti siamo
+
+657
+00:24:58,810 --> 00:25:04,630
+attenti una caverna che continua io
+
+658
+00:25:02,860 --> 00:25:05,430
+ripeto non ha più mm avevo io stia
+
+659
+00:25:04,630 --> 00:25:07,990
+andando
+
+660
+00:25:05,430 --> 00:25:12,190
+fortunatamente non ci sono mob non so
+
+661
+00:25:07,990 --> 00:25:14,290
+perché ecco l'ho detto mori po volevo
+
+662
+00:25:12,190 --> 00:25:15,880
+fine di esplorare è la media abbandonata
+
+663
+00:25:14,290 --> 00:25:18,250
+perché speravo ci fosse una cesta ma a
+
+664
+00:25:15,880 --> 00:25:20,140
+quanto pare la giusta non ci sta
+
+665
+00:25:18,250 --> 00:25:22,000
+in compenso stato dei diamanti quindi
+
+666
+00:25:20,140 --> 00:25:23,530
+direi che siamo pari
+
+667
+00:25:22,000 --> 00:25:26,170
+grazie minecraft di questo regalino
+
+668
+00:25:23,530 --> 00:25:28,750
+vediamo solo di qua se si scende magari
+
+669
+00:25:26,170 --> 00:25:29,980
+c'è qualche roba e continua qualche
+
+670
+00:25:28,750 --> 00:25:32,920
+parte
+
+671
+00:25:29,980 --> 00:25:36,510
+no no quanto pare no siamo proprio
+
+672
+00:25:32,920 --> 00:25:39,190
+finiti così in un posto creare una luce
+
+673
+00:25:36,510 --> 00:25:41,550
+un vicolo buio
+
+674
+00:25:39,190 --> 00:25:44,050
+qua si sale a continua allora
+
+675
+00:25:41,550 --> 00:25:47,740
+ricevete fare una cesta perlomeno dai
+
+676
+00:25:44,050 --> 00:25:49,540
+una bella cesta con dei diamanti silivri
+
+677
+00:25:47,740 --> 00:25:52,690
+pure della ceste diamanti qualche
+
+678
+00:25:49,540 --> 00:25:54,460
+problema un botto per questo ho parlato
+
+679
+00:25:52,690 --> 00:25:56,830
+un botto quindi dura un botto isolato
+
+680
+00:25:54,460 --> 00:25:59,470
+taglio tanto ma quando paese non puoi
+
+681
+00:25:56,830 --> 00:26:00,970
+tagliare tutto il pezzo nè intero oggi
+
+682
+00:25:59,470 --> 00:26:03,370
+sono già stato fitto e torce ho
+
+683
+00:26:00,970 --> 00:26:06,280
+assolutamente finito le torce c'è uno
+
+684
+00:26:03,370 --> 00:26:08,350
+stack in 3d torceva che è meglio ad
+
+685
+00:26:06,280 --> 00:26:11,710
+esempio generali sono pronti a uccidermi
+
+686
+00:26:08,350 --> 00:26:15,460
+mamma mia se muoio io li odio sti cosi
+
+687
+00:26:11,710 --> 00:26:19,390
+code magnetti d'estate gli azzurri a
+
+688
+00:26:15,460 --> 00:26:21,910
+casa mi vuole bene non vuole farvi nulla
+
+689
+00:26:19,390 --> 00:26:23,710
+non avvelenate lo per favore
+
+690
+00:26:21,910 --> 00:26:27,160
+sta solo cercando una cesta che cerca di
+
+691
+00:26:23,710 --> 00:26:28,840
+diamanti va bene c'è nessuno ma ti dirò
+
+692
+00:26:27,160 --> 00:26:31,120
+questa miniera abbandonata non mi ispira
+
+693
+00:26:28,840 --> 00:26:34,450
+tantissimo mi ha fatto che cos'è 4
+
+694
+00:26:31,120 --> 00:26:35,680
+diamanti 5 diamanti mori un po speravo
+
+695
+00:26:34,450 --> 00:26:37,660
+meglio
+
+696
+00:26:35,680 --> 00:26:40,660
+speravo meglio se avete strutture un
+
+697
+00:26:37,660 --> 00:26:42,280
+altro sapone questo potrebbe essere
+
+698
+00:26:40,660 --> 00:26:46,540
+leggermente impegnativo e rompiamo
+
+699
+00:26:42,280 --> 00:26:48,400
+espone scendere e di lancia un'altra
+
+700
+00:26:46,540 --> 00:26:50,800
+struttura ok mi sembra abbastanza grande
+
+701
+00:26:48,400 --> 00:26:52,510
+in realtà pensava fosse deludente mi
+
+702
+00:26:50,800 --> 00:26:54,730
+devo ricredere perché qua continua un
+
+703
+00:26:52,510 --> 00:26:58,030
+botto la lava vicino al legno ottima
+
+704
+00:26:54,730 --> 00:27:01,840
+scelta minecraft sempre un jet a una
+
+705
+00:26:58,030 --> 00:27:04,480
+cesta e uno spoiler di zombie guarda un
+
+706
+00:27:01,840 --> 00:27:08,590
+po te sta pur dirittura la gang quindi
+
+707
+00:27:04,480 --> 00:27:10,990
+doppia cesta incredibile di lusso oggi
+
+708
+00:27:08,590 --> 00:27:14,370
+signori allora però prima la cesta quale
+
+709
+00:27:10,990 --> 00:27:16,600
+main kart in cui abbiamo delle nei tag
+
+710
+00:27:14,370 --> 00:27:18,790
+unanimità scherzavo la prendiamo le
+
+711
+00:27:16,600 --> 00:27:21,810
+rotaie non ci interessano perché li
+
+712
+00:27:18,790 --> 00:27:24,750
+abbiamo gratis grazie a duplicatore
+
+713
+00:27:21,810 --> 00:27:26,950
+andiamo insieme queste qua dentro e ora
+
+714
+00:27:24,750 --> 00:27:27,490
+bisogna aprire questa vediamo che
+
+715
+00:27:26,950 --> 00:27:32,140
+succede
+
+716
+00:27:27,490 --> 00:27:35,380
+321 boom un po di ferro non ci interessa
+
+717
+00:27:32,140 --> 00:27:37,270
+abbiamo quasi 3 stack ossa non ci
+
+718
+00:27:35,380 --> 00:27:39,430
+interessano meno interessante in realtà
+
+719
+00:27:37,270 --> 00:27:41,350
+potrebbe nella sella a mantener già a
+
+720
+00:27:39,430 --> 00:27:43,180
+casa
+
+721
+00:27:41,350 --> 00:27:45,580
+beh ma nulla di che
+
+722
+00:27:43,180 --> 00:27:47,980
+signori ma da questo spooner io direi
+
+723
+00:27:45,580 --> 00:27:50,170
+che posso salutarvi per questo video è
+
+724
+00:27:47,980 --> 00:27:52,570
+tutto ci vediamo prossimamente su canale
+
+725
+00:27:50,170 --> 00:27:54,400
+con alti più di minecraft ita e di altre
+
+726
+00:27:52,570 --> 00:27:56,140
+tremila cose e
+
+727
+00:27:54,400 --> 00:27:58,480
+se qualche commento va sotto darà
+
+728
+00:27:56,140 --> 00:27:59,830
+ispirazione anche qualche blog
+
+729
+00:27:58,480 --> 00:28:02,520
+se veramente tutto e vi saluto ciao
+
+730
+00:27:59,830 --> 00:28:02,520
+tutti
+
+731
+00:28:05,420 --> 00:28:20,839
+[Musica]

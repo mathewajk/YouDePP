@@ -1,0 +1,1287 @@
+1
+00:00:00,000 --> 00:00:04,950
+ciao a tutti che ciotti e benvenuti in
+
+2
+00:00:01,560 --> 00:00:06,690
+questo nuovissimo video di minecraft è
+
+3
+00:00:04,950 --> 00:00:08,880
+da due settimane che non ha prima
+
+4
+00:00:06,690 --> 00:00:11,219
+minecraft è oggi andremo a vedere
+
+5
+00:00:08,880 --> 00:00:12,840
+insieme le modifiche che hanno aggiunto
+
+6
+00:00:11,219 --> 00:00:15,870
+alle ultime due settimane faccia usciti
+
+7
+00:00:12,840 --> 00:00:17,400
+due snapshot ma non solo andremo a fare
+
+8
+00:00:15,870 --> 00:00:19,260
+un esperimento che avete visto dal
+
+9
+00:00:17,400 --> 00:00:20,939
+titolo prima di fare ciò voglio
+
+10
+00:00:19,260 --> 00:00:24,180
+ricordarvi che questo weekend sabato e
+
+11
+00:00:20,939 --> 00:00:24,660
+domenica io ai miei saremmo al games
+
+12
+00:00:24,180 --> 00:00:27,240
+week
+
+13
+00:00:24,660 --> 00:00:28,349
+ci troviamo nel padiglione 12 vi dico
+
+14
+00:00:27,240 --> 00:00:31,140
+anche un numero dello stand perché
+
+15
+00:00:28,349 --> 00:00:34,260
+stranamente ce lo stand a 0 3 del
+
+16
+00:00:31,140 --> 00:00:36,180
+padiglione 12sima web star channel ci
+
+17
+00:00:34,260 --> 00:00:39,000
+siamo noi mesi saranno anche altri
+
+18
+00:00:36,180 --> 00:00:41,340
+youtuber e cosa non meno importante allo
+
+19
+00:00:39,000 --> 00:00:43,200
+stand avremo anche uno spazio in cui
+
+20
+00:00:41,340 --> 00:00:45,600
+venderemo alcuni gadget
+
+21
+00:00:43,200 --> 00:00:49,110
+vi dico solo ma signor cavallo ma per
+
+22
+00:00:45,600 --> 00:00:54,140
+caso e un mista scopo che cosa sia il
+
+23
+00:00:49,110 --> 00:00:56,750
+cavallo si devi no ti vuoi le basi e
+
+24
+00:00:54,140 --> 00:01:00,270
+canzo sono cicciolina ne venga il cazzo
+
+25
+00:00:56,750 --> 00:01:01,890
+da marzo a maggio è questa non è
+
+26
+00:01:00,270 --> 00:01:05,369
+violenza sugli animali animale che fa
+
+27
+00:01:01,890 --> 00:01:09,330
+violenza su di me ma io stavo dicendo ci
+
+28
+00:01:05,369 --> 00:01:10,950
+saranno anche dei gadget 9 non posso
+
+29
+00:01:09,330 --> 00:01:12,240
+sposare niente perché saranno anche
+
+30
+00:01:10,950 --> 00:01:13,979
+davvero davvero pochi quindi
+
+31
+00:01:12,240 --> 00:01:16,950
+probabilmente finiranno subito
+
+32
+00:01:13,979 --> 00:01:18,450
+ecco chi va lì saprà parte gadget
+
+33
+00:01:16,950 --> 00:01:20,430
+dovrebbe esserci già da venerdì anche se
+
+34
+00:01:18,450 --> 00:01:22,650
+non ci sono venerdì spero che bastino
+
+35
+00:01:20,430 --> 00:01:24,330
+tutto il weekend non basteranno mai ce
+
+36
+00:01:22,650 --> 00:01:25,979
+l'avevi suite ragazzi mi raccomando non
+
+37
+00:01:24,330 --> 00:01:27,570
+mancate mai tipo il quinto il sesto anno
+
+38
+00:01:25,979 --> 00:01:29,220
+di fila che andiamo al games week quindi
+
+39
+00:01:27,570 --> 00:01:31,340
+è un appuntamento fisso
+
+40
+00:01:29,220 --> 00:01:34,650
+allora in realtà se dobbiamo parlare di
+
+41
+00:01:31,340 --> 00:01:37,380
+aggiornamenti di aggiunte a minecraft in
+
+42
+00:01:34,650 --> 00:01:39,750
+questi snap shot non è che siamo molto
+
+43
+00:01:37,380 --> 00:01:41,250
+felici perché hanno risolto dei bug
+
+44
+00:01:39,750 --> 00:01:44,490
+anche se a me in questa versione è
+
+45
+00:01:41,250 --> 00:01:46,049
+sinceramente non sembra mi legava tutto
+
+46
+00:01:44,490 --> 00:01:48,149
+mentre faccio cose mi la cava davvero
+
+47
+00:01:46,049 --> 00:01:51,290
+davvero tutto ed ha problemi a caricare
+
+48
+00:01:48,149 --> 00:01:54,600
+i cianca a proposito quando riformattato
+
+49
+00:01:51,290 --> 00:01:56,399
+alla parte di linguaggio che utilizzo di
+
+50
+00:01:54,600 --> 00:01:57,990
+programmazione di minecraft che riguarda
+
+51
+00:01:56,399 --> 00:02:00,509
+il logging dei chan che quindi il
+
+52
+00:01:57,990 --> 00:02:00,990
+caricamento le cose stan facendo il loro
+
+53
+00:02:00,509 --> 00:02:03,509
+meglio
+
+54
+00:02:00,990 --> 00:02:05,430
+me ne rendo conto però in questi
+
+55
+00:02:03,509 --> 00:02:09,500
+snapshot siamo ancora in alto mare
+
+56
+00:02:05,430 --> 00:02:11,790
+secondo me comunque allora cambiamenti
+
+57
+00:02:09,500 --> 00:02:13,560
+aggiunto cose che ci sono in altre le
+
+58
+00:02:11,790 --> 00:02:16,440
+sue di mine kart ma che mancava
+
+59
+00:02:13,560 --> 00:02:18,420
+le barche utilizzate come carburante e
+
+60
+00:02:16,440 --> 00:02:21,180
+smetta fino a sei oggetti in una fornace
+
+61
+00:02:18,420 --> 00:02:23,489
+i fuochi quindi che i file possono
+
+62
+00:02:21,180 --> 00:02:26,010
+essere spenti anche con una pala
+
+63
+00:02:23,489 --> 00:02:26,580
+non sapevo cioè non vedo ok va bene
+
+64
+00:02:26,010 --> 00:02:28,230
+grazie
+
+65
+00:02:26,580 --> 00:02:31,739
+cioè se ho capito sono piccole cose così
+
+66
+00:02:28,230 --> 00:02:36,209
+e quando asp e cos'è che dice lo spawn
+
+67
+00:02:31,739 --> 00:02:37,709
+hanno degli animali che sono animali che
+
+68
+00:02:36,209 --> 00:02:39,810
+possono essere accoppiati tra di loro
+
+69
+00:02:37,709 --> 00:02:43,380
+c'è una piccola possibilità che nascano
+
+70
+00:02:39,810 --> 00:02:46,200
+anche dei cuccioli che è una cosa che se
+
+71
+00:02:43,380 --> 00:02:48,750
+non erro già funzionava a quanto pace
+
+72
+00:02:46,200 --> 00:02:50,160
+che già c'era a quanto pare mi sbagliavo
+
+73
+00:02:48,750 --> 00:02:52,860
+e ora c'è quindi potremmo possiamo
+
+74
+00:02:50,160 --> 00:02:55,140
+trovare anche tipo dei baby maiali o dei
+
+75
+00:02:52,860 --> 00:02:56,610
+baby cavalli è roba di questo tipo
+
+76
+00:02:55,140 --> 00:02:58,890
+quando spongano in giro per il mondo
+
+77
+00:02:56,610 --> 00:03:01,769
+sarebbero anche altre cose ma per lo più
+
+78
+00:02:58,890 --> 00:03:03,360
+sono bug che vengono fissati e
+
+79
+00:03:01,769 --> 00:03:06,209
+nient'altro
+
+80
+00:03:03,360 --> 00:03:08,310
+ricordo che per il momento la giunta più
+
+81
+00:03:06,209 --> 00:03:11,459
+grande che hanno fatto in questa sede di
+
+82
+00:03:08,310 --> 00:03:14,180
+snapshot sono questi aggeggi iniqua cioè
+
+83
+00:03:11,459 --> 00:03:16,590
+le api questa tra l'altro la vedo bella
+
+84
+00:03:14,180 --> 00:03:18,329
+ferma ecco per l'appunto vedete che sta
+
+85
+00:03:16,590 --> 00:03:19,530
+dicendo ci sono i vostri problemi da
+
+86
+00:03:18,329 --> 00:03:21,359
+perché questa prossima volta che anche
+
+87
+00:03:19,530 --> 00:03:23,370
+questa non si muove i fiori ci sono solo
+
+88
+00:03:21,359 --> 00:03:26,010
+in fondo vale apprendere no pigalle ne
+
+89
+00:03:23,370 --> 00:03:28,040
+trae lo digerisce lo trasformi in miele
+
+90
+00:03:26,010 --> 00:03:30,600
+e poi io me lo mangio funziona così
+
+91
+00:03:28,040 --> 00:03:33,180
+comportati come devi comportarti età che
+
+92
+00:03:30,600 --> 00:03:35,340
+provare a colpirla non fa niente non lo
+
+93
+00:03:33,180 --> 00:03:37,950
+so non lo so li vedo un po inermi queste
+
+94
+00:03:35,340 --> 00:03:40,049
+queste apette comunque come avete visto
+
+95
+00:03:37,950 --> 00:03:43,200
+dal titolo basta ciance basta parlare di
+
+96
+00:03:40,049 --> 00:03:44,940
+cose inutili cime dobbiamo mettere asset
+
+97
+00:03:43,200 --> 00:03:46,980
+appare un duello
+
+98
+00:03:44,940 --> 00:03:48,690
+sono curioso ho visto un video una
+
+99
+00:03:46,980 --> 00:03:50,700
+copertina di un video in cui ci ha
+
+100
+00:03:48,690 --> 00:03:53,340
+scritto un leader contro
+
+101
+00:03:50,700 --> 00:03:55,170
+ap non l'ho neanche aperto perché non
+
+102
+00:03:53,340 --> 00:03:58,319
+voglio sapere qual è il risultato
+
+103
+00:03:55,170 --> 00:03:59,639
+secondo me fincher with her però già il
+
+104
+00:03:58,319 --> 00:04:02,190
+fatto che uno ci ha fatto il video
+
+105
+00:03:59,639 --> 00:04:05,329
+magari l'approvato evincono le api
+
+106
+00:04:02,190 --> 00:04:07,380
+quindi senza troppe ciance andremo a
+
+107
+00:04:05,329 --> 00:04:09,120
+scoprirlo andremo a vedere se
+
+108
+00:04:07,380 --> 00:04:10,440
+effettivamente funziona o meno ora so
+
+109
+00:04:09,120 --> 00:04:12,269
+che non è bellissimo ma ho costruito
+
+110
+00:04:10,440 --> 00:04:13,920
+ecco vede che la do arrivata che rompo
+
+111
+00:04:12,269 --> 00:04:15,810
+un blocco ora non so se tutto solo con
+
+112
+00:04:13,920 --> 00:04:18,510
+la band rock però ogni volta che rompo
+
+113
+00:04:15,810 --> 00:04:20,820
+un blocco far da anni fa distimico lag
+
+114
+00:04:18,510 --> 00:04:21,419
+davvero davvero brutti e non capisco il
+
+115
+00:04:20,820 --> 00:04:23,280
+motivo
+
+116
+00:04:21,419 --> 00:04:25,770
+ad ogni modo stavo dicendo ho conosciuto
+
+117
+00:04:23,280 --> 00:04:27,090
+questa arena che è davvero brutta ne
+
+118
+00:04:25,770 --> 00:04:29,190
+sono consapevole
+
+119
+00:04:27,090 --> 00:04:31,590
+ma purtroppo ho scaricato delle mappe
+
+120
+00:04:29,190 --> 00:04:33,360
+belli in cui c'è un arena figlia però il
+
+121
+00:04:31,590 --> 00:04:35,330
+nome la prima tech problemi questi
+
+122
+00:04:33,360 --> 00:04:37,729
+snapshot di questo snapshots quindi
+
+123
+00:04:35,330 --> 00:04:40,710
+allora come fare
+
+124
+00:04:37,729 --> 00:04:45,350
+io direi che possiamo suonare per
+
+125
+00:04:40,710 --> 00:04:49,410
+capirci intanto un po di api le api sono
+
+126
+00:04:45,350 --> 00:04:52,110
+neutrali ma se riempi il cazzo che
+
+127
+00:04:49,410 --> 00:04:55,650
+attaccano ora in teoria ti danno veleno
+
+128
+00:04:52,110 --> 00:04:58,889
+quindi non dovrebbero essere in grado di
+
+129
+00:04:55,650 --> 00:05:00,120
+uccidere una persona perché se lo
+
+130
+00:04:58,889 --> 00:05:02,550
+ricordo ma tirano bene non è che ti
+
+131
+00:05:00,120 --> 00:05:05,130
+danno tifando danno fisico come ti fa
+
+132
+00:05:02,550 --> 00:05:06,540
+danno di esplosioni un leader comunque
+
+133
+00:05:05,130 --> 00:05:08,639
+fermo restando che secondo me vince
+
+134
+00:05:06,540 --> 00:05:11,070
+guida allora andiamo avanti però
+
+135
+00:05:08,639 --> 00:05:14,700
+spronano guiderà questo punto quindi sul
+
+136
+00:05:11,070 --> 00:05:20,010
+sun and with her scol
+
+137
+00:05:14,700 --> 00:05:22,229
+in teoria possiamo piazzarli tra il 1700
+
+138
+00:05:20,010 --> 00:05:24,030
+e non so quante api sono però questo è
+
+139
+00:05:22,229 --> 00:05:24,650
+il primo tentativo quindi vediamo che
+
+140
+00:05:24,030 --> 00:05:28,710
+succede
+
+141
+00:05:24,650 --> 00:05:33,030
+ok molto sinceramente forse addirittura
+
+142
+00:05:28,710 --> 00:05:34,919
+l'esplosione potrebbe potrebbe uccidere
+
+143
+00:05:33,030 --> 00:05:36,330
+la maggior parte delle api sono curioso
+
+144
+00:05:34,919 --> 00:05:38,760
+vediamo cosa succede
+
+145
+00:05:36,330 --> 00:05:41,010
+sono morti e tutte sono morte tutte poco
+
+146
+00:05:38,760 --> 00:05:42,810
+tutte tutte tutte va bene faccio un
+
+147
+00:05:41,010 --> 00:05:43,770
+altro tentativo che è meglio il fatto
+
+148
+00:05:42,810 --> 00:05:45,960
+che mi ha fatto esporre tutte le
+
+149
+00:05:43,770 --> 00:05:48,210
+lanterne cagliari abbiamo fare così ho
+
+150
+00:05:45,960 --> 00:05:51,930
+appena creato un muro da questa parte
+
+151
+00:05:48,210 --> 00:05:54,479
+andrò a piazzare il with her anzi si
+
+152
+00:05:51,930 --> 00:05:57,330
+piazzerà prima il leader così non può
+
+153
+00:05:54,479 --> 00:05:58,919
+uscire e fa la sua esplosione e capiamo
+
+154
+00:05:57,330 --> 00:06:01,560
+un attimino cosa succede
+
+155
+00:05:58,919 --> 00:06:05,849
+facciamo 123 facciamo tanto una leader
+
+156
+00:06:01,560 --> 00:06:09,360
+di qua dopo l'esplosione spooner o una
+
+157
+00:06:05,849 --> 00:06:11,010
+manciata di api una manciata una buona
+
+158
+00:06:09,360 --> 00:06:13,229
+quantità di api ora questo sfoglini
+
+159
+00:06:11,010 --> 00:06:15,060
+spaccatutto cravatta un povere delle
+
+160
+00:06:13,229 --> 00:06:18,930
+lampade in casa che ti arriva il guide
+
+161
+00:06:15,060 --> 00:06:20,610
+tele spaak allora primo spalmare un po
+
+162
+00:06:18,930 --> 00:06:22,470
+di apette peso iniziale
+
+163
+00:06:20,610 --> 00:06:24,630
+mi rendo conto che è davvero overpowered
+
+164
+00:06:22,470 --> 00:06:27,960
+comunque okaka ma stanno uscendo tutte
+
+165
+00:06:24,630 --> 00:06:29,930
+ok forse dovrei mettere si ok piano non
+
+166
+00:06:27,960 --> 00:06:35,129
+funziona
+
+167
+00:06:29,930 --> 00:06:38,699
+e uscito come fatto uscire un singolo ma
+
+168
+00:06:35,129 --> 00:06:42,440
+dei tg che guarda lo straw attaccando lo
+
+169
+00:06:38,699 --> 00:06:45,680
+stanno attaccando però che volano tutti
+
+170
+00:06:42,440 --> 00:06:50,159
+o che figata si sta attaccando davvero
+
+171
+00:06:45,680 --> 00:06:54,840
+allora devo resettare l'arena ammazziamo
+
+172
+00:06:50,159 --> 00:06:58,259
+tutti me compreso purtroppo che schifo
+
+173
+00:06:54,840 --> 00:07:02,400
+guarda ogni blocco che piazza e la merda
+
+174
+00:06:58,259 --> 00:07:03,810
+più totale che schifo che schifo come fa
+
+175
+00:07:02,400 --> 00:07:05,669
+essere ottimizzato anche abbassato i
+
+176
+00:07:03,810 --> 00:07:07,500
+junk e caricati ho abbassato il limite
+
+177
+00:07:05,669 --> 00:07:09,000
+del framerate che di chateauroux tengo
+
+178
+00:07:07,500 --> 00:07:10,949
+illimitato ma ora ho dovuto metterlo a
+
+179
+00:07:09,000 --> 00:07:12,180
+60 mentre non partiva un cazzo la
+
+180
+00:07:10,949 --> 00:07:14,729
+mettiamo delle torce anche se poi
+
+181
+00:07:12,180 --> 00:07:15,030
+esploderanno tutte li mettiamo la band
+
+182
+00:07:14,729 --> 00:07:17,340
+rock
+
+183
+00:07:15,030 --> 00:07:21,240
+ok ora abbiamo di qua il nostro
+
+184
+00:07:17,340 --> 00:07:22,620
+amichetto poniamo le api vi dirò ne
+
+185
+00:07:21,240 --> 00:07:24,240
+voglio molto di più di api perché a
+
+186
+00:07:22,620 --> 00:07:27,180
+quanto pare non piccoli a voi sulla più
+
+187
+00:07:24,240 --> 00:07:32,150
+grosse per favore una grande quantità di
+
+188
+00:07:27,180 --> 00:07:36,080
+api ora non può più esplodere in teoria
+
+189
+00:07:32,150 --> 00:07:36,080
+se faccio così
+
+190
+00:07:36,110 --> 00:07:42,050
+porca vacca no si è aperto così scappano
+
+191
+00:07:42,990 --> 00:07:49,200
+sta prendendo il with her ok le api ci
+
+192
+00:07:47,220 --> 00:07:54,030
+sono stanno facendo cose chiudiamo qua
+
+193
+00:07:49,200 --> 00:07:56,460
+prima che scappi la gente per favore sì
+
+194
+00:07:54,030 --> 00:07:58,830
+ma perché tutti sti buchi mannaggia a me
+
+195
+00:07:56,460 --> 00:08:00,410
+che non usare i comandi guide sta
+
+196
+00:07:58,830 --> 00:08:06,330
+subendo un po di danni problema che
+
+197
+00:08:00,410 --> 00:08:07,770
+recupera più di quanto non perda molte
+
+198
+00:08:06,330 --> 00:08:09,660
+api sono ancora vive
+
+199
+00:08:07,770 --> 00:08:12,690
+molte muove ogni volta che esplode dei
+
+200
+00:08:09,660 --> 00:08:15,780
+colpi da notare che se non riuscisse a
+
+201
+00:08:12,690 --> 00:08:18,630
+recuperare la vita probabilmente sarebbe
+
+202
+00:08:15,780 --> 00:08:20,360
+già a metà dei punti vita che ha a
+
+203
+00:08:18,630 --> 00:08:23,190
+disposizione
+
+204
+00:08:20,360 --> 00:08:25,860
+quindi è una battaglia un po persa
+
+205
+00:08:23,190 --> 00:08:28,590
+perché with her contro
+
+206
+00:08:25,860 --> 00:08:32,370
+ap già immaginavo che guiderà avrebbe
+
+207
+00:08:28,590 --> 00:08:34,470
+vinto f devo essere onesto però è stata
+
+208
+00:08:32,370 --> 00:08:44,160
+una bella battaglia riusciamo a chiudere
+
+209
+00:08:34,470 --> 00:08:46,080
+un attimino questo si muove ora però non
+
+210
+00:08:44,160 --> 00:08:47,600
+farlo muovere quindi lo terremo
+
+211
+00:08:46,080 --> 00:08:51,930
+segregato qua dentro
+
+212
+00:08:47,600 --> 00:08:54,540
+e provo a sputargli api a manetta così
+
+213
+00:08:51,930 --> 00:08:58,950
+l'esplosione anche lui può fare è
+
+214
+00:08:54,540 --> 00:09:01,340
+limitata non può colpire tutte le api
+
+215
+00:08:58,950 --> 00:09:03,590
+come ha colpito ora
+
+216
+00:09:01,340 --> 00:09:05,390
+magari qualcuna le prende guarda sotto e
+
+217
+00:09:03,590 --> 00:09:06,350
+rosse su tutte incazzose guarda tutti
+
+218
+00:09:05,390 --> 00:09:08,240
+contro tutti
+
+219
+00:09:06,350 --> 00:09:10,430
+vai così è così non so neanche se
+
+220
+00:09:08,240 --> 00:09:13,430
+riescono a cucirlo vedo che diventa
+
+221
+00:09:10,430 --> 00:09:16,700
+rosso il with her però sinceramente non
+
+222
+00:09:13,430 --> 00:09:19,220
+lo so non vedo ecco andate pure a lei
+
+223
+00:09:16,700 --> 00:09:21,230
+wing chun è perché sono in creative non
+
+224
+00:09:19,220 --> 00:09:23,890
+dovrei non riescono le ha per fargli
+
+225
+00:09:21,230 --> 00:09:26,480
+danno quindi in realtà per quanto
+
+226
+00:09:23,890 --> 00:09:28,550
+l'esclusione sia più limitata dunque le
+
+227
+00:09:26,480 --> 00:09:30,920
+tasche le teste riescono ad andare via
+
+228
+00:09:28,550 --> 00:09:34,940
+bisogna provare a fare il contrario
+
+229
+00:09:30,920 --> 00:09:37,340
+quindi mettere le teste coperte e tenere
+
+230
+00:09:34,940 --> 00:09:39,110
+libero solo un buchetto sotto delle api
+
+231
+00:09:37,340 --> 00:09:42,770
+espongo anche sotto così ma riprendono
+
+232
+00:09:39,110 --> 00:09:47,860
+dandosi incalzano perché siamo si
+
+233
+00:09:42,770 --> 00:09:47,860
+incazzano non attaccano sono pacifiche
+
+234
+00:09:50,499 --> 00:09:56,329
+cioè ci sono un botto di app in sostanza
+
+235
+00:09:53,619 --> 00:09:58,189
+mazzate subite anche ora su tutto
+
+236
+00:09:56,329 --> 00:10:02,119
+incazzate sono tutte cazzate tutte tutte
+
+237
+00:09:58,189 --> 00:10:04,879
+tutte prenderanno guarda allora la barra
+
+238
+00:10:02,119 --> 00:10:07,730
+va giù il problema è che non riesce più
+
+239
+00:10:04,879 --> 00:10:12,649
+a mosca un ancora altre entrate altre
+
+240
+00:10:07,730 --> 00:10:16,160
+api ok sto spronando ad apia a
+
+241
+00:10:12,649 --> 00:10:17,600
+profusione povero idea non è giusto
+
+242
+00:10:16,160 --> 00:10:20,929
+verso di lui però vale soprattutto
+
+243
+00:10:17,600 --> 00:10:23,569
+incazzate sono tutte cazzate alla band
+
+244
+00:10:20,929 --> 00:10:26,569
+rock aiuta l'esclusione nel senso non
+
+245
+00:10:23,569 --> 00:10:28,579
+riesce a fare danno come dovrebbe sono
+
+246
+00:10:26,569 --> 00:10:32,149
+quello di sapere se riusciamo a portarlo
+
+247
+00:10:28,579 --> 00:10:34,189
+al livello dello scudo
+
+248
+00:10:32,149 --> 00:10:36,470
+ora se poi l'attaccante laggiù guardia
+
+249
+00:10:34,189 --> 00:10:38,989
+psico il pungiglione guarda guarda sera
+
+250
+00:10:36,470 --> 00:10:40,910
+sotto il family le alpi aspettiamo tutte
+
+251
+00:10:38,989 --> 00:10:43,249
+qua sotto il nostro punto stanco
+
+252
+00:10:40,910 --> 00:10:47,239
+incazzando incazzatevi mannaggia vista
+
+253
+00:10:43,249 --> 00:10:48,919
+uccidendo a famiglia ammettiamo gente
+
+254
+00:10:47,239 --> 00:10:50,749
+qua dentro perché solo così magari si
+
+255
+00:10:48,919 --> 00:10:54,559
+incazzano davvero stare come una tutta
+
+256
+00:10:50,749 --> 00:10:57,860
+la vita dai incazzatevi eccole
+
+257
+00:10:54,559 --> 00:11:01,699
+eccole le api di satana guarda la vita
+
+258
+00:10:57,860 --> 00:11:03,049
+come va giù guarda la vita come va giù o
+
+259
+00:11:01,699 --> 00:11:05,569
+quasi avete vita ragazzi sono quasi le
+
+260
+00:11:03,049 --> 00:11:08,239
+attività non so neanche quante ap sto
+
+261
+00:11:05,569 --> 00:11:10,429
+facendo spronare però porta vacca se non
+
+262
+00:11:08,239 --> 00:11:13,639
+diventano incazzate non si fa nulla qua
+
+263
+00:11:10,429 --> 00:11:15,829
+forza incazzatevi non posso andar avanti
+
+264
+00:11:13,639 --> 00:11:18,019
+così che arrivavamo un terzo di vita e
+
+265
+00:11:15,829 --> 00:11:20,149
+poi si scattano tele appena sterminato
+
+266
+00:11:18,019 --> 00:11:20,749
+la famiglia incazzatevi bravi bravi
+
+267
+00:11:20,149 --> 00:11:23,389
+bravi bravi
+
+268
+00:11:20,749 --> 00:11:26,239
+spaccano tutto sono quasi quasi mette a
+
+269
+00:11:23,389 --> 00:11:30,230
+vita quasi metà vita dai continuate vai
+
+270
+00:11:26,239 --> 00:11:32,329
+vai o no basta si recuperano non ci
+
+271
+00:11:30,230 --> 00:11:34,489
+credo a questa potrebbe essere violenza
+
+272
+00:11:32,329 --> 00:11:35,839
+su guide tra l'altro è che non so se è
+
+273
+00:11:34,489 --> 00:11:37,160
+legale al cento per cento quello che sto
+
+274
+00:11:35,839 --> 00:11:41,110
+facendo
+
+275
+00:11:37,160 --> 00:11:43,339
+dai vedere lo scudo ecco lo scudo ok ok
+
+276
+00:11:41,110 --> 00:11:47,269
+ora in teoria dovrebbe recuperare le
+
+277
+00:11:43,339 --> 00:11:47,899
+novità alla volta no io non lo so di
+
+278
+00:11:47,269 --> 00:11:52,509
+cosa sto parlando
+
+279
+00:11:47,899 --> 00:11:56,540
+che fatica che fatica ho fatto suonare
+
+280
+00:11:52,509 --> 00:11:58,459
+all'incirca 500 ati ora levane magari
+
+281
+00:11:56,540 --> 00:12:01,490
+una cinquantina sessantina per il primo
+
+282
+00:11:58,459 --> 00:12:04,220
+guide che che ho fatto spronare non ce
+
+283
+00:12:01,490 --> 00:12:05,810
+la stiamo facendo cioè gli organi già
+
+284
+00:12:04,220 --> 00:12:09,439
+stanno facendo che sono più facendo
+
+285
+00:12:05,810 --> 00:12:12,290
+sfumare però comunque riesce recuperati
+
+286
+00:12:09,439 --> 00:12:15,680
+vita non lo so cioè sevirebbero tipo
+
+287
+00:12:12,290 --> 00:12:17,120
+mille ap contro un leader bloccato
+
+288
+00:12:15,680 --> 00:12:18,379
+perché questa cosa importante che
+
+289
+00:12:17,120 --> 00:12:22,100
+guiderebbe bloccato non riesce a
+
+290
+00:12:18,379 --> 00:12:23,810
+muoversi buffo non può scappare cioè
+
+291
+00:12:22,100 --> 00:12:25,939
+sono un po linfa nello è va bene
+
+292
+00:12:23,810 --> 00:12:30,319
+proviamo a liberarlo vediamo che succede
+
+293
+00:12:25,939 --> 00:12:35,720
+sulle liberiamo se gli dei leader non ci
+
+294
+00:12:30,319 --> 00:12:37,910
+son cazzi x nessuno raga io vicino a
+
+295
+00:12:35,720 --> 00:12:39,560
+metà vita però che a pulita non è che
+
+296
+00:12:37,910 --> 00:12:42,380
+alcuni ato si incazzano altre no sono
+
+297
+00:12:39,560 --> 00:12:44,389
+tranquille c'è un guide davanti c'è
+
+298
+00:12:42,380 --> 00:12:47,360
+tiragli in qualcosa addosso una banana
+
+299
+00:12:44,389 --> 00:12:49,610
+non è niente ragazzi è proprio leader
+
+300
+00:12:47,360 --> 00:12:54,920
+il vincitore di questa sfida etica tra
+
+301
+00:12:49,610 --> 00:12:57,500
+api in cui per e cominciamo me lo
+
+302
+00:12:54,920 --> 00:12:58,970
+immaginavo ci sta e ballavano comunque
+
+303
+00:12:57,500 --> 00:13:01,300
+del propriamente del boss più forte che
+
+304
+00:12:58,970 --> 00:13:03,860
+c'è minecraft del genere la vita
+
+305
+00:13:01,300 --> 00:13:06,199
+esclusioni lancia bombe nucleari
+
+306
+00:13:03,860 --> 00:13:08,360
+chi guiderà è bello cazzuto ecco
+
+307
+00:13:06,199 --> 00:13:10,279
+mettiamola così sclete mi qua sotto dei
+
+308
+00:13:08,360 --> 00:13:15,040
+commenti signori se secondo voi è un
+
+309
+00:13:10,279 --> 00:13:19,519
+vero sciame di mille ap contro un leader
+
+310
+00:13:15,040 --> 00:13:21,380
+riescano a ucciderlo secondo me se c'è
+
+311
+00:13:19,519 --> 00:13:24,589
+parità di situazione cioè guida può
+
+312
+00:13:21,380 --> 00:13:28,430
+muoversi no se il leader è bloccato e
+
+313
+00:13:24,589 --> 00:13:30,589
+tutte le api diventano arrabbiate allora
+
+314
+00:13:28,430 --> 00:13:32,809
+sì allora c'è una possibilità comunque
+
+315
+00:13:30,589 --> 00:13:37,009
+per questo video sullo snapshot tutto su
+
+316
+00:13:32,809 --> 00:13:38,449
+questo video di arena tra leader e api è
+
+317
+00:13:37,009 --> 00:13:41,059
+tutto in via santissimo per la visione
+
+318
+00:13:38,449 --> 00:13:42,559
+ci vediamo sul canale con altri video
+
+319
+00:13:41,059 --> 00:13:44,660
+iscrivetevi se il comandate fatto e
+
+320
+00:13:42,559 --> 00:13:46,640
+seguitemi su instagram chiocciola soli
+
+321
+00:13:44,660 --> 00:14:06,840
+io vi saluto ciao tutti
+
+322
+00:13:46,640 --> 00:14:06,840
+[Musica]

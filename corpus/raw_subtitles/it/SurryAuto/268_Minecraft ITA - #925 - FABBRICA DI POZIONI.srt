@@ -1,0 +1,1799 @@
+1
+00:00:00,000 --> 00:00:04,020
+ciao a tutti caciotti e benvenuti in
+
+2
+00:00:01,500 --> 00:00:06,210
+questo nuovissimo video di minecraft ita
+
+3
+00:00:04,020 --> 00:00:08,610
+allora come potete vedere dal mio
+
+4
+00:00:06,210 --> 00:00:11,040
+inventario ma come sicuramente avrete
+
+5
+00:00:08,610 --> 00:00:13,950
+capito anche dal titolo oggi andremo a
+
+6
+00:00:11,040 --> 00:00:16,680
+giocare un po con del resto premessa
+
+7
+00:00:13,950 --> 00:00:18,090
+questa idea che mi ha passato bisunto su
+
+8
+00:00:16,680 --> 00:00:19,680
+instagram si vedeva intanto mi mi
+
+9
+00:00:18,090 --> 00:00:21,810
+scrivete suggerimenti che opera sotto il
+
+10
+00:00:19,680 --> 00:00:24,210
+velo tanto davvero tantissimo e mi ha
+
+11
+00:00:21,810 --> 00:00:25,170
+passato un design di su reeve che sono i
+
+12
+00:00:24,210 --> 00:00:27,930
+ragazzi della red cat
+
+13
+00:00:25,170 --> 00:00:30,869
+per chi non avesse capito che spiegava
+
+14
+00:00:27,930 --> 00:00:33,030
+come realizzare un sistema automatico di
+
+15
+00:00:30,869 --> 00:00:36,239
+pozioni foto a guardarlo molto carino
+
+16
+00:00:33,030 --> 00:00:38,040
+però fin troppo complicato per quello di
+
+17
+00:00:36,239 --> 00:00:40,950
+cui ho bisogno io vi spiego io le
+
+18
+00:00:38,040 --> 00:00:44,100
+pozioni sapete che ho un po tribuna
+
+19
+00:00:40,950 --> 00:00:46,649
+non lo so non è un odio ma è un
+
+20
+00:00:44,100 --> 00:00:48,450
+avversione alle pozioni se proprio non
+
+21
+00:00:46,649 --> 00:00:50,640
+sono necessarie non le voglio usare
+
+22
+00:00:48,450 --> 00:00:53,280
+quindi ho cercato me live su questa idea
+
+23
+00:00:50,640 --> 00:00:54,750
+del fare l'auto produzione cercato la
+
+24
+00:00:53,280 --> 00:00:56,190
+roba più semplice possibile
+
+25
+00:00:54,750 --> 00:00:57,899
+aveva più semplice gara anche facile
+
+26
+00:00:56,190 --> 00:00:59,370
+replicare senza fare super circuiti
+
+27
+00:00:57,899 --> 00:01:02,370
+senza mettere opere sopra sotto a destra
+
+28
+00:00:59,370 --> 00:01:05,070
+a sinistra per una singola porzione e ho
+
+29
+00:01:02,370 --> 00:01:06,390
+trovato un design che sembra carino
+
+30
+00:01:05,070 --> 00:01:07,710
+non so se funziona effettivamente lo
+
+31
+00:01:06,390 --> 00:01:08,970
+devo provare insieme da quello
+
+32
+00:01:07,710 --> 00:01:11,100
+collettore commenti di sotto questo
+
+33
+00:01:08,970 --> 00:01:11,790
+video dovrebbe funzionare e non è
+
+34
+00:01:11,100 --> 00:01:13,650
+difficile
+
+35
+00:01:11,790 --> 00:01:16,020
+incredibilmente non è difficile abbiamo
+
+36
+00:01:13,650 --> 00:01:18,240
+bisogno solo di una cosa e cioè di una
+
+37
+00:01:16,020 --> 00:01:20,970
+zona abbastanza grossa che ho già
+
+38
+00:01:18,240 --> 00:01:23,220
+scavato e ora vi vado a far vedere
+
+39
+00:01:20,970 --> 00:01:24,720
+diventare ci sono un po di blocchi vari
+
+40
+00:01:23,220 --> 00:01:26,520
+mi sono basato un posto tutorial per
+
+41
+00:01:24,720 --> 00:01:28,710
+prendere un po i blocchetti non so se
+
+42
+00:01:26,520 --> 00:01:30,450
+basteranno ma è qua vicino alla zona
+
+43
+00:01:28,710 --> 00:01:33,689
+quindi non è un problema
+
+44
+00:01:30,450 --> 00:01:35,880
+allora cosa mi serve la base della
+
+45
+00:01:33,689 --> 00:01:37,229
+basell auto crafting delle pozioni anche
+
+46
+00:01:35,880 --> 00:01:39,259
+se non è un vero e proprio auto crafting
+
+47
+00:01:37,229 --> 00:01:41,700
+perché comunque sempre semi automatico
+
+48
+00:01:39,259 --> 00:01:43,799
+per le pozioni della velocità
+
+49
+00:01:41,700 --> 00:01:46,320
+voglio provare ad andare a scavare il
+
+50
+00:01:43,799 --> 00:01:48,450
+mondo utilizzando le pozioni dell'auto
+
+51
+00:01:46,320 --> 00:01:50,009
+kraft dell'auto caf della velocità in
+
+52
+00:01:48,450 --> 00:01:52,890
+questo modo immettono mio blocco uno per
+
+53
+00:01:50,009 --> 00:01:53,880
+uno scavo veloce e risolve il problema
+
+54
+00:01:52,890 --> 00:01:57,030
+della lentezza
+
+55
+00:01:53,880 --> 00:02:00,090
+questo per ora è a dove ci siamo messi a
+
+56
+00:01:57,030 --> 00:02:01,619
+fare cose con le pozioni non è molto
+
+57
+00:02:00,090 --> 00:02:05,460
+pratico non è sicuramente molto
+
+58
+00:02:01,619 --> 00:02:08,489
+automatico anzi è molto manuale
+
+59
+00:02:05,460 --> 00:02:11,430
+invece se vado da questa parte troviamo
+
+60
+00:02:08,489 --> 00:02:13,620
+una zona che era inutilizzata e che
+
+61
+00:02:11,430 --> 00:02:15,209
+presto avrà un buon utilizzo
+
+62
+00:02:13,620 --> 00:02:16,800
+poi è tuttora addobbare da abbellire
+
+63
+00:02:15,209 --> 00:02:20,010
+come al solito però intanto
+
+64
+00:02:16,800 --> 00:02:21,390
+concentriamoci sul fattore primario
+
+65
+00:02:20,010 --> 00:02:22,590
+ecco tanto sento una strega quale le
+
+66
+00:02:21,390 --> 00:02:24,959
+vicinanze quindi manco a farlo apposta
+
+67
+00:02:22,590 --> 00:02:25,830
+pure caduta non è che magari consumerà
+
+68
+00:02:24,959 --> 00:02:27,239
+qualche parte
+
+69
+00:02:25,830 --> 00:02:29,819
+restiamo calmi la mia idea principale
+
+70
+00:02:27,239 --> 00:02:31,080
+era di prendere lati una montagna e
+
+71
+00:02:29,819 --> 00:02:32,790
+visto che una roba che si sviluppa in
+
+72
+00:02:31,080 --> 00:02:34,050
+lunghezza detto ma se mettiamo sua auto
+
+73
+00:02:32,790 --> 00:02:36,900
+nella montagna però qui ci abbiamo già
+
+74
+00:02:34,050 --> 00:02:39,090
+le fornaci che non sono proprio il
+
+75
+00:02:36,900 --> 00:02:40,560
+massimo e che dovranno essere uva alla
+
+76
+00:02:39,090 --> 00:02:43,709
+faccia del ferro ottimo perché l'usato
+
+77
+00:02:40,560 --> 00:02:46,500
+un botto fatto un botto di hopper e ho
+
+78
+00:02:43,709 --> 00:02:48,510
+detto carchio ma sai cosa poter fare a
+
+79
+00:02:46,500 --> 00:02:50,160
+castello poi non è abbastanza grande
+
+80
+00:02:48,510 --> 00:02:51,930
+castello apre lontana non deve essere
+
+81
+00:02:50,160 --> 00:02:55,560
+comunque abbastanza comodo un po un
+
+82
+00:02:51,930 --> 00:02:59,580
+casino e attuata una soluzione il posto
+
+83
+00:02:55,560 --> 00:03:02,400
+ideale è proprio qui accanto al castello
+
+84
+00:02:59,580 --> 00:03:03,629
+sotto a castello nella prima zona che
+
+85
+00:03:02,400 --> 00:03:06,090
+abbiamo creato trovato una cesta in
+
+86
+00:03:03,629 --> 00:03:07,650
+questa serie e come ti ho già scavato la
+
+87
+00:03:06,090 --> 00:03:10,260
+zona interessata
+
+88
+00:03:07,650 --> 00:03:12,300
+ho fatto un bel paio di peep edo l'ho
+
+89
+00:03:10,260 --> 00:03:13,349
+fatto un blocco di alzato non lo scarto
+
+90
+00:03:12,300 --> 00:03:16,099
+anche questo sotto perché probabilmente
+
+91
+00:03:13,349 --> 00:03:18,360
+qui sotto bisogna andare in un meno 1
+
+92
+00:03:16,099 --> 00:03:21,690
+comunque quasi ci abbiamo un ascensore
+
+93
+00:03:18,360 --> 00:03:22,500
+ad acqua che ci porta in cima ma non ci
+
+94
+00:03:21,690 --> 00:03:24,989
+interessa troppo
+
+95
+00:03:22,500 --> 00:03:26,970
+torniamo al magazzino usato come se
+
+96
+00:03:24,989 --> 00:03:28,920
+fosse un trampolino di lancio
+
+97
+00:03:26,970 --> 00:03:30,480
+perché misurato di cacciare una cosa
+
+98
+00:03:28,920 --> 00:03:31,980
+forse la più importante perché se sei
+
+99
+00:03:30,480 --> 00:03:34,319
+sereno a fare delle pozioni indovinate
+
+100
+00:03:31,980 --> 00:03:37,319
+un po che cosa abbiamo bisogno di un blu
+
+101
+00:03:34,319 --> 00:03:40,010
+in stand esatto mi ricordo mai quadri
+
+102
+00:03:37,319 --> 00:03:43,319
+crafting dei blu in stand ora vediamo
+
+103
+00:03:40,010 --> 00:03:45,030
+tre pezzi di cobas non era uno slavo una
+
+104
+00:03:43,319 --> 00:03:47,250
+volta chi se lo ricorda vabbè lasciamo
+
+105
+00:03:45,030 --> 00:03:48,690
+stare tre pezzi gobbi stone easy era
+
+106
+00:03:47,250 --> 00:03:50,400
+completa immaginare ce ne servirà
+
+107
+00:03:48,690 --> 00:03:51,780
+solamente uno manhattan
+
+108
+00:03:50,400 --> 00:03:53,430
+no magari potevano essere anche più di
+
+109
+00:03:51,780 --> 00:03:55,620
+uno però non ne servirà solamente uno
+
+110
+00:03:53,430 --> 00:03:57,390
+prendiamo anche un po di bridge powder
+
+111
+00:03:55,620 --> 00:03:59,430
+mettere dentro e siamo carichissimi
+
+112
+00:03:57,390 --> 00:04:03,019
+andiamo frentano notte dormiamo
+
+113
+00:03:59,430 --> 00:04:05,730
+allora partiamo col piazzare due ceste
+
+114
+00:04:03,019 --> 00:04:09,080
+avevamo già una cesare non ci interessa
+
+115
+00:04:05,730 --> 00:04:13,620
+mettiamo una cesta dove la mettiamo
+
+116
+00:04:09,080 --> 00:04:16,109
+allora tipo cui magari una doppia festa
+
+117
+00:04:13,620 --> 00:04:18,299
+sarebbe anche il caso spero sempre che
+
+118
+00:04:16,109 --> 00:04:20,859
+si possono più essere single e ora cioè
+
+119
+00:04:18,299 --> 00:04:23,139
+da due versioni ma sbatte incredibile
+
+120
+00:04:20,859 --> 00:04:25,479
+allora vediamo anche degli opere insomma
+
+121
+00:04:23,139 --> 00:04:27,129
+piazzale robe perché ci servirà per 79
+
+122
+00:04:25,479 --> 00:04:29,800
+ovviamente levare anche tutta questa
+
+123
+00:04:27,129 --> 00:04:31,599
+zona qua perché ripensandoci ora se
+
+124
+00:04:29,800 --> 00:04:33,310
+forse mi serve un blocco in più opera
+
+125
+00:04:31,599 --> 00:04:36,490
+verso la cesta e sopra ci mettiamo più
+
+126
+00:04:33,310 --> 00:04:38,530
+in stand poi bellissimo ci vediamo già
+
+127
+00:04:36,490 --> 00:04:41,680
+dentro la black power così carichiamo
+
+128
+00:04:38,530 --> 00:04:45,009
+tutto altro o per lo mettiamo qui stiamo
+
+129
+00:04:41,680 --> 00:04:47,669
+attenti alla alla zona che devo bisogna
+
+130
+00:04:45,009 --> 00:04:49,330
+a piazzarlo precisamente che va verso
+
+131
+00:04:47,669 --> 00:04:51,819
+dentro
+
+132
+00:04:49,330 --> 00:04:53,529
+ora forse in altre versioni 2 x forse
+
+133
+00:04:51,819 --> 00:04:56,710
+ammirare questa zona piccoli in acqua
+
+134
+00:04:53,529 --> 00:04:59,439
+ora se mi ri anche qui ti esce la lytro
+
+135
+00:04:56,710 --> 00:05:02,020
+light cosa light box si chiama giusti
+
+136
+00:04:59,439 --> 00:05:05,939
+lightbox all'acquasola vediamo un'altra
+
+137
+00:05:02,020 --> 00:05:05,939
+doppia cesta siamo contentissimi
+
+138
+00:05:06,270 --> 00:05:11,110
+mangiate che qui andranno alle boe le
+
+139
+00:05:09,400 --> 00:05:13,000
+produzioni vuote integrale bottigliette
+
+140
+00:05:11,110 --> 00:05:17,080
+di posizioni vuote e quando riusciranno
+
+141
+00:05:13,000 --> 00:05:19,000
+le pozioni piene in teoria poi non ho
+
+142
+00:05:17,080 --> 00:05:22,000
+preso blocchi la costruzione sono scemo
+
+143
+00:05:19,000 --> 00:05:24,129
+è stato tutto così mi fame fa comodo
+
+144
+00:05:22,000 --> 00:05:25,930
+riesco ad andare su giù su giù anche
+
+145
+00:05:24,129 --> 00:05:28,690
+perché bisogna piazzare un po di resto
+
+146
+00:05:25,930 --> 00:05:30,909
+non è difficile ripeto ma un po di resto
+
+147
+00:05:28,690 --> 00:05:32,440
+bisogna piazzarla ma come te c'è un
+
+148
+00:05:30,909 --> 00:05:33,940
+botto di opere un botto di dropper
+
+149
+00:05:32,440 --> 00:05:38,110
+nell'inventario serviranno anche quelli
+
+150
+00:05:33,940 --> 00:05:41,110
+allora cobb stone uno stack è più che
+
+151
+00:05:38,110 --> 00:05:42,659
+sufficiente aveva piazzare un'altra
+
+152
+00:05:41,110 --> 00:05:46,539
+hopper qua sopra
+
+153
+00:05:42,659 --> 00:05:48,819
+voilà bellissimo dietro questo
+
+154
+00:05:46,539 --> 00:05:52,199
+permettiamo di c'è dietro il bloomsday
+
+155
+00:05:48,819 --> 00:05:55,000
+mettiamo un blocco che non so se vorrò
+
+156
+00:05:52,199 --> 00:05:57,699
+di cops con ha deciso come voglio dare
+
+157
+00:05:55,000 --> 00:05:59,560
+tutto quindi per il momento lasciamo
+
+158
+00:05:57,699 --> 00:06:01,000
+così poi si vede
+
+159
+00:05:59,560 --> 00:06:04,150
+e qui e noi ci mettiamo un repeater ma
+
+160
+00:06:01,000 --> 00:06:06,339
+un comparator quindi abbiamo un no per
+
+161
+00:06:04,150 --> 00:06:07,569
+con dentro un competitor e questo
+
+162
+00:06:06,339 --> 00:06:09,699
+l'opera i cui arriveranno tutti gli
+
+163
+00:06:07,569 --> 00:06:12,189
+ingredienti e uno alla volta verranno
+
+164
+00:06:09,699 --> 00:06:13,210
+inseriti qua dentro quindi già iniziano
+
+165
+00:06:12,189 --> 00:06:18,069
+a capire un po come funziona
+
+166
+00:06:13,210 --> 00:06:20,589
+immaginatevi qui una sfilza di drop per
+
+167
+00:06:18,069 --> 00:06:22,210
+sé o per questo tutti i materiali o
+
+168
+00:06:20,589 --> 00:06:24,189
+selezioni quelli che voglio vivono qui e
+
+169
+00:06:22,210 --> 00:06:26,229
+vengono automaticamente inseriti più o
+
+170
+00:06:24,189 --> 00:06:29,529
+meno questo principio veniamo qua dietro
+
+171
+00:06:26,229 --> 00:06:32,770
+e piazziamo attenzione uno stick ip
+
+172
+00:06:29,529 --> 00:06:33,710
+stone verso il basso mirate su xbox del
+
+173
+00:06:32,770 --> 00:06:36,530
+compagno
+
+174
+00:06:33,710 --> 00:06:39,200
+qua ci mettiamo un bellissimo blocco di
+
+175
+00:06:36,530 --> 00:06:41,450
+red stone e qua sotto invece abbiamo
+
+176
+00:06:39,200 --> 00:06:43,550
+bisogno di un blocco così e due così
+
+177
+00:06:41,450 --> 00:06:47,270
+così quando questo si abbassa può
+
+178
+00:06:43,550 --> 00:06:49,220
+ricevere dell'ariston e repeater va qua
+
+179
+00:06:47,270 --> 00:06:50,810
+dentro
+
+180
+00:06:49,220 --> 00:06:53,000
+in questo modo quando stiamo ricevendo
+
+181
+00:06:50,810 --> 00:06:55,910
+delle cose all'interno dello per questo
+
+182
+00:06:53,000 --> 00:06:57,380
+si attiva e blocca la possibilità del
+
+183
+00:06:55,910 --> 00:06:59,630
+blooming stand di cacciare via le
+
+184
+00:06:57,380 --> 00:07:01,370
+pozioni e rimane rimangono dentro in
+
+185
+00:06:59,630 --> 00:07:02,570
+questo modo finché la ricetta non è
+
+186
+00:07:01,370 --> 00:07:04,400
+finita
+
+187
+00:07:02,570 --> 00:07:06,260
+siamo a posto altrimenti tipo arriva la
+
+188
+00:07:04,400 --> 00:07:07,910
+netherworld diventano corporation
+
+189
+00:07:06,260 --> 00:07:09,980
+automaticamente vengono rimesse nella
+
+190
+00:07:07,910 --> 00:07:12,230
+cesta e non va bene poi allenò
+
+191
+00:07:09,980 --> 00:07:15,680
+dall'altra parte inseriamo due blocchi
+
+192
+00:07:12,230 --> 00:07:18,170
+di qua con uno per alla fine puntato
+
+193
+00:07:15,680 --> 00:07:20,210
+verso il basso e un altro compreso che
+
+194
+00:07:18,170 --> 00:07:21,920
+va dentro l'altro competitor così
+
+195
+00:07:20,210 --> 00:07:24,380
+riusciamo a bloccare anche questo se
+
+196
+00:07:21,920 --> 00:07:25,910
+serve quando serve anzi perché serve
+
+197
+00:07:24,380 --> 00:07:29,060
+sotto noi vogliamo far passare un altro
+
+198
+00:07:25,910 --> 00:07:30,170
+impulso di rexton in questo modo due
+
+199
+00:07:29,060 --> 00:07:32,600
+blocchi
+
+200
+00:07:30,170 --> 00:07:34,370
+arriviamo lì in quel blocco e sotto quel
+
+201
+00:07:32,600 --> 00:07:36,920
+blocco anzi al lato di quel blocco ci
+
+202
+00:07:34,370 --> 00:07:40,460
+metteremo una torcia di rexton calcio di
+
+203
+00:07:36,920 --> 00:07:42,650
+rexton che salirà con un altro blocco in
+
+204
+00:07:40,460 --> 00:07:45,290
+questo modo eleviamo due blocchi sotto
+
+205
+00:07:42,650 --> 00:07:47,680
+lauper leviamo questo emettiamo qui
+
+206
+00:07:45,290 --> 00:07:49,550
+questo qua in questo modo questo rimane
+
+207
+00:07:47,680 --> 00:07:53,030
+bloccato
+
+208
+00:07:49,550 --> 00:07:55,910
+ora io ho lasciato a casa dell'evento ma
+
+209
+00:07:53,030 --> 00:07:58,190
+ne possiamo craftare un paio accelerando
+
+210
+00:07:55,910 --> 00:07:59,780
+molto in più di un paio delle leve
+
+211
+00:07:58,190 --> 00:08:02,930
+perché qui possiamo andare a realizzare
+
+212
+00:07:59,780 --> 00:08:07,640
+il sistema on off e sarà più o meno così
+
+213
+00:08:02,930 --> 00:08:10,880
+ne ho bisogno di un blocco lì accanto a
+
+214
+00:08:07,640 --> 00:08:12,710
+rexton copiamo uno sopra 1 sotto e qui
+
+215
+00:08:10,880 --> 00:08:14,620
+avremo la nostra leva quando verso
+
+216
+00:08:12,710 --> 00:08:17,000
+l'alto in realtà il sistema è attivo
+
+217
+00:08:14,620 --> 00:08:18,830
+quando e verso il basso questo rimarrà
+
+218
+00:08:17,000 --> 00:08:20,990
+sempre attivo e quindi sistema sarà
+
+219
+00:08:18,830 --> 00:08:22,639
+spento e lo stesso principio uscirà dopo
+
+220
+00:08:20,990 --> 00:08:25,969
+quindi draw per quindi
+
+221
+00:08:22,639 --> 00:08:27,800
+fate attenzione ecco realtà se lo sai
+
+222
+00:08:25,969 --> 00:08:29,330
+che avendo nulla basterà ripetere tutto
+
+223
+00:08:27,800 --> 00:08:31,159
+questo passo dopo passo nel vostro mondo
+
+224
+00:08:29,330 --> 00:08:33,370
+e siete a posto è ora in realtà aveste
+
+225
+00:08:31,159 --> 00:08:35,779
+mezzanotte qui andiamo a dormire ma
+
+226
+00:08:33,370 --> 00:08:38,750
+abbiamo quasi finito
+
+227
+00:08:35,779 --> 00:08:41,390
+il circuito di ex con cui avete visto
+
+228
+00:08:38,750 --> 00:08:43,070
+non è troppo complicato ci sono circuiti
+
+229
+00:08:41,390 --> 00:08:46,450
+molto più complicati per fare robe con
+
+230
+00:08:43,070 --> 00:08:49,940
+le pozioni non so che sto ricorda ma
+
+231
+00:08:46,450 --> 00:08:53,300
+nella seconda stagione di minecraft ita
+
+232
+00:08:49,940 --> 00:08:55,339
+se non ricordo male avevo io stesso
+
+233
+00:08:53,300 --> 00:08:59,870
+realizzato un sistema con degli array
+
+234
+00:08:55,339 --> 00:09:01,010
+per che era la cosa meno efficiente del
+
+235
+00:08:59,870 --> 00:09:03,050
+mondo ma è una figata
+
+236
+00:09:01,010 --> 00:09:04,550
+avevo preso una montagna intera avevo
+
+237
+00:09:03,050 --> 00:09:07,550
+distrutta tutto all'interno come tutti
+
+238
+00:09:04,550 --> 00:09:10,010
+questi array che in base al voto ricavo
+
+239
+00:09:07,550 --> 00:09:12,230
+aveva tutto un set di memoria e riusciva
+
+240
+00:09:10,010 --> 00:09:14,329
+a fare le posizioni di cui avevo bisogno
+
+241
+00:09:12,230 --> 00:09:16,070
+con il click di un bottone faccia tutto
+
+242
+00:09:14,329 --> 00:09:19,490
+da solo quindi quello era effettivamente
+
+243
+00:09:16,070 --> 00:09:23,360
+automatico però era super grosso
+
+244
+00:09:19,490 --> 00:09:25,070
+impegnativo un macigno
+
+245
+00:09:23,360 --> 00:09:27,320
+anyway allora andiamo qui dove abbiamo
+
+246
+00:09:25,070 --> 00:09:31,130
+il blocco diresse un dietro repeater e
+
+247
+00:09:27,320 --> 00:09:32,990
+ci mettiamo una traccia director sotto
+
+248
+00:09:31,130 --> 00:09:35,630
+al caso nella torcia destro mettiamo un
+
+249
+00:09:32,990 --> 00:09:38,690
+draw per punto verso l'alto e sopra
+
+250
+00:09:35,630 --> 00:09:40,399
+questo dropper mettiamo un'oper mi
+
+251
+00:09:38,690 --> 00:09:42,440
+sembra cosa molto molto bella ora qua
+
+252
+00:09:40,399 --> 00:09:44,750
+chiuderemo il nostro accesso al ponte
+
+253
+00:09:42,440 --> 00:09:45,589
+vediamo un blocco intanto vediamo un
+
+254
+00:09:44,750 --> 00:09:49,810
+blocco qua dentro
+
+255
+00:09:45,589 --> 00:09:51,980
+ad esempio un log di legno che
+
+256
+00:09:49,810 --> 00:09:53,990
+automaticamente qua sotto questo è
+
+257
+00:09:51,980 --> 00:09:55,820
+spento appena riceverà molto impulso
+
+258
+00:09:53,990 --> 00:09:57,680
+sair acqua sopra perché fai così
+
+259
+00:09:55,820 --> 00:10:00,500
+possiamo prendere il suo impulso con un
+
+260
+00:09:57,680 --> 00:10:02,390
+competitor metterlo qua sopra mettere un
+
+261
+00:10:00,500 --> 00:10:04,820
+blocco sulla questo blocco mette una
+
+262
+00:10:02,390 --> 00:10:07,699
+torcia e sul proprio store c a mettere
+
+263
+00:10:04,820 --> 00:10:10,600
+un altro blocco voilà sull'energia ai
+
+264
+00:10:07,699 --> 00:10:12,589
+nostri ingredienti che dobbiamo piazzare
+
+265
+00:10:10,600 --> 00:10:16,810
+allevato che tipo acquista tutta una
+
+266
+00:10:12,589 --> 00:10:21,100
+striscia di cobb stone ora in realtà
+
+267
+00:10:16,810 --> 00:10:22,900
+c'è un blocco qui quando non serve anzi
+
+268
+00:10:21,100 --> 00:10:24,970
+perché poi ci deve essere libero e da
+
+269
+00:10:22,900 --> 00:10:27,070
+questo punto in poi iniziamo a piazzare
+
+270
+00:10:24,970 --> 00:10:29,410
+blocchi quanti
+
+271
+00:10:27,070 --> 00:10:32,710
+bella domanda ora quando poi decidere
+
+272
+00:10:29,410 --> 00:10:34,930
+che cosa utilizzare come blocco di
+
+273
+00:10:32,710 --> 00:10:37,089
+facciata perché io sono sempre accordo
+
+274
+00:10:34,930 --> 00:10:39,940
+nessuno ne usciremo di merda per questo
+
+275
+00:10:37,089 --> 00:10:42,040
+scusate cioè che offrì mismo da
+
+276
+00:10:39,940 --> 00:10:44,290
+parolaccia però sono davvero una testa
+
+277
+00:10:42,040 --> 00:10:49,230
+di cazzo perché uso sempre lacob stone e
+
+278
+00:10:44,290 --> 00:10:52,510
+alla fine la suite mai male allora
+
+279
+00:10:49,230 --> 00:10:55,000
+vaffan gala scegliamo un blocco bello
+
+280
+00:10:52,510 --> 00:10:57,339
+mettiamo vice 70 di pozioni tipo streghe
+
+281
+00:10:55,000 --> 00:10:58,990
+rob comunque arte oscure useremo i miei
+
+282
+00:10:57,339 --> 00:11:00,400
+del brics vi abbiamo un botto meno presi
+
+283
+00:10:58,990 --> 00:11:02,860
+anche l'ultimo episodio abbiamo usati
+
+284
+00:11:00,400 --> 00:11:04,750
+anche per fare ha poi o di fatto la base
+
+285
+00:11:02,860 --> 00:11:06,910
+cioè di fatto sulla parte bassa
+
+286
+00:11:04,750 --> 00:11:09,460
+volevo far vedere non sono tanti ma ci
+
+287
+00:11:06,910 --> 00:11:11,830
+basteranno affittiamo ora perché poi se
+
+288
+00:11:09,460 --> 00:11:13,750
+faccio tutta la filiera di ingredienti è
+
+289
+00:11:11,830 --> 00:11:16,390
+un casino perché il so già che non torno
+
+290
+00:11:13,750 --> 00:11:17,920
+lì a cambiare tutte tutti i blocchi gli
+
+291
+00:11:16,390 --> 00:11:20,230
+facciamo l'ora e siamo tutti contenti
+
+292
+00:11:17,920 --> 00:11:21,790
+siamo tutti felici quindi abbiamo questi
+
+293
+00:11:20,230 --> 00:11:24,280
+due blocchi e mettono a posto di questi
+
+294
+00:11:21,790 --> 00:11:26,950
+due questo vediamo questo questo
+
+295
+00:11:24,280 --> 00:11:28,690
+facciamo così le veron che questo dico
+
+296
+00:11:26,950 --> 00:11:32,830
+la verità e facciamo così ci mettiamo
+
+297
+00:11:28,690 --> 00:11:33,910
+una levetta questi si vedono questi si
+
+298
+00:11:32,830 --> 00:11:36,970
+vedono sì che si vedono
+
+299
+00:11:33,910 --> 00:11:40,210
+vogliamo anche questo e questo e
+
+300
+00:11:36,970 --> 00:11:42,010
+facciamo così e così e li mettiamo i
+
+301
+00:11:40,210 --> 00:11:45,670
+competitor come dovevano essere quindi
+
+302
+00:11:42,010 --> 00:11:47,620
+uno in questo modo e l'altro è una notte
+
+303
+00:11:45,670 --> 00:11:50,740
+visto già ora già ma è un casino
+
+304
+00:11:47,620 --> 00:11:53,020
+figurati se lo avesse fatto dopo andiamo
+
+305
+00:11:50,740 --> 00:11:55,540
+di qua e mettiamo un comparatore anche
+
+306
+00:11:53,020 --> 00:11:58,180
+dylan questo questo sì che si vede che
+
+307
+00:11:55,540 --> 00:11:59,950
+fai nolè rileviamo la facciamo così ci
+
+308
+00:11:58,180 --> 00:12:02,950
+mettiamo superare dove aver cambiato
+
+309
+00:11:59,950 --> 00:12:05,709
+tutto ciò che ho piazzato potenzialmente
+
+310
+00:12:02,950 --> 00:12:08,500
+si già che ci siamo cambiamo anche
+
+311
+00:12:05,709 --> 00:12:11,050
+questi assolutamente vediamo anche
+
+312
+00:12:08,500 --> 00:12:12,760
+questo nel dubbio si possa vedere avuto
+
+313
+00:12:11,050 --> 00:12:16,089
+singhiozzo come una coca cola da
+
+314
+00:12:12,760 --> 00:12:17,110
+mezz'ora tipo vedono quasi mai levante
+
+315
+00:12:16,089 --> 00:12:19,180
+zuccherate
+
+316
+00:12:17,110 --> 00:12:24,670
+ma dopo la live di venerdì e sabato
+
+317
+00:12:19,180 --> 00:12:28,820
+siamo rimasti tra gli dico col beviamo
+
+318
+00:12:24,670 --> 00:12:31,850
+ok dovremmo esserci questo tanto poi non
+
+319
+00:12:28,820 --> 00:12:33,500
+si vedrà e ok allora piazziamo 17
+
+320
+00:12:31,850 --> 00:12:34,760
+blocchi che sono i numeri ingredienti
+
+321
+00:12:33,500 --> 00:12:37,160
+che di esso disponibili del gioco in
+
+322
+00:12:34,760 --> 00:12:38,630
+questo momento non servono a 14
+
+323
+00:12:37,160 --> 00:12:43,580
+ci sono altre nove però avere il dubbio
+
+324
+00:12:38,630 --> 00:12:48,140
+che il sole 17 sono 1 2 3 4 5 6 7 8 9 11
+
+325
+00:12:43,580 --> 00:12:50,720
+12 13 14 15 17 17 blocchi e queste sono
+
+326
+00:12:48,140 --> 00:12:53,270
+tutti ingredienti quindi porca vacca se
+
+327
+00:12:50,720 --> 00:12:56,660
+sono tantissimi sono davvero tanti va
+
+328
+00:12:53,270 --> 00:12:58,970
+bene senza indugio andiamo avanti
+
+329
+00:12:56,660 --> 00:13:01,370
+mettiamo anche tutta una serie di lobby
+
+330
+00:12:58,970 --> 00:13:02,840
+di qua lo metto prima anche se tuttora
+
+331
+00:13:01,370 --> 00:13:04,310
+mi dice di farlo dopo perché so già che
+
+332
+00:13:02,840 --> 00:13:05,750
+poi per rientrare un casino
+
+333
+00:13:04,310 --> 00:13:08,420
+e qui metteremo tutta una serie di pezzi
+
+334
+00:13:05,750 --> 00:13:09,980
+di red stone che penderà energia dalla
+
+335
+00:13:08,420 --> 00:13:13,040
+torcia questa qua boom
+
+336
+00:13:09,980 --> 00:13:15,200
+come vedete alla grande fin qui e
+
+337
+00:13:13,040 --> 00:13:15,950
+dobbiamo piazzare tutti i dropper verso
+
+338
+00:13:15,200 --> 00:13:20,060
+l'alto
+
+339
+00:13:15,950 --> 00:13:21,800
+1 2 3 4 5 insomma hai capito
+
+340
+00:13:20,060 --> 00:13:23,540
+sono diciassette dropper di una casta di
+
+341
+00:13:21,800 --> 00:13:25,820
+verso l'alto io nonché di più in realtà
+
+342
+00:13:23,540 --> 00:13:27,080
+però noi non servono
+
+343
+00:13:25,820 --> 00:13:29,330
+vediamo tutti questi blocchi che ci
+
+344
+00:13:27,080 --> 00:13:31,490
+danno solo fastidio a e sopra i draw
+
+345
+00:13:29,330 --> 00:13:33,680
+permetteremo yacht per gli o perché
+
+346
+00:13:31,490 --> 00:13:36,680
+vanno tutti verso di qua quindi non
+
+347
+00:13:33,680 --> 00:13:39,350
+verso il dropper ma verso l'esterno
+
+348
+00:13:36,680 --> 00:13:40,760
+ok per sicurezza mettiamo un blocco qui
+
+349
+00:13:39,350 --> 00:13:42,260
+è per il momento perché numero casini
+
+350
+00:13:40,760 --> 00:13:46,550
+perché magari mi esce un blocco qualcosa
+
+351
+00:13:42,260 --> 00:13:50,360
+ti vedono tutti così ok tutti verso la b
+
+352
+00:13:46,550 --> 00:13:51,830
+bwin stand voilà poi magari sarebbe
+
+353
+00:13:50,360 --> 00:13:54,410
+anche il caso di coprirla questa zona
+
+354
+00:13:51,830 --> 00:13:57,650
+che non vorrei mai che cade qualcosa da
+
+355
+00:13:54,410 --> 00:13:59,420
+il cielo e mi ritrovo con una slide
+
+356
+00:13:57,650 --> 00:14:01,700
+board non so perché voteremo slime dal
+
+357
+00:13:59,420 --> 00:14:05,420
+cielo per una slide ball nel blooming
+
+358
+00:14:01,700 --> 00:14:06,620
+stand arrivando che dentro questi drop
+
+359
+00:14:05,420 --> 00:14:09,620
+per as ci sono tutti i nostri
+
+360
+00:14:06,620 --> 00:14:13,160
+ingredienti poi prossimo passo sarà
+
+361
+00:14:09,620 --> 00:14:14,630
+realizzare delle leve quante leve bella
+
+362
+00:14:13,160 --> 00:14:17,480
+domanda anche qui in realtà abbiamo
+
+363
+00:14:14,630 --> 00:14:19,700
+bisogno di 17 leve del g7 diventa le
+
+364
+00:14:17,480 --> 00:14:22,070
+facciamo in altre 16 così abbiamo 23 e
+
+365
+00:14:19,700 --> 00:14:24,110
+siamo a posto allora stesso principio di
+
+366
+00:14:22,070 --> 00:14:27,650
+prima che abbiamo fatto qui quando
+
+367
+00:14:24,110 --> 00:14:29,450
+questo è attivo in realtà il sistema è
+
+368
+00:14:27,650 --> 00:14:31,670
+spento perché l'importo destro arriva da
+
+369
+00:14:29,450 --> 00:14:33,560
+un altro segnale quindi stessa roba di
+
+370
+00:14:31,670 --> 00:14:34,370
+qua dietro abbiamo tutta la legge che
+
+371
+00:14:33,560 --> 00:14:36,780
+attiva
+
+372
+00:14:34,370 --> 00:14:39,180
+quindi se questo è verso l'alto
+
+373
+00:14:36,780 --> 00:14:41,310
+in realtà funziona qui vogliamo che si è
+
+374
+00:14:39,180 --> 00:14:44,580
+disattivato di base qui tutte le video
+
+375
+00:14:41,310 --> 00:14:48,420
+devono essere attivate e verso il basso
+
+376
+00:14:44,580 --> 00:14:50,250
+in questo modo voilà qui ci metteremo un
+
+377
+00:14:48,420 --> 00:14:52,230
+blocco di ned era lì da farsi vedere un
+
+378
+00:14:50,250 --> 00:14:54,330
+buco anche se questo però è comunque poi
+
+379
+00:14:52,230 --> 00:14:55,710
+li daremo tutto facciamo già abusiva
+
+380
+00:14:54,330 --> 00:14:58,440
+vediamo tutta sta roba che non ci serve
+
+381
+00:14:55,710 --> 00:15:00,810
+a nulla ma ci mettiamo poi nell e becks
+
+382
+00:14:58,440 --> 00:15:02,340
+ovviamente ma io semmai c'è una caverna
+
+383
+00:15:00,810 --> 00:15:04,140
+e non è qua sotto ogni volta che vengo
+
+384
+00:15:02,340 --> 00:15:04,770
+qui sento rumori sui rumori mi dà un
+
+385
+00:15:04,140 --> 00:15:07,080
+fastidio
+
+386
+00:15:04,770 --> 00:15:08,640
+ho fatto una bella cornicetta di stone
+
+387
+00:15:07,080 --> 00:15:09,950
+bix poi vediamo come addobbare tutto
+
+388
+00:15:08,640 --> 00:15:11,820
+perché possiamo intera più
+
+389
+00:15:09,950 --> 00:15:13,200
+tridimensionale magari anche che entra
+
+390
+00:15:11,820 --> 00:15:14,370
+mezzo nella montagna così una cosa di
+
+391
+00:15:13,200 --> 00:15:16,020
+davvero bello
+
+392
+00:15:14,370 --> 00:15:18,240
+la mia posizione è l'ultimo o perché
+
+393
+00:15:16,020 --> 00:15:19,860
+prima non ho piazzato per casini varie
+
+394
+00:15:18,240 --> 00:15:23,430
+però già ora un riscatto c'entrasse
+
+395
+00:15:19,860 --> 00:15:26,550
+qualcosa in questo o per devono entrare
+
+396
+00:15:23,430 --> 00:15:29,910
+priori dei blocchi metteremo un blocco
+
+397
+00:15:26,550 --> 00:15:32,640
+qui un blocco qui un blocco qui e qui
+
+398
+00:15:29,910 --> 00:15:34,620
+inter ha solo diciannove in realtà cosa
+
+399
+00:15:32,640 --> 00:15:36,510
+si è costituito al numero cambia sempre
+
+400
+00:15:34,620 --> 00:15:38,760
+a caso però l'inter ha solo diciannove
+
+401
+00:15:36,510 --> 00:15:44,070
+di lì e in questo qui sopra stessa roba
+
+402
+00:15:38,760 --> 00:15:47,220
+ma sono 1 2 3 4 e 19 nell'ultimo quindi
+
+403
+00:15:44,070 --> 00:15:48,900
+questo è pieno per capirci 21 no tutti
+
+404
+00:15:47,220 --> 00:15:53,400
+gli ingredienti qui non metto neanche ad
+
+405
+00:15:48,900 --> 00:15:56,220
+inserirli questo è il principio base di
+
+406
+00:15:53,400 --> 00:15:57,870
+questo sistema misto e un po qui come
+
+407
+00:15:56,220 --> 00:16:00,660
+diceva mettiamo le professioni vuote già
+
+408
+00:15:57,870 --> 00:16:03,750
+vuote con l'acqua cioè le emozioni del
+
+409
+00:16:00,660 --> 00:16:05,010
+water bottle farlo qua dentro
+
+410
+00:16:03,750 --> 00:16:07,380
+bisogna iniziare tutto con una
+
+411
+00:16:05,010 --> 00:16:09,540
+netherworld pregare tutto questa filiera
+
+412
+00:16:07,380 --> 00:16:13,410
+di roba bisogna metterle in ordine
+
+413
+00:16:09,540 --> 00:16:15,450
+quindi dal nell'ordine in cui potrebbero
+
+414
+00:16:13,410 --> 00:16:17,220
+andare anche se non sai come andranno
+
+415
+00:16:15,450 --> 00:16:17,870
+finché non decidi che pozione fare
+
+416
+00:16:17,220 --> 00:16:21,060
+insomma
+
+417
+00:16:17,870 --> 00:16:24,150
+quindi ciao a tutti gli ingredienti poi
+
+418
+00:16:21,060 --> 00:16:26,670
+ci saranno i power up tipo rexton heigl
+
+419
+00:16:24,150 --> 00:16:29,220
+stone successo è qualcos'altro
+
+420
+00:16:26,670 --> 00:16:31,680
+e poi ci sarà tipo di underworld che è
+
+421
+00:16:29,220 --> 00:16:33,330
+quello con cui finisce ogni ciclo inizia
+
+422
+00:16:31,680 --> 00:16:33,690
+con l word che dobbiamo inserire lo
+
+423
+00:16:33,330 --> 00:16:37,110
+amano
+
+424
+00:16:33,690 --> 00:16:38,850
+ok prima netherworld e poi alla fine il
+
+425
+00:16:37,110 --> 00:16:40,200
+ciclo tornerà quella netherworld e
+
+426
+00:16:38,850 --> 00:16:43,110
+quando arriva in other words si blocca
+
+427
+00:16:40,200 --> 00:16:46,810
+tutto e si resetta televideo qualcosa io
+
+428
+00:16:43,110 --> 00:16:49,180
+un po sì un po no però funziona quindi
+
+429
+00:16:46,810 --> 00:16:51,040
+aspettiamo di provarlo e del prossimo
+
+430
+00:16:49,180 --> 00:16:52,690
+episodio sicuramente inserirò tutti gli
+
+431
+00:16:51,040 --> 00:16:55,779
+ingredienti anche se non tutti i cieli o
+
+432
+00:16:52,690 --> 00:17:00,070
+perché ad esempio il fiato di drago robe
+
+433
+00:16:55,779 --> 00:17:03,040
+lì non ne ho e il si chiama ipaf e back
+
+434
+00:17:00,070 --> 00:17:05,140
+office ce n'è un po le membrane non ne
+
+435
+00:17:03,040 --> 00:17:07,420
+ho molte sono alcuni ingredienti che non
+
+436
+00:17:05,140 --> 00:17:08,829
+ho ecco mettiamola così
+
+437
+00:17:07,420 --> 00:17:10,959
+poi vediamo se mettere tipo un libretto
+
+438
+00:17:08,829 --> 00:17:13,089
+con le indicazioni per fare ogni pozione
+
+439
+00:17:10,959 --> 00:17:15,040
+oppure se scriviamo quei cartelli cosa
+
+440
+00:17:13,089 --> 00:17:16,390
+fa ogni singolo ingrediente cioè come
+
+441
+00:17:15,040 --> 00:17:17,770
+fanno nel tutorial effettivamente
+
+442
+00:17:16,390 --> 00:17:21,100
+potrebbe avere senso
+
+443
+00:17:17,770 --> 00:17:22,540
+ad ogni modo per il momento è tutto
+
+444
+00:17:21,100 --> 00:17:24,390
+poi andremo anche a provare sicuramente
+
+445
+00:17:22,540 --> 00:17:28,150
+la funzione della velocità insieme al
+
+446
+00:17:24,390 --> 00:17:30,010
+manin guano uno per uno e nulla per oggi
+
+447
+00:17:28,150 --> 00:17:32,380
+è tutto signori diciamo stasera causa
+
+448
+00:17:30,010 --> 00:17:33,510
+delle sette e vi saluto già ottenuto
+
+449
+00:17:32,380 --> 00:17:52,009
+prodotti
+
+450
+00:17:33,510 --> 00:17:52,009
+[Musica]

@@ -1,0 +1,1571 @@
+1
+00:00:00,430 --> 00:00:03,740
+[Musique]
+
+2
+00:00:10,830 --> 00:00:14,049
+et bien bienvenue à tous dans cette
+
+3
+00:00:12,879 --> 00:00:16,150
+nouvelle vidéo dans laquelle nous allons
+
+4
+00:00:14,049 --> 00:00:17,650
+parler d'un sujet qui me fait du bien en
+
+5
+00:00:16,150 --> 00:00:19,029
+ce moment ça se lâche un peu sur les
+
+6
+00:00:17,650 --> 00:00:20,140
+sujets quoi après les animaux qui est ce
+
+7
+00:00:19,029 --> 00:00:20,919
+que c'est qu'est ce que c'est les modes
+
+8
+00:00:20,140 --> 00:00:22,270
+sur les jeux vidéo
+
+9
+00:00:20,919 --> 00:00:23,590
+aucun rapport c'est bon oui je vous
+
+10
+00:00:22,270 --> 00:00:25,029
+parle de ça parce qu'il ya des modes qui
+
+11
+00:00:23,590 --> 00:00:25,750
+sont extrêmement drôle mais avant je
+
+12
+00:00:25,029 --> 00:00:26,680
+vais vous parler un petit peu de
+
+13
+00:00:25,750 --> 00:00:27,520
+l'histoire des modules de jeux vidéo
+
+14
+00:00:26,680 --> 00:00:29,200
+personnellement c'est un truc que
+
+15
+00:00:27,520 --> 00:00:30,579
+j'adore pour plusieurs raisons et
+
+16
+00:00:29,200 --> 00:00:31,480
+j'aimerais vous expliquer déjà ce que c
+
+17
+00:00:30,579 --> 00:00:32,590
+est vous dire pourquoi je trouve que
+
+18
+00:00:31,480 --> 00:00:34,000
+c'est quelque chose de génial sur
+
+19
+00:00:32,590 --> 00:00:35,620
+certains jeux vidéo il est possible que
+
+20
+00:00:34,000 --> 00:00:37,120
+les joueurs créer un mode c'est à dire
+
+21
+00:00:35,620 --> 00:00:38,500
+un nouveau contenu une nouvelle manière
+
+22
+00:00:37,120 --> 00:00:39,430
+de jouer au jeu auquel on joue et c'est
+
+23
+00:00:38,500 --> 00:00:41,200
+quelque chose qui a paru dans les années
+
+24
+00:00:39,430 --> 00:00:42,760
+80 en tout cas les premiers modes de
+
+25
+00:00:41,200 --> 00:00:44,170
+jeux qui sont devenus assez populaire
+
+26
+00:00:42,760 --> 00:00:45,280
+pour l'époque c'était dans les années 80
+
+27
+00:00:44,170 --> 00:00:46,720
+il y avait par exemple à l'époque un jeu
+
+28
+00:00:45,280 --> 00:00:48,340
+qui s'appelait castle wolfenstein dans
+
+29
+00:00:46,720 --> 00:00:50,530
+lequel on combattait des nazis et il ya
+
+30
+00:00:48,340 --> 00:00:51,520
+des joueurs qui ont créé un mode ça
+
+31
+00:00:50,530 --> 00:00:52,660
+remplace tous les nazis par les
+
+32
+00:00:51,520 --> 00:00:54,730
+schtroumpfs et ils ont appelé le mode
+
+33
+00:00:52,660 --> 00:00:55,930
+castle smartphone stein donc castle
+
+34
+00:00:54,730 --> 00:00:58,210
+schtroumpfs weinstein en france est
+
+35
+00:00:55,930 --> 00:01:01,000
+personnellement j'ai commencé à jouer à
+
+36
+00:00:58,210 --> 00:01:02,410
+des modes sur counter strike 1.6 il ya
+
+37
+00:01:01,000 --> 00:01:03,760
+pas mal de temps je jouais beaucoup au
+
+38
+00:01:02,410 --> 00:01:05,110
+mode surf pour ceux qui connaissent
+
+39
+00:01:03,760 --> 00:01:06,759
+c'est un module y avait des rentes et on
+
+40
+00:01:05,110 --> 00:01:08,290
+pouvait finalement faire du surf dessus
+
+41
+00:01:06,759 --> 00:01:09,909
+et volets c'était vraiment sympa y avait
+
+42
+00:01:08,290 --> 00:01:11,380
+aussi le mode zombie qui était
+
+43
+00:01:09,909 --> 00:01:13,390
+incroyable je me souviens doigt dans
+
+44
+00:01:11,380 --> 00:01:15,520
+l'oeil à l'instant à ripley et le fameux
+
+45
+00:01:13,390 --> 00:01:17,170
+mode death run qui m'attend fait kiffer
+
+46
+00:01:15,520 --> 00:01:18,130
+et rager bref je pense que les modes de
+
+47
+00:01:17,170 --> 00:01:19,869
+counter-strike illustre parfaitement
+
+48
+00:01:18,130 --> 00:01:20,859
+pourquoi c'est cool qui est des modes et
+
+49
+00:01:19,869 --> 00:01:22,359
+pourquoi c'est cool que des joueurs
+
+50
+00:01:20,859 --> 00:01:24,159
+passent du temps à créer ça gratuitement
+
+51
+00:01:22,359 --> 00:01:25,210
+et bénévolement la plupart du temps des
+
+52
+00:01:24,159 --> 00:01:26,979
+fois attention ça peut leur apporter de
+
+53
+00:01:25,210 --> 00:01:29,829
+l'argent d'ailleurs counter strike est à
+
+54
+00:01:26,979 --> 00:01:32,530
+la base un mode de high flights créé par
+
+55
+00:01:29,829 --> 00:01:33,969
+un mec 1000 lits je sais pas comment ça
+
+56
+00:01:32,530 --> 00:01:35,950
+se prononce c'est lui qui a introduit le
+
+57
+00:01:33,969 --> 00:01:37,600
+thème des terroristes vs les anti
+
+58
+00:01:35,950 --> 00:01:39,249
+terroriste avec des objectifs qui varier
+
+59
+00:01:37,600 --> 00:01:40,899
+selon la map dont l'objectif le plus
+
+60
+00:01:39,249 --> 00:01:42,490
+connu est bien évidemment le amorcer ou
+
+61
+00:01:40,899 --> 00:01:43,869
+désamorcer la bombe sur ça ouvre moi
+
+62
+00:01:42,490 --> 00:01:45,609
+j'ai appris que récemment qu'en fait à
+
+63
+00:01:43,869 --> 00:01:48,069
+la base counter strike était un mode de
+
+64
+00:01:45,609 --> 00:01:49,539
+hi fly x n'est pas valcke lui l'idée de
+
+65
+00:01:48,069 --> 00:01:51,429
+counter-strike ces deux mecs
+
+66
+00:01:49,539 --> 00:01:53,079
+en fait ce gala avec son pote qui gérait
+
+67
+00:01:51,429 --> 00:01:54,999
+le site qui sont dit putain mais saturé
+
+68
+00:01:53,079 --> 00:01:56,649
+si on a ajouté ce thème là avec tel est
+
+69
+00:01:54,999 --> 00:01:57,789
+l objectif à accomplir tel et tel mode
+
+70
+00:01:56,649 --> 00:01:59,200
+de jeu je trouve ça incroyable et du
+
+71
+00:01:57,789 --> 00:02:00,490
+coup parfois quand le mode est vraiment
+
+72
+00:01:59,200 --> 00:02:01,929
+bon bah ça peut rapporter de l'argent à
+
+73
+00:02:00,490 --> 00:02:02,799
+ses créateurs comme ça a été le cas pour
+
+74
+00:02:01,929 --> 00:02:04,240
+ces deux personnes qui ont été
+
+75
+00:02:02,799 --> 00:02:05,229
+embauchées par valve et ils ont bien
+
+76
+00:02:04,240 --> 00:02:06,549
+fait putain quand on voit ce qui est
+
+77
+00:02:05,229 --> 00:02:07,869
+devenu counter strike mon gars c'est
+
+78
+00:02:06,549 --> 00:02:09,729
+l'un des jeux vidéo les plus joués au
+
+79
+00:02:07,869 --> 00:02:11,470
+monde c'est l'un des jeux qui a traversé
+
+80
+00:02:09,729 --> 00:02:13,900
+le temps le mieux qu'à le mieux vieilli
+
+81
+00:02:11,470 --> 00:02:15,400
+c'est toujours un classique du fps et
+
+82
+00:02:13,900 --> 00:02:16,840
+putain ça vient de deux mecs ont créé un
+
+83
+00:02:15,400 --> 00:02:18,250
+mode à la base je trouve ça incroyable
+
+84
+00:02:16,840 --> 00:02:19,150
+alors c'est marrant parce que on se
+
+85
+00:02:18,250 --> 00:02:20,500
+dirait qu'il ya tout un truc de
+
+86
+00:02:19,150 --> 00:02:21,310
+propriété intellectuelle on se dirait
+
+87
+00:02:20,500 --> 00:02:22,810
+mais attend
+
+88
+00:02:21,310 --> 00:02:25,060
+les mecs concret ce mode là à l'époque
+
+89
+00:02:22,810 --> 00:02:26,410
+c'était un truc qui appartenait à valve
+
+90
+00:02:25,060 --> 00:02:27,940
+quand même donc ils ont créé quelque
+
+91
+00:02:26,410 --> 00:02:29,200
+chose à partir de ce que valve a créé
+
+92
+00:02:27,940 --> 00:02:30,370
+donc ce qu'ils ont créé à qui ça
+
+93
+00:02:29,200 --> 00:02:31,930
+appartient exactement mais en fait
+
+94
+00:02:30,370 --> 00:02:33,520
+beaucoup d'éditeurs et de studios de
+
+95
+00:02:31,930 --> 00:02:34,720
+développement sont pour les modes y en a
+
+96
+00:02:33,520 --> 00:02:36,190
+même qui fournissent des kits pour
+
+97
+00:02:34,720 --> 00:02:37,150
+simplifier la vie aux mecs qui créent
+
+98
+00:02:36,190 --> 00:02:39,160
+des modes parce que ça fait tout
+
+99
+00:02:37,150 --> 00:02:40,720
+simplement vivre leur jeu de sa propose
+
+100
+00:02:39,160 --> 00:02:42,010
+du nouveau contenu gratuit aux joueurs
+
+101
+00:02:40,720 --> 00:02:43,180
+qui ont déjà acheté le jeu et même
+
+102
+00:02:42,010 --> 00:02:44,019
+parfois dans les cas où le mode est
+
+103
+00:02:43,180 --> 00:02:45,670
+vraiment incroyable
+
+104
+00:02:44,019 --> 00:02:47,140
+les gens vont acheter le jeu juste pour
+
+105
+00:02:45,670 --> 00:02:48,519
+jouer au mode thermique a créé c'est
+
+106
+00:02:47,140 --> 00:02:50,440
+vraiment un truc donnant donnant et
+
+107
+00:02:48,519 --> 00:02:52,120
+c'est aussi plus simple pour les mecs
+
+108
+00:02:50,440 --> 00:02:53,590
+qui ont envie de créer une sorte de mini
+
+109
+00:02:52,120 --> 00:02:54,819
+jeux bad de faire un mode dans un jeu
+
+110
+00:02:53,590 --> 00:02:57,069
+qui existe déjà plutôt que de devoir
+
+111
+00:02:54,819 --> 00:02:58,540
+coder un jeu entièrement de a à z ça
+
+112
+00:02:57,069 --> 00:02:59,650
+crée des vrais succès story comme pour
+
+113
+00:02:58,540 --> 00:03:01,420
+counter-strike et aussi par exemple
+
+114
+00:02:59,650 --> 00:03:03,100
+comme pour les battle royale les battle
+
+115
+00:03:01,420 --> 00:03:05,260
+royale ça vient d'un mec qui s'appelle
+
+116
+00:03:03,100 --> 00:03:07,480
+brendan green qui a créé un mode de arma
+
+117
+00:03:05,260 --> 00:03:08,620
+2 le mode inspirée du film battle royale
+
+118
+00:03:07,480 --> 00:03:10,930
+le film japonais mais il a ensuite été
+
+119
+00:03:08,620 --> 00:03:12,610
+repéré par les développeurs de hnz d'un
+
+120
+00:03:10,930 --> 00:03:14,260
+pour faire la même chose avec h 15 et
+
+121
+00:03:12,610 --> 00:03:16,030
+d'ancrer le mode h 15 et d'un battle
+
+122
+00:03:14,260 --> 00:03:17,560
+royale et ensuite ce gala a quitté day
+
+123
+00:03:16,030 --> 00:03:19,900
+break les développeurs de hache un zelda
+
+124
+00:03:17,560 --> 00:03:21,250
+pour s'associer avec un mec en corée du
+
+125
+00:03:19,900 --> 00:03:23,830
+sud qui avait un studio de jeu et créer
+
+126
+00:03:21,250 --> 00:03:25,810
+avec lui tu es ubg et tout sa part juste
+
+127
+00:03:23,830 --> 00:03:27,220
+d'un mode que ce gars a créé pour arma 2
+
+128
+00:03:25,810 --> 00:03:27,970
+c'est incroyable comme histoire c'est
+
+129
+00:03:27,220 --> 00:03:29,140
+fou et ensuite
+
+130
+00:03:27,970 --> 00:03:31,390
+epic games donc qu'ils ont fait en haïti
+
+131
+00:03:29,140 --> 00:03:32,859
+ont employé ce gars pour créer en ait
+
+132
+00:03:31,390 --> 00:03:34,329
+battle royale pas du tout ils ont juste
+
+133
+00:03:32,859 --> 00:03:35,829
+pris l'idée c'est entièrement faux
+
+134
+00:03:34,329 --> 00:03:37,569
+c'est là où il ya des fois des petits
+
+135
+00:03:35,829 --> 00:03:38,890
+conflits des petits vols l'idée en fait
+
+136
+00:03:37,569 --> 00:03:40,269
+le problème de brandon games et qu'il a
+
+137
+00:03:38,890 --> 00:03:41,319
+créé un truc qui est incroyable mais
+
+138
+00:03:40,269 --> 00:03:42,970
+quelle générique c'est quand on va pas
+
+139
+00:03:41,319 --> 00:03:45,430
+verser des royalties au mic a créé les
+
+140
+00:03:42,970 --> 00:03:47,049
+fps au mec a créé les rpg et brandon
+
+141
+00:03:45,430 --> 00:03:48,579
+gray il a créé vraiment un mode de jeu à
+
+142
+00:03:47,049 --> 00:03:49,840
+part entière le battle royale est encore
+
+143
+00:03:48,579 --> 00:03:51,370
+lui s'en est bien sorti puisqu'il a pu
+
+144
+00:03:49,840 --> 00:03:52,690
+créer son propre jeu et qui s'est vendu
+
+145
+00:03:51,370 --> 00:03:53,769
+à des millions d'exemplaires qui s'est
+
+146
+00:03:52,690 --> 00:03:55,030
+mis bien mais des fois voilà il ya des
+
+147
+00:03:53,769 --> 00:03:56,680
+mecs qui font un mode qui est vraiment
+
+148
+00:03:55,030 --> 00:03:58,510
+innovant est cool et malgré qu'ils aient
+
+149
+00:03:56,680 --> 00:04:00,250
+bossé énormément sur le truc basse et
+
+150
+00:03:58,510 --> 00:04:01,180
+repris ailleurs etc et ils n'obtiennent
+
+151
+00:04:00,250 --> 00:04:02,980
+jamais vraiment de compensation
+
+152
+00:04:01,180 --> 00:04:04,359
+monétaire donc à pas mal de team de mode
+
+153
+00:04:02,980 --> 00:04:05,889
+parce que c'est des teams des fois les
+
+154
+00:04:04,359 --> 00:04:07,420
+gens bossent à plusieurs dizaines de
+
+155
+00:04:05,889 --> 00:04:08,920
+personnes pour certains sur un même mode
+
+156
+00:04:07,420 --> 00:04:10,359
+parce que c'est beaucoup de temps
+
+157
+00:04:08,920 --> 00:04:11,380
+minerai de fer un mode bon ça dépend ce
+
+158
+00:04:10,359 --> 00:04:12,549
+que tu fais vous allez voir mais il ya
+
+159
+00:04:11,380 --> 00:04:14,560
+des modes qui sont vraiment complexe
+
+160
+00:04:12,549 --> 00:04:16,750
+affaire le souci c'est qu'un mode fait
+
+161
+00:04:14,560 --> 00:04:18,609
+part des joueurs ne peut pas être vendus
+
+162
+00:04:16,750 --> 00:04:20,560
+via par exemple le mode skyrim together
+
+163
+00:04:18,609 --> 00:04:22,660
+qui permet à des joueurs de se rejoindre
+
+164
+00:04:20,560 --> 00:04:24,100
+en ligne sur skyrim qui est un jeu à la
+
+165
+00:04:22,660 --> 00:04:26,470
+base solo mais il est interdit de vendre
+
+166
+00:04:24,100 --> 00:04:27,880
+le mode parce que le mode dépend d'un
+
+167
+00:04:26,470 --> 00:04:29,289
+contenu qui n'appartient pas à ceux qui
+
+168
+00:04:27,880 --> 00:04:30,729
+l'ont créé qui est en l'occurrence qui
+
+169
+00:04:29,289 --> 00:04:31,840
+appartient à bethesda et donc du coup ce
+
+170
+00:04:30,729 --> 00:04:33,340
+qu'ils font c'est qu'ils créent un une
+
+171
+00:04:31,840 --> 00:04:33,889
+campagne de financement donc un pas très
+
+172
+00:04:33,340 --> 00:04:35,330
+haut
+
+173
+00:04:33,889 --> 00:04:37,069
+de truc est actuellement au moment où je
+
+174
+00:04:35,330 --> 00:04:38,330
+fais la vidéo ces gars là ils sont quand
+
+175
+00:04:37,069 --> 00:04:40,039
+même baquet à hauteur de 23 mille
+
+176
+00:04:38,330 --> 00:04:41,330
+dollars par mois pour leurs modes skyrim
+
+177
+00:04:40,039 --> 00:04:43,219
+together donc ils se mettent très très
+
+178
+00:04:41,330 --> 00:04:44,840
+bien et c'est mérité petit bémol ils
+
+179
+00:04:43,219 --> 00:04:46,819
+sont accusés les gars confesse karim
+
+180
+00:04:44,840 --> 00:04:49,099
+together par une autre team d'avoir volé
+
+181
+00:04:46,819 --> 00:04:50,990
+du code et oued avoir volé des lignes de
+
+182
+00:04:49,099 --> 00:04:52,729
+codes à loutre team qui du coup est un
+
+183
+00:04:50,990 --> 00:04:55,219
+vrai manque à gagner et c'est là on
+
+184
+00:04:52,729 --> 00:04:56,389
+rentre un peu dans le dip modding où il
+
+185
+00:04:55,219 --> 00:04:57,620
+ya des grosses embrouilles comme ça il
+
+186
+00:04:56,389 --> 00:04:58,999
+ya des gens qui volent du code à
+
+187
+00:04:57,620 --> 00:05:00,740
+d'autres gens pour faire des modes qui
+
+188
+00:04:58,999 --> 00:05:01,969
+rapporte de l'argent du mna liant dunod
+
+189
+00:05:00,740 --> 00:05:03,529
+et parfois même ya des gens qui font des
+
+190
+00:05:01,969 --> 00:05:04,819
+modes géniaux que moi à l'époque sur gta
+
+191
+00:05:03,529 --> 00:05:06,469
+5 j'avais j'avais fait une vidéo où
+
+192
+00:05:04,819 --> 00:05:08,060
+j'utilisais des modes doigt un mode où
+
+193
+00:05:06,469 --> 00:05:09,529
+il y avait plein d' avion qui se crashe
+
+194
+00:05:08,060 --> 00:05:11,210
+est partout et en fait ce mode là
+
+195
+00:05:09,529 --> 00:05:12,169
+c'était un putain de virus voilà je lui
+
+196
+00:05:11,210 --> 00:05:13,939
+ai appris deux semaines après j'ai été
+
+197
+00:05:12,169 --> 00:05:15,199
+ravi de me dire que des millions de gens
+
+198
+00:05:13,939 --> 00:05:16,789
+avaient vu cette vidéo et avait
+
+199
+00:05:15,199 --> 00:05:18,500
+probablement télécharger ce mode qui
+
+200
+00:05:16,789 --> 00:05:20,060
+contenait un logiciel malveillant visant
+
+201
+00:05:18,500 --> 00:05:22,400
+à voler les identifiants de plein de
+
+202
+00:05:20,060 --> 00:05:24,259
+sites quoi voilà vous savez tout c'était
+
+203
+00:05:22,400 --> 00:05:25,729
+une belle intro boya plein d'infos que
+
+204
+00:05:24,259 --> 00:05:26,659
+j'ai pas donné que je vulgarise pas mal
+
+205
+00:05:25,729 --> 00:05:28,639
+de trucs comme d'habitude je vulgarise
+
+206
+00:05:26,659 --> 00:05:30,139
+un truc déjà vulgariser dans ce que j'ai
+
+207
+00:05:28,639 --> 00:05:31,580
+vu c'est pour le level de squeeze il est
+
+208
+00:05:30,139 --> 00:05:33,050
+où il est où il ya donc des modes assez
+
+209
+00:05:31,580 --> 00:05:34,370
+sérieux à s'écouler ya aussi des modes
+
+210
+00:05:33,050 --> 00:05:35,960
+qui sont juste nawak c'est vraiment des
+
+211
+00:05:34,370 --> 00:05:37,849
+gens qui les ont faits pour faire marrer
+
+212
+00:05:35,960 --> 00:05:38,629
+la communauté pas du tout pour gagner de
+
+213
+00:05:37,849 --> 00:05:40,460
+l'argent ou quoi que ce soit et
+
+214
+00:05:38,629 --> 00:05:42,379
+aujourd'hui c'est ces modes là qu'on va
+
+215
+00:05:40,460 --> 00:05:45,319
+checker ensemble en commençant par mon
+
+216
+00:05:42,379 --> 00:05:46,759
+préféré dit pinault 23 qui est un gars
+
+217
+00:05:45,319 --> 00:05:48,439
+qui a une chaîne youtube ou juste il
+
+218
+00:05:46,759 --> 00:05:50,330
+fait un mode qui en fait augmente les
+
+219
+00:05:48,439 --> 00:05:52,159
+expressions faciales de 500% du coup les
+
+220
+00:05:50,330 --> 00:06:02,539
+cinématiques non plus aucune espèce de
+
+221
+00:05:52,159 --> 00:06:03,830
+sens parce que c'est pas qu'ils allaient
+
+222
+00:06:02,539 --> 00:06:05,029
+être sensible à ça mais moi comme je
+
+223
+00:06:03,830 --> 00:06:06,349
+veux beaucoup au jeu ça me fait rire et
+
+224
+00:06:05,029 --> 00:06:07,729
+non le guennic ce n'est pas fini du tout
+
+225
+00:06:06,349 --> 00:06:10,000
+c'est faux je les motos jauge de la vie
+
+226
+00:06:07,729 --> 00:06:10,000
+en prison
+
+227
+00:06:24,399 --> 00:06:28,039
+il fait plus peur que les horizons des
+
+228
+00:06:26,779 --> 00:06:30,339
+1000 comme ça mon gars le héros c'est
+
+229
+00:06:28,039 --> 00:06:30,339
+horrible
+
+230
+00:06:36,260 --> 00:06:41,100
+ce dégaine h d'armes
+
+231
+00:06:39,050 --> 00:06:42,390
+on dit de moi quand je suis face à une
+
+232
+00:06:41,100 --> 00:06:53,250
+situation de crise match mais exactement
+
+233
+00:06:42,390 --> 00:06:54,660
+cette gueule ça m'angoisse ça me fait
+
+234
+00:06:53,250 --> 00:06:56,370
+rire à la fois je ne sais pas comment
+
+235
+00:06:54,660 --> 00:06:57,900
+exprimer ce sentiment ok c'est une scène
+
+236
+00:06:56,370 --> 00:06:59,340
+d'un mec qui mange des hamburgers donc
+
+237
+00:06:57,900 --> 00:07:01,230
+du coup au début il est en mode normal
+
+238
+00:06:59,340 --> 00:07:02,580
+et à la fin il à 1000% êtes vous prêt à
+
+239
+00:07:01,230 --> 00:07:03,450
+découvrir cette obscénité est-ce que
+
+240
+00:07:02,580 --> 00:07:11,700
+vous êtes prêts accrochez vous bien à
+
+241
+00:07:03,450 --> 00:07:14,580
+vos fauteuils annoncé bizarre mais qu il
+
+242
+00:07:11,700 --> 00:07:16,020
+mange sa propre gueule mais qu'il se
+
+243
+00:07:14,580 --> 00:07:19,470
+mastique lui-même gros il saute au
+
+244
+00:07:16,020 --> 00:07:21,060
+mastic à à metz a même plus de sens mais
+
+245
+00:07:19,470 --> 00:07:23,010
+à part dans resident evil 2 il ya aussi
+
+246
+00:07:21,060 --> 00:07:25,110
+un grand méchant dans resident evil 2
+
+247
+00:07:23,010 --> 00:07:26,010
+qui s'appelle monsieur x jeudi resident
+
+248
+00:07:25,110 --> 00:07:27,060
+evil depuis début mai c'est le
+
+249
+00:07:26,010 --> 00:07:28,170
+remasterisée qu'est sortie a pas
+
+250
+00:07:27,060 --> 00:07:30,210
+longtemps restée les deux lui est sorti
+
+251
+00:07:28,170 --> 00:07:31,470
+à ya vraiment tout un mythe autour de ce
+
+252
+00:07:30,210 --> 00:07:32,460
+personnage ce qu'il a il a sa place dans
+
+253
+00:07:31,470 --> 00:07:33,990
+l'histoire il fait vraiment flipper et
+
+254
+00:07:32,460 --> 00:07:35,970
+il ya des mecs qui sont amusés à créer
+
+255
+00:07:33,990 --> 00:07:38,810
+un mode où ne se fixe est remplacé par
+
+256
+00:07:35,970 --> 00:07:38,810
+quelqu'un d'autre
+
+257
+00:07:43,020 --> 00:07:51,390
+[Musique]
+
+258
+00:07:45,530 --> 00:07:53,540
+dovizioso ne laisse pas non il n'y a pas
+
+259
+00:07:51,390 --> 00:07:56,850
+de raï comment fait-il
+
+260
+00:07:53,540 --> 00:07:57,870
+il fait peur il écrit pimec à il ya un
+
+261
+00:07:56,850 --> 00:08:00,360
+an un dossier où les eaux
+
+262
+00:07:57,870 --> 00:08:01,580
+il est à wall aps voilà donc quelques
+
+263
+00:08:00,360 --> 00:08:03,940
+extraits ci voulait voir ça
+
+264
+00:08:01,580 --> 00:08:05,440
+[Musique]
+
+265
+00:08:03,940 --> 00:08:07,360
+un autre jeu dans lequel il ya
+
+266
+00:08:05,440 --> 00:08:09,610
+énormément de mode je crois qu'au total
+
+267
+00:08:07,360 --> 00:08:12,100
+il y en a eu plus de 40000 c'est skyrim
+
+268
+00:08:09,610 --> 00:08:14,050
+et jensen trop connu au début de karim
+
+269
+00:08:12,100 --> 00:08:15,790
+ou ya un mec qui s'est exécuté devant
+
+270
+00:08:14,050 --> 00:08:17,470
+toi c'est au début du jeu et fait
+
+271
+00:08:15,790 --> 00:08:19,000
+attaquer par un dragon et avec ce mode
+
+272
+00:08:17,470 --> 00:08:20,380
+le dragon a été remplacé mais je ne
+
+273
+00:08:19,000 --> 00:08:31,540
+dirais pas par qui par quoi mais vous le
+
+274
+00:08:20,380 --> 00:08:34,030
+connaissez et croyez moi tient aussi
+
+275
+00:08:31,540 --> 00:08:39,520
+génial je reviens tu choo s'il vous
+
+276
+00:08:34,030 --> 00:08:42,159
+plaît oui c'est toby abb pas mais il
+
+277
+00:08:39,520 --> 00:08:44,190
+fait super peur à ces fous est ce qu'un
+
+278
+00:08:42,159 --> 00:08:46,660
+bruit et plus intimidant que le choc
+
+279
+00:08:44,190 --> 00:08:48,070
+c'est un gars qui a vraiment beaucoup a
+
+280
+00:08:46,660 --> 00:08:49,360
+été fait sur ce qui arrive les gens ils
+
+281
+00:08:48,070 --> 00:08:50,800
+s'amusaient à changer dragon par
+
+282
+00:08:49,360 --> 00:08:52,810
+n'importe quoi d'autre mais qui fait
+
+283
+00:08:50,800 --> 00:08:55,120
+trop vapeur ok drôle j'aime le modding
+
+284
+00:08:52,810 --> 00:08:56,740
+juste pour ça j'adore ya des mecs qui
+
+285
+00:08:55,120 --> 00:08:58,510
+ont mis tant d'énergie à faire un mode
+
+286
+00:08:56,740 --> 00:08:59,740
+où le dragon est remplacé par petit
+
+287
+00:08:58,510 --> 00:09:01,630
+poney juste pour faire marrer la
+
+288
+00:08:59,740 --> 00:09:03,460
+communauté j'aime passons maintenant à
+
+289
+00:09:01,630 --> 00:09:05,740
+mon mode préférées de skyrim
+
+290
+00:09:03,460 --> 00:09:06,970
+un mode qui reflète ma grande maturité
+
+291
+00:09:05,740 --> 00:09:08,290
+si jamais on ne savent pas mais je pense
+
+292
+00:09:06,970 --> 00:09:09,850
+pas dans skyrim est un truc est devenue
+
+293
+00:09:08,290 --> 00:09:11,170
+un mème qui s'appelle le foot roda c'est
+
+294
+00:09:09,850 --> 00:09:13,090
+un sort ou ton père sauf un bête de
+
+295
+00:09:11,170 --> 00:09:14,890
+crier et les ennemis en face de toi
+
+296
+00:09:13,090 --> 00:09:17,290
+s'envole et ya un mec qui a fait un mode
+
+297
+00:09:14,890 --> 00:09:20,310
+je vous mets les matches et ça ne me
+
+298
+00:09:17,290 --> 00:09:20,310
+jugez surtout pas
+
+299
+00:09:22,649 --> 00:09:27,779
+j'ai paris a tu peux faire des paies
+
+300
+00:09:25,050 --> 00:09:30,740
+flamme mec dp fulham vraiment dans le
+
+301
+00:09:27,779 --> 00:09:34,259
+jeu et ça brûle la peau ce bête
+
+302
+00:09:30,740 --> 00:09:35,699
+merci écoutez moi bien je vais vous je
+
+303
+00:09:34,259 --> 00:09:37,559
+vais me confesser maintenant ok skyrim
+
+304
+00:09:35,699 --> 00:09:38,999
+ce monument du jeu vidéo je n'ai jamais
+
+305
+00:09:37,559 --> 00:09:40,019
+touché et vous savez quoi il vient de se
+
+306
+00:09:38,999 --> 00:09:41,189
+passer un truc qui illustre parfaitement
+
+307
+00:09:40,019 --> 00:09:42,389
+ce que j'ai dit au début de la vidéo je
+
+308
+00:09:41,189 --> 00:09:43,920
+vais acheter ce karim et l'installer
+
+309
+00:09:42,389 --> 00:09:46,470
+uniquement pour jouer avec ce mode
+
+310
+00:09:43,920 --> 00:09:48,689
+vraiment alors ensuite un classique du
+
+311
+00:09:46,470 --> 00:09:50,759
+jeu gta où il ya énormément de mode sur
+
+312
+00:09:48,689 --> 00:09:52,740
+gta iv mais le chili et de mode mais des
+
+313
+00:09:50,759 --> 00:09:55,019
+skins des modèles hyundai plains tu
+
+314
+00:09:52,740 --> 00:09:56,879
+pouvais genre jouets iron man je pouvais
+
+315
+00:09:55,019 --> 00:09:58,889
+tirer des voitures avec des arts tu
+
+316
+00:09:56,879 --> 00:09:59,879
+pouvais tirer des requins avec teza il
+
+317
+00:09:58,889 --> 00:10:02,459
+ya même un mec qui a créé un mode
+
+318
+00:09:59,879 --> 00:10:04,139
+satanique où tu peut capturer des gens
+
+319
+00:10:02,459 --> 00:10:05,429
+avec tes pokéball les gens c'est ultra
+
+320
+00:10:04,139 --> 00:10:07,230
+glauque que tu pouvais aussi jouer bob
+
+321
+00:10:05,429 --> 00:10:09,389
+les plongent tu pouvais jouer une girafe
+
+322
+00:10:07,230 --> 00:10:10,889
+tu pouvais jouer spider man mais depuis
+
+323
+00:10:09,389 --> 00:10:12,389
+elle jeu spider man qui est sorti et
+
+324
+00:10:10,889 --> 00:10:13,949
+quéven fois mieux donc ça sert plus à
+
+325
+00:10:12,389 --> 00:10:15,540
+rien mais à l'époque cité où vraiment et
+
+326
+00:10:13,949 --> 00:10:17,879
+pas son dernier jeu dont je vous parlais
+
+327
+00:10:15,540 --> 00:10:19,769
+de quelques modes fallout 4 lui aussi
+
+328
+00:10:17,879 --> 00:10:20,819
+est un jeu édité par bethesda bethesda
+
+329
+00:10:19,769 --> 00:10:22,679
+qui aime beaucoup les modes et qui
+
+330
+00:10:20,819 --> 00:10:24,360
+encourage la communauté de ses jeux à
+
+331
+00:10:22,679 --> 00:10:25,769
+créer des mods d'ailleurs un mec de la
+
+332
+00:10:24,360 --> 00:10:27,829
+communauté s'échauffer il a créé un mode
+
+333
+00:10:25,769 --> 00:10:31,559
+ou juste utah une poêle dans ta main
+
+334
+00:10:27,829 --> 00:10:33,809
+stylet mec je sais ça paraît ridicule
+
+335
+00:10:31,559 --> 00:10:35,249
+mais tu peux quand même l'améliorer en
+
+336
+00:10:33,809 --> 00:10:36,179
+scotchant une grosse boîte en métal de
+
+337
+00:10:35,249 --> 00:10:37,199
+dents et elle fait encore plus mal la
+
+338
+00:10:36,179 --> 00:10:38,970
+peau à l'air et je sais qu'avec cet
+
+339
+00:10:37,199 --> 00:10:40,589
+argument tu vas ni décharger le monde ni
+
+340
+00:10:38,970 --> 00:10:42,540
+acheté fallout 4 du tout mais il ya
+
+341
+00:10:40,589 --> 00:10:44,429
+aussi un mode dont 24 qui est débile où
+
+342
+00:10:42,540 --> 00:10:45,629
+il ya juste un pnj c'est un cafard les
+
+343
+00:10:44,429 --> 00:10:46,620
+cafards normalement tu but et qui
+
+344
+00:10:45,629 --> 00:10:48,959
+servent à rien dans le jeu là ils en ont
+
+345
+00:10:46,620 --> 00:10:50,720
+fait un pnj et le pnj par l'etusa
+
+346
+00:10:48,959 --> 00:10:53,160
+tenteront pas à sa voix et ses drôles
+
+347
+00:10:50,720 --> 00:10:54,329
+aulas je sais ce que vous dites là poids
+
+348
+00:10:53,160 --> 00:10:56,249
+ne vous avait pas convaincu vous vouliez
+
+349
+00:10:54,329 --> 00:10:58,379
+pas à stefan autres 4 mai le cafard met
+
+350
+00:10:56,249 --> 00:10:59,309
+le holà du cafard vous voulez d'entendre
+
+351
+00:10:58,379 --> 00:11:01,649
+de mon propre aux oreilles
+
+352
+00:10:59,309 --> 00:11:02,730
+n'est ce pas écouter les amis c'est à 22
+
+353
+00:11:01,649 --> 00:11:04,079
+sur les mois je voulais en parler parce
+
+354
+00:11:02,730 --> 00:11:05,249
+que je trouve que c'est c'est fou c'est
+
+355
+00:11:04,079 --> 00:11:07,439
+impressionnant et surtout c'est pas mal
+
+356
+00:11:05,249 --> 00:11:09,629
+d'actualité avec notamment ce qui s'est
+
+357
+00:11:07,439 --> 00:11:10,829
+passé avec l'apparition du mode battle
+
+358
+00:11:09,629 --> 00:11:12,389
+royale du coup j'ai l'impression qu'il
+
+359
+00:11:10,829 --> 00:11:13,649
+ya pas mal des normes nouveautés qui
+
+360
+00:11:12,389 --> 00:11:14,879
+vont apparaître dans les années à venir
+
+361
+00:11:13,649 --> 00:11:16,559
+dans le jeu vidéo et qui viendront en
+
+362
+00:11:14,879 --> 00:11:18,059
+fait d'un mec ou d'une team de mecs qui
+
+363
+00:11:16,559 --> 00:11:19,230
+ont créé un mode d'un jeu en fait mais
+
+364
+00:11:18,059 --> 00:11:21,149
+un mode tellement incroyable tellement
+
+365
+00:11:19,230 --> 00:11:22,679
+cool idée tellement bonne que des
+
+366
+00:11:21,149 --> 00:11:24,720
+compagnies vont s'en inspirer pour créer
+
+367
+00:11:22,679 --> 00:11:26,550
+un jeu à part entière avec il ya des
+
+368
+00:11:24,720 --> 00:11:28,079
+n'emboîtent qui pèse je sais pas combien
+
+369
+00:11:26,550 --> 00:11:29,939
+en bourse et qui donne les moyens à des
+
+370
+00:11:28,079 --> 00:11:31,350
+gens de kiffer en fait d'exprimer leur
+
+371
+00:11:29,939 --> 00:11:32,579
+créativité et je sais pas je trouve ça
+
+372
+00:11:31,350 --> 00:11:34,170
+c'est beau c'est échanges entre les
+
+373
+00:11:32,579 --> 00:11:35,370
+joueurs passionnés et les développeurs
+
+374
+00:11:34,170 --> 00:11:36,720
+des jeux passionné aussi et qui
+
+375
+00:11:35,370 --> 00:11:37,829
+permettent aux joueurs de prendre en
+
+376
+00:11:36,720 --> 00:11:39,600
+quelque sorte hommage à leurs jeux
+
+377
+00:11:37,829 --> 00:11:41,069
+préférés en ajoutant sa petite pierre à
+
+378
+00:11:39,600 --> 00:11:42,420
+l'édifice et voilà schéma je trouve ça
+
+379
+00:11:41,069 --> 00:11:43,560
+hyper touchant hyper cool c'était pas
+
+380
+00:11:42,420 --> 00:11:44,790
+seulement marrant comme vidéo mais au
+
+381
+00:11:43,560 --> 00:11:45,990
+moins on a appris des choses et puis
+
+382
+00:11:44,790 --> 00:11:47,069
+j'ai parlé d'un truc que je kiffe donc
+
+383
+00:11:45,990 --> 00:11:48,269
+voila et qui sait peut-être que ça
+
+384
+00:11:47,069 --> 00:11:49,199
+donnera envie à des gens d'essayer de
+
+385
+00:11:48,269 --> 00:11:50,279
+créer des mods
+
+386
+00:11:49,199 --> 00:11:51,660
+j'espère que ça vous a plu je vous dis à
+
+387
+00:11:50,279 --> 00:11:54,290
+bientôt une prochaine vidéo et puis
+
+388
+00:11:51,660 --> 00:11:54,290
+portez vous bien
+
+389
+00:11:54,579 --> 00:11:57,770
+voilà une belle manière de conclure
+
+390
+00:11:55,959 --> 00:12:06,130
+cette vidéo et c'était pas un mode
+
+391
+00:11:57,770 --> 00:12:09,830
+[Musique]
+
+392
+00:12:06,130 --> 00:12:09,830
+[Applaudissements]
+
+393
+00:12:10,940 --> 00:12:14,299
+[Musique]

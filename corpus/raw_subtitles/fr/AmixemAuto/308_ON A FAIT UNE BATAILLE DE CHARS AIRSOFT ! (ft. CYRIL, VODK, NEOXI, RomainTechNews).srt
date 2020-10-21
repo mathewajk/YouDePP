@@ -1,0 +1,1251 @@
+1
+00:00:00,000 --> 00:00:04,200
+kla bonjour bienvenue dans une vidéo qui
+
+2
+00:00:01,620 --> 00:00:05,879
+a demandé beaucoup trop de temps
+
+3
+00:00:04,200 --> 00:00:08,189
+d'investissements techniques et
+
+4
+00:00:05,879 --> 00:00:09,990
+financiers une vidéo qui j'espère sera
+
+5
+00:00:08,189 --> 00:00:11,820
+fun et décalé en compagnie de remarques
+
+6
+00:00:09,990 --> 00:00:13,200
+de la chaîne techno nts knoxy de la
+
+7
+00:00:11,820 --> 00:00:15,269
+chaîne des oxydes terrible de la chaîne
+
+8
+00:00:13,200 --> 00:00:16,560
+thierry mpk attention à la façon des jo
+
+9
+00:00:15,269 --> 00:00:18,210
+et qui n'a toujours pas de chaîne
+
+10
+00:00:16,560 --> 00:00:19,980
+youtube et votre preuve de la chaîne
+
+11
+00:00:18,210 --> 00:00:21,240
+votre cas où votre cas je sais plus les
+
+12
+00:00:19,980 --> 00:00:23,189
+deux vont bien moi je m'appelle toujours
+
+13
+00:00:21,240 --> 00:00:24,779
+au maximum et c'est la chaîne amics m un
+
+14
+00:00:23,189 --> 00:00:26,099
+anagramme de maximum pour ceux qui ne
+
+15
+00:00:24,779 --> 00:00:26,970
+savaient pas toujours de 3 qui se
+
+16
+00:00:26,099 --> 00:00:28,140
+réveille dans l'eau qui didaoui
+
+17
+00:00:26,970 --> 00:00:29,699
+effectivement s'en bat les couilles
+
+18
+00:00:28,140 --> 00:00:30,960
+aujourd'hui mesdames et messieurs je
+
+19
+00:00:29,699 --> 00:00:32,070
+suis tombé sur internet sur un objet
+
+20
+00:00:30,960 --> 00:00:33,090
+c'est celui-là c'est un char
+
+21
+00:00:32,070 --> 00:00:34,920
+radiocommandés hertz
+
+22
+00:00:33,090 --> 00:00:36,630
+il tire débit j'ai décidé de le croiser
+
+23
+00:00:34,920 --> 00:00:40,950
+avec une autre technologie de modélisme
+
+24
+00:00:36,630 --> 00:00:43,620
+qui s'appelle le drone fvd ça nous
+
+25
+00:00:40,950 --> 00:00:45,360
+allons faire 1 2 les deux de chars rcr
+
+26
+00:00:43,620 --> 00:00:46,860
+sauf avec des caméras embarquées sur le
+
+27
+00:00:45,360 --> 00:00:48,059
+papier c'est incroyable dans la pratique
+
+28
+00:00:46,860 --> 00:00:49,020
+techniquement c'est un enfer mais
+
+29
+00:00:48,059 --> 00:00:50,190
+j'espère que ça va quand même marché
+
+30
+00:00:49,020 --> 00:00:52,770
+petits doivent expliquer ce sont des
+
+31
+00:00:50,190 --> 00:00:55,620
+règles c'est parti bienvenue dans le
+
+32
+00:00:52,770 --> 00:00:56,879
+redbook chars rcr sauf challenge c'est
+
+33
+00:00:55,620 --> 00:00:57,960
+un peu long à dire mais au moins il ya
+
+34
+00:00:56,879 --> 00:00:59,430
+tout dans le titre cette vidéo est
+
+35
+00:00:57,960 --> 00:01:00,809
+sponsorisé par world of tanks
+
+36
+00:00:59,430 --> 00:01:02,129
+enfin j'ai eu l'idée du concept à la
+
+37
+00:01:00,809 --> 00:01:03,660
+base et puis je les ai appelés pour leur
+
+38
+00:01:02,129 --> 00:01:04,619
+demander s'ils pouvaient nous aider sur
+
+39
+00:01:03,660 --> 00:01:06,180
+la production de cette vidéo
+
+40
+00:01:04,619 --> 00:01:07,470
+donc ils ont accepté merci beaucoup à
+
+41
+00:01:06,180 --> 00:01:08,580
+vous les gars je parle aux gars de chez
+
+42
+00:01:07,470 --> 00:01:09,780
+wargaming merci beaucoup comme
+
+43
+00:01:08,580 --> 00:01:11,159
+d'habitude le lien du jeu et dans la
+
+44
+00:01:09,780 --> 00:01:12,840
+description n'hésitez pas à le check et
+
+45
+00:01:11,159 --> 00:01:14,820
+il est super cool il est gratos et ça
+
+46
+00:01:12,840 --> 00:01:16,200
+soutient la chaîne donc voilà on passe
+
+47
+00:01:14,820 --> 00:01:17,640
+tout de suite aux règles du jeu il
+
+48
+00:01:16,200 --> 00:01:18,840
+s'agit d'un combat entre deux équipes
+
+49
+00:01:17,640 --> 00:01:20,880
+qui s'affronteront grâce à des chars
+
+50
+00:01:18,840 --> 00:01:22,140
+radiocommandés tirait de vrai tank la
+
+51
+00:01:20,880 --> 00:01:24,090
+première équipe jouera avec le
+
+52
+00:01:22,140 --> 00:01:26,220
+challenger 2e il ressemble à ça c'est un
+
+53
+00:01:24,090 --> 00:01:27,900
+char moderne britannique très stylé il
+
+54
+00:01:26,220 --> 00:01:30,030
+sera opposé aux chars de la 2ème équipe
+
+55
+00:01:27,900 --> 00:01:31,140
+qui lui est un type 99 reconnu comme
+
+56
+00:01:30,030 --> 00:01:32,009
+étant le char le plus moderne
+
+57
+00:01:31,140 --> 00:01:33,869
+actuellement en service
+
+58
+00:01:32,009 --> 00:01:35,490
+mesdames et messieurs après des heures
+
+59
+00:01:33,869 --> 00:01:36,960
+de bricolage à la red box et grâce à un
+
+60
+00:01:35,490 --> 00:01:39,150
+système de transmission vidéo en temps
+
+61
+00:01:36,960 --> 00:01:41,159
+réel les joueurs voient en direct la
+
+62
+00:01:39,150 --> 00:01:41,909
+vision première personne de leur char ce
+
+63
+00:01:41,159 --> 00:01:43,619
+qui leur permet de rester
+
+64
+00:01:41,909 --> 00:01:44,880
+confortablement assis pendant qu'ils
+
+65
+00:01:43,619 --> 00:01:45,720
+tirent sur les chars ennemis c'est
+
+66
+00:01:44,880 --> 00:01:47,189
+vraiment génial
+
+67
+00:01:45,720 --> 00:01:48,750
+genre c'est un putain de jeu dans la
+
+68
+00:01:47,189 --> 00:01:49,979
+vraie vie c'est juste incroyable
+
+69
+00:01:48,750 --> 00:01:51,600
+je me suis un petit peu emporter on
+
+70
+00:01:49,979 --> 00:01:52,950
+continue durant la première partie le
+
+71
+00:01:51,600 --> 00:01:54,600
+but est de toucher le plus de fois
+
+72
+00:01:52,950 --> 00:01:55,799
+possible adversaire des arbitres sont là
+
+73
+00:01:54,600 --> 00:01:57,060
+pour compter durant les parties
+
+74
+00:01:55,799 --> 00:01:59,009
+suivantes c'est comme dans la vraie vie
+
+75
+00:01:57,060 --> 00:02:00,930
+mon gars une balle à mort pendant
+
+76
+00:01:59,009 --> 00:02:02,520
+niaiser le joueur qui ne joue pas est
+
+77
+00:02:00,930 --> 00:02:04,229
+chargé de ravitailler ses coéquipiers en
+
+78
+00:02:02,520 --> 00:02:06,240
+bière soft il possède également un
+
+79
+00:02:04,229 --> 00:02:08,069
+pouvoir incroyable qui lui permet à tout
+
+80
+00:02:06,240 --> 00:02:09,690
+moment de la partie de prendre avec ses
+
+81
+00:02:08,069 --> 00:02:12,150
+mains le char adverse et de le déplacer
+
+82
+00:02:09,690 --> 00:02:13,560
+n'importe où autour de la réponse c'est
+
+83
+00:02:12,150 --> 00:02:15,150
+chiant et c'est marrant mesdames et
+
+84
+00:02:13,560 --> 00:02:18,070
+messieurs c'est parti pour le red bull
+
+85
+00:02:15,150 --> 00:02:32,490
+chars et resserre sur challenge
+
+86
+00:02:18,070 --> 00:02:35,820
+[Musique]
+
+87
+00:02:32,490 --> 00:02:50,230
+deux minutes de nos rages pour découvrir
+
+88
+00:02:35,820 --> 00:02:58,870
+quand tu fais ça génère pas tirer sur
+
+89
+00:02:50,230 --> 00:02:59,940
+eux directement via internet ou chez les
+
+90
+00:02:58,870 --> 00:03:02,470
+sharks
+
+91
+00:02:59,940 --> 00:03:05,020
+si vous appuyez sur la touche mais les
+
+92
+00:03:02,470 --> 00:03:06,430
+petites fumée qui sortait de la mairie
+
+93
+00:03:05,020 --> 00:03:07,660
+mariés depuis tout à l'heure pendant
+
+94
+00:03:06,430 --> 00:03:08,820
+qu'on resserre les go pro je vais faire
+
+95
+00:03:07,660 --> 00:03:11,020
+un petit placement produit et
+
+96
+00:03:08,820 --> 00:03:12,790
+télécharger ce jeu comme par hasard y
+
+97
+00:03:11,020 --> 00:03:14,290
+avait un logo il est vraiment bien il
+
+98
+00:03:12,790 --> 00:03:15,700
+est dans la description et si je serais
+
+99
+00:03:14,290 --> 00:03:17,020
+vous ayez acheté l'été j'oserais parce
+
+100
+00:03:15,700 --> 00:03:18,520
+que les gens qui font ce dieu ils
+
+101
+00:03:17,020 --> 00:03:20,680
+permettent que des vidéos comme celle ci
+
+102
+00:03:18,520 --> 00:03:24,470
+soit possible aller à plus
+
+103
+00:03:20,680 --> 00:03:29,390
+[Musique]
+
+104
+00:03:24,470 --> 00:03:31,950
+quinze minutes de game 3 2 à l'aise
+
+105
+00:03:29,390 --> 00:03:38,450
+gratter je passe par un breton et
+
+106
+00:03:31,950 --> 00:03:38,450
+tunnels secrets nazis vas-y ryan braun
+
+107
+00:03:39,320 --> 00:04:00,950
+et la pioche et allait toucher l'eau il
+
+108
+00:03:55,110 --> 00:04:00,950
+est bloqué je voulais faire
+
+109
+00:04:00,980 --> 00:04:07,180
+atteint 21,7 me pierre landete touchés
+
+110
+00:04:09,720 --> 00:04:12,889
+[Musique]
+
+111
+00:04:20,359 --> 00:04:25,209
+oh
+
+112
+00:04:21,320 --> 00:04:25,209
+[Musique]
+
+113
+00:04:27,430 --> 00:04:33,340
+mais j'aime rappaz tu vois pas là
+
+114
+00:04:36,569 --> 00:04:39,810
+les comptes
+
+115
+00:04:41,180 --> 00:05:01,319
+riffaud ska et je me casse il triche à
+
+116
+00:04:49,080 --> 00:05:03,240
+mais j'ai pu mal et syrie je vais me
+
+117
+00:05:01,319 --> 00:05:06,090
+casser la gueule tant pis le faire tant
+
+118
+00:05:03,240 --> 00:05:08,479
+pis je le fais je suis tombé j'ai fait
+
+119
+00:05:06,090 --> 00:05:08,479
+un tableau
+
+120
+00:05:11,350 --> 00:05:17,440
+j'ai perdu les pédales à temps mega
+
+121
+00:05:15,040 --> 00:05:21,700
+temps et un souci avec les bals d'accord
+
+122
+00:05:17,440 --> 00:05:22,990
+nombre de dessins animés ouais d'accord
+
+123
+00:05:21,700 --> 00:05:24,310
+les amis m'avaient coûté c'est une bonne
+
+124
+00:05:22,990 --> 00:05:27,960
+vidéo en tout cas on compagne beaucoup
+
+125
+00:05:24,310 --> 00:05:27,960
+potes c'est bon ça marche
+
+126
+00:05:32,720 --> 00:05:37,819
+regardez là non
+
+127
+00:05:34,969 --> 00:05:41,479
+non non non non non non non non j'ai
+
+128
+00:05:37,819 --> 00:05:42,049
+monté la paix j'arrive si rim mais
+
+129
+00:05:41,479 --> 00:05:45,829
+revient ici
+
+130
+00:05:42,049 --> 00:05:47,719
+fessenheim est fort il polémique et aux
+
+131
+00:05:45,829 --> 00:05:50,110
+nappes et d'audition ses clips
+
+132
+00:05:47,719 --> 00:05:50,110
+les deux
+
+133
+00:05:50,750 --> 00:05:56,500
+[Musique]
+
+134
+00:05:54,610 --> 00:05:59,229
+et ça lui donnait alors on fait quoi
+
+135
+00:05:56,500 --> 00:06:00,909
+aujourd'hui chaque année à merde et je
+
+136
+00:05:59,229 --> 00:06:05,020
+vois que chez nous ça s'amuse plus que
+
+137
+00:06:00,909 --> 00:06:07,000
+chez les ennemis vient d'en haut j'avais
+
+138
+00:06:05,020 --> 00:06:08,229
+un plan mais oui mais oui il a fait un
+
+139
+00:06:07,000 --> 00:06:09,729
+plan qui leur fait peur en fait ils vont
+
+140
+00:06:08,229 --> 00:06:11,080
+dire les rushs de suez en fait pendant
+
+141
+00:06:09,729 --> 00:06:12,909
+qu'ils tracent une nuitée de mexes est
+
+142
+00:06:11,080 --> 00:06:14,620
+passé de talent vous allez directement
+
+143
+00:06:12,909 --> 00:06:15,849
+dans cette direction est ici derrière le
+
+144
+00:06:14,620 --> 00:06:17,349
+container je vais bouger le tant
+
+145
+00:06:15,849 --> 00:06:18,909
+qu'ennemi directement pourquoi parce
+
+146
+00:06:17,349 --> 00:06:20,439
+qu'on a un qui va se positionner selon
+
+147
+00:06:18,909 --> 00:06:21,550
+nos informations selon nos informations
+
+148
+00:06:20,439 --> 00:06:22,870
+il ya un temps qui va les six mois je
+
+149
+00:06:21,550 --> 00:06:25,259
+vais le bouger directement pour le
+
+150
+00:06:22,870 --> 00:06:28,419
+remettre sur le champ de bataille
+
+151
+00:06:25,259 --> 00:06:30,159
+étape numéro 3 vous effectuez à 90
+
+152
+00:06:28,419 --> 00:06:31,779
+degrés pour prendre les deux axes du
+
+153
+00:06:30,159 --> 00:06:34,210
+coin c'est les ennemis seront obligés de
+
+154
+00:06:31,779 --> 00:06:35,979
+passer soit par deux fois par an vous
+
+155
+00:06:34,210 --> 00:06:38,289
+avez tout simplement la victoire entre
+
+156
+00:06:35,979 --> 00:06:39,460
+les mains ok très franchement tu le dis
+
+157
+00:06:38,289 --> 00:06:41,770
+honnêtement quand a sorti son papier je
+
+158
+00:06:39,460 --> 00:06:44,080
+m'attendais à une grosse bite une balle
+
+159
+00:06:41,770 --> 00:06:45,520
+amenant let's go on sait ce qu'on doit
+
+160
+00:06:44,080 --> 00:06:46,060
+faire durs étaient partis les ja allez
+
+161
+00:06:45,520 --> 00:06:48,039
+c'est parti
+
+162
+00:06:46,060 --> 00:06:49,330
+c'est fait jvc partie go go go go il
+
+163
+00:06:48,039 --> 00:06:51,539
+n'est place notable qui déplace notre
+
+164
+00:06:49,330 --> 00:06:51,539
+temps
+
+165
+00:06:51,550 --> 00:06:57,520
+j'utilise les armes contre eux voilà le
+
+166
+00:06:54,509 --> 00:06:59,129
+nom ça capte plus derrière containers ça
+
+167
+00:06:57,520 --> 00:07:01,229
+capte plus les rosen
+
+168
+00:06:59,129 --> 00:07:02,639
+jamais merd faut que j'aille ça capte
+
+169
+00:07:01,229 --> 00:07:04,469
+pas peut déplacer un temps que n'importe
+
+170
+00:07:02,639 --> 00:07:05,759
+quand quand je veux bah ouais romain
+
+171
+00:07:04,469 --> 00:07:06,719
+tue-mouches moi je recherchais un jeu
+
+172
+00:07:05,759 --> 00:07:08,519
+mais ne mord pas il en fut de me le
+
+173
+00:07:06,719 --> 00:07:11,819
+prendre je vole waouh
+
+174
+00:07:08,519 --> 00:07:13,849
+non non non non non mais les tirs d'hier
+
+175
+00:07:11,819 --> 00:07:16,949
+tirs
+
+176
+00:07:13,849 --> 00:07:18,569
+ja c'est un peu triché quand même assez
+
+177
+00:07:16,949 --> 00:07:19,919
+triche ou ben je sais pas vous m'avez
+
+178
+00:07:18,569 --> 00:07:22,439
+dit j'ai droit de déplacer un temps que
+
+179
+00:07:19,919 --> 00:07:23,759
+je sais un petit peu je citerai pas de
+
+180
+00:07:22,439 --> 00:07:24,719
+noms mais à la guerre on connaît des
+
+181
+00:07:23,759 --> 00:07:26,099
+gens qui ont fait ça mais on ne peut pas
+
+182
+00:07:24,719 --> 00:07:28,139
+déplacer un temps comme ça la guerre
+
+183
+00:07:26,099 --> 00:07:29,279
+ok ça capte pas que du container gagnant
+
+184
+00:07:28,139 --> 00:07:31,110
+ça fait donc tu sortes de l'arte pas
+
+185
+00:07:29,279 --> 00:07:32,999
+parler parlache pas et bien au bar le
+
+186
+00:07:31,110 --> 00:07:34,559
+skate parc et ont ramené du renfort fui
+
+187
+00:07:32,999 --> 00:07:36,419
+à temps mais il est vraiment très loin
+
+188
+00:07:34,559 --> 00:07:39,479
+là il est au bout du skatepark rentrer
+
+189
+00:07:36,419 --> 00:07:41,039
+au pays et fulham avec ses rosiers terme
+
+190
+00:07:39,479 --> 00:07:43,169
+un tir revient sur la bulle lève ton
+
+191
+00:07:41,039 --> 00:07:46,229
+cadeau aux maths et ira l'algérie a les
+
+192
+00:07:43,169 --> 00:07:47,909
+yeux et ils sont derrière la en mode ia
+
+193
+00:07:46,229 --> 00:07:50,519
+ora te faire traquer vous n'aurez jamais
+
+194
+00:07:47,909 --> 00:07:52,229
+vous étiez seul face deux chambres deux
+
+195
+00:07:50,519 --> 00:07:53,399
+tanks ennemis il en train de monter va
+
+196
+00:07:52,229 --> 00:07:54,929
+se retourner à tout les coup tu as là
+
+197
+00:07:53,399 --> 00:07:55,979
+c'est le combat final que ce barça va
+
+198
+00:07:54,929 --> 00:07:58,199
+pas réussir l on reste ici
+
+199
+00:07:55,979 --> 00:07:59,789
+confortablement héritiers refus les
+
+200
+00:07:58,199 --> 00:08:02,209
+moulins à vent que tu va tenter de tirer
+
+201
+00:07:59,789 --> 00:08:04,319
+un tout simplement magnifique
+
+202
+00:08:02,209 --> 00:08:05,939
+ouais ouais mec que tu montes par là
+
+203
+00:08:04,319 --> 00:08:09,059
+mais tu passes par tapie president
+
+204
+00:08:05,939 --> 00:08:10,740
+ubuntu nom d'anne tout est beaucoup trop
+
+205
+00:08:09,059 --> 00:08:12,539
+computer là ça passera pas ça passera
+
+206
+00:08:10,740 --> 00:08:14,579
+pas il est touché il est touché au perd
+
+207
+00:08:12,539 --> 00:08:16,829
+le contrôle et la richesse baril ouah le
+
+208
+00:08:14,579 --> 00:08:18,240
+moustachu au québec appuie le tapis face
+
+209
+00:08:16,829 --> 00:08:19,740
+à une face la mettant le temps que tout
+
+210
+00:08:18,240 --> 00:08:21,180
+au monde
+
+211
+00:08:19,740 --> 00:08:25,560
+allez on va dire que c'est mon gars tu
+
+212
+00:08:21,180 --> 00:08:28,349
+peux avoir de terre terre terre des
+
+213
+00:08:25,560 --> 00:08:34,770
+retire au quoi quoi
+
+214
+00:08:28,349 --> 00:08:37,430
+waouh aléas les widgets de dire oui
+
+215
+00:08:34,770 --> 00:08:37,430
+ouais
+
+216
+00:08:38,850 --> 00:08:46,300
+[Musique]
+
+217
+00:08:42,810 --> 00:08:47,740
+il ya des balles qui parle de ses shoots
+
+218
+00:08:46,300 --> 00:08:49,180
+mais rarement je ne crains pas les
+
+219
+00:08:47,740 --> 00:08:51,070
+balles grâce au nouveau bond earth day
+
+220
+00:08:49,180 --> 00:08:53,920
+ce box disponible sur le site dès
+
+221
+00:08:51,070 --> 00:08:56,020
+aujourd'hui ça vient d'où il n'y a pas
+
+222
+00:08:53,920 --> 00:09:00,340
+de charges fourni sur le container jo et
+
+223
+00:08:56,020 --> 00:09:01,720
+cyril contre eux c'est quoi ton mes
+
+224
+00:09:00,340 --> 00:09:02,830
+options ravitaillement et moi également
+
+225
+00:09:01,720 --> 00:09:04,540
+ravitaillement et on peut toujours
+
+226
+00:09:02,830 --> 00:09:07,170
+déplacées les chats à la demande de
+
+227
+00:09:04,540 --> 00:09:09,460
+notre équipe une balle à mort let's go
+
+228
+00:09:07,170 --> 00:09:10,960
+ok on reste le plus loin possible pour
+
+229
+00:09:09,460 --> 00:09:14,980
+être tactique manière il faut qu'on
+
+230
+00:09:10,960 --> 00:09:17,260
+s'éloigne montant concerne je tire veut
+
+231
+00:09:14,980 --> 00:09:18,730
+passer là tu peux pas y toucher mais
+
+232
+00:09:17,260 --> 00:09:21,550
+tous sont touchés et avaient pu seul
+
+233
+00:09:18,730 --> 00:09:23,710
+toucher quoi les toucher les porcs
+
+234
+00:09:21,550 --> 00:09:35,380
+allait même de contrôler notre avocat
+
+235
+00:09:23,710 --> 00:09:39,390
+par contre il est évidemment j'espérais
+
+236
+00:09:35,380 --> 00:09:43,300
+j'ai esquivé non quel bateau et
+
+237
+00:09:39,390 --> 00:09:45,510
+attendait plutôt ici c'est pas grave est
+
+238
+00:09:43,300 --> 00:09:45,510
+devenue
+
+239
+00:09:48,380 --> 00:09:54,880
+[Musique]
+
+240
+00:09:50,820 --> 00:09:56,140
+une série jack ou à gauche à gauche à
+
+241
+00:09:54,880 --> 00:09:57,070
+gauche mais comme tu bouges ils
+
+242
+00:09:56,140 --> 00:09:58,570
+commencent à arriver ils vont s'en
+
+243
+00:09:57,070 --> 00:10:00,970
+sortait avec ces partis on le prend et
+
+244
+00:09:58,570 --> 00:10:14,610
+au lobby les ardennes mais aussi par la
+
+245
+00:10:00,970 --> 00:10:14,610
+forêt de l'autre il ya un beau projet
+
+246
+00:10:15,270 --> 00:10:18,570
+vas-y mec tu peux le faire tu veux le
+
+247
+00:10:17,050 --> 00:10:21,790
+faire se peut le faire ou pas quand je
+
+248
+00:10:18,570 --> 00:10:24,420
+suis phase iv zygo déplacement des noms
+
+249
+00:10:21,790 --> 00:10:28,630
+à droite à droite pas si tu attends
+
+250
+00:10:24,420 --> 00:10:32,050
+aller là c'est chaud j'ai envie d'aller
+
+251
+00:10:28,630 --> 00:10:37,089
+voir le match de presse est petit mais
+
+252
+00:10:32,050 --> 00:10:39,370
+quoi tu quand je vois ça c'est ouais
+
+253
+00:10:37,089 --> 00:10:43,500
+mais là je ne peux pas tirer non pour
+
+254
+00:10:39,370 --> 00:10:43,500
+que tu baisses ton cas non graves
+
+255
+00:10:44,790 --> 00:10:53,109
+vas-y toi fais gaffe et il allait
+
+256
+00:10:49,980 --> 00:10:53,109
+[Applaudissements]
+
+257
+00:11:02,060 --> 00:11:10,440
+alors pourquoi attendre je te ferai
+
+258
+00:11:08,190 --> 00:11:14,520
+comme ça son côté gauche c'est mon
+
+259
+00:11:10,440 --> 00:11:17,330
+septième écope quant au bébé bien de
+
+260
+00:11:14,520 --> 00:11:17,330
+jouer les gardes
+
+261
+00:11:17,800 --> 00:11:25,200
+[Musique]
+
+262
+00:11:21,560 --> 00:11:26,430
+nouvelle game tu es parti attend toi tu
+
+263
+00:11:25,200 --> 00:11:29,190
+vas à droite et moi je vais à gauche
+
+264
+00:11:26,430 --> 00:11:31,470
+abbas attend le refaire on le referait
+
+265
+00:11:29,190 --> 00:11:34,260
+ouais ouais
+
+266
+00:11:31,470 --> 00:11:36,120
+alors c'est parti il est déjà dans le
+
+267
+00:11:34,260 --> 00:11:37,290
+monde ammann devenir moi oh putain ils
+
+268
+00:11:36,120 --> 00:11:40,730
+passent on ne fait pas sens où je suis
+
+269
+00:11:37,290 --> 00:11:40,730
+placé mois à temps ils vont me déplacer
+
+270
+00:11:41,960 --> 00:11:46,680
+des places ou l'autre ça passe tous les
+
+271
+00:11:46,230 --> 00:11:48,920
+obstacles
+
+272
+00:11:46,680 --> 00:11:52,080
+c'est un véritable objet de technologie
+
+273
+00:11:48,920 --> 00:11:57,230
+non pas du tout en haut tout en face
+
+274
+00:11:52,080 --> 00:11:59,550
+dans les herbes il était trop beau mec
+
+275
+00:11:57,230 --> 00:12:03,290
+je prends plein valeur elle allait pas
+
+276
+00:11:59,550 --> 00:12:08,390
+fait éclater je ne loue pas de toucher
+
+277
+00:12:03,290 --> 00:12:11,840
+la côte pour concours tu te fais toi tu
+
+278
+00:12:08,390 --> 00:12:11,840
+as des vaccins
+
+279
+00:12:15,290 --> 00:12:19,850
+c'est bon j'en ai mis les deux les gars
+
+280
+00:12:17,990 --> 00:12:23,070
+eh ben j'ai perdu on va dire c'était
+
+281
+00:12:19,850 --> 00:12:25,020
+incroyable c'était intense et des fous
+
+282
+00:12:23,070 --> 00:12:26,520
+mesdames et messieurs c'est la fin de
+
+283
+00:12:25,020 --> 00:12:28,110
+cette vidéo allez vous abonner à la
+
+284
+00:12:26,520 --> 00:12:30,990
+chaîne de tous ces gens à savoir n'ont
+
+285
+00:12:28,110 --> 00:12:31,800
+toujours pas cyril vodka mais auxi roma
+
+286
+00:12:30,990 --> 00:12:33,030
+remercie beaucoup les gars d'avoir
+
+287
+00:12:31,800 --> 00:12:34,230
+participé cette vidéo j'étais très
+
+288
+00:12:33,030 --> 00:12:36,090
+stressée avant parce que techniquement
+
+289
+00:12:34,230 --> 00:12:38,010
+c'était très très très compliqué cette
+
+290
+00:12:36,090 --> 00:12:39,330
+vidéo était très très compliqué à
+
+291
+00:12:38,010 --> 00:12:40,890
+réaliser au niveau technique c'est pour
+
+292
+00:12:39,330 --> 00:12:42,120
+ça que romain a réalisé une vidéo que je
+
+293
+00:12:40,890 --> 00:12:43,470
+vous invite à voir on parle que des
+
+294
+00:12:42,120 --> 00:12:44,820
+problèmes bizarrement toute la matinée
+
+295
+00:12:43,470 --> 00:12:46,200
+que des soucis ça marchait pas et au
+
+296
+00:12:44,820 --> 00:12:47,670
+moment où on arrête marché donc c'est
+
+297
+00:12:46,200 --> 00:12:48,510
+génial j'espère que ça a bien rendu et
+
+298
+00:12:47,670 --> 00:12:50,040
+que ça vous a plu
+
+299
+00:12:48,510 --> 00:12:51,120
+n'hésitez pas évidemment à télécharger
+
+300
+00:12:50,040 --> 00:12:52,740
+world of tanks c'est dans la description
+
+301
+00:12:51,120 --> 00:12:54,210
+c'est grâce à eux que cette vidéo a été
+
+302
+00:12:52,740 --> 00:12:55,590
+financée c'est super cool d'avoir des
+
+303
+00:12:54,210 --> 00:12:56,880
+gens sur qui on peut compter et qui se
+
+304
+00:12:55,590 --> 00:12:58,290
+greffe à des concepts qu'on a déjà écrit
+
+305
+00:12:56,880 --> 00:12:59,520
+donc merci beaucoup à vous et au jeu
+
+306
+00:12:58,290 --> 00:13:00,510
+donc encore une fois dans des cessions
+
+307
+00:12:59,520 --> 00:13:02,360
+partielles à témoins dans cette vidéo
+
+308
+00:13:00,510 --> 00:13:06,590
+était un mix aime tous cas vida
+
+309
+00:13:02,360 --> 00:13:06,750
+[Musique]
+
+310
+00:13:06,590 --> 00:13:07,840
+[Applaudissements]
+
+311
+00:13:06,750 --> 00:13:10,999
+[Musique]
+
+312
+00:13:07,840 --> 00:13:10,999
+[Applaudissements]
+
+313
+00:13:11,610 --> 00:13:23,789
+[Musique]

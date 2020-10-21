@@ -1,0 +1,6259 @@
+1
+00:00:00,060 --> 00:00:04,020
+like anytime I I wouldn't meet someone
+
+2
+00:00:01,890 --> 00:00:06,089
+and I walk in the room and I'm a 6-3
+
+3
+00:00:04,020 --> 00:00:07,020
+black guy and they're like basketball
+
+4
+00:00:06,089 --> 00:00:08,429
+right
+
+5
+00:00:07,020 --> 00:00:10,080
+that's usually what they assume when I
+
+6
+00:00:08,429 --> 00:00:11,519
+go back to the studio tomorrow there's
+
+7
+00:00:10,080 --> 00:00:13,290
+gonna be a bunch of boxes waiting for me
+
+8
+00:00:11,519 --> 00:00:15,599
+and I'm just pumped to open like his
+
+9
+00:00:13,290 --> 00:00:17,340
+Christmas every time if I'd only use one
+
+10
+00:00:15,599 --> 00:00:24,050
+phone that I would use the one plus
+
+11
+00:00:17,340 --> 00:00:24,050
+seven preps
+
+12
+00:00:25,550 --> 00:00:32,189
+welcome back to another episode about
+
+13
+00:00:27,330 --> 00:00:34,050
+the pill podcast today yeah we have
+
+14
+00:00:32,189 --> 00:00:36,059
+David the moderator see Paco's next to
+
+15
+00:00:34,050 --> 00:00:38,640
+me I'm Ryan and another very special
+
+16
+00:00:36,059 --> 00:00:42,899
+guest mr. marques Brownlee in the house
+
+17
+00:00:38,640 --> 00:00:48,539
+everybody oh wow beautiful that's all
+
+18
+00:00:42,899 --> 00:00:50,520
+you get we don't really use that know
+
+19
+00:00:48,539 --> 00:00:53,370
+one of the biggest if not the biggest
+
+20
+00:00:50,520 --> 00:00:54,750
+probably tech youtuber in fact you are
+
+21
+00:00:53,370 --> 00:00:56,340
+the biggest taking youtuber for sure
+
+22
+00:00:54,750 --> 00:00:58,020
+there's a bunch of other channels that
+
+23
+00:00:56,340 --> 00:01:00,059
+also do tagged you've been around a long
+
+24
+00:00:58,020 --> 00:01:03,300
+time but I've been doing just tech haha
+
+25
+00:01:00,059 --> 00:01:04,619
+okay and you're in town so thank you
+
+26
+00:01:03,300 --> 00:01:07,380
+again cuz you're normally in New York
+
+27
+00:01:04,619 --> 00:01:09,600
+right yeah New Jersey uh-huh east coast
+
+28
+00:01:07,380 --> 00:01:13,220
+okay and then you're here for I don't
+
+29
+00:01:09,600 --> 00:01:13,220
+know if you want to bring it up I do
+
+30
+00:01:14,689 --> 00:01:19,799
+you're here dude so I came out here
+
+31
+00:01:17,130 --> 00:01:21,689
+we're in LA for there is a Motorola
+
+32
+00:01:19,799 --> 00:01:23,189
+event where they they announced you know
+
+33
+00:01:21,689 --> 00:01:25,860
+you've probably had the razor one of the
+
+34
+00:01:23,189 --> 00:01:28,890
+most popular phones ever made a folding
+
+35
+00:01:25,860 --> 00:01:30,360
+screen version of it and so it was
+
+36
+00:01:28,890 --> 00:01:31,530
+they're having this announcement event
+
+37
+00:01:30,360 --> 00:01:33,390
+it was cool we got to see it in person
+
+38
+00:01:31,530 --> 00:01:35,100
+it was revealed mm-hmm but the event
+
+39
+00:01:33,390 --> 00:01:36,930
+itself was pretty bad
+
+40
+00:01:35,100 --> 00:01:40,380
+and I think kind of like roasting them
+
+41
+00:01:36,930 --> 00:01:43,439
+on in my video in other places but it's
+
+42
+00:01:40,380 --> 00:01:45,090
+a it's happened it's out there now it's
+
+43
+00:01:43,439 --> 00:01:46,890
+it's out there that Motorola doesn't
+
+44
+00:01:45,090 --> 00:01:51,149
+know how to throw events I can tell it's
+
+45
+00:01:46,890 --> 00:01:53,040
+been a while yeah well the last phone
+
+46
+00:01:51,149 --> 00:01:55,740
+they even had well we have a lot of
+
+47
+00:01:53,040 --> 00:01:59,939
+mid-range phones like their Moto G is
+
+48
+00:01:55,740 --> 00:02:01,439
+one of the most popular like $350 phones
+
+49
+00:01:59,939 --> 00:02:03,180
+and so they don't really have to do a
+
+50
+00:02:01,439 --> 00:02:05,250
+big showy fancy event for it they just
+
+51
+00:02:03,180 --> 00:02:06,899
+put it out and suddenly it's the most
+
+52
+00:02:05,250 --> 00:02:09,750
+well selling phone on Amazon because
+
+53
+00:02:06,899 --> 00:02:12,780
+people love cheap phones really oh but
+
+54
+00:02:09,750 --> 00:02:14,760
+you know big 900 this is a $1500 phone
+
+55
+00:02:12,780 --> 00:02:16,950
+they got to do some some showy stuff
+
+56
+00:02:14,760 --> 00:02:20,160
+they tried to put on an event Diplo was
+
+57
+00:02:16,950 --> 00:02:25,890
+there but it wasn't that great was the
+
+58
+00:02:20,160 --> 00:02:27,300
+music good no sorry but in general I
+
+59
+00:02:25,890 --> 00:02:29,430
+mean like you said you like the phone
+
+60
+00:02:27,300 --> 00:02:31,110
+though yeah I mean it was so I didn't
+
+61
+00:02:29,430 --> 00:02:34,140
+even use a razor but like I could tell
+
+62
+00:02:31,110 --> 00:02:36,420
+like just from holding it like wow this
+
+63
+00:02:34,140 --> 00:02:38,400
+is kind of cool a little folding screen
+
+64
+00:02:36,420 --> 00:02:41,670
+thing is still pretty sweet I don't know
+
+65
+00:02:38,400 --> 00:02:44,250
+if it's worth $1500 oh my gosh I think
+
+66
+00:02:41,670 --> 00:02:45,720
+you have to really love that nostalgia
+
+67
+00:02:44,250 --> 00:02:47,550
+that they're sort of wrapping it in and
+
+68
+00:02:45,720 --> 00:02:49,470
+I think a lot of people will try to get
+
+69
+00:02:47,550 --> 00:02:50,820
+it for that reason but yeah I mean I saw
+
+70
+00:02:49,470 --> 00:02:53,220
+a mean movie I thought it was fake but
+
+71
+00:02:50,820 --> 00:02:55,140
+that's I mean it does look cool I mean I
+
+72
+00:02:53,220 --> 00:02:57,120
+don't know at functionality-wise I don't
+
+73
+00:02:55,140 --> 00:02:59,040
+know but and that's kind of a thing that
+
+74
+00:02:57,120 --> 00:03:01,020
+uh other companies are pushing right the
+
+75
+00:02:59,040 --> 00:03:04,830
+foldable screen stuff yeah yeah yeah
+
+76
+00:03:01,020 --> 00:03:06,750
+Samsung has one Huawei has one this
+
+77
+00:03:04,830 --> 00:03:08,100
+company royal made one there's like a
+
+78
+00:03:06,750 --> 00:03:12,360
+couple floating out there but they're
+
+79
+00:03:08,100 --> 00:03:14,310
+all over $2,000 so on one hand this is
+
+80
+00:03:12,360 --> 00:03:17,070
+one of the cheaper folding screen phones
+
+81
+00:03:14,310 --> 00:03:18,840
+but it's still like an iPhone is you
+
+82
+00:03:17,070 --> 00:03:21,060
+know a thousand eleven hundred bucks and
+
+83
+00:03:18,840 --> 00:03:22,890
+most people are just just getting a new
+
+84
+00:03:21,060 --> 00:03:24,840
+iPhone right so you gotta you gotta have
+
+85
+00:03:22,890 --> 00:03:26,370
+a real reason to spend that much so
+
+86
+00:03:24,840 --> 00:03:27,959
+right they're trying so you're
+
+87
+00:03:26,370 --> 00:03:29,490
+constantly going to these different
+
+88
+00:03:27,959 --> 00:03:31,350
+events and releases and stuff because I
+
+89
+00:03:29,490 --> 00:03:33,600
+mean that's what you do yeah and I'm
+
+90
+00:03:31,350 --> 00:03:36,330
+sure people invite you and bring you out
+
+91
+00:03:33,600 --> 00:03:37,770
+because it benefits them the thing I
+
+92
+00:03:36,330 --> 00:03:39,420
+appreciate is that you're pretty honest
+
+93
+00:03:37,770 --> 00:03:41,820
+with your reviews like it's not always
+
+94
+00:03:39,420 --> 00:03:45,270
+positive and I'm sure they're bringing
+
+95
+00:03:41,820 --> 00:03:46,680
+out or even paying you how do you manage
+
+96
+00:03:45,270 --> 00:03:48,330
+that if some if someone's bringing you
+
+97
+00:03:46,680 --> 00:03:49,920
+out and even if I don't know maybe they
+
+98
+00:03:48,330 --> 00:03:51,420
+don't but I'm sure there must be like
+
+99
+00:03:49,920 --> 00:03:53,190
+some kind of compensation right since
+
+100
+00:03:51,420 --> 00:03:56,820
+you're doing them free promo there has
+
+101
+00:03:53,190 --> 00:03:59,610
+never been ever so I've done so I yeah
+
+102
+00:03:56,820 --> 00:04:01,110
+fly to events I go I pay for the flight
+
+103
+00:03:59,610 --> 00:04:03,300
+in the hotel really go out there they
+
+104
+00:04:01,110 --> 00:04:05,459
+always invite me and it'll be up to me
+
+105
+00:04:03,300 --> 00:04:06,570
+to decide is it worth going like is this
+
+106
+00:04:05,459 --> 00:04:09,030
+one of those things that people are
+
+107
+00:04:06,570 --> 00:04:10,650
+interested in should I go see it or not
+
+108
+00:04:09,030 --> 00:04:12,750
+the Motorola one I was like yeah people
+
+109
+00:04:10,650 --> 00:04:14,459
+who will care about this folding phone
+
+110
+00:04:12,750 --> 00:04:17,100
+like or the more interesting things this
+
+111
+00:04:14,459 --> 00:04:18,780
+year but yeah a lot of times there is
+
+112
+00:04:17,100 --> 00:04:21,450
+events that are just sort of more casual
+
+113
+00:04:18,780 --> 00:04:22,540
+or and I'll just not go or they'll
+
+114
+00:04:21,450 --> 00:04:24,250
+invite me in a
+
+115
+00:04:22,540 --> 00:04:27,490
+I have to decide it's worth it but in
+
+116
+00:04:24,250 --> 00:04:29,590
+general I just know that valuing my
+
+117
+00:04:27,490 --> 00:04:31,210
+honesty yeah like is actually that's the
+
+118
+00:04:29,590 --> 00:04:33,220
+reason I'm there is to give you my
+
+119
+00:04:31,210 --> 00:04:34,600
+impressions what I really think is the
+
+120
+00:04:33,220 --> 00:04:35,980
+product worth the money that either
+
+121
+00:04:34,600 --> 00:04:37,900
+they're announcing they're gonna charge
+
+122
+00:04:35,980 --> 00:04:39,040
+for it that's what I'm there to show so
+
+123
+00:04:37,900 --> 00:04:40,330
+if I'm not honest and none of that's
+
+124
+00:04:39,040 --> 00:04:41,980
+worth it for anyone right right right
+
+125
+00:04:40,330 --> 00:04:42,520
+right yeah okay well that's I mean
+
+126
+00:04:41,980 --> 00:04:45,400
+that's good to know
+
+127
+00:04:42,520 --> 00:04:47,950
+yeah so how long exactly have you been
+
+128
+00:04:45,400 --> 00:04:50,950
+doing it 2009 was the first video so
+
+129
+00:04:47,950 --> 00:04:53,860
+almost 11 years 11 years do you still I
+
+130
+00:04:50,950 --> 00:04:55,630
+mean it seems like you enjoy it but yeah
+
+131
+00:04:53,860 --> 00:04:56,950
+at some point I mean I'm sure it's
+
+132
+00:04:55,630 --> 00:04:58,270
+exciting as you you're really into it
+
+133
+00:04:56,950 --> 00:04:59,320
+but some point is there ever time where
+
+134
+00:04:58,270 --> 00:05:04,300
+you're just like man I just want try
+
+135
+00:04:59,320 --> 00:05:05,980
+other stuff kind of yes but also so much
+
+136
+00:05:04,300 --> 00:05:07,120
+of what I'm into is trying to make the
+
+137
+00:05:05,980 --> 00:05:10,300
+videos as good as possible
+
+138
+00:05:07,120 --> 00:05:11,680
+uh-huh and the more you do in this I'm
+
+139
+00:05:10,300 --> 00:05:13,600
+sure you know like in this world of like
+
+140
+00:05:11,680 --> 00:05:16,270
+trying to make videos unique and better
+
+141
+00:05:13,600 --> 00:05:18,370
+the more you find that you can also try
+
+142
+00:05:16,270 --> 00:05:20,800
+to do mm-hm and so we're in this like
+
+143
+00:05:18,370 --> 00:05:23,170
+crazy world of like we got this camera
+
+144
+00:05:20,800 --> 00:05:24,790
+robot that's specifically made for
+
+145
+00:05:23,170 --> 00:05:26,740
+moving a camera
+
+146
+00:05:24,790 --> 00:05:28,600
+it's you'd see a robot in like a factory
+
+147
+00:05:26,740 --> 00:05:30,640
+that would like move parts around mm-hmm
+
+148
+00:05:28,600 --> 00:05:32,260
+a company has like written software to
+
+149
+00:05:30,640 --> 00:05:34,090
+control it and keyframe it and so now
+
+150
+00:05:32,260 --> 00:05:35,650
+we're attaching the camera to it and
+
+151
+00:05:34,090 --> 00:05:37,570
+like having the robot do crazy camera
+
+152
+00:05:35,650 --> 00:05:38,860
+moves we're at this point now we're like
+
+153
+00:05:37,570 --> 00:05:41,290
+that's the type of fun that we have
+
+154
+00:05:38,860 --> 00:05:43,120
+making a video well that's kind of where
+
+155
+00:05:41,290 --> 00:05:44,620
+exactly where like if I was just doing
+
+156
+00:05:43,120 --> 00:05:46,510
+the same type of video I did eight years
+
+157
+00:05:44,620 --> 00:05:48,940
+ago I'd probably be really bored but
+
+158
+00:05:46,510 --> 00:05:50,920
+that's just just advancing your craft
+
+159
+00:05:48,940 --> 00:05:52,570
+actually exactly it just so happens to
+
+160
+00:05:50,920 --> 00:05:54,280
+be something you're still interested in
+
+161
+00:05:52,570 --> 00:05:56,860
+yeah yeah that's always gonna be new
+
+162
+00:05:54,280 --> 00:05:59,020
+tech exactly that's part of why my job
+
+163
+00:05:56,860 --> 00:06:01,810
+is easy I don't have to be interesting
+
+164
+00:05:59,020 --> 00:06:04,150
+and exciting and I mean I guess often
+
+165
+00:06:01,810 --> 00:06:06,190
+you know you have to be a little more
+
+166
+00:06:04,150 --> 00:06:08,650
+than my normal self but I like the tech
+
+167
+00:06:06,190 --> 00:06:09,760
+has to be interesting and so I don't
+
+168
+00:06:08,650 --> 00:06:11,440
+have to work as hard as the engineers
+
+169
+00:06:09,760 --> 00:06:13,690
+trying to get everyone's attention right
+
+170
+00:06:11,440 --> 00:06:16,300
+have you always been into tech like what
+
+171
+00:06:13,690 --> 00:06:17,920
+what got you started and all that yeah I
+
+172
+00:06:16,300 --> 00:06:20,590
+feel like I have pretty much always been
+
+173
+00:06:17,920 --> 00:06:22,270
+into tech somewhat of a nerd my dad was
+
+174
+00:06:20,590 --> 00:06:25,600
+an IT I don't know if that had anything
+
+175
+00:06:22,270 --> 00:06:26,950
+to do with it but you know finding you
+
+176
+00:06:25,600 --> 00:06:29,020
+know computer when I was in high school
+
+177
+00:06:26,950 --> 00:06:30,580
+and buying my first iPod touch and being
+
+178
+00:06:29,020 --> 00:06:32,710
+like this is amazing I went on box it in
+
+179
+00:06:30,580 --> 00:06:34,660
+front of a camera like that's probably a
+
+180
+00:06:32,710 --> 00:06:35,740
+pretty nerdy thing to do so like I've
+
+181
+00:06:34,660 --> 00:06:37,840
+always been into tech
+
+182
+00:06:35,740 --> 00:06:40,150
+someone I also read that you majored in
+
+183
+00:06:37,840 --> 00:06:42,699
+business and information technology that
+
+184
+00:06:40,150 --> 00:06:45,220
+that must also play into like what you
+
+185
+00:06:42,699 --> 00:06:47,229
+know your your passions right yeah yeah
+
+186
+00:06:45,220 --> 00:06:49,780
+I and I went to a tech school so that's
+
+187
+00:06:47,229 --> 00:06:53,110
+like almost everyone there was technical
+
+188
+00:06:49,780 --> 00:06:55,660
+in some way I've you know I always had
+
+189
+00:06:53,110 --> 00:06:57,310
+the my best score all nine times I took
+
+190
+00:06:55,660 --> 00:07:00,069
+the SAT it was always the math section
+
+191
+00:06:57,310 --> 00:07:02,740
+so I feel like I've always yeah had sort
+
+192
+00:07:00,069 --> 00:07:04,180
+of a technical inclination but then it's
+
+193
+00:07:02,740 --> 00:07:05,979
+just exciting like new gadgets are just
+
+194
+00:07:04,180 --> 00:07:09,280
+fun so it sounds like you were made for
+
+195
+00:07:05,979 --> 00:07:11,169
+this like with your dad being an IT do
+
+196
+00:07:09,280 --> 00:07:12,819
+you talk to him a lot about like
+
+197
+00:07:11,169 --> 00:07:14,139
+different gadgets that come out and was
+
+198
+00:07:12,819 --> 00:07:17,680
+that was that always like a part of your
+
+199
+00:07:14,139 --> 00:07:20,530
+life growing up uh yeah and his job is
+
+200
+00:07:17,680 --> 00:07:23,580
+like about like solutions in a way so
+
+201
+00:07:20,530 --> 00:07:25,479
+software solutions like custom you know
+
+202
+00:07:23,580 --> 00:07:27,009
+infrastructure type stuff so it's not
+
+203
+00:07:25,479 --> 00:07:29,440
+even like the gadgets he's like more
+
+204
+00:07:27,009 --> 00:07:31,150
+like behind the scenes but even that
+
+205
+00:07:29,440 --> 00:07:32,650
+like now that's like what we talk about
+
+206
+00:07:31,150 --> 00:07:34,270
+is like did you see this new phone or
+
+207
+00:07:32,650 --> 00:07:35,860
+are you trying out the Chromebooks right
+
+208
+00:07:34,270 --> 00:07:38,440
+now what's your deal so like yeah that's
+
+209
+00:07:35,860 --> 00:07:42,159
+just sort of always been part of what we
+
+210
+00:07:38,440 --> 00:07:44,469
+talk about and how old are you 25 25
+
+211
+00:07:42,159 --> 00:07:46,210
+yeah and you've been doing like
+
+212
+00:07:44,469 --> 00:07:49,630
+interested in tech stuff for a long time
+
+213
+00:07:46,210 --> 00:07:53,199
+since like a young age then yeah and was
+
+214
+00:07:49,630 --> 00:07:55,240
+it ever an issue where you were growing
+
+215
+00:07:53,199 --> 00:07:56,409
+up like that people because you know a
+
+216
+00:07:55,240 --> 00:07:58,060
+lot of people are like oh black people
+
+217
+00:07:56,409 --> 00:07:59,830
+should be athletic which you are because
+
+218
+00:07:58,060 --> 00:08:10,030
+you'd play on a professional Frisbee
+
+219
+00:07:59,830 --> 00:08:13,719
+team and currently yeah team yeah it's a
+
+220
+00:08:10,030 --> 00:08:15,250
+pretty new world a pro ultimate Ultimate
+
+221
+00:08:13,719 --> 00:08:18,460
+Frisbee is like 50 years old but yeah
+
+222
+00:08:15,250 --> 00:08:19,960
+row ultimate is pretty new yeah
+
+223
+00:08:18,460 --> 00:08:22,210
+does that mean you get paid to play the
+
+224
+00:08:19,960 --> 00:08:24,069
+game someone yeah it's almost nobody's
+
+225
+00:08:22,210 --> 00:08:26,080
+full-time job yeah everyone who plays
+
+226
+00:08:24,069 --> 00:08:28,449
+professional too prefers me pretty much
+
+227
+00:08:26,080 --> 00:08:31,000
+always also has there a doctor a teacher
+
+228
+00:08:28,449 --> 00:08:33,370
+or whatever uh-huh but yeah when we go
+
+229
+00:08:31,000 --> 00:08:35,409
+out and we play in front of a stand full
+
+230
+00:08:33,370 --> 00:08:37,570
+of fans and there's referees and it's
+
+231
+00:08:35,409 --> 00:08:41,169
+like it feels like a pro thing that's
+
+232
+00:08:37,570 --> 00:08:43,240
+like the craziest part yeah like what
+
+233
+00:08:41,169 --> 00:08:44,949
+else things like you're not only smart
+
+234
+00:08:43,240 --> 00:08:46,750
+you do have the athletic side so but did
+
+235
+00:08:44,949 --> 00:08:48,550
+you ever have to deal with people
+
+236
+00:08:46,750 --> 00:08:49,279
+teasing you because like oh why don't
+
+237
+00:08:48,550 --> 00:08:52,220
+you play like
+
+238
+00:08:49,279 --> 00:08:54,649
+or whatever yes dear - yeah I don't know
+
+239
+00:08:52,220 --> 00:08:56,569
+if it probably wasn't ever teasing as
+
+240
+00:08:54,649 --> 00:08:58,310
+much as it was just like it almost seems
+
+241
+00:08:56,569 --> 00:09:00,709
+like an innocent question like anytime I
+
+242
+00:08:58,310 --> 00:09:02,740
+like meet someone and I walk in the room
+
+243
+00:09:00,709 --> 00:09:05,269
+and I'm a 6-3 black guy and they're like
+
+244
+00:09:02,740 --> 00:09:06,860
+basketball right that's usually what
+
+245
+00:09:05,269 --> 00:09:09,980
+they assume I actually remember pretty
+
+246
+00:09:06,860 --> 00:09:12,889
+recently I like called an uber from
+
+247
+00:09:09,980 --> 00:09:14,600
+Newark Airport and I like timed it
+
+248
+00:09:12,889 --> 00:09:17,029
+perfectly so that I was walking out the
+
+249
+00:09:14,600 --> 00:09:18,410
+airport as the uber pulled up and I like
+
+250
+00:09:17,029 --> 00:09:20,350
+walk out the airport and as I was
+
+251
+00:09:18,410 --> 00:09:22,670
+getting in some like lady saw that and
+
+252
+00:09:20,350 --> 00:09:24,170
+literally was like I don't know who you
+
+253
+00:09:22,670 --> 00:09:26,749
+are but I'm sure you're probably an
+
+254
+00:09:24,170 --> 00:09:28,519
+athlete so hi whoa just because like she
+
+255
+00:09:26,749 --> 00:09:31,069
+assumed that that's like something like
+
+256
+00:09:28,519 --> 00:09:32,660
+and like a Giants player random just a
+
+257
+00:09:31,069 --> 00:09:34,220
+random person whoa do you take offense
+
+258
+00:09:32,660 --> 00:09:36,670
+to those things I don't take offense
+
+259
+00:09:34,220 --> 00:09:39,620
+well she's also not wrong she doesn't
+
+260
+00:09:36,670 --> 00:09:41,749
+dude you're a pro at yeah it's like it's
+
+261
+00:09:39,620 --> 00:09:43,160
+almost like the the implication is like
+
+262
+00:09:41,749 --> 00:09:45,050
+that's definitely what you're probably
+
+263
+00:09:43,160 --> 00:09:48,319
+gonna be doing and I watch basketball I
+
+264
+00:09:45,050 --> 00:09:50,300
+love basketball but yeah that's I get
+
+265
+00:09:48,319 --> 00:09:53,930
+the innocent assumptions I think you
+
+266
+00:09:50,300 --> 00:09:56,149
+have a tuna so kinda I watched the
+
+267
+00:09:53,930 --> 00:09:57,740
+Rockets games oh and that's because I
+
+268
+00:09:56,149 --> 00:09:59,930
+was following Chris Paul for like the
+
+269
+00:09:57,740 --> 00:10:01,459
+last like five or six years now that
+
+270
+00:09:59,930 --> 00:10:03,410
+he's not when he got to the Rockets I
+
+271
+00:10:01,459 --> 00:10:05,480
+started watching them and then James
+
+272
+00:10:03,410 --> 00:10:06,860
+Harden started having historic seasons
+
+273
+00:10:05,480 --> 00:10:08,360
+and now he's on the Thunder which is way
+
+274
+00:10:06,860 --> 00:10:11,000
+like the sighting so I'm just a Rockets
+
+275
+00:10:08,360 --> 00:10:12,910
+viewer now really but you're from New
+
+276
+00:10:11,000 --> 00:10:16,189
+York
+
+277
+00:10:12,910 --> 00:10:17,689
+like the nets are over the Nets I
+
+278
+00:10:16,189 --> 00:10:19,579
+started liking the New Jersey Nets
+
+279
+00:10:17,689 --> 00:10:22,910
+they moved to New York yep they're
+
+280
+00:10:19,579 --> 00:10:23,629
+pretty great but the Knicks voice - my
+
+281
+00:10:22,910 --> 00:10:26,389
+dad's a Knicks fan
+
+282
+00:10:23,629 --> 00:10:29,360
+I apologize every time that he's still
+
+283
+00:10:26,389 --> 00:10:31,339
+in expand to him but I yeah I've never
+
+284
+00:10:29,360 --> 00:10:33,230
+really had like an allegiance like to a
+
+285
+00:10:31,339 --> 00:10:36,170
+city I just want to respect some players
+
+286
+00:10:33,230 --> 00:10:38,209
+I I think something about his game like
+
+287
+00:10:36,170 --> 00:10:40,149
+I've been a defensive player in Ultimate
+
+288
+00:10:38,209 --> 00:10:42,139
+Frisbee and Chris Paul's defense
+
+289
+00:10:40,149 --> 00:10:43,279
+specifically we're the same height and I
+
+290
+00:10:42,139 --> 00:10:46,040
+feel like I watch him move and I'm like
+
+291
+00:10:43,279 --> 00:10:47,389
+that dudes like n basically I think he's
+
+292
+00:10:46,040 --> 00:10:49,699
+like 6 1 yeah there's something like
+
+293
+00:10:47,389 --> 00:10:51,199
+that but like he's an awesome defender
+
+294
+00:10:49,699 --> 00:10:53,360
+and his IQ is off the charts and I just
+
+295
+00:10:51,199 --> 00:10:56,029
+like watching smart players be at him no
+
+296
+00:10:53,360 --> 00:10:58,819
+because you've met a lot of I've met
+
+297
+00:10:56,029 --> 00:11:01,459
+some players yeah I have not met Chris
+
+298
+00:10:58,819 --> 00:11:02,340
+Paul but I have been to a couple Rockets
+
+299
+00:11:01,459 --> 00:11:04,740
+games
+
+300
+00:11:02,340 --> 00:11:06,330
+yeah yeah Bettina I have always been a
+
+301
+00:11:04,740 --> 00:11:09,690
+Spurs fan it's personal to get pick
+
+302
+00:11:06,330 --> 00:11:11,970
+rivals kinda they've ended the rocket
+
+303
+00:11:09,690 --> 00:11:14,580
+season once or twice yeah and well I
+
+304
+00:11:11,970 --> 00:11:16,680
+think we're we we've got we've have a
+
+305
+00:11:14,580 --> 00:11:18,270
+bigger rivalry with Dallas to be fair
+
+306
+00:11:16,680 --> 00:11:19,589
+from back in the day anyway we're
+
+307
+00:11:18,270 --> 00:11:21,390
+irrelevant now
+
+308
+00:11:19,589 --> 00:11:25,110
+so I think you can make the playoffs
+
+309
+00:11:21,390 --> 00:11:26,640
+here [ __ ] let's see man we'll see but
+
+310
+00:11:25,110 --> 00:11:28,260
+that's kinda surprising actually you're
+
+311
+00:11:26,640 --> 00:11:30,330
+a Houston fan and Chris Paul
+
+312
+00:11:28,260 --> 00:11:33,480
+but speaking of people that you've met I
+
+313
+00:11:30,330 --> 00:11:34,650
+mean you just a quick youtube search
+
+314
+00:11:33,480 --> 00:11:37,140
+Google search the people that you've
+
+315
+00:11:34,650 --> 00:11:37,800
+interviewed and talk to is it's kind of
+
+316
+00:11:37,140 --> 00:11:39,089
+amazing
+
+317
+00:11:37,800 --> 00:11:40,800
+and I just thought we'd bring it up I
+
+318
+00:11:39,089 --> 00:11:44,190
+mean like Bill Gates
+
+319
+00:11:40,800 --> 00:11:46,050
+Elon Musk Kobe Bryant Neil deGrasse
+
+320
+00:11:44,190 --> 00:11:48,120
+Tyson Will Smith in the most recent
+
+321
+00:11:46,050 --> 00:11:50,070
+rewind just said he's one of the first
+
+322
+00:11:48,120 --> 00:11:52,620
+things he says is your name yeah I mean
+
+323
+00:11:50,070 --> 00:11:55,860
+that's gotta be kind of cool pretty wild
+
+324
+00:11:52,620 --> 00:11:57,210
+yeah it's always fascinating when I do
+
+325
+00:11:55,860 --> 00:11:59,460
+like an interview or something like that
+
+326
+00:11:57,210 --> 00:12:00,839
+to figure out like every interview yeah
+
+327
+00:11:59,460 --> 00:12:02,940
+every interview has its own like
+
+328
+00:12:00,839 --> 00:12:04,800
+circumstance of like you know someone's
+
+329
+00:12:02,940 --> 00:12:06,960
+on a press tour or they're they're just
+
+330
+00:12:04,800 --> 00:12:08,070
+trying to do their YouTube presence
+
+331
+00:12:06,960 --> 00:12:10,020
+whatever they're trying to do Robles
+
+332
+00:12:08,070 --> 00:12:11,670
+yeah and it's always fascinating to like
+
+333
+00:12:10,020 --> 00:12:15,930
+try to figure out what that situation is
+
+334
+00:12:11,670 --> 00:12:17,970
+and yes some of them are just like they
+
+335
+00:12:15,930 --> 00:12:19,140
+just want it to be in a video they just
+
+336
+00:12:17,970 --> 00:12:21,600
+wanted to be on the channel Neil
+
+337
+00:12:19,140 --> 00:12:23,640
+deGrasse Tyson was doing he was shooting
+
+338
+00:12:21,600 --> 00:12:24,630
+some of his TV show called star talk
+
+339
+00:12:23,640 --> 00:12:27,600
+radio show
+
+340
+00:12:24,630 --> 00:12:29,280
+Macie million a radio show and there's
+
+341
+00:12:27,600 --> 00:12:30,930
+like we got to get you in and they just
+
+342
+00:12:29,280 --> 00:12:33,089
+saw in your work
+
+343
+00:12:30,930 --> 00:12:34,560
+yeah and I think obviously the audience
+
+344
+00:12:33,089 --> 00:12:37,230
+has part to do with that but like the
+
+345
+00:12:34,560 --> 00:12:39,270
+tech connection and a lot of times they
+
+346
+00:12:37,230 --> 00:12:41,070
+they want to be in this tech world and
+
+347
+00:12:39,270 --> 00:12:43,350
+they don't know exactly how to but
+
+348
+00:12:41,070 --> 00:12:44,730
+obviously they've watched some videos or
+
+349
+00:12:43,350 --> 00:12:47,970
+something that gets them interested
+
+350
+00:12:44,730 --> 00:12:49,860
+that's been a way to do that you want
+
+351
+00:12:47,970 --> 00:12:50,300
+had no other reason he's just like yeah
+
+352
+00:12:49,860 --> 00:12:52,380
+I'll do it
+
+353
+00:12:50,300 --> 00:12:55,410
+wasn't he doesn't have any reason to do
+
+354
+00:12:52,380 --> 00:12:57,600
+a press tour but like down to do yeah so
+
+355
+00:12:55,410 --> 00:12:59,100
+so was it a combination of you reaching
+
+356
+00:12:57,600 --> 00:13:01,970
+out to some folks and then some of them
+
+357
+00:12:59,100 --> 00:13:04,800
+reaching out to you definitely yeah
+
+358
+00:13:01,970 --> 00:13:06,660
+probably about half and half a lot of
+
+359
+00:13:04,800 --> 00:13:08,880
+people have their team's reach out and
+
+360
+00:13:06,660 --> 00:13:10,620
+it's always like their team's trying to
+
+361
+00:13:08,880 --> 00:13:13,140
+reach out to my team but my team's just
+
+362
+00:13:10,620 --> 00:13:15,690
+me so it's just me answering their email
+
+363
+00:13:13,140 --> 00:13:18,300
+are you not represented by neh
+
+364
+00:13:15,690 --> 00:13:20,640
+I do manager yeah I do have an agency
+
+365
+00:13:18,300 --> 00:13:23,180
+and they have worked it on like a couple
+
+366
+00:13:20,640 --> 00:13:26,070
+smaller like sponsored projects but
+
+367
+00:13:23,180 --> 00:13:29,100
+every single one of the interviews has
+
+368
+00:13:26,070 --> 00:13:30,540
+been through me so yeah it's just them
+
+369
+00:13:29,100 --> 00:13:34,350
+emailing me like who do we get in touch
+
+370
+00:13:30,540 --> 00:13:35,970
+with I'm like me oh wow you have a
+
+371
+00:13:34,350 --> 00:13:37,980
+personal touch on there I guess then
+
+372
+00:13:35,970 --> 00:13:39,240
+that exactly yeah and I can talk
+
+373
+00:13:37,980 --> 00:13:40,650
+creative with them pretty much right off
+
+374
+00:13:39,240 --> 00:13:42,090
+the bat usually they're like what can we
+
+375
+00:13:40,650 --> 00:13:43,440
+can we do a video and I'm like well
+
+376
+00:13:42,090 --> 00:13:45,420
+here's the talking tech series you've
+
+377
+00:13:43,440 --> 00:13:48,330
+probably seen this and we can talk about
+
+378
+00:13:45,420 --> 00:13:50,520
+whatever tech stuff that they're into so
+
+379
+00:13:48,330 --> 00:13:53,100
+yeah have you have you had good good
+
+380
+00:13:50,520 --> 00:13:55,410
+experiences with with having agents and
+
+381
+00:13:53,100 --> 00:13:57,390
+managers in the past being an online you
+
+382
+00:13:55,410 --> 00:14:00,240
+know concentrator yeah my experience is
+
+383
+00:13:57,390 --> 00:14:02,130
+pretty limited I've only had one agency
+
+384
+00:14:00,240 --> 00:14:05,580
+that I've worked with and so technically
+
+385
+00:14:02,130 --> 00:14:07,320
+one agent / manager but other than that
+
+386
+00:14:05,580 --> 00:14:09,710
+it's pretty I don't even do that much
+
+387
+00:14:07,320 --> 00:14:11,880
+like sponsored stuff or any crazy
+
+388
+00:14:09,710 --> 00:14:15,420
+extracurricular like outside of the
+
+389
+00:14:11,880 --> 00:14:16,770
+video stuff so I haven't really had too
+
+390
+00:14:15,420 --> 00:14:19,770
+notable of an experience does that mean
+
+391
+00:14:16,770 --> 00:14:22,380
+that the gear that you receive to review
+
+392
+00:14:19,770 --> 00:14:25,680
+are they are they just sending it to
+
+393
+00:14:22,380 --> 00:14:27,030
+your is it are you buying them a little
+
+394
+00:14:25,680 --> 00:14:30,300
+bit of both mostly really that's
+
+395
+00:14:27,030 --> 00:14:32,280
+probably so it depends on what kind of
+
+396
+00:14:30,300 --> 00:14:34,950
+gear the the stuff I'm reviewing like
+
+397
+00:14:32,280 --> 00:14:38,910
+the smartphones the the headphones the
+
+398
+00:14:34,950 --> 00:14:41,370
+gadgets that's probably like 80% sent to
+
+399
+00:14:38,910 --> 00:14:42,750
+me 20% and bought but it's gonna end up
+
+400
+00:14:41,370 --> 00:14:44,490
+in the video no matter what if they
+
+401
+00:14:42,750 --> 00:14:45,960
+don't send it I'll buy it but all the
+
+402
+00:14:44,490 --> 00:14:47,730
+other stuff people think I also get for
+
+403
+00:14:45,960 --> 00:14:49,440
+free like the cameras we use and the
+
+404
+00:14:47,730 --> 00:14:51,720
+studio lighting and the equipment and
+
+405
+00:14:49,440 --> 00:14:55,800
+the space like that's obviously all we
+
+406
+00:14:51,720 --> 00:14:58,080
+pay for it but yeah the the smartphones
+
+407
+00:14:55,800 --> 00:14:59,490
+are the main thing that sort of has it
+
+408
+00:14:58,080 --> 00:15:01,290
+down to a science now where they like
+
+409
+00:14:59,490 --> 00:15:03,120
+have a release date they'll send it out
+
+410
+00:15:01,290 --> 00:15:06,270
+to a bunch of press and some youtubers
+
+411
+00:15:03,120 --> 00:15:08,070
+five days before the release date and we
+
+412
+00:15:06,270 --> 00:15:09,480
+all get to use it and review it and then
+
+413
+00:15:08,070 --> 00:15:11,190
+by the time the release stage shows up
+
+414
+00:15:09,480 --> 00:15:14,610
+then our videos are all ready to go so I
+
+415
+00:15:11,190 --> 00:15:16,980
+see yeah that must be in a great feeling
+
+416
+00:15:14,610 --> 00:15:19,170
+to get something before like the rest of
+
+417
+00:15:16,980 --> 00:15:21,060
+the world does yeah like do you still
+
+418
+00:15:19,170 --> 00:15:22,710
+find enjoyment in that because like it
+
+419
+00:15:21,060 --> 00:15:24,390
+seems like you get every single phone
+
+420
+00:15:22,710 --> 00:15:26,180
+that ever exists or has ever created
+
+421
+00:15:24,390 --> 00:15:28,880
+yeah and your
+
+422
+00:15:26,180 --> 00:15:30,590
+you know it's like do you feel that like
+
+423
+00:15:28,880 --> 00:15:32,450
+Christmas feeling like I get to open a
+
+424
+00:15:30,590 --> 00:15:35,450
+new new thing it's still kind of a dream
+
+425
+00:15:32,450 --> 00:15:36,920
+job yeah I feels like when I go back to
+
+426
+00:15:35,450 --> 00:15:38,330
+the studio tomorrow there's gonna be a
+
+427
+00:15:36,920 --> 00:15:39,860
+bunch of boxes waiting for me and I'm
+
+428
+00:15:38,330 --> 00:15:42,260
+just pumped to open them like it's
+
+429
+00:15:39,860 --> 00:15:45,320
+Christmas every time sometimes it's
+
+430
+00:15:42,260 --> 00:15:47,270
+because I don't have a public like a p.o
+
+431
+00:15:45,320 --> 00:15:50,330
+box or anything for like anyone to send
+
+432
+00:15:47,270 --> 00:15:53,240
+stuff to so every time a package arrives
+
+433
+00:15:50,330 --> 00:15:55,850
+I like kind of know what it is but
+
+434
+00:15:53,240 --> 00:15:57,140
+sometimes it's like oh this agency has
+
+435
+00:15:55,850 --> 00:15:58,670
+my address they've sent me stuff in the
+
+436
+00:15:57,140 --> 00:16:00,530
+past this is from them but I don't know
+
+437
+00:15:58,670 --> 00:16:02,840
+what it is it's probably related to
+
+438
+00:16:00,530 --> 00:16:04,970
+something else like I can sort of piece
+
+439
+00:16:02,840 --> 00:16:08,690
+it together but it's usually pretty
+
+440
+00:16:04,970 --> 00:16:09,920
+sweet to just open gadgets time yeah
+
+441
+00:16:08,690 --> 00:16:11,900
+what do you do with all the other ones
+
+442
+00:16:09,920 --> 00:16:14,180
+you don't you other bad ones
+
+443
+00:16:11,900 --> 00:16:16,850
+I can either sell them give them away
+
+444
+00:16:14,180 --> 00:16:18,560
+give them back it would depend on what
+
+445
+00:16:16,850 --> 00:16:21,110
+it is I also some people out of old
+
+446
+00:16:18,560 --> 00:16:22,400
+giant storage somewhere it's not
+
+447
+00:16:21,110 --> 00:16:24,260
+actually that bad because a lot of
+
+448
+00:16:22,400 --> 00:16:26,360
+gadgets are pretty small and I'll either
+
+449
+00:16:24,260 --> 00:16:29,780
+throw away the box and then like give
+
+450
+00:16:26,360 --> 00:16:31,880
+away or ship back the item but I keep
+
+451
+00:16:29,780 --> 00:16:33,710
+like about two generations old of
+
+452
+00:16:31,880 --> 00:16:36,110
+smartphones from like every single maker
+
+453
+00:16:33,710 --> 00:16:38,600
+so I just have like a it's like a drawer
+
+454
+00:16:36,110 --> 00:16:45,590
+literally full of I have a CD rack and I
+
+455
+00:16:38,600 --> 00:16:47,600
+don't have CDs the only way yeah it's
+
+456
+00:16:45,590 --> 00:16:49,430
+like having shoes but it's phones I mean
+
+457
+00:16:47,600 --> 00:16:52,010
+how many phones do you have I can
+
+458
+00:16:49,430 --> 00:16:53,600
+imagine you have a ton Hey the drawer is
+
+459
+00:16:52,010 --> 00:16:54,830
+getting so heavy that I'm kind of
+
+460
+00:16:53,600 --> 00:16:56,870
+worried that if I open it all the way
+
+461
+00:16:54,830 --> 00:16:58,610
+it'll just snap off I think there's
+
+462
+00:16:56,870 --> 00:17:01,220
+about a hundred something phones in
+
+463
+00:16:58,610 --> 00:17:03,980
+there but I don't know how many phones
+
+464
+00:17:01,220 --> 00:17:06,620
+do you use though currently two two I
+
+465
+00:17:03,980 --> 00:17:09,709
+always have my main Android phone and my
+
+466
+00:17:06,620 --> 00:17:11,930
+iPhone and my main phone is my main SIM
+
+467
+00:17:09,709 --> 00:17:13,760
+card I have two SIM cards two which is
+
+468
+00:17:11,930 --> 00:17:15,830
+kind of annoying but my main number and
+
+469
+00:17:13,760 --> 00:17:18,410
+then like my iPhone number and that's
+
+470
+00:17:15,830 --> 00:17:22,040
+what I carry yeah so do you say your
+
+471
+00:17:18,410 --> 00:17:25,880
+androids your main because if I put my
+
+472
+00:17:22,040 --> 00:17:28,580
+sim card in the iPhone notoriously
+
+473
+00:17:25,880 --> 00:17:32,180
+iMessage will just start to like take
+
+474
+00:17:28,580 --> 00:17:34,670
+over that SIM cards messages okay and
+
+475
+00:17:32,180 --> 00:17:37,370
+ecosystem lock in is also very real and
+
+476
+00:17:34,670 --> 00:17:39,770
+I've been part of my job is to be to
+
+477
+00:17:37,370 --> 00:17:43,220
+have a foot in like both ecosystems and
+
+478
+00:17:39,770 --> 00:17:45,440
+constantly be using both so I yeah I'll
+
+479
+00:17:43,220 --> 00:17:46,910
+have like my main phone will be sort of
+
+480
+00:17:45,440 --> 00:17:48,440
+rotating between phones I'm testing
+
+481
+00:17:46,910 --> 00:17:50,450
+which right now I have the pixel four
+
+482
+00:17:48,440 --> 00:17:52,760
+before that it was the one plus seven
+
+483
+00:17:50,450 --> 00:17:55,070
+Pro I was just testing a Xiaomi me note
+
+484
+00:17:52,760 --> 00:17:56,660
+10 and there's just a long line of
+
+485
+00:17:55,070 --> 00:17:58,790
+phones before that but my other phone is
+
+486
+00:17:56,660 --> 00:18:01,550
+has been the iPhone 11 Pro for a couple
+
+487
+00:17:58,790 --> 00:18:06,430
+months so you're you're are you so would
+
+488
+00:18:01,550 --> 00:18:09,200
+you if you have to choose between oh boy
+
+489
+00:18:06,430 --> 00:18:11,480
+yeah at the moment let's just say at the
+
+490
+00:18:09,200 --> 00:18:13,370
+moment the current time right now yeah
+
+491
+00:18:11,480 --> 00:18:15,740
+which one would you choose if he had to
+
+492
+00:18:13,370 --> 00:18:18,080
+choose if you had to only use one phone
+
+493
+00:18:15,740 --> 00:18:20,840
+if I had only use one phone that I would
+
+494
+00:18:18,080 --> 00:18:21,890
+use the 1 plus 7 Pro Wow and that's an
+
+495
+00:18:20,840 --> 00:18:24,590
+Android phone and not a lot of people
+
+496
+00:18:21,890 --> 00:18:26,360
+even have heard about but I love the
+
+497
+00:18:24,590 --> 00:18:28,340
+performance it has an awesome high
+
+498
+00:18:26,360 --> 00:18:30,590
+refresh rate screen the camera is not
+
+499
+00:18:28,340 --> 00:18:32,600
+that great but a lot of the reasons
+
+500
+00:18:30,590 --> 00:18:33,500
+people use the iPhone are great about
+
+501
+00:18:32,600 --> 00:18:36,170
+that phone too
+
+502
+00:18:33,500 --> 00:18:38,510
+so I could do without like the iPhone or
+
+503
+00:18:36,170 --> 00:18:39,860
+the pixel if I just had to use one but
+
+504
+00:18:38,510 --> 00:18:44,510
+luckily I don't have to use one so I
+
+505
+00:18:39,860 --> 00:18:48,740
+don't did you at any point love Apple
+
+506
+00:18:44,510 --> 00:18:56,510
+more than Android in some worlds yes not
+
+507
+00:18:48,740 --> 00:18:59,750
+even in the video editing world I was a
+
+508
+00:18:56,510 --> 00:19:02,330
+premiere person for like 7 years or
+
+509
+00:18:59,750 --> 00:19:06,610
+something and I finally got convinced to
+
+510
+00:19:02,330 --> 00:19:10,160
+try Final Cut Pro and loved it so for my
+
+511
+00:19:06,610 --> 00:19:13,250
+computer I've been a Mac for like four
+
+512
+00:19:10,160 --> 00:19:14,870
+or five straight years and not even
+
+513
+00:19:13,250 --> 00:19:16,370
+close to switching back to a Windows
+
+514
+00:19:14,870 --> 00:19:18,080
+desktop I will probably be on a Mac as
+
+515
+00:19:16,370 --> 00:19:19,430
+long as I use Final Cut well I have to
+
+516
+00:19:18,080 --> 00:19:21,170
+be on a Mac as long as it's so
+
+517
+00:19:19,430 --> 00:19:23,780
+interesting so many people including us
+
+518
+00:19:21,170 --> 00:19:26,150
+we'd switched from Final Cut to premiere
+
+519
+00:19:23,780 --> 00:19:28,340
+right what do you like so much better
+
+520
+00:19:26,150 --> 00:19:29,930
+about Final Cut okay so a lot of people
+
+521
+00:19:28,340 --> 00:19:32,450
+switched cuz you were using Final Cut
+
+522
+00:19:29,930 --> 00:19:34,760
+like probably in like row eight or nine
+
+523
+00:19:32,450 --> 00:19:36,410
+I don't know and it went through this
+
+524
+00:19:34,760 --> 00:19:38,720
+like transition where it got like worse
+
+525
+00:19:36,410 --> 00:19:40,820
+like simpler and a lot of people dropped
+
+526
+00:19:38,720 --> 00:19:41,480
+it right around then that's when I was
+
+527
+00:19:40,820 --> 00:19:43,100
+on premiere
+
+528
+00:19:41,480 --> 00:19:44,090
+so I saw all that dropping and happening
+
+529
+00:19:43,100 --> 00:19:46,250
+and I was like I don't really care
+
+530
+00:19:44,090 --> 00:19:48,050
+whatever and then it was actually the
+
+531
+00:19:46,250 --> 00:19:50,960
+Kobe interview that I was doing with
+
+532
+00:19:48,050 --> 00:19:52,310
+another youtuber John TLD and he was
+
+533
+00:19:50,960 --> 00:19:53,330
+shooting the behind the scenes video so
+
+534
+00:19:52,310 --> 00:19:55,369
+we are literally like
+
+535
+00:19:53,330 --> 00:19:57,350
+next to each other both editing our
+
+536
+00:19:55,369 --> 00:19:59,539
+videos me the interview him the behind
+
+537
+00:19:57,350 --> 00:20:01,539
+the scenes we both finished editing
+
+538
+00:19:59,539 --> 00:20:04,639
+around the same time I hit export in
+
+539
+00:20:01,539 --> 00:20:08,179
+premiere he had export and final cut his
+
+540
+00:20:04,639 --> 00:20:10,039
+video finished upload exporting he
+
+541
+00:20:08,179 --> 00:20:12,529
+watched him back found a mistake went
+
+542
+00:20:10,039 --> 00:20:15,259
+back fixed it finished exporting again
+
+543
+00:20:12,529 --> 00:20:17,690
+before he uploaded it I was out like 19%
+
+544
+00:20:15,259 --> 00:20:20,539
+we went out to dinner came back it was
+
+545
+00:20:17,690 --> 00:20:22,369
+that like 70% it eventually finished the
+
+546
+00:20:20,539 --> 00:20:24,379
+fans are cranking I finally get to
+
+547
+00:20:22,369 --> 00:20:26,090
+upload the video but that was when I was
+
+548
+00:20:24,379 --> 00:20:27,559
+convinced I should at least try final
+
+549
+00:20:26,090 --> 00:20:30,619
+cut because this isn't hilarious you
+
+550
+00:20:27,559 --> 00:20:31,659
+can't edit on my laptop you're the same
+
+551
+00:20:30,619 --> 00:20:35,480
+laptops
+
+552
+00:20:31,659 --> 00:20:38,330
+yeah well the footage so when you edit
+
+553
+00:20:35,480 --> 00:20:40,309
+like regular ProRes for K it's actually
+
+554
+00:20:38,330 --> 00:20:43,909
+yeah it'll it'll handle it pretty well
+
+555
+00:20:40,309 --> 00:20:46,129
+but I've been editing this is a multicam
+
+556
+00:20:43,909 --> 00:20:49,580
+red project so this is three red raw
+
+557
+00:20:46,129 --> 00:20:51,619
+streams of 6k at the time that I was
+
+558
+00:20:49,580 --> 00:20:52,970
+trying to push through a laptop and it
+
+559
+00:20:51,619 --> 00:20:56,509
+was just not handling it well
+
+560
+00:20:52,970 --> 00:20:59,450
+I traveled here with an iMac Pro because
+
+561
+00:20:56,509 --> 00:21:03,139
+it's still really hard to edit red raw
+
+562
+00:20:59,450 --> 00:21:04,820
+on a laptop I could get away with it if
+
+563
+00:21:03,139 --> 00:21:07,220
+I was just shooting on like my Canon or
+
+564
+00:21:04,820 --> 00:21:09,499
+whatever but that's been my challenges
+
+565
+00:21:07,220 --> 00:21:12,080
+raw do you feel like it's difficult
+
+566
+00:21:09,499 --> 00:21:14,869
+because you are known for tech I mean
+
+567
+00:21:12,080 --> 00:21:16,580
+that's what you're known for if you feel
+
+568
+00:21:14,869 --> 00:21:18,470
+that pressure of always having to stay
+
+569
+00:21:16,580 --> 00:21:21,379
+at the top of your game quality wise and
+
+570
+00:21:18,470 --> 00:21:23,570
+I mean you do have to people look to you
+
+571
+00:21:21,379 --> 00:21:25,789
+right you're the guy so do you feel that
+
+572
+00:21:23,570 --> 00:21:27,590
+pressure like man I can't stoop down to
+
+573
+00:21:25,789 --> 00:21:29,359
+a lower quality and someone else or like
+
+574
+00:21:27,590 --> 00:21:31,730
+this is so much more work but I have to
+
+575
+00:21:29,359 --> 00:21:33,679
+use the red yeah I I don't look at his
+
+576
+00:21:31,730 --> 00:21:35,960
+pressure as much as I actually want to
+
+577
+00:21:33,679 --> 00:21:38,629
+push the game to the next level right I
+
+578
+00:21:35,960 --> 00:21:41,960
+would love if red made like a smaller
+
+579
+00:21:38,629 --> 00:21:43,399
+camera with like the same color science
+
+580
+00:21:41,960 --> 00:21:44,480
+and autofocus and I could take that
+
+581
+00:21:43,399 --> 00:21:47,600
+places because it would make my life
+
+582
+00:21:44,480 --> 00:21:49,129
+easier but when I watch back I've tried
+
+583
+00:21:47,600 --> 00:21:53,629
+this I've gone to events with like just
+
+584
+00:21:49,129 --> 00:21:55,279
+my rx100 or ESR or whatever and I edit
+
+585
+00:21:53,629 --> 00:21:57,080
+all the footage and I'm like I don't
+
+586
+00:21:55,279 --> 00:21:59,600
+like this as much this isn't as good
+
+587
+00:21:57,080 --> 00:22:02,240
+looking so something about my eye for it
+
+588
+00:21:59,600 --> 00:22:05,119
+is like the main reason why I want to
+
+589
+00:22:02,240 --> 00:22:06,619
+bring like the nice camera and deal with
+
+590
+00:22:05,119 --> 00:22:08,359
+the extra work yeah it's cuz you
+
+591
+00:22:06,619 --> 00:22:10,970
+genuinely just want to do something
+
+592
+00:22:08,359 --> 00:22:13,159
+better yeah okay so do you have like a
+
+593
+00:22:10,970 --> 00:22:14,749
+team that helps you because I know you
+
+594
+00:22:13,159 --> 00:22:16,249
+answer emails yourself but yeah what
+
+595
+00:22:14,749 --> 00:22:18,799
+does your team look like yes so I have
+
+596
+00:22:16,249 --> 00:22:20,960
+three people working with me Andrews my
+
+597
+00:22:18,799 --> 00:22:22,340
+full-time assistant and sort of like a
+
+598
+00:22:20,960 --> 00:22:24,200
+second pair of hands but he also
+
+599
+00:22:22,340 --> 00:22:27,529
+co-hosts the podcast and edits it and
+
+600
+00:22:24,200 --> 00:22:30,830
+then VIN and Brandon are the sort of
+
+601
+00:22:27,529 --> 00:22:32,029
+cinematography extra hands and they're
+
+602
+00:22:30,830 --> 00:22:34,009
+super talented in their own right but
+
+603
+00:22:32,029 --> 00:22:36,049
+they'll do things like their behind the
+
+604
+00:22:34,009 --> 00:22:38,029
+camera when I'm on camera they do set
+
+605
+00:22:36,049 --> 00:22:40,190
+design they do motion graphics sound
+
+606
+00:22:38,029 --> 00:22:42,019
+design all that stuff so when I do like
+
+607
+00:22:40,190 --> 00:22:44,929
+the main edit I can pass off clips to
+
+608
+00:22:42,019 --> 00:22:46,220
+them they can make that clip incredible
+
+609
+00:22:44,929 --> 00:22:47,749
+and we bring it back in and we'll do
+
+610
+00:22:46,220 --> 00:22:49,879
+like a robot shot is what we call it
+
+611
+00:22:47,749 --> 00:22:51,740
+bring that back in and we sort of mix it
+
+612
+00:22:49,879 --> 00:22:53,840
+all together and then I'll finish the
+
+613
+00:22:51,740 --> 00:22:57,259
+whole project she's still very hands-on
+
+614
+00:22:53,840 --> 00:22:59,269
+in your process then definitely yeah and
+
+615
+00:22:57,259 --> 00:23:01,070
+I sort of not struggled with that but
+
+616
+00:22:59,269 --> 00:23:02,990
+I've thought a lot about like what if I
+
+617
+00:23:01,070 --> 00:23:04,999
+just gave them the whole edit and we've
+
+618
+00:23:02,990 --> 00:23:07,879
+we tried that actually a couple times
+
+619
+00:23:04,999 --> 00:23:10,249
+and every time we do that it feels great
+
+620
+00:23:07,879 --> 00:23:14,470
+to not have to work as much because
+
+621
+00:23:10,249 --> 00:23:17,570
+they're editing but I feel like the the
+
+622
+00:23:14,470 --> 00:23:19,700
+personal touch is lobby's you have to go
+
+623
+00:23:17,570 --> 00:23:22,039
+back in and change it's gonna take a lot
+
+624
+00:23:19,700 --> 00:23:24,080
+of time anyway yeah little things and I
+
+625
+00:23:22,039 --> 00:23:26,629
+you know over time I'm sure we could
+
+626
+00:23:24,080 --> 00:23:28,669
+like hone that down for them to to
+
+627
+00:23:26,629 --> 00:23:30,320
+pretty much edit it exactly the way I
+
+628
+00:23:28,669 --> 00:23:33,740
+would but it definitely feels like I
+
+629
+00:23:30,320 --> 00:23:35,450
+should just keep doing the main edit and
+
+630
+00:23:33,740 --> 00:23:37,429
+if you're not I mean you say you still
+
+631
+00:23:35,450 --> 00:23:39,799
+get excited by it so it's not like yet a
+
+632
+00:23:37,429 --> 00:23:42,200
+chore right yeah no I I know that the
+
+633
+00:23:39,799 --> 00:23:45,019
+Edit is the most tedious part yeah but
+
+634
+00:23:42,200 --> 00:23:47,029
+it is the most personal like execution
+
+635
+00:23:45,019 --> 00:23:48,499
+and I think I think that's a similar
+
+636
+00:23:47,029 --> 00:23:51,489
+situation you and Greg have to go
+
+637
+00:23:48,499 --> 00:23:56,679
+through right yeah yeah we still do that
+
+638
+00:23:51,489 --> 00:23:59,629
+I've had to learn to I guess kind of I
+
+639
+00:23:56,679 --> 00:24:02,119
+was I was a lot worse I mean not Alan if
+
+640
+00:23:59,629 --> 00:24:03,799
+it's called worse I was very like not
+
+641
+00:24:02,119 --> 00:24:05,029
+perfectionist I just like things a
+
+642
+00:24:03,799 --> 00:24:07,009
+certain way and I was talking about
+
+643
+00:24:05,029 --> 00:24:08,299
+timing to point something of a second
+
+644
+00:24:07,009 --> 00:24:10,840
+you know like it makes a big difference
+
+645
+00:24:08,299 --> 00:24:13,549
+to me but I had to learn like okay I
+
+646
+00:24:10,840 --> 00:24:15,529
+know it bothers me but I know most
+
+647
+00:24:13,549 --> 00:24:18,049
+people it's not all people don't even
+
+648
+00:24:15,529 --> 00:24:20,120
+realize this and I've tested that theory
+
+649
+00:24:18,049 --> 00:24:21,679
+and it for the most part
+
+650
+00:24:20,120 --> 00:24:23,840
+I know exactly what you're talking about
+
+651
+00:24:21,679 --> 00:24:26,330
+I had to get okay with being like okay
+
+652
+00:24:23,840 --> 00:24:28,970
+this is realistically for them on time
+
+653
+00:24:26,330 --> 00:24:31,669
+that we have left to post this this is
+
+654
+00:24:28,970 --> 00:24:33,320
+enough yeah and it was it was it's a
+
+655
+00:24:31,669 --> 00:24:35,809
+tough thing to do and it hurts sometimes
+
+656
+00:24:33,320 --> 00:24:36,890
+yeah but I definitely know what you're
+
+657
+00:24:35,809 --> 00:24:39,500
+talking about have you gone back and
+
+658
+00:24:36,890 --> 00:24:41,029
+forth like you edit one and like you can
+
+659
+00:24:39,500 --> 00:24:42,620
+see how the audience reacts versus
+
+660
+00:24:41,029 --> 00:24:43,220
+someone else who edited a video and oh
+
+661
+00:24:42,620 --> 00:24:45,169
+for sure
+
+662
+00:24:43,220 --> 00:24:47,029
+yeah sure and it would just became a
+
+663
+00:24:45,169 --> 00:24:48,950
+thing of like the times that I really
+
+664
+00:24:47,029 --> 00:24:52,039
+care about something that's exciting and
+
+665
+00:24:48,950 --> 00:24:53,690
+new yeah then I won't like budge on it
+
+666
+00:24:52,039 --> 00:24:57,890
+yeah if it's something that I'm like not
+
+667
+00:24:53,690 --> 00:24:58,880
+that proud of that sounds bad I'm not
+
+668
+00:24:57,890 --> 00:25:01,880
+proud of stuff and then it's just like
+
+669
+00:24:58,880 --> 00:25:04,190
+well I this is enough you know what they
+
+670
+00:25:01,880 --> 00:25:06,350
+say to do like one for you one for them
+
+671
+00:25:04,190 --> 00:25:08,090
+that's like a general rule but like you
+
+672
+00:25:06,350 --> 00:25:11,240
+can sort of go back and forth where like
+
+673
+00:25:08,090 --> 00:25:12,980
+some things are just you know we already
+
+674
+00:25:11,240 --> 00:25:14,990
+kind of have a basic idea of what this
+
+675
+00:25:12,980 --> 00:25:16,490
+is gonna be and so we can easily pass
+
+676
+00:25:14,990 --> 00:25:19,100
+that off and then some of them are like
+
+677
+00:25:16,490 --> 00:25:20,539
+like more passion projects or whatever
+
+678
+00:25:19,100 --> 00:25:21,710
+gonna call it and then you end up I mean
+
+679
+00:25:20,539 --> 00:25:24,470
+I recently liked one that you did a
+
+680
+00:25:21,710 --> 00:25:25,789
+video you made that didn't I didn't know
+
+681
+00:25:24,470 --> 00:25:28,250
+you did that kind of video there wasn't
+
+682
+00:25:25,789 --> 00:25:29,570
+a review it was just you um I don't
+
+683
+00:25:28,250 --> 00:25:31,520
+remember what exactly do I think you
+
+684
+00:25:29,570 --> 00:25:36,919
+just exported the same video like over
+
+685
+00:25:31,520 --> 00:25:38,510
+and over I like this one I want to do
+
+686
+00:25:36,919 --> 00:25:40,460
+more of that I think you should do I
+
+687
+00:25:38,510 --> 00:25:42,500
+like that video how did that do for you
+
+688
+00:25:40,460 --> 00:25:44,419
+though it was fine actually updated well
+
+689
+00:25:42,500 --> 00:25:46,429
+I think it's because it ended up like a
+
+690
+00:25:44,419 --> 00:25:47,929
+fun video right I think the initial
+
+691
+00:25:46,429 --> 00:25:49,490
+performance of it was probably worse
+
+692
+00:25:47,929 --> 00:25:51,799
+because people are all used to like new
+
+693
+00:25:49,490 --> 00:25:54,380
+gadget new gadget tech new thing and
+
+694
+00:25:51,799 --> 00:25:56,000
+then what happens when you download and
+
+695
+00:25:54,380 --> 00:25:58,010
+read upload a video a thousand times or
+
+696
+00:25:56,000 --> 00:25:59,750
+like I don't know I guess I'll watch
+
+697
+00:25:58,010 --> 00:26:01,250
+that later but once people watched it
+
+698
+00:25:59,750 --> 00:26:03,590
+and start sharing it people like really
+
+699
+00:26:01,250 --> 00:26:06,590
+liked it I am I am the reason why I
+
+700
+00:26:03,590 --> 00:26:11,059
+thought that was great so you actually
+
+701
+00:26:06,590 --> 00:26:12,409
+did that then yeah I'm bloated yes so
+
+702
+00:26:11,059 --> 00:26:15,080
+Egypt I was like the download button
+
+703
+00:26:12,409 --> 00:26:18,080
+inside of it so we uploaded this 8k
+
+704
+00:26:15,080 --> 00:26:20,570
+beautiful like 40 second file downloaded
+
+705
+00:26:18,080 --> 00:26:23,179
+it and then uploaded that and they
+
+706
+00:26:20,570 --> 00:26:25,490
+downloaded that and uploaded that and we
+
+707
+00:26:23,179 --> 00:26:27,529
+did that a thousand times so what was
+
+708
+00:26:25,490 --> 00:26:31,250
+your internet bill like some people web
+
+709
+00:26:27,529 --> 00:26:32,760
+cap I'm like a fiber it was since it was
+
+710
+00:26:31,250 --> 00:26:35,760
+such a short file it wasn't so
+
+711
+00:26:32,760 --> 00:26:36,990
+it was more of like the tedious someone
+
+712
+00:26:35,760 --> 00:26:38,340
+every all the comments are like why
+
+713
+00:26:36,990 --> 00:26:40,050
+didn't you just write a script to do it
+
+714
+00:26:38,340 --> 00:26:44,550
+which we were like oh I didn't know I
+
+715
+00:26:40,050 --> 00:26:47,250
+could yeah it turns out there's a limit
+
+716
+00:26:44,550 --> 00:26:48,780
+of like a hundred uploads a day and so
+
+717
+00:26:47,250 --> 00:26:50,580
+once you get to that limit you have to
+
+718
+00:26:48,780 --> 00:26:52,290
+like wait 24 hours to start again so
+
+719
+00:26:50,580 --> 00:26:56,280
+that's at least 10 days of 100 uploads
+
+720
+00:26:52,290 --> 00:26:57,870
+but then some of them it was Andrew and
+
+721
+00:26:56,280 --> 00:26:59,550
+VIN and I all trying to do this but like
+
+722
+00:26:57,870 --> 00:27:01,620
+if you download a video and then upload
+
+723
+00:26:59,550 --> 00:27:03,300
+it and then download that too fast it
+
+724
+00:27:01,620 --> 00:27:05,130
+was like not done processing so you
+
+725
+00:27:03,300 --> 00:27:06,570
+didn't get the full quality and then if
+
+726
+00:27:05,130 --> 00:27:08,100
+you like didn't really check them for
+
+727
+00:27:06,570 --> 00:27:09,870
+like 50 and then you like look at it
+
+728
+00:27:08,100 --> 00:27:11,340
+you're like why is this 480p and you go
+
+729
+00:27:09,870 --> 00:27:14,640
+back 50 and you realize you messed up
+
+730
+00:27:11,340 --> 00:27:17,180
+you you lose those 50 towards the castle
+
+731
+00:27:14,640 --> 00:27:20,580
+is like a month project yeah exactly
+
+732
+00:27:17,180 --> 00:27:22,620
+worth it I thought that was one of the
+
+733
+00:27:20,580 --> 00:27:24,720
+best videos I've seen a long is good it
+
+734
+00:27:22,620 --> 00:27:26,670
+was just creative what do you use for
+
+735
+00:27:24,720 --> 00:27:28,590
+your camera to shoot with or do you
+
+736
+00:27:26,670 --> 00:27:32,040
+change it once in a while or yeah our
+
+737
+00:27:28,590 --> 00:27:34,860
+our main camera is a monster Oh 8k this
+
+738
+00:27:32,040 --> 00:27:38,280
+division direct their names are pretty
+
+739
+00:27:34,860 --> 00:27:40,920
+weird now but it's a red camera and it's
+
+740
+00:27:38,280 --> 00:27:43,350
+a huge nearly full-frame sensor which is
+
+741
+00:27:40,920 --> 00:27:45,390
+wild for video and then the image
+
+742
+00:27:43,350 --> 00:27:48,450
+processing pipeline just spits out a que
+
+743
+00:27:45,390 --> 00:27:49,950
+red raw with like 16 stops of dynamic
+
+744
+00:27:48,450 --> 00:27:52,500
+range or something crazy I could no
+
+745
+00:27:49,950 --> 00:27:53,610
+doubt about it forever but it's a that's
+
+746
+00:27:52,500 --> 00:27:57,870
+the primary camera
+
+747
+00:27:53,610 --> 00:28:00,690
+well no autofocus huge file size is kind
+
+748
+00:27:57,870 --> 00:28:02,820
+of terrible to use but the image is so
+
+749
+00:28:00,690 --> 00:28:04,980
+nice that I'm willing to work with it
+
+750
+00:28:02,820 --> 00:28:06,690
+and and sort of that I have that
+
+751
+00:28:04,980 --> 00:28:09,750
+pipeline pretty much down I mean for a
+
+752
+00:28:06,690 --> 00:28:12,240
+YouTube video like you may be using
+
+753
+00:28:09,750 --> 00:28:15,570
+probably the best camera out of any
+
+754
+00:28:12,240 --> 00:28:17,670
+youtuber right that's not shooting film
+
+755
+00:28:15,570 --> 00:28:20,250
+right yeah it's kind of funny it's like
+
+756
+00:28:17,670 --> 00:28:23,070
+I know another guy John who uses an Ari
+
+757
+00:28:20,250 --> 00:28:24,630
+Alexa mini one my friend Judd nur who's
+
+758
+00:28:23,070 --> 00:28:26,850
+also from New Jersey also uses a red
+
+759
+00:28:24,630 --> 00:28:29,430
+camera and it's something about the tech
+
+760
+00:28:26,850 --> 00:28:30,660
+crowd and maybe this is just because
+
+761
+00:28:29,430 --> 00:28:32,700
+we've been leading the way and a lot of
+
+762
+00:28:30,660 --> 00:28:33,900
+people are sort of copying it but for
+
+763
+00:28:32,700 --> 00:28:36,210
+whatever reason we just really like
+
+764
+00:28:33,900 --> 00:28:39,120
+crispy video and the better you can make
+
+765
+00:28:36,210 --> 00:28:41,160
+it out it's kind of funny you've noticed
+
+766
+00:28:39,120 --> 00:28:44,430
+like if you watch a bunch of other tech
+
+767
+00:28:41,160 --> 00:28:45,360
+videos even from like CNET or The Wall
+
+768
+00:28:44,430 --> 00:28:46,659
+Street Journal yep
+
+769
+00:28:45,360 --> 00:28:48,099
+suddenly all their videos
+
+770
+00:28:46,659 --> 00:28:49,840
+really cinematic in the past couple
+
+771
+00:28:48,099 --> 00:28:52,960
+years and that's because that's just the
+
+772
+00:28:49,840 --> 00:28:54,009
+look that's over kind of set this bar I
+
+773
+00:28:52,960 --> 00:28:55,570
+mean that's kind of like what you're
+
+774
+00:28:54,009 --> 00:28:58,119
+known for it to a certain degree right
+
+775
+00:28:55,570 --> 00:28:59,710
+like yes so I never really thought about
+
+776
+00:28:58,119 --> 00:29:01,269
+taking credit for it cuz there's sort of
+
+777
+00:28:59,710 --> 00:29:02,739
+a group of us that are all sort of
+
+778
+00:29:01,269 --> 00:29:04,659
+pushing the envelope and doing different
+
+779
+00:29:02,739 --> 00:29:08,039
+things but like if I see a robot shot
+
+780
+00:29:04,659 --> 00:29:10,989
+from one of them yeah I start right yeah
+
+781
+00:29:08,039 --> 00:29:12,369
+yeah uh you said there's a small group
+
+782
+00:29:10,989 --> 00:29:14,080
+if you guys that do that yeah do you
+
+783
+00:29:12,369 --> 00:29:16,419
+guys have like a group chat where you
+
+784
+00:29:14,080 --> 00:29:19,299
+discuss all do you try to this this like
+
+785
+00:29:16,419 --> 00:29:21,820
+exchanging tricks and trades yeah we not
+
+786
+00:29:19,299 --> 00:29:23,590
+a group chat but we all sort of it's
+
+787
+00:29:21,820 --> 00:29:26,080
+kind of funny at tech events because
+
+788
+00:29:23,590 --> 00:29:28,179
+like tech companies invite all the same
+
+789
+00:29:26,080 --> 00:29:30,759
+people to all their events we sort of
+
+790
+00:29:28,179 --> 00:29:32,499
+all collaborate and we'll chat at these
+
+791
+00:29:30,759 --> 00:29:34,960
+things so like CES every year we're all
+
+792
+00:29:32,499 --> 00:29:36,369
+there but like when Samsung comes out
+
+793
+00:29:34,960 --> 00:29:38,109
+with a new phone they invite all of us
+
+794
+00:29:36,369 --> 00:29:39,609
+so we're all there anyway so we all
+
+795
+00:29:38,109 --> 00:29:41,109
+talked there and then we're all at the
+
+796
+00:29:39,609 --> 00:29:42,729
+Apple event we all talk there and a
+
+797
+00:29:41,109 --> 00:29:45,129
+Motorola and like it just sort of
+
+798
+00:29:42,729 --> 00:29:47,080
+happens a lot during the year um but
+
+799
+00:29:45,129 --> 00:29:49,779
+yeah that's when we'll end up like just
+
+800
+00:29:47,080 --> 00:29:51,190
+talking about the techie Tube world or
+
+801
+00:29:49,779 --> 00:29:52,929
+do you feel like sometimes because
+
+802
+00:29:51,190 --> 00:29:54,309
+you're always hanging out together when
+
+803
+00:29:52,929 --> 00:29:57,460
+you guys talk about things sometimes
+
+804
+00:29:54,309 --> 00:29:59,619
+their opinions influence you so almost
+
+805
+00:29:57,460 --> 00:30:01,389
+like it bleeds into your commentary
+
+806
+00:29:59,619 --> 00:30:05,529
+probably yeah and I think even just
+
+807
+00:30:01,389 --> 00:30:07,149
+watching other videos like I know my my
+
+808
+00:30:05,529 --> 00:30:08,830
+edit style has changed watching other
+
+809
+00:30:07,149 --> 00:30:11,229
+people's videos like what you say about
+
+810
+00:30:08,830 --> 00:30:12,849
+like a point ii like 0.1 second
+
+811
+00:30:11,229 --> 00:30:15,999
+difference like if you watch a philip
+
+812
+00:30:12,849 --> 00:30:17,979
+defranco video you would know if the
+
+813
+00:30:15,999 --> 00:30:20,049
+Edit style changed because like the
+
+814
+00:30:17,979 --> 00:30:21,580
+cadence would be off right and i don't
+
+815
+00:30:20,049 --> 00:30:24,279
+know how many people would notice if my
+
+816
+00:30:21,580 --> 00:30:26,080
+edit was a quarter of a second off but
+
+817
+00:30:24,279 --> 00:30:28,629
+like that's the sort of thing i'll like
+
+818
+00:30:26,080 --> 00:30:30,460
+sort of hone based on like watching my
+
+819
+00:30:28,629 --> 00:30:32,320
+own in other people's videos and i think
+
+820
+00:30:30,460 --> 00:30:36,669
+that happens in a lot of things and in
+
+821
+00:30:32,320 --> 00:30:39,039
+tech and other genres too yeah well
+
+822
+00:30:36,669 --> 00:30:40,599
+we're about at that halfway mark okay
+
+823
+00:30:39,039 --> 00:30:44,529
+cool i guess we'll do a quick
+
+824
+00:30:40,599 --> 00:30:46,059
+shishi break and this is something we
+
+825
+00:30:44,529 --> 00:30:47,710
+just started doing since yesterday but
+
+826
+00:30:46,059 --> 00:30:49,119
+do you have any things for our halftime
+
+827
+00:30:47,710 --> 00:30:50,169
+show that you want to perform any skills
+
+828
+00:30:49,119 --> 00:30:52,629
+anything you can do
+
+829
+00:30:50,169 --> 00:30:55,089
+can you sing I will drink more of this
+
+830
+00:30:52,629 --> 00:30:56,790
+water and do a bottle flip do it right
+
+831
+00:30:55,089 --> 00:30:59,290
+now but it's gonna take a while okay
+
+832
+00:30:56,790 --> 00:31:01,660
+[Music]
+
+833
+00:30:59,290 --> 00:31:02,980
+you actually have to do it yeah I don't
+
+834
+00:31:01,660 --> 00:31:16,570
+even have any crazy yeah
+
+835
+00:31:02,980 --> 00:31:19,960
+well then we'll be right back and we're
+
+836
+00:31:16,570 --> 00:31:21,850
+back sweet awesome so I wanted to ask
+
+837
+00:31:19,960 --> 00:31:25,270
+you something about this cuz you know
+
+838
+00:31:21,850 --> 00:31:27,730
+you're definitely a tech channel have
+
+839
+00:31:25,270 --> 00:31:30,130
+you seen how like the youtubes Peace
+
+840
+00:31:27,730 --> 00:31:33,220
+Corps recently got leaked kind of I did
+
+841
+00:31:30,130 --> 00:31:35,260
+see that I don't think I saw myself in
+
+842
+00:31:33,220 --> 00:31:37,210
+that but I saw the articles but yeah and
+
+843
+00:31:35,260 --> 00:31:39,610
+I was like definitely pushing tech and
+
+844
+00:31:37,210 --> 00:31:42,400
+gaming and stuff like that yeah is it
+
+845
+00:31:39,610 --> 00:31:43,630
+explicitly pushing tech uh it talked
+
+846
+00:31:42,400 --> 00:31:46,090
+about that because that's like a great
+
+847
+00:31:43,630 --> 00:31:48,730
+consumer it's really that you can buy a
+
+848
+00:31:46,090 --> 00:31:51,070
+lot of right ad companies will probably
+
+849
+00:31:48,730 --> 00:31:53,050
+purchase into that area as well yeah uh
+
+850
+00:31:51,070 --> 00:31:54,970
+and so I was just curious how if you
+
+851
+00:31:53,050 --> 00:31:56,980
+felt like oh like this is good for us or
+
+852
+00:31:54,970 --> 00:31:59,320
+I feel like I've always sort of known
+
+853
+00:31:56,980 --> 00:32:01,600
+that what we're in one of these genres
+
+854
+00:31:59,320 --> 00:32:02,860
+that's like pretty clean for YouTube
+
+855
+00:32:01,600 --> 00:32:04,570
+like I know a lot of people like the ad
+
+856
+00:32:02,860 --> 00:32:06,550
+pocalypse happens like a lot of certain
+
+857
+00:32:04,570 --> 00:32:09,100
+genres of channels were like really
+
+858
+00:32:06,550 --> 00:32:10,630
+struggling to deal with it and if you
+
+859
+00:32:09,100 --> 00:32:13,420
+watch any of my videos or any tech
+
+860
+00:32:10,630 --> 00:32:17,050
+videos basically they're all pretty much
+
+861
+00:32:13,420 --> 00:32:18,490
+like clean the the normal demographic is
+
+862
+00:32:17,050 --> 00:32:20,200
+awesome for YouTube because it's like
+
+863
+00:32:18,490 --> 00:32:22,810
+people who are unreachable anywhere else
+
+864
+00:32:20,200 --> 00:32:25,390
+it's like 18 to 34 year old affluent
+
+865
+00:32:22,810 --> 00:32:27,700
+spending you know consumers that are
+
+866
+00:32:25,390 --> 00:32:29,560
+like ready they like like put our ad
+
+867
+00:32:27,700 --> 00:32:31,270
+dollars right there like it's perfect so
+
+868
+00:32:29,560 --> 00:32:33,880
+like I've always kind of known that's
+
+869
+00:32:31,270 --> 00:32:35,530
+it's a good safe place on YouTube and
+
+870
+00:32:33,880 --> 00:32:37,450
+it's kind of a happy coincidence that I
+
+871
+00:32:35,530 --> 00:32:39,970
+happen to love tech but yeah it's been
+
+872
+00:32:37,450 --> 00:32:42,190
+pretty smooth sailing as far as dealing
+
+873
+00:32:39,970 --> 00:32:43,600
+with YouTube so how do you um do you
+
+874
+00:32:42,190 --> 00:32:45,700
+guys have to like look at algorithms
+
+875
+00:32:43,600 --> 00:32:47,380
+constantly that's your thing are you
+
+876
+00:32:45,700 --> 00:32:48,970
+kind of just like oh no we're clean so
+
+877
+00:32:47,380 --> 00:32:50,850
+we know we're gonna be good yeah there's
+
+878
+00:32:48,970 --> 00:32:53,350
+still ways to play with algorithm
+
+879
+00:32:50,850 --> 00:32:55,210
+especially in the whole quantity over
+
+880
+00:32:53,350 --> 00:32:57,430
+quality game I think about that a lot
+
+881
+00:32:55,210 --> 00:32:59,800
+and we make about a hundred videos a
+
+882
+00:32:57,430 --> 00:33:01,150
+year which is like one every three days
+
+883
+00:32:59,800 --> 00:33:03,550
+like twice a week something like that
+
+884
+00:33:01,150 --> 00:33:05,830
+and I know for a fact because other
+
+885
+00:33:03,550 --> 00:33:08,500
+channels do this if I uploaded daily the
+
+886
+00:33:05,830 --> 00:33:11,500
+channel would do massively better on
+
+887
+00:33:08,500 --> 00:33:12,669
+paper it would get three times as many
+
+888
+00:33:11,500 --> 00:33:15,039
+views every month they
+
+889
+00:33:12,669 --> 00:33:17,049
+would get recommended in the algorithm
+
+890
+00:33:15,039 --> 00:33:18,989
+there would be a bigger category a
+
+891
+00:33:17,049 --> 00:33:23,470
+bigger library of things to recommend
+
+892
+00:33:18,989 --> 00:33:25,720
+but as far as sanity I don't think I can
+
+893
+00:33:23,470 --> 00:33:27,399
+like do that to myself so yeah we think
+
+894
+00:33:25,720 --> 00:33:31,359
+about the algorithm a little bit but
+
+895
+00:33:27,399 --> 00:33:33,940
+generally a title thumbnail in the
+
+896
+00:33:31,359 --> 00:33:36,669
+description make a great video yeah yeah
+
+897
+00:33:33,940 --> 00:33:38,200
+and uh just went with terminology I
+
+898
+00:33:36,669 --> 00:33:39,759
+forgot for audiences who don't know he's
+
+899
+00:33:38,200 --> 00:33:42,340
+like YouTube's P scores basically like
+
+900
+00:33:39,759 --> 00:33:43,899
+their preferential score what type of
+
+901
+00:33:42,340 --> 00:33:45,639
+videos they'll suggest you and your
+
+902
+00:33:43,899 --> 00:33:49,239
+recommended in your sidebar stuff like
+
+903
+00:33:45,639 --> 00:33:52,389
+that and as of a couple of days ago I
+
+904
+00:33:49,239 --> 00:33:54,519
+don't have you seen YouTube's new UI in
+
+905
+00:33:52,389 --> 00:33:56,799
+terms of uploading stuff like that not
+
+906
+00:33:54,519 --> 00:33:58,629
+uploading I saw the new homepage mm
+
+907
+00:33:56,799 --> 00:34:02,049
+which is like much bigger thumbnails
+
+908
+00:33:58,629 --> 00:34:04,749
+which I don't hate because I've our
+
+909
+00:34:02,049 --> 00:34:07,269
+thumbnails are like kind of like made to
+
+910
+00:34:04,749 --> 00:34:08,710
+be really tiny like it when I do a
+
+911
+00:34:07,269 --> 00:34:10,450
+thumbnail of like a phone like there's
+
+912
+00:34:08,710 --> 00:34:11,649
+only so many angles you can show a phone
+
+913
+00:34:10,450 --> 00:34:13,480
+where if you shrink it down to that
+
+914
+00:34:11,649 --> 00:34:15,040
+postage stamp-sized you can even tell
+
+915
+00:34:13,480 --> 00:34:16,599
+what it is so I kind of like the bigger
+
+916
+00:34:15,040 --> 00:34:19,690
+thumbnails but the new upload interface
+
+917
+00:34:16,599 --> 00:34:20,950
+I haven't seen so what do you do when
+
+918
+00:34:19,690 --> 00:34:22,540
+you're not making youtube videos I think
+
+919
+00:34:20,950 --> 00:34:24,309
+a lot of people are pretty interested in
+
+920
+00:34:22,540 --> 00:34:26,460
+knowing what your life is like outside
+
+921
+00:34:24,309 --> 00:34:29,139
+of that to have like a girlfriend you
+
+922
+00:34:26,460 --> 00:34:31,030
+just hang out with your friends like or
+
+923
+00:34:29,139 --> 00:34:33,520
+is it just work work work and frisbee
+
+924
+00:34:31,030 --> 00:34:37,059
+frisbee yeah well I was gonna say is
+
+925
+00:34:33,520 --> 00:34:39,099
+like usually if I'm not at work it's
+
+926
+00:34:37,059 --> 00:34:41,079
+some ultimate related thing like
+
+927
+00:34:39,099 --> 00:34:44,889
+weekends for the most part on the East
+
+928
+00:34:41,079 --> 00:34:47,710
+Coast when it's warm from like March
+
+929
+00:34:44,889 --> 00:34:50,079
+when is getting warm to like September
+
+930
+00:34:47,710 --> 00:34:52,929
+which is Nationals is Ultimate Frisbee
+
+931
+00:34:50,079 --> 00:34:54,429
+which is it's a lot because you have
+
+932
+00:34:52,929 --> 00:34:56,260
+practice during the week and then you
+
+933
+00:34:54,429 --> 00:34:58,150
+have games and tournaments on weekends
+
+934
+00:34:56,260 --> 00:35:01,180
+but that's mostly what I'm doing when
+
+935
+00:34:58,150 --> 00:35:02,319
+I'm not at work and that's like mainly
+
+936
+00:35:01,180 --> 00:35:03,970
+the reason I'm I wouldn't I would go
+
+937
+00:35:02,319 --> 00:35:05,980
+insane if I didn't have some sort of
+
+938
+00:35:03,970 --> 00:35:08,260
+especially cuz like when you're a
+
+939
+00:35:05,980 --> 00:35:09,910
+youtuber people know nothing about this
+
+940
+00:35:08,260 --> 00:35:12,400
+but you're like sitting down all day and
+
+941
+00:35:09,910 --> 00:35:13,839
+like I can't really sit down for more
+
+942
+00:35:12,400 --> 00:35:15,520
+than about three or four hours like I
+
+943
+00:35:13,839 --> 00:35:17,049
+hate cross-country flights because I
+
+944
+00:35:15,520 --> 00:35:20,319
+really just don't want to be sitting for
+
+945
+00:35:17,049 --> 00:35:22,569
+that long so something about like I can
+
+946
+00:35:20,319 --> 00:35:24,369
+get through sitting and editing for five
+
+947
+00:35:22,569 --> 00:35:25,330
+straight hours because I know you have
+
+948
+00:35:24,369 --> 00:35:28,330
+practice tonight like
+
+949
+00:35:25,330 --> 00:35:29,590
+we'll be the opposite Wars exactly like
+
+950
+00:35:28,330 --> 00:35:31,660
+chomping at the bit trying to get out of
+
+951
+00:35:29,590 --> 00:35:34,090
+that so I think that's like the the
+
+952
+00:35:31,660 --> 00:35:36,700
+balance of when I don't have to work
+
+953
+00:35:34,090 --> 00:35:38,110
+that's that's where I'm at what is a so
+
+954
+00:35:36,700 --> 00:35:40,660
+you said it's like games and tournaments
+
+955
+00:35:38,110 --> 00:35:43,210
+is it mostly tournament based your
+
+956
+00:35:40,660 --> 00:35:45,430
+season or how does because I've no no
+
+957
+00:35:43,210 --> 00:35:48,880
+idea yeah yeah yeah it's kind of complex
+
+958
+00:35:45,430 --> 00:35:51,310
+and anytime I try to explain it I try to
+
+959
+00:35:48,880 --> 00:35:52,900
+simplify it basically Club ultimate
+
+960
+00:35:51,310 --> 00:35:55,330
+which is like if you think of like club
+
+961
+00:35:52,900 --> 00:35:57,460
+soccer like area teams are that's like
+
+962
+00:35:55,330 --> 00:35:59,560
+the main version of ultimate college
+
+963
+00:35:57,460 --> 00:36:01,180
+kids will join an area team people who
+
+964
+00:35:59,560 --> 00:36:03,040
+are graduating things like that I play
+
+965
+00:36:01,180 --> 00:36:05,620
+for the New Jersey area team now I play
+
+966
+00:36:03,040 --> 00:36:09,250
+for the New York area team and those are
+
+967
+00:36:05,620 --> 00:36:11,950
+all it's a better team yeah we came in
+
+968
+00:36:09,250 --> 00:36:13,540
+30 Nationals Dan OH Congrats thank you
+
+969
+00:36:11,950 --> 00:36:16,240
+that just happened to you said September
+
+970
+00:36:13,540 --> 00:36:17,350
+yeah that was was it a month ago maybe
+
+971
+00:36:16,240 --> 00:36:20,050
+he's a month ago no I don't how many
+
+972
+00:36:17,350 --> 00:36:24,100
+teams because Nationals I think there
+
+973
+00:36:20,050 --> 00:36:26,410
+were 16 teams well and is it also kind
+
+974
+00:36:24,100 --> 00:36:30,700
+of like other sports we have to travel
+
+975
+00:36:26,410 --> 00:36:32,920
+to another city to play yes yeah so so
+
+976
+00:36:30,700 --> 00:36:35,860
+yeah tournaments will be in various
+
+977
+00:36:32,920 --> 00:36:37,380
+cities around the u.s. so we had a
+
+978
+00:36:35,860 --> 00:36:41,050
+tournament in Colorado this year
+
+979
+00:36:37,380 --> 00:36:43,570
+Nationals is in San Diego there's other
+
+980
+00:36:41,050 --> 00:36:46,270
+tournaments on both coasts generally but
+
+981
+00:36:43,570 --> 00:36:48,520
+anywhere you get like a huge field space
+
+982
+00:36:46,270 --> 00:36:51,310
+that's like generally like Minnesota and
+
+983
+00:36:48,520 --> 00:36:53,650
+is really popular with fields and and
+
+984
+00:36:51,310 --> 00:36:54,700
+certain states have much more fields
+
+985
+00:36:53,650 --> 00:36:56,020
+than others but it's tournament
+
+986
+00:36:54,700 --> 00:36:59,140
+basically you play like four games in a
+
+987
+00:36:56,020 --> 00:37:00,910
+day and hopefully you win but that's
+
+988
+00:36:59,140 --> 00:37:02,890
+your like your stress relief and
+
+989
+00:37:00,910 --> 00:37:06,730
+something you love doing yeah definitely
+
+990
+00:37:02,890 --> 00:37:09,520
+would you say that I guess let's say the
+
+991
+00:37:06,730 --> 00:37:11,170
+Ultimate Frisbee became the thing like
+
+992
+00:37:09,520 --> 00:37:13,810
+it became like the next big thing right
+
+993
+00:37:11,170 --> 00:37:15,460
+well would you leave the tech industry
+
+994
+00:37:13,810 --> 00:37:16,300
+and would you do that professionally if
+
+995
+00:37:15,460 --> 00:37:18,100
+it paid off
+
+996
+00:37:16,300 --> 00:37:19,990
+paid away more than you know let's say
+
+997
+00:37:18,100 --> 00:37:21,970
+you got a 20 million dollar contract to
+
+998
+00:37:19,990 --> 00:37:23,440
+be a frisbee player but you got to focus
+
+999
+00:37:21,970 --> 00:37:24,040
+on playing frisbee can't make tech
+
+1000
+00:37:23,440 --> 00:37:32,080
+videos anymore
+
+1001
+00:37:24,040 --> 00:37:33,550
+you could do it LeBron vlogging yeah
+
+1002
+00:37:32,080 --> 00:37:35,670
+your new hate comments be like dog get
+
+1003
+00:37:33,550 --> 00:37:39,240
+back to the field
+
+1004
+00:37:35,670 --> 00:37:41,819
+get that disk going dang uh Wow I I
+
+1005
+00:37:39,240 --> 00:37:43,530
+assume it's your stress relief right yes
+
+1006
+00:37:41,819 --> 00:37:47,250
+they don't want compact this they want
+
+1007
+00:37:43,530 --> 00:37:47,609
+frisbee this exactly uh I never thought
+
+1008
+00:37:47,250 --> 00:37:51,240
+about that
+
+1009
+00:37:47,609 --> 00:37:51,900
+I guess yeah I guess I would you would
+
+1010
+00:37:51,240 --> 00:37:54,030
+enjoy it more
+
+1011
+00:37:51,900 --> 00:37:57,510
+I would enjoy it but I think yeah my
+
+1012
+00:37:54,030 --> 00:37:59,490
+offseason yeah like you know some sort
+
+1013
+00:37:57,510 --> 00:38:02,400
+of creative outlet cuz I think I would
+
+1014
+00:37:59,490 --> 00:38:04,829
+also go crazy right now if I never had
+
+1015
+00:38:02,400 --> 00:38:06,750
+any creative outlet so I think they sort
+
+1016
+00:38:04,829 --> 00:38:09,150
+of you know each other they keep each
+
+1017
+00:38:06,750 --> 00:38:10,980
+other like in check or from overwhelming
+
+1018
+00:38:09,150 --> 00:38:13,349
+the other do you find that your fan base
+
+1019
+00:38:10,980 --> 00:38:14,640
+cuz allow your stuff is educational so
+
+1020
+00:38:13,349 --> 00:38:17,460
+like if someone's interest in something
+
+1021
+00:38:14,640 --> 00:38:19,049
+I would assume they type in something
+
+1022
+00:38:17,460 --> 00:38:20,040
+and they find you and they what they
+
+1023
+00:38:19,049 --> 00:38:22,349
+learn and they'd like you or they don't
+
+1024
+00:38:20,040 --> 00:38:24,569
+and they trust you or whatever do you
+
+1025
+00:38:22,349 --> 00:38:25,859
+find that your fans would care care more
+
+1026
+00:38:24,569 --> 00:38:30,000
+about you or care more about your
+
+1027
+00:38:25,859 --> 00:38:32,910
+content I think the content but I think
+
+1028
+00:38:30,000 --> 00:38:35,760
+it helps to have a palatable personality
+
+1029
+00:38:32,910 --> 00:38:37,530
+yeah I think there's a bunch of really
+
+1030
+00:38:35,760 --> 00:38:39,150
+good examples of channels that are
+
+1031
+00:38:37,530 --> 00:38:41,010
+successful because of their personality
+
+1032
+00:38:39,150 --> 00:38:42,750
+and like the audience is there for them
+
+1033
+00:38:41,010 --> 00:38:45,869
+right and oh they're so relatable
+
+1034
+00:38:42,750 --> 00:38:48,599
+they're so funny they're so whatever and
+
+1035
+00:38:45,869 --> 00:38:51,089
+I think I sort of mentioned earlier but
+
+1036
+00:38:48,599 --> 00:38:53,460
+like the best the easiest part of my job
+
+1037
+00:38:51,089 --> 00:38:56,130
+is like I don't have to be the most
+
+1038
+00:38:53,460 --> 00:38:57,390
+entertaining person personally I'm like
+
+1039
+00:38:56,130 --> 00:38:59,400
+covering the tech and that's what people
+
+1040
+00:38:57,390 --> 00:39:01,980
+care about and hopefully my coverage of
+
+1041
+00:38:59,400 --> 00:39:03,359
+the tech is also entertaining and that's
+
+1042
+00:39:01,980 --> 00:39:05,220
+where we push the limits of like well
+
+1043
+00:39:03,359 --> 00:39:07,530
+that's why you have fans because they
+
+1044
+00:39:05,220 --> 00:39:09,240
+like you doing it right just some random
+
+1045
+00:39:07,530 --> 00:39:11,190
+person ever eat every week or every
+
+1046
+00:39:09,240 --> 00:39:12,569
+three days doing it right yeah yeah
+
+1047
+00:39:11,190 --> 00:39:14,190
+there's a million places to get do you
+
+1048
+00:39:12,569 --> 00:39:15,450
+think I mean I don't know if you have or
+
+1049
+00:39:14,190 --> 00:39:17,460
+not but don't you think what if you did
+
+1050
+00:39:15,450 --> 00:39:18,839
+something about you playing professional
+
+1051
+00:39:17,460 --> 00:39:20,250
+frisbee you think they would care about
+
+1052
+00:39:18,839 --> 00:39:22,049
+you or do you think they would not like
+
+1053
+00:39:20,250 --> 00:39:24,420
+that because like what is this yeah I
+
+1054
+00:39:22,049 --> 00:39:26,460
+think I have wanted to do that and I'm I
+
+1055
+00:39:24,420 --> 00:39:29,670
+struggle to find the time to really give
+
+1056
+00:39:26,460 --> 00:39:32,369
+it the time it deserves I think any time
+
+1057
+00:39:29,670 --> 00:39:34,799
+we're playing I'm so that's the problem
+
+1058
+00:39:32,369 --> 00:39:36,510
+I'm so hyper focused on playing that I
+
+1059
+00:39:34,799 --> 00:39:37,890
+would be like annoyed that I couldn't
+
+1060
+00:39:36,510 --> 00:39:41,040
+give my attention to how it was being
+
+1061
+00:39:37,890 --> 00:39:42,869
+recorded filmed I'd have to honestly
+
+1062
+00:39:41,040 --> 00:39:44,490
+like take a season where I'm injured or
+
+1063
+00:39:42,869 --> 00:39:46,710
+something so I'm up I don't like to not
+
+1064
+00:39:44,490 --> 00:39:48,510
+I'm not like worked like mad that I'm
+
+1065
+00:39:46,710 --> 00:39:49,570
+not playing because I couldn't play so I
+
+1066
+00:39:48,510 --> 00:39:51,520
+could focus on recording
+
+1067
+00:39:49,570 --> 00:39:54,640
+but like usually the entire season I'm
+
+1068
+00:39:51,520 --> 00:39:55,960
+like focused on like peaking physically
+
+1069
+00:39:54,640 --> 00:39:57,730
+at the right time of year and like
+
+1070
+00:39:55,960 --> 00:39:59,560
+eating right and like oh like everything
+
+1071
+00:39:57,730 --> 00:40:02,080
+I'm doing on the field is like for very
+
+1072
+00:39:59,560 --> 00:40:03,970
+purpose built so like it's really hard
+
+1073
+00:40:02,080 --> 00:40:06,220
+to make something about that yeah yeah
+
+1074
+00:40:03,970 --> 00:40:08,440
+using other people's footage so yeah
+
+1075
+00:40:06,220 --> 00:40:09,850
+with yeah I know what you mean yeah I
+
+1076
+00:40:08,440 --> 00:40:11,050
+would I would like to do that though and
+
+1077
+00:40:09,850 --> 00:40:13,540
+you'd have to like get people to sign
+
+1078
+00:40:11,050 --> 00:40:16,990
+like release forms exactly
+
+1079
+00:40:13,540 --> 00:40:19,630
+but on the off season though what do you
+
+1080
+00:40:16,990 --> 00:40:22,300
+do that's sure right now is the off
+
+1081
+00:40:19,630 --> 00:40:25,630
+season it's a lot of just like working
+
+1082
+00:40:22,300 --> 00:40:29,380
+out boring staring at a wall biking like
+
+1083
+00:40:25,630 --> 00:40:31,150
+it's it's not as exciting we do have
+
+1084
+00:40:29,380 --> 00:40:34,120
+like some winter leagues that you can
+
+1085
+00:40:31,150 --> 00:40:37,840
+play in in New Jersey which is a lot of
+
+1086
+00:40:34,120 --> 00:40:40,000
+like weekday night stuff randomly but I
+
+1087
+00:40:37,840 --> 00:40:41,500
+do enjoy like having random time I I
+
+1088
+00:40:40,000 --> 00:40:43,840
+took a day the other day and I just
+
+1089
+00:40:41,500 --> 00:40:45,910
+played 2k for like I think the entire
+
+1090
+00:40:43,840 --> 00:40:49,360
+day because it sunsets at like 4 o'clock
+
+1091
+00:40:45,910 --> 00:40:51,850
+and I think from like from like 10 a.m.
+
+1092
+00:40:49,360 --> 00:40:53,710
+to like 4 o'clock I just played 2k 2
+
+1093
+00:40:51,850 --> 00:40:55,750
+whole day cuz I hadn't gotten 2k 20 yet
+
+1094
+00:40:53,710 --> 00:40:59,200
+so I had to like get in get in the
+
+1095
+00:40:55,750 --> 00:41:01,030
+storyline yeah yeah I usually get 2k
+
+1096
+00:40:59,200 --> 00:41:03,760
+every year like right when it comes out
+
+1097
+00:41:01,030 --> 00:41:05,740
+same and this year I slacked a little
+
+1098
+00:41:03,760 --> 00:41:06,250
+bit and I didn't get to it until after
+
+1099
+00:41:05,740 --> 00:41:08,590
+nationals
+
+1100
+00:41:06,250 --> 00:41:10,780
+mm-hm and so I just got into it I got a
+
+1101
+00:41:08,590 --> 00:41:12,460
+question I mean a shift modes a little
+
+1102
+00:41:10,780 --> 00:41:13,900
+bit get a little more deep sure go ahead
+
+1103
+00:41:12,460 --> 00:41:16,180
+what like so you know you're obviously
+
+1104
+00:41:13,900 --> 00:41:19,540
+very very successful you've interviewed
+
+1105
+00:41:16,180 --> 00:41:22,720
+some of the leaders of the world right
+
+1106
+00:41:19,540 --> 00:41:24,880
+in technology and science and you've
+
+1107
+00:41:22,720 --> 00:41:27,190
+been you know Oliver on every
+
+1108
+00:41:24,880 --> 00:41:28,570
+publication and whatnot and you're
+
+1109
+00:41:27,190 --> 00:41:31,060
+you're doing this thing that you really
+
+1110
+00:41:28,570 --> 00:41:32,770
+enjoy right what what is what's driving
+
+1111
+00:41:31,060 --> 00:41:36,160
+that like what is it like you do have
+
+1112
+00:41:32,770 --> 00:41:38,860
+like a purpose or like a reason for
+
+1113
+00:41:36,160 --> 00:41:40,600
+doing this I know it's very deep but but
+
+1114
+00:41:38,860 --> 00:41:42,430
+I'm curious because you know that it's
+
+1115
+00:41:40,600 --> 00:41:44,440
+obvious that a lot of people are super
+
+1116
+00:41:42,430 --> 00:41:46,300
+drawn to your personality right even
+
+1117
+00:41:44,440 --> 00:41:47,740
+though it may be something that's you're
+
+1118
+00:41:46,300 --> 00:41:55,860
+just reviewing products right something
+
+1119
+00:41:47,740 --> 00:41:58,240
+technical technology but but you know
+
+1120
+00:41:55,860 --> 00:42:00,670
+seems like you had a really good
+
+1121
+00:41:58,240 --> 00:42:01,780
+upbringing and you seem like a very you
+
+1122
+00:42:00,670 --> 00:42:03,730
+know likeable
+
+1123
+00:42:01,780 --> 00:42:05,920
+and I'm just wondering like what is
+
+1124
+00:42:03,730 --> 00:42:06,970
+driving you to like what's your end goal
+
+1125
+00:42:05,920 --> 00:42:09,250
+like what are you trying to accomplish
+
+1126
+00:42:06,970 --> 00:42:10,510
+just I know it's not just you know
+
+1127
+00:42:09,250 --> 00:42:11,890
+you're not just trying to review
+
+1128
+00:42:10,510 --> 00:42:14,560
+products like there's yeah there must be
+
+1129
+00:42:11,890 --> 00:42:17,800
+something there I think the the way it
+
+1130
+00:42:14,560 --> 00:42:19,480
+all started was I wanted to make videos
+
+1131
+00:42:17,800 --> 00:42:22,120
+that I would want to watch so it sort of
+
+1132
+00:42:19,480 --> 00:42:23,980
+it was like created from I wanted to
+
+1133
+00:42:22,120 --> 00:42:27,760
+create something that I wanted to exist
+
+1134
+00:42:23,980 --> 00:42:30,220
+in the world and I sort of started to
+
+1135
+00:42:27,760 --> 00:42:34,020
+pivot it but stopped because it was way
+
+1136
+00:42:30,220 --> 00:42:37,060
+too much into creating like a website
+
+1137
+00:42:34,020 --> 00:42:38,650
+where you could just like look up a
+
+1138
+00:42:37,060 --> 00:42:40,000
+product and just like see if you should
+
+1139
+00:42:38,650 --> 00:42:41,980
+buy it or not and I whether that was a
+
+1140
+00:42:40,000 --> 00:42:43,810
+video or like some collection of videos
+
+1141
+00:42:41,980 --> 00:42:46,090
+or some information or comparison or
+
+1142
+00:42:43,810 --> 00:42:48,970
+whatever it was you could just find it
+
+1143
+00:42:46,090 --> 00:42:50,950
+decide if you wanted to buy or not and I
+
+1144
+00:42:48,970 --> 00:42:52,870
+think like the videos that I make are
+
+1145
+00:42:50,950 --> 00:42:55,840
+like kind of the next best thing it's
+
+1146
+00:42:52,870 --> 00:42:57,400
+like I think of a product I wonder if
+
+1147
+00:42:55,840 --> 00:42:59,650
+it's any good I'm just curious about it
+
+1148
+00:42:57,400 --> 00:43:01,150
+generally or some topic I wonder what
+
+1149
+00:42:59,650 --> 00:43:03,940
+happens when I upload a thousand times
+
+1150
+00:43:01,150 --> 00:43:06,520
+and download it upload it again and I'll
+
+1151
+00:43:03,940 --> 00:43:09,220
+just go search it up find it and boom up
+
+1152
+00:43:06,520 --> 00:43:11,470
+here's the best possible comprehensive
+
+1153
+00:43:09,220 --> 00:43:13,870
+video about what I wanted to see that's
+
+1154
+00:43:11,470 --> 00:43:15,070
+just kind of basically what it's based
+
+1155
+00:43:13,870 --> 00:43:17,950
+around you know it's I guess it's
+
+1156
+00:43:15,070 --> 00:43:21,040
+nothing too deep as far as like what is
+
+1157
+00:43:17,950 --> 00:43:22,630
+my purpose what I what I want to do with
+
+1158
+00:43:21,040 --> 00:43:24,880
+his time I feel like it's it's mainly
+
+1159
+00:43:22,630 --> 00:43:27,340
+just creating what I want to exist and
+
+1160
+00:43:24,880 --> 00:43:29,530
+making it better as we go it seems like
+
+1161
+00:43:27,340 --> 00:43:30,970
+you're on a quest the way I see it at
+
+1162
+00:43:29,530 --> 00:43:34,210
+least from this explanation just love it
+
+1163
+00:43:30,970 --> 00:43:38,140
+I see it as a quest to create the best
+
+1164
+00:43:34,210 --> 00:43:42,730
+library of reviews for any particular
+
+1165
+00:43:38,140 --> 00:43:44,320
+phone or you know gadgets yeah yeah yeah
+
+1166
+00:43:42,730 --> 00:43:46,330
+it kind of has end up ended up being
+
+1167
+00:43:44,320 --> 00:43:49,570
+that and I think the like branching out
+
+1168
+00:43:46,330 --> 00:43:53,410
+into other types of videos is the more
+
+1169
+00:43:49,570 --> 00:43:56,200
+fun part that I want to do more and so
+
+1170
+00:43:53,410 --> 00:43:58,600
+maybe it's less of a catalog of products
+
+1171
+00:43:56,200 --> 00:44:01,450
+and more of a catalog of entertainment
+
+1172
+00:43:58,600 --> 00:44:03,250
+but tech happens to be the common thread
+
+1173
+00:44:01,450 --> 00:44:05,500
+that goes through it we're doing a retro
+
+1174
+00:44:03,250 --> 00:44:07,300
+tech series that starts premiering in
+
+1175
+00:44:05,500 --> 00:44:08,800
+December or it's like obviously no one's
+
+1176
+00:44:07,300 --> 00:44:11,880
+buying these products anymore they're
+
+1177
+00:44:08,800 --> 00:44:15,250
+all gonna be you know 20 30 40 year-old
+
+1178
+00:44:11,880 --> 00:44:16,810
+iconic pieces of tech but it's like the
+
+1179
+00:44:15,250 --> 00:44:18,100
+Aryans of diving back into what made
+
+1180
+00:44:16,810 --> 00:44:20,470
+them iconic it's just sort of
+
+1181
+00:44:18,100 --> 00:44:23,050
+entertainment instead of like product
+
+1182
+00:44:20,470 --> 00:44:25,780
+based stuff yeah so yeah it's just a
+
+1183
+00:44:23,050 --> 00:44:27,160
+lesson in history yeah yeah exactly and
+
+1184
+00:44:25,780 --> 00:44:28,720
+still tech related some people aren't
+
+1185
+00:44:27,160 --> 00:44:30,130
+good don't give you the past it's not
+
+1186
+00:44:28,720 --> 00:44:33,700
+your usual stuff but it's still related
+
+1187
+00:44:30,130 --> 00:44:36,010
+yeah common thread right yeah so we do
+
+1188
+00:44:33,700 --> 00:44:36,670
+have some questions from fans here oh
+
+1189
+00:44:36,010 --> 00:44:38,470
+boy
+
+1190
+00:44:36,670 --> 00:44:41,250
+many many questions yeah I got a
+
+1191
+00:44:38,470 --> 00:44:44,800
+question first okay for that I love it
+
+1192
+00:44:41,250 --> 00:44:48,910
+because like you said I like what you
+
+1193
+00:44:44,800 --> 00:44:50,890
+said palatable personality sure what is
+
+1194
+00:44:48,910 --> 00:44:52,990
+the weirdest band interaction you've had
+
+1195
+00:44:50,890 --> 00:44:54,640
+though we're just fan interaction
+
+1196
+00:44:52,990 --> 00:44:55,870
+because I'm sure you're so likable that
+
+1197
+00:44:54,640 --> 00:44:57,010
+they just come up and they're like I
+
+1198
+00:44:55,870 --> 00:45:00,730
+know you
+
+1199
+00:44:57,010 --> 00:45:02,880
+I'm just right into it you're right that
+
+1200
+00:45:00,730 --> 00:45:05,440
+like when people come up to me they they
+
+1201
+00:45:02,880 --> 00:45:07,030
+it's a it's a power a social
+
+1202
+00:45:05,440 --> 00:45:08,260
+relationship everyone knows everything
+
+1203
+00:45:07,030 --> 00:45:10,930
+already about you and you don't really
+
+1204
+00:45:08,260 --> 00:45:15,220
+know them so it's kind of one-sided at
+
+1205
+00:45:10,930 --> 00:45:17,440
+first but on one hand that actually does
+
+1206
+00:45:15,220 --> 00:45:20,260
+produce a lot of like fun like
+
+1207
+00:45:17,440 --> 00:45:22,720
+interactions I on my way here as I was
+
+1208
+00:45:20,260 --> 00:45:24,760
+getting into the uber lady walking by
+
+1209
+00:45:22,720 --> 00:45:26,410
+didn't even like do anything she just
+
+1210
+00:45:24,760 --> 00:45:28,090
+walked by and went I really liked your
+
+1211
+00:45:26,410 --> 00:45:35,230
+YouTube videos and then just kept
+
+1212
+00:45:28,090 --> 00:45:39,340
+walking I was nice but yeah weird
+
+1213
+00:45:35,230 --> 00:45:40,630
+weirdest fan interactions I'm trying to
+
+1214
+00:45:39,340 --> 00:45:42,820
+think of like because I'm sure you have
+
+1215
+00:45:40,630 --> 00:45:44,860
+to be at a lot of conventions stuff like
+
+1216
+00:45:42,820 --> 00:45:49,210
+yeah well here's the thing about a tech
+
+1217
+00:45:44,860 --> 00:45:51,880
+audience is a lot of nerds like me don't
+
+1218
+00:45:49,210 --> 00:45:54,190
+go out too much or whatever so when we
+
+1219
+00:45:51,880 --> 00:45:57,310
+get to like a tech convention imagine
+
+1220
+00:45:54,190 --> 00:45:59,710
+filling a hall with all these people who
+
+1221
+00:45:57,310 --> 00:46:01,060
+like are used to being like just on the
+
+1222
+00:45:59,710 --> 00:46:04,570
+computer and now they're just sort of
+
+1223
+00:46:01,060 --> 00:46:06,190
+checking out tech so it's sort of a like
+
+1224
+00:46:04,570 --> 00:46:07,660
+everyone that comes up to me will have
+
+1225
+00:46:06,190 --> 00:46:09,190
+like a different way of trying to
+
+1226
+00:46:07,660 --> 00:46:11,620
+explain that they know who I am but it's
+
+1227
+00:46:09,190 --> 00:46:16,500
+usually pretty awkward it'll be either
+
+1228
+00:46:11,620 --> 00:46:19,240
+like oh my daughter knows who you are
+
+1229
+00:46:16,500 --> 00:46:20,530
+YouTube right or they'll like say 410
+
+1230
+00:46:19,240 --> 00:46:23,680
+they don't know I like I like the
+
+1231
+00:46:20,530 --> 00:46:24,640
+everyone says in the acronym wrong I was
+
+1232
+00:46:23,680 --> 00:46:26,500
+walking through the airport and someone
+
+1233
+00:46:24,640 --> 00:46:27,240
+said mkb D or something like they just
+
+1234
+00:46:26,500 --> 00:46:28,410
+said the
+
+1235
+00:46:27,240 --> 00:46:32,010
+letters and I was like yeah that's me
+
+1236
+00:46:28,410 --> 00:46:33,360
+not really but yeah everyone's got a
+
+1237
+00:46:32,010 --> 00:46:36,270
+different way I noticed stuff like just
+
+1238
+00:46:33,360 --> 00:46:38,490
+saying nothing too crazy nothing yeah
+
+1239
+00:46:36,270 --> 00:46:40,380
+nothing like no crazy I don't want to
+
+1240
+00:46:38,490 --> 00:46:42,030
+like jinx it but nothing like stalkerish
+
+1241
+00:46:40,380 --> 00:46:44,340
+or anything wild because your audience
+
+1242
+00:46:42,030 --> 00:46:49,380
+is a little more mature yeah they're all
+
+1243
+00:46:44,340 --> 00:46:52,619
+at home alright so we have a question
+
+1244
+00:46:49,380 --> 00:46:55,369
+here from three number three do you ever
+
+1245
+00:46:52,619 --> 00:46:59,250
+want to produce or create your own tech
+
+1246
+00:46:55,369 --> 00:47:01,440
+yeah that's a big challenge like a big
+
+1247
+00:46:59,250 --> 00:47:02,670
+undertaking I've thought about and this
+
+1248
+00:47:01,440 --> 00:47:04,200
+is come up before like why don't you
+
+1249
+00:47:02,670 --> 00:47:06,510
+make yeah so much to say about phones
+
+1250
+00:47:04,200 --> 00:47:09,950
+why don't you make your own phone it's
+
+1251
+00:47:06,510 --> 00:47:11,880
+like well okay you need you need like a
+
+1252
+00:47:09,950 --> 00:47:13,200
+manufacturing process you need to
+
+1253
+00:47:11,880 --> 00:47:14,220
+basically partner with an entire
+
+1254
+00:47:13,200 --> 00:47:16,260
+smartphone company
+
+1255
+00:47:14,220 --> 00:47:17,880
+the thing about partnering with a
+
+1256
+00:47:16,260 --> 00:47:20,280
+smartphone company when you have to
+
+1257
+00:47:17,880 --> 00:47:21,990
+objectively review smart phones is that
+
+1258
+00:47:20,280 --> 00:47:24,000
+compromises your relationship with at
+
+1259
+00:47:21,990 --> 00:47:28,590
+least that company's products forever if
+
+1260
+00:47:24,000 --> 00:47:31,050
+not the rest of those products so it
+
+1261
+00:47:28,590 --> 00:47:32,940
+seems like that might be like an end
+
+1262
+00:47:31,050 --> 00:47:34,770
+game like when I'm 50 I'd be like
+
+1263
+00:47:32,940 --> 00:47:36,000
+alright I'm done making videos I'm gonna
+
+1264
+00:47:34,770 --> 00:47:38,760
+make the perfect phone and I'm out of
+
+1265
+00:47:36,000 --> 00:47:42,390
+here or when your professional ultimate
+
+1266
+00:47:38,760 --> 00:47:45,150
+Blair yeah I'm your sponsor yeah by your
+
+1267
+00:47:42,390 --> 00:47:48,990
+own bone exactly and then the logos on
+
+1268
+00:47:45,150 --> 00:47:51,810
+the Jersey is perfect yeah
+
+1269
+00:47:48,990 --> 00:47:54,000
+what this is actually Mike my question I
+
+1270
+00:47:51,810 --> 00:47:58,380
+you know everybody knows that you are a
+
+1271
+00:47:54,000 --> 00:47:59,700
+fan of Tesla yeah you drive a Tesla what
+
+1272
+00:47:58,380 --> 00:48:01,560
+do you think about the future of Tesla
+
+1273
+00:47:59,700 --> 00:48:03,090
+and what their automobiles like where
+
+1274
+00:48:01,560 --> 00:48:03,750
+they're headed right now like do you
+
+1275
+00:48:03,090 --> 00:48:04,200
+think they're headed in the right
+
+1276
+00:48:03,750 --> 00:48:06,480
+direction
+
+1277
+00:48:04,200 --> 00:48:07,920
+yeah whenever I look at Tesla and I
+
+1278
+00:48:06,480 --> 00:48:09,720
+compare it to I try to stay objective
+
+1279
+00:48:07,920 --> 00:48:11,340
+like I'm obviously fan of Tesla but I
+
+1280
+00:48:09,720 --> 00:48:14,520
+look around at other electric cars and
+
+1281
+00:48:11,340 --> 00:48:17,340
+every time I look around Tesla is miles
+
+1282
+00:48:14,520 --> 00:48:20,670
+ahead in so many ways as far as electric
+
+1283
+00:48:17,340 --> 00:48:22,530
+cars and I think we're just now getting
+
+1284
+00:48:20,670 --> 00:48:24,690
+to the point where there is legitimate
+
+1285
+00:48:22,530 --> 00:48:26,940
+competition to a couple of their models
+
+1286
+00:48:24,690 --> 00:48:28,920
+the Porsche ty can seems like one of
+
+1287
+00:48:26,940 --> 00:48:30,720
+them but it's still more of a driver's
+
+1288
+00:48:28,920 --> 00:48:32,100
+car versus the everyday like the model 3
+
+1289
+00:48:30,720 --> 00:48:35,340
+when you're out here it's everywhere
+
+1290
+00:48:32,100 --> 00:48:38,150
+basically so they're kind of on a great
+
+1291
+00:48:35,340 --> 00:48:41,040
+path i I was talking to someone recently
+
+1292
+00:48:38,150 --> 00:48:43,460
+about a potentially unique way for
+
+1293
+00:48:41,040 --> 00:48:46,440
+to exist which is just for them to sell
+
+1294
+00:48:43,460 --> 00:48:48,690
+parts like they have the gigafactory
+
+1295
+00:48:46,440 --> 00:48:50,790
+and they have such great drivetrain
+
+1296
+00:48:48,690 --> 00:48:54,090
+technology they could sell electric
+
+1297
+00:48:50,790 --> 00:48:56,760
+drivetrains cell batteries and then kind
+
+1298
+00:48:54,090 --> 00:48:58,800
+of like Google just sell one car like a
+
+1299
+00:48:56,760 --> 00:49:00,330
+Model S and Model 3 but still the rest
+
+1300
+00:48:58,800 --> 00:49:01,860
+of those parts to make everyone else's
+
+1301
+00:49:00,330 --> 00:49:04,470
+electric cars better the way Google
+
+1302
+00:49:01,860 --> 00:49:06,360
+license is Android mm-hmm so there's an
+
+1303
+00:49:04,470 --> 00:49:09,150
+Android phone from Samsung from Motorola
+
+1304
+00:49:06,360 --> 00:49:11,100
+from Huawei from Xiaomi they can all use
+
+1305
+00:49:09,150 --> 00:49:13,350
+that to make their phone better so they
+
+1306
+00:49:11,100 --> 00:49:15,930
+don't have to build their own OS because
+
+1307
+00:49:13,350 --> 00:49:17,730
+right now Ford doesn't really make great
+
+1308
+00:49:15,930 --> 00:49:19,200
+electric drivetrain Toyota doesn't I
+
+1309
+00:49:17,730 --> 00:49:20,670
+mean I have a hybrid but they don't make
+
+1310
+00:49:19,200 --> 00:49:22,950
+their own great electric drivetrain so
+
+1311
+00:49:20,670 --> 00:49:24,600
+if they just partnered up with Tesla and
+
+1312
+00:49:22,950 --> 00:49:26,580
+use the supercharger network they'd
+
+1313
+00:49:24,600 --> 00:49:28,080
+already have a much better car so I was
+
+1314
+00:49:26,580 --> 00:49:29,130
+thinking about it in that unique way
+
+1315
+00:49:28,080 --> 00:49:31,650
+recently and I think that could be
+
+1316
+00:49:29,130 --> 00:49:34,190
+pretty cool but as it right now I just
+
+1317
+00:49:31,650 --> 00:49:34,190
+want the Roadster
+
+1318
+00:49:35,520 --> 00:49:41,040
+it's supposed to be 2020 but also for
+
+1319
+00:49:37,770 --> 00:49:43,590
+sure delete Oh all right next question
+
+1320
+00:49:41,040 --> 00:49:46,170
+here from Joseph Liu
+
+1321
+00:49:43,590 --> 00:49:55,230
+what does mobile tech look like in the
+
+1322
+00:49:46,170 --> 00:49:57,090
+future oh man if I knew I think also I
+
+1323
+00:49:55,230 --> 00:49:58,410
+struggle with being maybe a little bit
+
+1324
+00:49:57,090 --> 00:50:00,390
+short-sighted because people make these
+
+1325
+00:49:58,410 --> 00:50:02,270
+like crazy renders of like Oh it'll be a
+
+1326
+00:50:00,390 --> 00:50:05,130
+hologram that comes up out of your I
+
+1327
+00:50:02,270 --> 00:50:07,050
+don't know maybe I just think like we'll
+
+1328
+00:50:05,130 --> 00:50:08,880
+always have like ice and smartphones as
+
+1329
+00:50:07,050 --> 00:50:12,810
+just like this object that you like pick
+
+1330
+00:50:08,880 --> 00:50:14,250
+up use and put away and so on when we
+
+1331
+00:50:12,810 --> 00:50:15,900
+get these like wearables and like I just
+
+1332
+00:50:14,250 --> 00:50:17,130
+broke out Google glass again for like
+
+1333
+00:50:15,900 --> 00:50:18,990
+the first time in years and I'm like
+
+1334
+00:50:17,130 --> 00:50:20,370
+trying to understand like maybe VR is
+
+1335
+00:50:18,990 --> 00:50:23,550
+the future maybe AR
+
+1336
+00:50:20,370 --> 00:50:25,950
+but I don't quite see it yeah and I just
+
+1337
+00:50:23,550 --> 00:50:27,450
+I go back to like well if we can make
+
+1338
+00:50:25,950 --> 00:50:29,550
+phones better that'll be the future yeah
+
+1339
+00:50:27,450 --> 00:50:31,020
+so uh maybe I'm sure it's sighted but I
+
+1340
+00:50:29,550 --> 00:50:32,850
+feel like I just look at smart phones
+
+1341
+00:50:31,020 --> 00:50:33,360
+the smaller phones aren't going away not
+
+1342
+00:50:32,850 --> 00:50:35,880
+anytime soon
+
+1343
+00:50:33,360 --> 00:50:39,270
+mm-hmm yeah I have a question actually
+
+1344
+00:50:35,880 --> 00:50:42,390
+so yeah rewind we talked a little brief
+
+1345
+00:50:39,270 --> 00:50:45,780
+about it but I touched on that yeah and
+
+1346
+00:50:42,390 --> 00:50:47,940
+I feel like you kind of got thrown into
+
+1347
+00:50:45,780 --> 00:50:51,300
+it yeah hard because you were like that
+
+1348
+00:50:47,940 --> 00:50:54,320
+first big line sure yeah did you do you
+
+1349
+00:50:51,300 --> 00:50:56,300
+feel the brunt of the hate yeah you
+
+1350
+00:50:54,320 --> 00:50:58,130
+almost like a face of it that's why yeah
+
+1351
+00:50:56,300 --> 00:50:59,540
+I don't know if you know it was funny
+
+1352
+00:50:58,130 --> 00:51:01,760
+what on the face but he was one of the
+
+1353
+00:50:59,540 --> 00:51:04,130
+biggest yeah yeah yeah it it I I don't
+
+1354
+00:51:01,760 --> 00:51:06,050
+think I got that much hate for it
+
+1355
+00:51:04,130 --> 00:51:07,970
+I think the memes in the comments were
+
+1356
+00:51:06,050 --> 00:51:12,110
+relentless for like three months
+
+1357
+00:51:07,970 --> 00:51:13,730
+mmm-hmm but as far as my involvement in
+
+1358
+00:51:12,110 --> 00:51:16,040
+it like I kind of told my story and I
+
+1359
+00:51:13,730 --> 00:51:18,230
+made a video about it but like we all
+
+1360
+00:51:16,040 --> 00:51:20,240
+thought rewind was gonna be this
+
+1361
+00:51:18,230 --> 00:51:21,500
+different thing this year I don't know
+
+1362
+00:51:20,240 --> 00:51:23,660
+if you got like that email that was like
+
+1363
+00:51:21,500 --> 00:51:25,100
+this is the first year everyone's gonna
+
+1364
+00:51:23,660 --> 00:51:27,230
+feature creator voices and we've
+
+1365
+00:51:25,100 --> 00:51:29,750
+narrowed it down to 50 creators instead
+
+1366
+00:51:27,230 --> 00:51:31,340
+of 350 and I was like oh this is gonna
+
+1367
+00:51:29,750 --> 00:51:34,190
+be different and then we did this shoot
+
+1368
+00:51:31,340 --> 00:51:35,600
+and in the shoot the producers are all
+
+1369
+00:51:34,190 --> 00:51:37,520
+telling us the same stuff like it's
+
+1370
+00:51:35,600 --> 00:51:39,140
+gonna be great we did multiple takes of
+
+1371
+00:51:37,520 --> 00:51:40,400
+different lines everyone gets a close-up
+
+1372
+00:51:39,140 --> 00:51:42,320
+shot we're like wow this is different
+
+1373
+00:51:40,400 --> 00:51:44,110
+and then you watch the video like this
+
+1374
+00:51:42,320 --> 00:51:46,940
+is not different this is the same thing
+
+1375
+00:51:44,110 --> 00:51:49,120
+so yeah it was like I don't feel like I
+
+1376
+00:51:46,940 --> 00:51:52,100
+got thrown into it as much as I just I
+
+1377
+00:51:49,120 --> 00:51:53,690
+along with everyone else involved didn't
+
+1378
+00:51:52,100 --> 00:51:56,110
+have any control over the final product
+
+1379
+00:51:53,690 --> 00:51:59,180
+and it just kind of happened mm-hm
+
+1380
+00:51:56,110 --> 00:52:01,760
+hopefully this year is better if they
+
+1381
+00:51:59,180 --> 00:52:04,850
+even do a rewind this is sure they will
+
+1382
+00:52:01,760 --> 00:52:06,650
+think you're doing something yeah so
+
+1383
+00:52:04,850 --> 00:52:12,410
+there's another question here I'm from
+
+1384
+00:52:06,650 --> 00:52:14,330
+hot sure whoring your reviews are now
+
+1385
+00:52:12,410 --> 00:52:17,690
+quoted by the biggest companies in the
+
+1386
+00:52:14,330 --> 00:52:20,120
+world has that kind of pressure changed
+
+1387
+00:52:17,690 --> 00:52:21,890
+how you approach reviews in any way and
+
+1388
+00:52:20,120 --> 00:52:24,770
+it's it's I mean I would think that you
+
+1389
+00:52:21,890 --> 00:52:26,660
+know when you're making these reviews
+
+1390
+00:52:24,770 --> 00:52:28,850
+some of the biggest publications may
+
+1391
+00:52:26,660 --> 00:52:31,670
+also quote you right I mean do you feel
+
+1392
+00:52:28,850 --> 00:52:34,280
+that pressure or is it just just don't
+
+1393
+00:52:31,670 --> 00:52:38,300
+think about that at all uh at most I
+
+1394
+00:52:34,280 --> 00:52:40,220
+think maybe it might like make might
+
+1395
+00:52:38,300 --> 00:52:43,220
+tempt me to use more quotable language
+
+1396
+00:52:40,220 --> 00:52:44,930
+hmm but as far as like how I actually
+
+1397
+00:52:43,220 --> 00:52:47,690
+talk about the product I don't think it
+
+1398
+00:52:44,930 --> 00:52:49,850
+changes anything at all I think even
+
+1399
+00:52:47,690 --> 00:52:52,100
+since like the the beginning day is
+
+1400
+00:52:49,850 --> 00:52:53,480
+eight nine years ago I got a tell like
+
+1401
+00:52:52,100 --> 00:52:55,430
+it is like if a products bad I'm gonna
+
+1402
+00:52:53,480 --> 00:52:57,830
+tell you exactly why it's bad but the
+
+1403
+00:52:55,430 --> 00:52:59,570
+good thing about that is a company who
+
+1404
+00:52:57,830 --> 00:53:01,580
+makes that product when you put out a
+
+1405
+00:52:59,570 --> 00:53:03,950
+review and say something's bad like
+
+1406
+00:53:01,580 --> 00:53:06,560
+let's say the battery life for the
+
+1407
+00:53:03,950 --> 00:53:08,160
+camera or whatever it's bad the fact
+
+1408
+00:53:06,560 --> 00:53:11,160
+that I'm telling the truth about it
+
+1409
+00:53:08,160 --> 00:53:12,990
+helps them to either improve it they can
+
+1410
+00:53:11,160 --> 00:53:15,780
+do a software update or to make a better
+
+1411
+00:53:12,990 --> 00:53:18,060
+one the next time and if no one told
+
+1412
+00:53:15,780 --> 00:53:19,650
+them it was bad they kind of wouldn't
+
+1413
+00:53:18,060 --> 00:53:21,630
+know like they put out a product the
+
+1414
+00:53:19,650 --> 00:53:23,850
+best they can and hope for the best and
+
+1415
+00:53:21,630 --> 00:53:26,040
+turns out the battery's bad no one wants
+
+1416
+00:53:23,850 --> 00:53:27,150
+it good to know make the next one bigger
+
+1417
+00:53:26,040 --> 00:53:29,460
+battery but if they don't get this
+
+1418
+00:53:27,150 --> 00:53:32,940
+useful valuable feedback about why
+
+1419
+00:53:29,460 --> 00:53:36,690
+something's bad it won't help the
+
+1420
+00:53:32,940 --> 00:53:37,920
+consumer a good example of that was I'll
+
+1421
+00:53:36,690 --> 00:53:40,530
+go back to when I was in college I
+
+1422
+00:53:37,920 --> 00:53:42,180
+reviewed a Motorola phone and I'd worked
+
+1423
+00:53:40,530 --> 00:53:44,370
+with him a bunch and the phone came out
+
+1424
+00:53:42,180 --> 00:53:45,900
+and I reviewed it and I went to the the
+
+1425
+00:53:44,370 --> 00:53:47,280
+specs and I was talking about the camera
+
+1426
+00:53:45,900 --> 00:53:48,510
+about how like this is the worst part of
+
+1427
+00:53:47,280 --> 00:53:50,220
+the phone if they only made the camera
+
+1428
+00:53:48,510 --> 00:53:52,020
+better this would be a great phone and I
+
+1429
+00:53:50,220 --> 00:53:54,360
+showed all these example photos and I
+
+1430
+00:53:52,020 --> 00:53:56,220
+reached out and I sent them a bunch of
+
+1431
+00:53:54,360 --> 00:53:57,690
+sample images I was pointing at circling
+
+1432
+00:53:56,220 --> 00:53:59,460
+stuff in the videos like here's where
+
+1433
+00:53:57,690 --> 00:54:01,830
+the coherent Hertz here's where dynamic
+
+1434
+00:53:59,460 --> 00:54:03,380
+range would've been better and there was
+
+1435
+00:54:01,830 --> 00:54:06,150
+software update like within weeks
+
+1436
+00:54:03,380 --> 00:54:08,400
+specifically addressing what I had asked
+
+1437
+00:54:06,150 --> 00:54:09,750
+about and sure enough like months later
+
+1438
+00:54:08,400 --> 00:54:11,730
+people are talking about what this this
+
+1439
+00:54:09,750 --> 00:54:13,170
+phones cameras gotten better that's
+
+1440
+00:54:11,730 --> 00:54:14,340
+pretty good for them so that and I'm
+
+1441
+00:54:13,170 --> 00:54:16,440
+sure the next phone had a better camera
+
+1442
+00:54:14,340 --> 00:54:21,030
+too so thanks to you I think we all win
+
+1443
+00:54:16,440 --> 00:54:22,800
+yeah when reviewers do their job what so
+
+1444
+00:54:21,030 --> 00:54:26,250
+this is my personal question um what
+
+1445
+00:54:22,800 --> 00:54:29,880
+what was the most exciting review that
+
+1446
+00:54:26,250 --> 00:54:32,280
+you ever made what was the worst review
+
+1447
+00:54:29,880 --> 00:54:35,610
+that you felt pain to have to make this
+
+1448
+00:54:32,280 --> 00:54:39,630
+review okay and then yeah I guess those
+
+1449
+00:54:35,610 --> 00:54:41,880
+two okay exciting review I don't know if
+
+1450
+00:54:39,630 --> 00:54:43,680
+it even counts as a review but I got to
+
+1451
+00:54:41,880 --> 00:54:45,690
+make it I've started this autofocus
+
+1452
+00:54:43,680 --> 00:54:49,140
+video series pretty recently where we
+
+1453
+00:54:45,690 --> 00:54:55,290
+talk about car tech which lets me review
+
+1454
+00:54:49,140 --> 00:54:58,860
+cars we're like five six episodes in but
+
+1455
+00:54:55,290 --> 00:55:03,630
+I've already I was given a McLaren 720's
+
+1456
+00:54:58,860 --> 00:55:05,820
+for a week and easy we we shot it in
+
+1457
+00:55:03,630 --> 00:55:07,620
+like December and it was impossibly cold
+
+1458
+00:55:05,820 --> 00:55:09,630
+like every time we had to lean out a car
+
+1459
+00:55:07,620 --> 00:55:11,460
+window to get a shot it was like the
+
+1460
+00:55:09,630 --> 00:55:12,780
+camera would start to like freeze up and
+
+1461
+00:55:11,460 --> 00:55:14,760
+we'd have to take it back in like it was
+
+1462
+00:55:12,780 --> 00:55:16,920
+really hard to shoot but that was the
+
+1463
+00:55:14,760 --> 00:55:20,370
+most exciting product I think I've ever
+
+1464
+00:55:16,920 --> 00:55:22,140
+had damn you're upgrading man yeah
+
+1465
+00:55:20,370 --> 00:55:25,560
+they're like hey here's our car our new
+
+1466
+00:55:22,140 --> 00:55:27,620
+car the road out well that's every boxes
+
+1467
+00:55:25,560 --> 00:55:30,420
+it's already a thing there is already
+
+1468
+00:55:27,620 --> 00:55:32,180
+there's automotive journalists who kind
+
+1469
+00:55:30,420 --> 00:55:35,190
+of do this already they regularly
+
+1470
+00:55:32,180 --> 00:55:36,750
+receive cars to review and I know they
+
+1471
+00:55:35,190 --> 00:55:39,150
+have like press cars that like go around
+
+1472
+00:55:36,750 --> 00:55:40,530
+the country when I did the Tesla video
+
+1473
+00:55:39,150 --> 00:55:43,590
+that was a press car they don't do it
+
+1474
+00:55:40,530 --> 00:55:46,020
+very often but McLaren Toyota whoever
+
+1475
+00:55:43,590 --> 00:55:47,700
+they have a fleet of cars that they will
+
+1476
+00:55:46,020 --> 00:55:50,790
+give to press for a couple days and get
+
+1477
+00:55:47,700 --> 00:55:53,100
+take back so it's already a market that
+
+1478
+00:55:50,790 --> 00:55:54,630
+you can get into if you want I just had
+
+1479
+00:55:53,100 --> 00:55:56,370
+never done car videos and I don't know a
+
+1480
+00:55:54,630 --> 00:55:58,590
+lot about cars but as soon as I got my
+
+1481
+00:55:56,370 --> 00:56:00,870
+car I was like oh I love cars so I got
+
+1482
+00:55:58,590 --> 00:56:04,010
+started to get into that but yeah that's
+
+1483
+00:56:00,870 --> 00:56:08,280
+that was pretty exciting most painful
+
+1484
+00:56:04,010 --> 00:56:11,060
+yeah so the one that comes to mind was
+
+1485
+00:56:08,280 --> 00:56:12,930
+last year I reviewed the red hydrogen
+
+1486
+00:56:11,060 --> 00:56:16,320
+and I don't know if you heard about this
+
+1487
+00:56:12,930 --> 00:56:17,550
+what red makes great cameras and they've
+
+1488
+00:56:16,320 --> 00:56:20,960
+been in Hollywood they have the best
+
+1489
+00:56:17,550 --> 00:56:24,360
+color science I love my red cameras so
+
+1490
+00:56:20,960 --> 00:56:25,530
+red or last year about two years ago it
+
+1491
+00:56:24,360 --> 00:56:28,080
+started hyping that they're gonna make a
+
+1492
+00:56:25,530 --> 00:56:29,850
+smart phone oh that's gonna be a smart
+
+1493
+00:56:28,080 --> 00:56:31,650
+phone okay it's gonna have like the best
+
+1494
+00:56:29,850 --> 00:56:32,940
+camera in any phone right this is right
+
+1495
+00:56:31,650 --> 00:56:34,920
+around the time when smartphone cameras
+
+1496
+00:56:32,940 --> 00:56:36,150
+are getting really good Reds gonna get
+
+1497
+00:56:34,920 --> 00:56:37,500
+in the game they're gonna change the
+
+1498
+00:56:36,150 --> 00:56:40,110
+game all right I'm ready I'm ready for
+
+1499
+00:56:37,500 --> 00:56:42,150
+the red smartphone they were taking a
+
+1500
+00:56:40,110 --> 00:56:43,830
+while to make it there was all this hype
+
+1501
+00:56:42,150 --> 00:56:45,930
+building up and you could kind of tell
+
+1502
+00:56:43,830 --> 00:56:48,090
+that this was red not knowing how to
+
+1503
+00:56:45,930 --> 00:56:49,380
+make a phone really like every time I'd
+
+1504
+00:56:48,090 --> 00:56:51,030
+ask them for an update about it they'd
+
+1505
+00:56:49,380 --> 00:56:53,040
+be like oh we're we're doing carrier
+
+1506
+00:56:51,030 --> 00:56:54,150
+certifications so we're it's we're it's
+
+1507
+00:56:53,040 --> 00:56:55,440
+too late a little bit but it's gonna be
+
+1508
+00:56:54,150 --> 00:56:58,560
+great don't worry I was like I'm ready
+
+1509
+00:56:55,440 --> 00:57:01,380
+any time I'm ready and I made a video
+
+1510
+00:56:58,560 --> 00:57:03,060
+actually or they they gave me a world
+
+1511
+00:57:01,380 --> 00:57:04,590
+exclusive first look at like one of
+
+1512
+00:57:03,060 --> 00:57:06,440
+their first prototypes so people got
+
+1513
+00:57:04,590 --> 00:57:08,930
+what what the design would look like and
+
+1514
+00:57:06,440 --> 00:57:12,300
+so I'm everyone's ready for the phone
+
+1515
+00:57:08,930 --> 00:57:14,250
+super excited for it it finally comes
+
+1516
+00:57:12,300 --> 00:57:16,260
+out and when it comes out first of all
+
+1517
+00:57:14,250 --> 00:57:17,730
+the parts are so old because they've
+
+1518
+00:57:16,260 --> 00:57:20,610
+been working on it for two straight
+
+1519
+00:57:17,730 --> 00:57:23,520
+years it had like a two year old CPU the
+
+1520
+00:57:20,610 --> 00:57:26,370
+camera was an off-the-shelf Sony sensor
+
+1521
+00:57:23,520 --> 00:57:28,740
+with really not great photo quality
+
+1522
+00:57:26,370 --> 00:57:31,740
+didn't do high quality video which it's
+
+1523
+00:57:28,740 --> 00:57:33,160
+made by read/write of all headings that
+
+1524
+00:57:31,740 --> 00:57:35,019
+should be good exact
+
+1525
+00:57:33,160 --> 00:57:37,869
+it had a really big battery but like
+
+1526
+00:57:35,019 --> 00:57:40,359
+that it was a thick phone like it it had
+
+1527
+00:57:37,869 --> 00:57:42,160
+one of the worst screens of any phone
+
+1528
+00:57:40,359 --> 00:57:44,769
+where they were claiming it could do
+
+1529
+00:57:42,160 --> 00:57:46,869
+like 3d really well but if you turn the
+
+1530
+00:57:44,769 --> 00:57:49,329
+3d mode off the actual display was like
+
+1531
+00:57:46,869 --> 00:57:52,150
+not nice so all these things flopped
+
+1532
+00:57:49,329 --> 00:57:53,589
+fill hard on their faces and so my
+
+1533
+00:57:52,150 --> 00:57:57,339
+review of the phone was like I wanted
+
+1534
+00:57:53,589 --> 00:57:59,529
+this to be good so bad but it was a one
+
+1535
+00:57:57,339 --> 00:58:01,390
+Maya my I do smartphone worth at the end
+
+1536
+00:57:59,529 --> 00:58:06,039
+of every year it won my worst phone of
+
+1537
+00:58:01,390 --> 00:58:08,890
+the Year award I get a little there they
+
+1538
+00:58:06,039 --> 00:58:10,059
+did not ask for their trophy some of the
+
+1539
+00:58:08,890 --> 00:58:12,880
+other companies asked for them they did
+
+1540
+00:58:10,059 --> 00:58:14,890
+not want this yeah I mean I guess that
+
+1541
+00:58:12,880 --> 00:58:16,749
+shows I go with show you you're honest
+
+1542
+00:58:14,890 --> 00:58:18,640
+you know like I mean you love the brand
+
+1543
+00:58:16,749 --> 00:58:19,839
+but you had to be honest so exactly and
+
+1544
+00:58:18,640 --> 00:58:21,489
+I've been I went on and bought one of
+
+1545
+00:58:19,839 --> 00:58:29,079
+their cameras last week so okay that's
+
+1546
+00:58:21,489 --> 00:58:32,799
+just the love-hate relation we didn't
+
+1547
+00:58:29,079 --> 00:58:35,170
+ask good yeah awesome man anything you
+
+1548
+00:58:32,799 --> 00:58:36,970
+want plug right now uh check out my
+
+1549
+00:58:35,170 --> 00:58:41,019
+youtube channel youtube channel
+
+1550
+00:58:36,970 --> 00:58:42,970
+youtube.com slash mkbhd that's pretty
+
+1551
+00:58:41,019 --> 00:58:45,220
+much it yeah new series coming out check
+
+1552
+00:58:42,970 --> 00:58:47,739
+out his video where he uploads and
+
+1553
+00:58:45,220 --> 00:58:49,569
+downloads that video 200 times short
+
+1554
+00:58:47,739 --> 00:58:51,220
+short quick video yeah I just thought it
+
+1555
+00:58:49,569 --> 00:58:52,869
+was funny small project yeah I think I
+
+1556
+00:58:51,220 --> 00:58:55,690
+definitely you should do more of those I
+
+1557
+00:58:52,869 --> 00:58:56,349
+will I will definitely that was I wasn't
+
+1558
+00:58:55,690 --> 00:58:59,440
+expecting that
+
+1559
+00:58:56,349 --> 00:59:00,910
+yeah anyway you can find us at off the
+
+1560
+00:58:59,440 --> 00:59:03,130
+pill on twitter at off the pill podcast
+
+1561
+00:59:00,910 --> 00:59:04,930
+on instagram and i guess with that being
+
+1562
+00:59:03,130 --> 00:59:09,539
+said how we end this is we just breathe
+
+1563
+00:59:04,930 --> 00:59:09,539
+into the mic I'm ready to one
+
+1564
+00:59:12,279 --> 00:59:16,539
+we'll have to come to one of your
+
+1565
+00:59:13,970 --> 00:59:16,539
+frisbee games

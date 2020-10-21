@@ -1,0 +1,6019 @@
+1
+00:00:00,000 --> 00:00:04,230
+and the laws now are catching it exactly
+
+2
+00:00:02,250 --> 00:00:07,259
+this is why Bitcoin and crypto and
+
+3
+00:00:04,230 --> 00:00:09,150
+decentralization is the next wave it's
+
+4
+00:00:07,259 --> 00:00:10,620
+the most important evolution of the
+
+5
+00:00:09,150 --> 00:00:13,110
+internet and that was how we were able
+
+6
+00:00:10,620 --> 00:00:16,410
+to sell out of our bags and then grow it
+
+7
+00:00:13,110 --> 00:00:20,570
+to like 10,000 bags 30,000 and 50,000
+
+8
+00:00:16,410 --> 00:00:20,570
+100,000 and then grow up to a million
+
+9
+00:00:21,890 --> 00:00:33,360
+clap are we supposed to clap
+
+10
+00:00:30,330 --> 00:00:35,550
+simultaneously no it's just a thing we
+
+11
+00:00:33,360 --> 00:00:37,500
+do welcome back to another episode of
+
+12
+00:00:35,550 --> 00:00:38,820
+off the pill podcast we have a very
+
+13
+00:00:37,500 --> 00:00:40,739
+special edition as you can see
+
+14
+00:00:38,820 --> 00:00:43,079
+everything's very different this is our
+
+15
+00:00:40,739 --> 00:00:45,780
+first time being in LA where we're gonna
+
+16
+00:00:43,079 --> 00:00:48,870
+be we have another special guests miss
+
+17
+00:00:45,780 --> 00:00:51,739
+Michelle Phan and we have of course
+
+18
+00:00:48,870 --> 00:00:59,910
+david choi at the moderator seat and
+
+19
+00:00:51,739 --> 00:01:01,890
+Paco Leto right next to me see you're a
+
+20
+00:00:59,910 --> 00:01:03,660
+joke that's why everybody everybody's
+
+21
+00:01:01,890 --> 00:01:05,220
+laughing but yeah we have Michelle here
+
+22
+00:01:03,660 --> 00:01:08,610
+thank you for being here on our first
+
+23
+00:01:05,220 --> 00:01:11,400
+episode that's not quite ready yet I oh
+
+24
+00:01:08,610 --> 00:01:13,140
+thank you it's been um it's been a long
+
+25
+00:01:11,400 --> 00:01:15,450
+time for those of you that don't know
+
+26
+00:01:13,140 --> 00:01:18,150
+we've actually me you and David have
+
+27
+00:01:15,450 --> 00:01:20,840
+known each other since like I don't know
+
+28
+00:01:18,150 --> 00:01:23,280
+a long time ago ten years we're just old
+
+29
+00:01:20,840 --> 00:01:26,460
+youtubers like that's how people see us
+
+30
+00:01:23,280 --> 00:01:28,110
+now I know we're just old youtubers we
+
+31
+00:01:26,460 --> 00:01:29,520
+were at this is this is how dated we are
+
+32
+00:01:28,110 --> 00:01:33,420
+we were at the first VidCon
+
+33
+00:01:29,520 --> 00:01:39,180
+put it down there's five thousand was it
+
+34
+00:01:33,420 --> 00:01:41,490
+really just five thousand people no for
+
+35
+00:01:39,180 --> 00:01:44,399
+real haven't vaccin have you been back
+
+36
+00:01:41,490 --> 00:01:46,560
+since I went back a few years ago how
+
+37
+00:01:44,399 --> 00:01:49,520
+was it huh dude it's like a YouTube
+
+38
+00:01:46,560 --> 00:01:52,590
+heading zoo that's how I feel stupid
+
+39
+00:01:49,520 --> 00:01:54,540
+yeah well actually considering we were
+
+40
+00:01:52,590 --> 00:01:55,680
+considering of actually going back after
+
+41
+00:01:54,540 --> 00:01:58,130
+ten year because it's their 10-year
+
+42
+00:01:55,680 --> 00:02:00,360
+right 10 year reunion yeah we were
+
+43
+00:01:58,130 --> 00:02:03,450
+talking was already gonna go by himself
+
+44
+00:02:00,360 --> 00:02:04,740
+not with me or anything but David was
+
+45
+00:02:03,450 --> 00:02:08,160
+trying to convince me to go and I think
+
+46
+00:02:04,740 --> 00:02:12,030
+you as well I mean are you gonna go I'll
+
+47
+00:02:08,160 --> 00:02:15,800
+go you go you guys have tickets I mean
+
+48
+00:02:12,030 --> 00:02:18,540
+this comes out we win is VidCon it
+
+49
+00:02:15,800 --> 00:02:19,980
+should we just go it's been it's a
+
+50
+00:02:18,540 --> 00:02:21,870
+ten-year thing right and then we'll wait
+
+51
+00:02:19,980 --> 00:02:24,660
+another ten years I come back though
+
+52
+00:02:21,870 --> 00:02:25,380
+from New York on Friday so go on
+
+53
+00:02:24,660 --> 00:02:29,190
+Saturday
+
+54
+00:02:25,380 --> 00:02:32,040
+what does it start ten which is a
+
+55
+00:02:29,190 --> 00:02:34,500
+Tuesday I think oh maybe no Wednesday
+
+56
+00:02:32,040 --> 00:02:36,810
+Wednesday well okay okay so but we just
+
+57
+00:02:34,500 --> 00:02:38,520
+go in Friday then I can't come Friday
+
+58
+00:02:36,810 --> 00:02:40,740
+because I come back from New York on
+
+59
+00:02:38,520 --> 00:02:43,800
+Friday got it so we would have to go
+
+60
+00:02:40,740 --> 00:02:45,270
+Saturday okay I think about it are you
+
+61
+00:02:43,800 --> 00:02:46,830
+really gonna go though for real I'll go
+
+62
+00:02:45,270 --> 00:02:48,980
+if you go I don't want to go alone
+
+63
+00:02:46,830 --> 00:02:52,080
+let's go we'll be let's go together yeah
+
+64
+00:02:48,980 --> 00:02:55,890
+guys we're try and see if we can get you
+
+65
+00:02:52,080 --> 00:02:58,890
+in this carpool I got I got two spots in
+
+66
+00:02:55,890 --> 00:03:01,680
+my car well for people who don't know
+
+67
+00:02:58,890 --> 00:03:02,940
+Michelle is an OG youtuber it's not
+
+68
+00:03:01,680 --> 00:03:04,830
+don't take that as an insult people
+
+69
+00:03:02,940 --> 00:03:06,989
+refer to me as that as well I'm David
+
+70
+00:03:04,830 --> 00:03:08,310
+I'm obviously sniff dog is OG he is
+
+71
+00:03:06,989 --> 00:03:12,270
+there you go
+
+72
+00:03:08,310 --> 00:03:13,790
+and I guess you were I don't know if you
+
+73
+00:03:12,270 --> 00:03:16,530
+were the first but probably the biggest
+
+74
+00:03:13,790 --> 00:03:18,600
+makeup guru right and the for the first
+
+75
+00:03:16,530 --> 00:03:19,530
+and biggest makeup guru Phoebe I'm sorry
+
+76
+00:03:18,600 --> 00:03:21,330
+I keep touching the tea and we're not
+
+77
+00:03:19,530 --> 00:03:23,760
+used to having these mics so I got to
+
+78
+00:03:21,330 --> 00:03:25,980
+stop touching the table hitting it yeah
+
+79
+00:03:23,760 --> 00:03:29,970
+the biggest and one of the first makeup
+
+80
+00:03:25,980 --> 00:03:31,410
+gurus on YouTube pretty much right and
+
+81
+00:03:29,970 --> 00:03:35,150
+basically I don't know how do you how
+
+82
+00:03:31,410 --> 00:03:39,780
+did you even get started well it was in
+
+83
+00:03:35,150 --> 00:03:41,820
+2007 I got rejected from a job a beauty
+
+84
+00:03:39,780 --> 00:03:47,010
+counter I needed a job because I needed
+
+85
+00:03:41,820 --> 00:03:48,630
+to pay my bills and I applied and always
+
+86
+00:03:47,010 --> 00:03:50,280
+good but then because I lacked sales
+
+87
+00:03:48,630 --> 00:03:53,760
+experience they didn't hire me that's so
+
+88
+00:03:50,280 --> 00:03:56,510
+ironic well we can get into that because
+
+89
+00:03:53,760 --> 00:03:59,549
+you have your own company which is like
+
+90
+00:03:56,510 --> 00:04:01,920
+like hugely successful where's your cup
+
+91
+00:03:59,549 --> 00:04:03,360
+it's valued at almost a billion dollars
+
+92
+00:04:01,920 --> 00:04:05,280
+right it's crazy
+
+93
+00:04:03,360 --> 00:04:07,019
+oh yeah if see I left the company two
+
+94
+00:04:05,280 --> 00:04:08,459
+years ago though right but you still
+
+95
+00:04:07,019 --> 00:04:11,390
+built you still started that company
+
+96
+00:04:08,459 --> 00:04:13,200
+initially and that company is like
+
+97
+00:04:11,390 --> 00:04:16,109
+really up worth a billion dollars
+
+98
+00:04:13,200 --> 00:04:18,930
+they're doing great they sell three
+
+99
+00:04:16,109 --> 00:04:21,320
+million bags a month for $10 each it's a
+
+100
+00:04:18,930 --> 00:04:24,360
+subscription model so it's very scalable
+
+101
+00:04:21,320 --> 00:04:25,830
+and it's helped a lot of indie brands
+
+102
+00:04:24,360 --> 00:04:28,349
+punch and become vegan
+
+103
+00:04:25,830 --> 00:04:29,669
+we'll get acquired by the big trifecta
+
+104
+00:04:28,349 --> 00:04:32,159
+beauty brands like Procter gamble
+
+105
+00:04:29,669 --> 00:04:34,110
+L'Oreal how far into YouTube did you
+
+106
+00:04:32,159 --> 00:04:36,210
+start that actually it was when I
+
+107
+00:04:34,110 --> 00:04:38,219
+reached a million subscribers and I was
+
+108
+00:04:36,210 --> 00:04:40,080
+I don't want to brag though but just to
+
+109
+00:04:38,219 --> 00:04:42,750
+give people some context I was the first
+
+110
+00:04:40,080 --> 00:04:45,000
+woman to have a million subscribers and
+
+111
+00:04:42,750 --> 00:04:47,909
+that that milestone I knew okay this is
+
+112
+00:04:45,000 --> 00:04:50,849
+a good milestone to think about having
+
+113
+00:04:47,909 --> 00:04:51,960
+longevity because I knew it's the
+
+114
+00:04:50,849 --> 00:04:55,169
+Internet people have such a short
+
+115
+00:04:51,960 --> 00:04:56,849
+attention span that I'm not going to
+
+116
+00:04:55,169 --> 00:04:59,069
+last as long my popularity is not gonna
+
+117
+00:04:56,849 --> 00:05:00,719
+last as long so I need another stream of
+
+118
+00:04:59,069 --> 00:05:02,400
+revenue that's not based on my human
+
+119
+00:05:00,719 --> 00:05:04,530
+bandwidth because we made this
+
+120
+00:05:02,400 --> 00:05:06,090
+comparison about how being a youtuber is
+
+121
+00:05:04,530 --> 00:05:07,860
+like being an uber driver and your car
+
+122
+00:05:06,090 --> 00:05:09,240
+is your channel and you have to drive
+
+123
+00:05:07,860 --> 00:05:11,039
+your car if you want to make money and
+
+124
+00:05:09,240 --> 00:05:13,139
+with YouTube it's the same way where you
+
+125
+00:05:11,039 --> 00:05:15,180
+have to constantly upload and post and
+
+126
+00:05:13,139 --> 00:05:17,310
+even your doing this podcast you got to
+
+127
+00:05:15,180 --> 00:05:19,289
+keep it moving you're an uber driver I
+
+128
+00:05:17,310 --> 00:05:21,389
+know but it's funny cuz didn't you say
+
+129
+00:05:19,289 --> 00:05:24,689
+you wanted to come back into it don't
+
+130
+00:05:21,389 --> 00:05:26,430
+you miss it I do miss it I don't like
+
+131
+00:05:24,689 --> 00:05:28,620
+the politics though cuz within the
+
+132
+00:05:26,430 --> 00:05:30,060
+beauty of space well see you're not in
+
+133
+00:05:28,620 --> 00:05:32,099
+the beauty space so you don't really see
+
+134
+00:05:30,060 --> 00:05:33,840
+all the drama I know you don't want to
+
+135
+00:05:32,099 --> 00:05:35,419
+be dude there's so much drama in the
+
+136
+00:05:33,840 --> 00:05:40,469
+beauty space beautiful
+
+137
+00:05:35,419 --> 00:05:42,150
+go ahead alright so what do you mean the
+
+138
+00:05:40,469 --> 00:05:49,259
+politics let's get into the rarity get
+
+139
+00:05:42,150 --> 00:05:51,210
+into the drama version or okay call them
+
+140
+00:05:49,259 --> 00:05:55,589
+out nah man I only drink to you I don't
+
+141
+00:05:51,210 --> 00:05:57,089
+spill I have a sense of nobility where
+
+142
+00:05:55,589 --> 00:05:59,039
+I'm not that's just not my thing
+
+143
+00:05:57,089 --> 00:06:01,289
+sure it's like karma take care of it you
+
+144
+00:05:59,039 --> 00:06:01,979
+know and also there's always two sides
+
+145
+00:06:01,289 --> 00:06:04,259
+to the story
+
+146
+00:06:01,979 --> 00:06:06,990
+with everyone and you know most
+
+147
+00:06:04,259 --> 00:06:09,960
+youtubers even the ones who are kind of
+
+148
+00:06:06,990 --> 00:06:11,430
+like a little up a little they
+
+149
+00:06:09,960 --> 00:06:15,509
+don't have the worst intentions it's
+
+150
+00:06:11,430 --> 00:06:17,940
+true right they don't and I they're just
+
+151
+00:06:15,509 --> 00:06:21,150
+normal people in a way if people see
+
+152
+00:06:17,940 --> 00:06:22,979
+them as this grand grandiose Idol but
+
+153
+00:06:21,150 --> 00:06:25,770
+once the camera turns off they're just a
+
+154
+00:06:22,979 --> 00:06:28,889
+normal person and i i i do actually feel
+
+155
+00:06:25,770 --> 00:06:30,240
+bad for a lot of youtubers and beauty
+
+156
+00:06:28,889 --> 00:06:32,219
+creators who do get pulled into the
+
+157
+00:06:30,240 --> 00:06:33,839
+drama and it has become hollywood or
+
+158
+00:06:32,219 --> 00:06:37,500
+especially within the beauty space
+
+159
+00:06:33,839 --> 00:06:38,729
+because there's so much money in it and
+
+160
+00:06:37,500 --> 00:06:41,219
+where there's money there's
+
+161
+00:06:38,729 --> 00:06:44,400
+a lot of people who are going in and who
+
+162
+00:06:41,219 --> 00:06:45,870
+want to be part of this economy I feel
+
+163
+00:06:44,400 --> 00:06:49,080
+like you're tiptoeing around something
+
+164
+00:06:45,870 --> 00:06:50,339
+like is there no I mean in the beauty
+
+165
+00:06:49,080 --> 00:06:51,839
+space you're saying there's a lot of
+
+166
+00:06:50,339 --> 00:06:53,219
+politics like give me an example of what
+
+167
+00:06:51,839 --> 00:06:56,659
+that means
+
+168
+00:06:53,219 --> 00:07:00,509
+politics like a lot of these brands will
+
+169
+00:06:56,659 --> 00:07:01,770
+pay - for sponsorships and so if there's
+
+170
+00:07:00,509 --> 00:07:03,659
+a product that's not good
+
+171
+00:07:01,770 --> 00:07:05,610
+a beauty creator will still say it's
+
+172
+00:07:03,659 --> 00:07:07,409
+good even though everyone knows it's not
+
+173
+00:07:05,610 --> 00:07:09,389
+good I like just selling out yeah
+
+174
+00:07:07,409 --> 00:07:10,800
+selling out so that's one ask well
+
+175
+00:07:09,389 --> 00:07:13,860
+you're luckily you don't have to do that
+
+176
+00:07:10,800 --> 00:07:16,889
+right don't but I got lucky
+
+177
+00:07:13,860 --> 00:07:19,319
+see I got it early and at that time in
+
+178
+00:07:16,889 --> 00:07:21,659
+2008 so this was right when the economy
+
+179
+00:07:19,319 --> 00:07:23,819
+crashed and I was sixteen thousand
+
+180
+00:07:21,659 --> 00:07:25,499
+dollars in debt no one was hiring I
+
+181
+00:07:23,819 --> 00:07:27,629
+didn't know what to do then I saw
+
+182
+00:07:25,499 --> 00:07:31,080
+YouTube had Adsense and they just rolled
+
+183
+00:07:27,629 --> 00:07:32,879
+out the partners program mm-hmm
+
+184
+00:07:31,080 --> 00:07:34,649
+and I figured wait I can make money
+
+185
+00:07:32,879 --> 00:07:36,330
+making these YouTube videos that I was
+
+186
+00:07:34,649 --> 00:07:37,529
+doing for free anyways hell yeah I'm
+
+187
+00:07:36,330 --> 00:07:39,180
+gonna do this so you were actually doing
+
+188
+00:07:37,529 --> 00:07:42,300
+before the partner program way before
+
+189
+00:07:39,180 --> 00:07:43,349
+okay what under what time what date did
+
+190
+00:07:42,300 --> 00:07:43,770
+you like what year did you actually
+
+191
+00:07:43,349 --> 00:07:47,039
+start
+
+192
+00:07:43,770 --> 00:07:48,629
+I started in May 2007 oh wow that's like
+
+193
+00:07:47,039 --> 00:07:51,209
+same as me really yeah
+
+194
+00:07:48,629 --> 00:07:53,999
+what June I think or July did all seven
+
+195
+00:07:51,209 --> 00:07:55,370
+you're bored too huh yeah just for fun
+
+196
+00:07:53,999 --> 00:07:58,709
+that was in Hawaii there's nothing to do
+
+197
+00:07:55,370 --> 00:08:00,240
+David was actually before David's ogee
+
+198
+00:07:58,709 --> 00:08:04,499
+for oh geez what are your two thousand
+
+199
+00:08:00,240 --> 00:08:08,069
+six five right no no no not five 2006
+
+200
+00:08:04,499 --> 00:08:10,080
+Dan yeah bro you're late dinah so I have
+
+201
+00:08:08,069 --> 00:08:11,969
+I have a Joss I have a different account
+
+202
+00:08:10,080 --> 00:08:14,639
+that I was posting before David Troy
+
+203
+00:08:11,969 --> 00:08:19,409
+leak excuse I'm not gonna announce I
+
+204
+00:08:14,639 --> 00:08:21,629
+know okay well I mean sit like you said
+
+205
+00:08:19,409 --> 00:08:24,029
+you want to get back into it I was not
+
+206
+00:08:21,629 --> 00:08:25,860
+just telling you like I just randomly
+
+207
+00:08:24,029 --> 00:08:27,300
+and I haven't because you haven't really
+
+208
+00:08:25,860 --> 00:08:29,699
+been posting anything before in the past
+
+209
+00:08:27,300 --> 00:08:32,729
+life in two years yeah so I haven't like
+
+210
+00:08:29,699 --> 00:08:34,919
+clicked on anything on your channel and
+
+211
+00:08:32,729 --> 00:08:36,659
+randomly I just saw recently that your
+
+212
+00:08:34,919 --> 00:08:38,880
+your channel was suggested to me and it
+
+213
+00:08:36,659 --> 00:08:40,440
+was live yeah and I clicked on expecting
+
+214
+00:08:38,880 --> 00:08:42,449
+to see you and there was just like this
+
+215
+00:08:40,440 --> 00:08:44,010
+animation and just music playing and is
+
+216
+00:08:42,449 --> 00:08:45,660
+that that's what you're gonna be using
+
+217
+00:08:44,010 --> 00:08:47,010
+your channel for more or you're trying
+
+218
+00:08:45,660 --> 00:08:48,899
+to do something that's kind of like my
+
+219
+00:08:47,010 --> 00:08:50,760
+first it's like when you go to a party
+
+220
+00:08:48,899 --> 00:08:52,240
+and you just people who come in early
+
+221
+00:08:50,760 --> 00:08:54,100
+they can just enjoy the music
+
+222
+00:08:52,240 --> 00:08:55,750
+got it just setting the tone the
+
+223
+00:08:54,100 --> 00:08:57,550
+atmosphere it's really interesting that
+
+224
+00:08:55,750 --> 00:09:00,279
+you're using your channel in that way
+
+225
+00:08:57,550 --> 00:09:02,770
+yeah I mean you have those you know
+
+226
+00:09:00,279 --> 00:09:05,560
+those live streaming channels right yeah
+
+227
+00:09:02,770 --> 00:09:07,870
+the music ones I always had them years
+
+228
+00:09:05,560 --> 00:09:09,580
+ago playing in the background and people
+
+229
+00:09:07,870 --> 00:09:11,200
+actually loved watching my videos back
+
+230
+00:09:09,580 --> 00:09:13,980
+then because of my music that I
+
+231
+00:09:11,200 --> 00:09:17,020
+recommended mm-hmm and I have this
+
+232
+00:09:13,980 --> 00:09:19,149
+peer-to-peer marketplace I have this
+
+233
+00:09:17,020 --> 00:09:21,760
+peer-to-peer marketplace called thematic
+
+234
+00:09:19,149 --> 00:09:24,250
+where we help music creators and
+
+235
+00:09:21,760 --> 00:09:26,260
+creators link up and collaborate because
+
+236
+00:09:24,250 --> 00:09:28,660
+you know how hard it is to get music
+
+237
+00:09:26,260 --> 00:09:31,450
+rights and takedowns are mm-hmm
+
+238
+00:09:28,660 --> 00:09:33,790
+takedowns happen a lot and with article
+
+239
+00:09:31,450 --> 00:09:35,410
+13 and article 17 in the EU it's going
+
+240
+00:09:33,790 --> 00:09:37,660
+to become harder and harder and YouTube
+
+241
+00:09:35,410 --> 00:09:38,920
+now they're liable or anything copyright
+
+242
+00:09:37,660 --> 00:09:41,040
+it and so they don't want to be liable
+
+243
+00:09:38,920 --> 00:09:43,810
+for that so we have a lot of these
+
+244
+00:09:41,040 --> 00:09:46,510
+pre-cleared songs from actual music
+
+245
+00:09:43,810 --> 00:09:48,220
+artists for creators to use and so
+
+246
+00:09:46,510 --> 00:09:50,830
+that's a company that I founded because
+
+247
+00:09:48,220 --> 00:09:54,070
+I was sued years ago by a music label
+
+248
+00:09:50,830 --> 00:09:56,440
+and unfairly it was so unfair but it's
+
+249
+00:09:54,070 --> 00:09:58,450
+it's not even like there was no one's
+
+250
+00:09:56,440 --> 00:10:00,399
+fault there was a miscommunication along
+
+251
+00:09:58,450 --> 00:10:02,380
+the way like I have no hate or mmm-hmm
+
+252
+00:10:00,399 --> 00:10:04,089
+anything towards that music label what
+
+253
+00:10:02,380 --> 00:10:06,850
+happened with that lawsuit oh I just
+
+254
+00:10:04,089 --> 00:10:08,589
+settled it oh right I remember when that
+
+255
+00:10:06,850 --> 00:10:10,089
+was happening I was just like well
+
+256
+00:10:08,589 --> 00:10:12,399
+they're gonna I guess I could were kind
+
+257
+00:10:10,089 --> 00:10:14,560
+of big at the time too like that's what
+
+258
+00:10:12,399 --> 00:10:16,420
+you're a target yeah because I was
+
+259
+00:10:14,560 --> 00:10:17,470
+always like oh I thought we were safe
+
+260
+00:10:16,420 --> 00:10:19,930
+right cuz I thought were just
+
+261
+00:10:17,470 --> 00:10:22,120
+individuals who had like a big business
+
+262
+00:10:19,930 --> 00:10:24,250
+and well this is what happens that not
+
+263
+00:10:22,120 --> 00:10:26,470
+just me but even I'm not gonna say who
+
+264
+00:10:24,250 --> 00:10:27,520
+which youtuber this is cuz I don't know
+
+265
+00:10:26,470 --> 00:10:29,320
+if she wants me to say anything but
+
+266
+00:10:27,520 --> 00:10:32,230
+she's a big youtuber and she was in the
+
+267
+00:10:29,320 --> 00:10:33,700
+car just saying a lyric from a song just
+
+268
+00:10:32,230 --> 00:10:37,839
+saying it out loud like twinkle twinkle
+
+269
+00:10:33,700 --> 00:10:40,329
+little star and she got claimed to they
+
+270
+00:10:37,839 --> 00:10:43,360
+actually they actually hire people to
+
+271
+00:10:40,329 --> 00:10:46,930
+scour all the top youtubers so it's
+
+272
+00:10:43,360 --> 00:10:48,370
+sickening honestly there's one I one of
+
+273
+00:10:46,930 --> 00:10:51,130
+my biggest videos it's called proving
+
+274
+00:10:48,370 --> 00:10:52,899
+the Illuminati is real and the whole
+
+275
+00:10:51,130 --> 00:10:54,160
+video it got claimed I'm not gonna say
+
+276
+00:10:52,899 --> 00:10:57,390
+the lyric because they're gonna claim
+
+277
+00:10:54,160 --> 00:11:03,790
+this but in the end card of the video
+
+278
+00:10:57,390 --> 00:11:06,390
+what I rhyme with take me sup okay okay
+
+279
+00:11:03,790 --> 00:11:08,800
+something Lolo
+
+280
+00:11:06,390 --> 00:11:11,050
+something and I'm probably still gonna
+
+281
+00:11:08,800 --> 00:11:13,570
+get you know you know what song it is
+
+282
+00:11:11,050 --> 00:11:15,340
+but I said that in the endcard because I
+
+283
+00:11:13,570 --> 00:11:18,270
+was saying like wake up America right
+
+284
+00:11:15,340 --> 00:11:18,270
+wait
+
+285
+00:11:19,090 --> 00:11:22,090
+and then they claim the whole video and
+
+286
+00:11:20,410 --> 00:11:23,500
+there's nothing I can do about it and
+
+287
+00:11:22,090 --> 00:11:25,870
+that videos nothing to do with that it's
+
+288
+00:11:23,500 --> 00:11:28,240
+in the end card of the video I know what
+
+289
+00:11:25,870 --> 00:11:29,620
+you mean but that's that's how it is
+
+290
+00:11:28,240 --> 00:11:32,620
+that's it but that's why you created
+
+291
+00:11:29,620 --> 00:11:34,210
+sematic yeah but that wasn't even this I
+
+292
+00:11:32,620 --> 00:11:37,690
+wasn't using the song I just said the
+
+293
+00:11:34,210 --> 00:11:39,340
+lyric of it this is the sad part about I
+
+294
+00:11:37,690 --> 00:11:41,320
+mean the whole point of capitalism is
+
+295
+00:11:39,340 --> 00:11:43,210
+you're giving people have a chance to
+
+296
+00:11:41,320 --> 00:11:46,210
+build a business to build their capital
+
+297
+00:11:43,210 --> 00:11:47,920
+right they have a great product or they
+
+298
+00:11:46,210 --> 00:11:50,980
+have a great service that they can
+
+299
+00:11:47,920 --> 00:11:53,830
+provide competing against another and
+
+300
+00:11:50,980 --> 00:11:56,260
+it's better they can win it's it's that
+
+301
+00:11:53,830 --> 00:11:58,960
+opportunity that America gives to people
+
+302
+00:11:56,260 --> 00:12:01,420
+and I feel like when you have these big
+
+303
+00:11:58,960 --> 00:12:02,890
+lobbies whether it's like in the beauty
+
+304
+00:12:01,420 --> 00:12:04,870
+space or in the music space like the
+
+305
+00:12:02,890 --> 00:12:06,910
+ones who own everything they just make
+
+306
+00:12:04,870 --> 00:12:09,430
+it so unfair and harder for the smaller
+
+307
+00:12:06,910 --> 00:12:10,780
+people to win like they tell us like
+
+308
+00:12:09,430 --> 00:12:12,220
+yeah if you work really hard you have a
+
+309
+00:12:10,780 --> 00:12:13,990
+great idea you're gonna win that's
+
+310
+00:12:12,220 --> 00:12:15,550
+ you're not unless you have 20
+
+311
+00:12:13,990 --> 00:12:17,410
+lawyers and this is why Disney is so
+
+312
+00:12:15,550 --> 00:12:19,810
+well protected even though most of the
+
+313
+00:12:17,410 --> 00:12:21,760
+movies that they create are stolen like
+
+314
+00:12:19,810 --> 00:12:24,040
+all of the fairy tales I mean that's
+
+315
+00:12:21,760 --> 00:12:25,780
+these are fables that weren't owned by
+
+316
+00:12:24,040 --> 00:12:28,560
+anyone yeah you know what I mean
+
+317
+00:12:25,780 --> 00:12:30,790
+I mean I hundred percent understand and
+
+318
+00:12:28,560 --> 00:12:34,030
+that really just reminds me of like
+
+319
+00:12:30,790 --> 00:12:36,160
+making this drink has been such it just
+
+320
+00:12:34,030 --> 00:12:37,750
+opened my eyes I thought like okay I'm
+
+321
+00:12:36,160 --> 00:12:39,220
+just sorry I keep picking them out I'm
+
+322
+00:12:37,750 --> 00:12:40,450
+not used to having things that thing on
+
+323
+00:12:39,220 --> 00:12:42,190
+the table so I'm making noise so I
+
+324
+00:12:40,450 --> 00:12:48,000
+apologize for the listeners and viewers
+
+325
+00:12:42,190 --> 00:12:50,200
+okay okay but just like getting
+
+326
+00:12:48,000 --> 00:12:52,360
+approvals for things takes so much
+
+327
+00:12:50,200 --> 00:12:53,620
+longer and you don't realize that you
+
+328
+00:12:52,360 --> 00:12:55,300
+have to go through all these different
+
+329
+00:12:53,620 --> 00:12:56,890
+I'm just being really careful what I'm
+
+330
+00:12:55,300 --> 00:12:58,210
+saying cuz I don't know I don't want get
+
+331
+00:12:56,890 --> 00:13:00,640
+in trouble
+
+332
+00:12:58,210 --> 00:13:01,540
+I'm saw a politics politics that's why
+
+333
+00:13:00,640 --> 00:13:04,930
+I'm seeing the whole point of the
+
+334
+00:13:01,540 --> 00:13:06,760
+Internet yeah was it's it was this way
+
+335
+00:13:04,930 --> 00:13:08,890
+for everyone in the world to connect to
+
+336
+00:13:06,760 --> 00:13:10,000
+share ideas you could choose what they
+
+337
+00:13:08,890 --> 00:13:12,370
+want to watch and what they want to get
+
+338
+00:13:10,000 --> 00:13:14,500
+into yeah and the laws now are catching
+
+339
+00:13:12,370 --> 00:13:17,050
+it exactly this is why Bitcoin and
+
+340
+00:13:14,500 --> 00:13:18,529
+crypto and decentralization is the next
+
+341
+00:13:17,050 --> 00:13:21,350
+wave mm-hmm it's the
+
+342
+00:13:18,529 --> 00:13:22,550
+important evolution of the Internet yeah
+
+343
+00:13:21,350 --> 00:13:24,439
+you're really I noticed that you're
+
+344
+00:13:22,550 --> 00:13:26,209
+really into crypto and and that you know
+
+345
+00:13:24,439 --> 00:13:28,910
+you're very forward-thinking in
+
+346
+00:13:26,209 --> 00:13:31,040
+technology like what what about Bitcoin
+
+347
+00:13:28,910 --> 00:13:31,670
+are you like why do you believe in it so
+
+348
+00:13:31,040 --> 00:13:33,499
+much
+
+349
+00:13:31,670 --> 00:13:36,470
+well not everybody understands what it
+
+350
+00:13:33,499 --> 00:13:40,309
+is first off right it kind of boy sure
+
+351
+00:13:36,470 --> 00:13:42,110
+um well that's a big statement it's
+
+352
+00:13:40,309 --> 00:13:44,089
+because there's some so many different
+
+353
+00:13:42,110 --> 00:13:46,459
+components of what bitcoin is but if I
+
+354
+00:13:44,089 --> 00:13:51,709
+were to give an elevator pitch what is
+
+355
+00:13:46,459 --> 00:13:53,749
+Bitcoin Bitcoin is the the true money
+
+356
+00:13:51,709 --> 00:13:55,430
+the truth truest money that we should
+
+357
+00:13:53,749 --> 00:13:59,089
+have had since the beginning of time and
+
+358
+00:13:55,430 --> 00:14:02,449
+just to give some just just to make this
+
+359
+00:13:59,089 --> 00:14:04,670
+easier to digest um why is gold why was
+
+360
+00:14:02,449 --> 00:14:07,550
+gold always considered the standard for
+
+361
+00:14:04,670 --> 00:14:10,009
+money even during like the ancient days
+
+362
+00:14:07,550 --> 00:14:13,309
+in Egypt Mesopotamia why was it always
+
+363
+00:14:10,009 --> 00:14:14,779
+gold because gold one its finite so the
+
+364
+00:14:13,309 --> 00:14:17,120
+fact that you can't find it everywhere
+
+365
+00:14:14,779 --> 00:14:23,750
+two out of all the precious metals it is
+
+366
+00:14:17,120 --> 00:14:25,639
+the most stable metal and three it's
+
+367
+00:14:23,750 --> 00:14:27,470
+hard like it takes a lot of energy to
+
+368
+00:14:25,639 --> 00:14:29,990
+mine gold like you can figure out you
+
+369
+00:14:27,470 --> 00:14:32,959
+can even have scanners and scan for gold
+
+370
+00:14:29,990 --> 00:14:35,029
+but to pay for the labor to pay for the
+
+371
+00:14:32,959 --> 00:14:37,040
+cost of like the digging and the lit and
+
+372
+00:14:35,029 --> 00:14:38,930
+all the people feeding them and just to
+
+373
+00:14:37,040 --> 00:14:40,550
+get a little bit that's why it's so
+
+374
+00:14:38,930 --> 00:14:44,120
+expensive because it takes a lot of
+
+375
+00:14:40,550 --> 00:14:47,480
+energy to mine gold and it's finite so
+
+376
+00:14:44,120 --> 00:14:50,389
+now bringing it to Bitcoin Bitcoin
+
+377
+00:14:47,480 --> 00:14:52,220
+operates in the same way bitcoin is like
+
+378
+00:14:50,389 --> 00:14:54,110
+digital gold but it's different it's not
+
+379
+00:14:52,220 --> 00:14:56,209
+gold because gold you can carry it
+
+380
+00:14:54,110 --> 00:14:58,129
+intangible but Bitcoin it's digital
+
+381
+00:14:56,209 --> 00:15:00,170
+um but the fact that it's a scarce
+
+382
+00:14:58,129 --> 00:15:01,730
+digital asset is what makes it so unique
+
+383
+00:15:00,170 --> 00:15:04,209
+how is it scarce
+
+384
+00:15:01,730 --> 00:15:06,620
+there's only twenty-one million coins in
+
+385
+00:15:04,209 --> 00:15:08,870
+existence that's it there's never gonna
+
+386
+00:15:06,620 --> 00:15:10,399
+be more coins it's not like our money
+
+387
+00:15:08,870 --> 00:15:12,529
+the banks can just print more money
+
+388
+00:15:10,399 --> 00:15:13,879
+right they want to and they do it
+
+389
+00:15:12,529 --> 00:15:16,279
+without our permission not make more
+
+390
+00:15:13,879 --> 00:15:17,600
+Bitcoin you can't it is impossible that
+
+391
+00:15:16,279 --> 00:15:20,689
+is it there's only twenty-one million
+
+392
+00:15:17,600 --> 00:15:24,709
+units and we've Bitcoin has the white
+
+393
+00:15:20,689 --> 00:15:26,149
+paper started in 2008 Satoshi created
+
+394
+00:15:24,709 --> 00:15:29,420
+this white paper and no one even knows
+
+395
+00:15:26,149 --> 00:15:31,250
+who suck no she is um it was an
+
+396
+00:15:29,420 --> 00:15:33,270
+anonymous person who came up with this
+
+397
+00:15:31,250 --> 00:15:35,220
+thesis what is Bitcoin
+
+398
+00:15:33,270 --> 00:15:36,690
+it's essentially a currency that's not
+
+399
+00:15:35,220 --> 00:15:38,580
+built on trust because if you look at
+
+400
+00:15:36,690 --> 00:15:40,950
+the back of your dollar it says In God
+
+401
+00:15:38,580 --> 00:15:44,130
+We Trust telling us trust in this dollar
+
+402
+00:15:40,950 --> 00:15:47,580
+it's money it's it's it's a real money
+
+403
+00:15:44,130 --> 00:15:49,830
+it's a it's a legal tender but can I go
+
+404
+00:15:47,580 --> 00:15:51,870
+into Fort Knox to count all the gold no
+
+405
+00:15:49,830 --> 00:15:53,460
+but with Bitcoin you can you can verify
+
+406
+00:15:51,870 --> 00:15:55,740
+everything everything's time-stamped
+
+407
+00:15:53,460 --> 00:15:56,850
+there's verification and so you have a
+
+408
+00:15:55,740 --> 00:15:58,440
+currency that's not built on trust
+
+409
+00:15:56,850 --> 00:16:00,870
+because people don't trust anyone
+
+410
+00:15:58,440 --> 00:16:03,480
+anymore you trust but verify and this is
+
+411
+00:16:00,870 --> 00:16:07,890
+what bitcoin brings to the table so um
+
+412
+00:16:03,480 --> 00:16:12,720
+since 2008 we've mined up to I believe
+
+413
+00:16:07,890 --> 00:16:15,330
+17 million Bitcoin units and six million
+
+414
+00:16:12,720 --> 00:16:18,120
+four million of them are lost meaning
+
+415
+00:16:15,330 --> 00:16:20,010
+four million Bitcoin people lost their
+
+416
+00:16:18,120 --> 00:16:20,670
+private keys which means we will never
+
+417
+00:16:20,010 --> 00:16:23,640
+see it again
+
+418
+00:16:20,670 --> 00:16:25,890
+it's impossible to retrieve it um and so
+
+419
+00:16:23,640 --> 00:16:28,380
+that even that drove the scarcity even
+
+420
+00:16:25,890 --> 00:16:30,630
+more it's even more scarce when you say
+
+421
+00:16:28,380 --> 00:16:31,620
+you mind I'm just because I really don't
+
+422
+00:16:30,630 --> 00:16:35,310
+know I'm not trying to like break it
+
+423
+00:16:31,620 --> 00:16:37,620
+down to me easy you mind a Bitcoin what
+
+424
+00:16:35,310 --> 00:16:40,620
+does that entail exactly it entails it's
+
+425
+00:16:37,620 --> 00:16:42,780
+essentially - mine - mine a Bitcoin you
+
+426
+00:16:40,620 --> 00:16:44,280
+need to have a computer you could have
+
+427
+00:16:42,780 --> 00:16:45,540
+had a normal computer back then it would
+
+428
+00:16:44,280 --> 00:16:47,400
+have been easier to mine but today you
+
+429
+00:16:45,540 --> 00:16:49,590
+need a lot of computers a lot of energy
+
+430
+00:16:47,400 --> 00:16:51,870
+because it's solving very hard math
+
+431
+00:16:49,590 --> 00:16:53,790
+questions and I think we've just reached
+
+432
+00:16:51,870 --> 00:16:56,010
+a halving point which means now it's
+
+433
+00:16:53,790 --> 00:16:57,660
+gonna be even harder to solve these math
+
+434
+00:16:56,010 --> 00:16:59,640
+questions it becomes exponentially
+
+435
+00:16:57,660 --> 00:17:02,430
+harder and they say the last few hundred
+
+436
+00:16:59,640 --> 00:17:04,830
+bitcoins will take several years and the
+
+437
+00:17:02,430 --> 00:17:09,210
+last one will probably probably be mined
+
+438
+00:17:04,830 --> 00:17:11,340
+by 21:40 21:40 will be the last Bitcoin
+
+439
+00:17:09,210 --> 00:17:13,140
+they say theoretically speaking if we
+
+440
+00:17:11,340 --> 00:17:15,240
+haven't come up with if we haven't
+
+441
+00:17:13,140 --> 00:17:16,590
+advanced into quantum computing yet well
+
+442
+00:17:15,240 --> 00:17:18,360
+it will take another hundred years by
+
+443
+00:17:16,590 --> 00:17:21,450
+solving these these math equations
+
+444
+00:17:18,360 --> 00:17:23,610
+though what that's kind of like what are
+
+445
+00:17:21,450 --> 00:17:28,650
+you getting from them just a number or
+
+446
+00:17:23,610 --> 00:17:30,330
+like what are you getting exactly what
+
+447
+00:17:28,650 --> 00:17:32,130
+is a Bitcoin like if you're solving
+
+448
+00:17:30,330 --> 00:17:33,930
+these if you're solving these I'm trying
+
+449
+00:17:32,130 --> 00:17:36,240
+to think of something like I'm picturing
+
+450
+00:17:33,930 --> 00:17:37,470
+a coin okay actual Bitcoin right or what
+
+451
+00:17:36,240 --> 00:17:39,390
+they think they're local the cool thing
+
+452
+00:17:37,470 --> 00:17:42,420
+about a bit Queen is you can buy them in
+
+453
+00:17:39,390 --> 00:17:43,620
+decimals meaning that you can buy them
+
+454
+00:17:42,420 --> 00:17:45,480
+in fractions you don't have to buy a
+
+455
+00:17:43,620 --> 00:17:46,440
+whole Bitcoin you can buy half of a
+
+456
+00:17:45,480 --> 00:17:48,480
+Bitcoin
+
+457
+00:17:46,440 --> 00:17:50,910
+one-tenth of a Bitcoin it'll called
+
+458
+00:17:48,480 --> 00:17:53,850
+Satoshi's by uh Satoshi and they say in
+
+459
+00:17:50,910 --> 00:17:56,370
+the future so one Bitcoin is a hundred
+
+460
+00:17:53,850 --> 00:17:58,050
+thousand satoshis it's like pennies it's
+
+461
+00:17:56,370 --> 00:17:59,640
+like having a hundred pennies equals one
+
+462
+00:17:58,050 --> 00:18:02,460
+dollar so a hundred thousand satoshis
+
+463
+00:17:59,640 --> 00:18:05,370
+equals one Bitcoin they say the one
+
+464
+00:18:02,460 --> 00:18:07,500
+Satoshi in the future would be worth ten
+
+465
+00:18:05,370 --> 00:18:08,610
+dollars so imagine what a full Bitcoin
+
+466
+00:18:07,500 --> 00:18:10,620
+will be worth I mean some have even
+
+467
+00:18:08,610 --> 00:18:12,900
+speculated this is the craziest number a
+
+468
+00:18:10,620 --> 00:18:15,660
+million for one one Bitcoin in the
+
+469
+00:18:12,900 --> 00:18:18,150
+future so you're saying there's 21
+
+470
+00:18:15,660 --> 00:18:20,460
+million and that's a cap right that's it
+
+471
+00:18:18,150 --> 00:18:22,950
+right it's finite who decided or is it
+
+472
+00:18:20,460 --> 00:18:24,840
+that's how she decided okay so it is a
+
+473
+00:18:22,950 --> 00:18:25,380
+construct of somebody the protocol yes
+
+474
+00:18:24,840 --> 00:18:31,710
+right
+
+475
+00:18:25,380 --> 00:18:33,450
+but he's said of intelligent agencies we
+
+476
+00:18:31,710 --> 00:18:35,790
+don't know who's to say that that person
+
+477
+00:18:33,450 --> 00:18:37,880
+right could just be like alright here's
+
+478
+00:18:35,790 --> 00:18:40,860
+more you can't it's just impossible
+
+479
+00:18:37,880 --> 00:18:43,260
+because the moment you don't follow the
+
+480
+00:18:40,860 --> 00:18:48,690
+protocol and then bitcoins worthless
+
+481
+00:18:43,260 --> 00:18:50,130
+right well I mean if it does happen then
+
+482
+00:18:48,690 --> 00:18:51,750
+bitcoins worthless but it's not gonna
+
+483
+00:18:50,130 --> 00:18:53,580
+happen because because you have people
+
+484
+00:18:51,750 --> 00:18:56,490
+who verify you have miners who are
+
+485
+00:18:53,580 --> 00:18:58,380
+verifying it who are making sure they're
+
+486
+00:18:56,490 --> 00:19:00,030
+mining it and everyone can verify it
+
+487
+00:18:58,380 --> 00:19:01,860
+like I said it's open-source those
+
+488
+00:19:00,030 --> 00:19:03,750
+Ledger's there's timestamps like you
+
+489
+00:19:01,860 --> 00:19:06,270
+can't it's actually impossible right but
+
+490
+00:19:03,750 --> 00:19:07,500
+like like how you said gold is a finite
+
+491
+00:19:06,270 --> 00:19:09,150
+thing right it's something you can hold
+
+492
+00:19:07,500 --> 00:19:13,080
+it's there it'll always be there
+
+493
+00:19:09,150 --> 00:19:15,870
+physically and like the the US dollar it
+
+494
+00:19:13,080 --> 00:19:17,820
+has value we all verify has value right
+
+495
+00:19:15,870 --> 00:19:22,740
+but it could instantly become worthless
+
+496
+00:19:17,820 --> 00:19:25,440
+right we've given it right week we gave
+
+497
+00:19:22,740 --> 00:19:27,720
+it value after around the Vietnam War
+
+498
+00:19:25,440 --> 00:19:30,600
+when actually it was actually the
+
+499
+00:19:27,720 --> 00:19:32,490
+Vietnam War when the dollar went off of
+
+500
+00:19:30,600 --> 00:19:34,170
+the gold standard so originally we were
+
+501
+00:19:32,490 --> 00:19:36,360
+on the gold standard and became less and
+
+502
+00:19:34,170 --> 00:19:38,100
+less and less and the Vietnam War
+
+503
+00:19:36,360 --> 00:19:39,930
+happened and that was when we became off
+
+504
+00:19:38,100 --> 00:19:41,340
+the gold standard that was when they
+
+505
+00:19:39,930 --> 00:19:43,260
+started to sign treaties with Saudi
+
+506
+00:19:41,340 --> 00:19:46,320
+Arabia to back up our dollar by
+
+507
+00:19:43,260 --> 00:19:49,470
+petroleum that's why you have the petro
+
+508
+00:19:46,320 --> 00:19:51,870
+dollar and again politics comes into
+
+509
+00:19:49,470 --> 00:19:54,390
+place in all of this um and the beauty
+
+510
+00:19:51,870 --> 00:19:55,830
+with Bitcoin is no one owns it like with
+
+511
+00:19:54,390 --> 00:19:57,180
+the dollar the Federal Reserve owns a
+
+512
+00:19:55,830 --> 00:19:58,620
+dollar but if you look at who is the
+
+513
+00:19:57,180 --> 00:20:00,010
+Federal Reserve it's not the people it's
+
+514
+00:19:58,620 --> 00:20:01,780
+private banks
+
+515
+00:20:00,010 --> 00:20:03,820
+right the bitcoins owned by no one
+
+516
+00:20:01,780 --> 00:20:05,559
+mm-hmm even the banks the banks could
+
+517
+00:20:03,820 --> 00:20:06,610
+buy half of all the Bitcoin and that's
+
+518
+00:20:05,559 --> 00:20:08,080
+actually what a lot of them aren't
+
+519
+00:20:06,610 --> 00:20:09,970
+looking into buying because they're
+
+520
+00:20:08,080 --> 00:20:12,280
+realizing wait we can't stop this we
+
+521
+00:20:09,970 --> 00:20:14,440
+should buy some because in the future it
+
+522
+00:20:12,280 --> 00:20:16,570
+might I mean there's theories but some
+
+523
+00:20:14,440 --> 00:20:18,670
+people say in the future some countries
+
+524
+00:20:16,570 --> 00:20:19,960
+might even buy a ton of Bitcoin and
+
+525
+00:20:18,670 --> 00:20:21,570
+their money is backed up by their
+
+526
+00:20:19,960 --> 00:20:23,710
+Bitcoin their Bitcoin reserve
+
+527
+00:20:21,570 --> 00:20:26,230
+interesting so you're buying a digital
+
+528
+00:20:23,710 --> 00:20:28,000
+land yeah like you're buying digital
+
+529
+00:20:26,230 --> 00:20:30,250
+real estate you know how real estate is
+
+530
+00:20:28,000 --> 00:20:32,320
+expensive because land is very finite
+
+531
+00:20:30,250 --> 00:20:34,360
+young that's essentially what they coin
+
+532
+00:20:32,320 --> 00:20:36,429
+is but the thing is with real estate and
+
+533
+00:20:34,360 --> 00:20:37,870
+like with gold you can physically like
+
+534
+00:20:36,429 --> 00:20:39,700
+that you can't just that won't no one
+
+535
+00:20:37,870 --> 00:20:41,260
+can take that away from you right I mean
+
+536
+00:20:39,700 --> 00:20:43,900
+unless they physically take it away from
+
+537
+00:20:41,260 --> 00:20:47,380
+you right with Bitcoin I just feel like
+
+538
+00:20:43,900 --> 00:20:50,500
+how do you know it could like if you
+
+539
+00:20:47,380 --> 00:20:53,230
+could you show me right now if your
+
+540
+00:20:50,500 --> 00:20:54,640
+bitcoins yeah I mean like I'm trying to
+
+541
+00:20:53,230 --> 00:20:56,950
+say how do you know it's not gonna
+
+542
+00:20:54,640 --> 00:20:58,960
+disappear based on like someone or
+
+543
+00:20:56,950 --> 00:21:00,160
+somebody else in the future well just
+
+544
+00:20:58,960 --> 00:21:02,290
+make sure you have your private keys
+
+545
+00:21:00,160 --> 00:21:05,350
+make sure you have your private keys and
+
+546
+00:21:02,290 --> 00:21:06,640
+an offline wallet in cold storage just
+
+547
+00:21:05,350 --> 00:21:08,830
+like you're not gonna have your your
+
+548
+00:21:06,640 --> 00:21:10,240
+gold on your table you're gonna have it
+
+549
+00:21:08,830 --> 00:21:12,160
+buried in the backyard you're gonna have
+
+550
+00:21:10,240 --> 00:21:14,320
+it and it is safe you know in a 10 hour
+
+551
+00:21:12,160 --> 00:21:16,000
+fireproof safe but you're not going to
+
+552
+00:21:14,320 --> 00:21:17,200
+take your gold and and like chip off a
+
+553
+00:21:16,000 --> 00:21:19,030
+little bit and go to Starbucks really
+
+554
+00:21:17,200 --> 00:21:19,600
+hey can I buy like no they're not gonna
+
+555
+00:21:19,030 --> 00:21:22,210
+do that
+
+556
+00:21:19,600 --> 00:21:23,920
+it's Bitcoin is not a lot of people
+
+557
+00:21:22,210 --> 00:21:25,990
+think well I'm not am I gonna buy things
+
+558
+00:21:23,920 --> 00:21:28,000
+with Bitcoin not necessarily there could
+
+559
+00:21:25,990 --> 00:21:30,670
+be future crypto currencies that are
+
+560
+00:21:28,000 --> 00:21:33,880
+backed up by Bitcoin but Bitcoin is the
+
+561
+00:21:30,670 --> 00:21:36,160
+reserve Bitcoin like gold protects your
+
+562
+00:21:33,880 --> 00:21:38,230
+purchasing power when the banks fail if
+
+563
+00:21:36,160 --> 00:21:39,880
+you have gold you're still good you can
+
+564
+00:21:38,230 --> 00:21:41,890
+still buy bread if you need to right
+
+565
+00:21:39,880 --> 00:21:43,900
+that's that this is how Bitcoin helps
+
+566
+00:21:41,890 --> 00:21:45,190
+people or something happens to the bank
+
+567
+00:21:43,900 --> 00:21:47,230
+something happens to earn money there's
+
+568
+00:21:45,190 --> 00:21:48,760
+a war you still have your private keys
+
+569
+00:21:47,230 --> 00:21:51,940
+and you can still protect your
+
+570
+00:21:48,760 --> 00:21:54,150
+purchasing power mm-hmm okay cuz I was
+
+571
+00:21:51,940 --> 00:21:56,620
+just trying to think like bear like
+
+572
+00:21:54,150 --> 00:21:59,230
+technology goes away right like it's
+
+573
+00:21:56,620 --> 00:22:00,850
+it's a apocalypse right Gold still has
+
+574
+00:21:59,230 --> 00:22:02,800
+value because you can use sure but you
+
+575
+00:22:00,850 --> 00:22:04,210
+know when when technology goes away the
+
+576
+00:22:02,800 --> 00:22:05,920
+last thing we're gonna care about is
+
+577
+00:22:04,210 --> 00:22:07,720
+we're gonna try and make fire we're
+
+578
+00:22:05,920 --> 00:22:09,250
+gonna try any exactly gold still has
+
+579
+00:22:07,720 --> 00:22:11,320
+value right because it's a metal because
+
+580
+00:22:09,250 --> 00:22:13,750
+it is finite you can melt it
+
+581
+00:22:11,320 --> 00:22:15,430
+examine it yes then we go to the true
+
+582
+00:22:13,750 --> 00:22:17,350
+gold standard but do you see us going
+
+583
+00:22:15,430 --> 00:22:18,970
+away from the digital I'm just saying
+
+584
+00:22:17,350 --> 00:22:20,200
+I'm just trying to I'm not saying I'm
+
+585
+00:22:18,970 --> 00:22:21,760
+just going to picture in my head because
+
+586
+00:22:20,200 --> 00:22:24,490
+I'm trying to figure out what Bitcoin
+
+587
+00:22:21,760 --> 00:22:26,560
+really is I never I always understood it
+
+588
+00:22:24,490 --> 00:22:28,600
+I just don't know why they've done tests
+
+589
+00:22:26,560 --> 00:22:31,540
+now I think like an appalled or
+
+590
+00:22:28,600 --> 00:22:33,790
+somewhere else where you can still send
+
+591
+00:22:31,540 --> 00:22:35,950
+Bitcoin is someone without fast internet
+
+592
+00:22:33,790 --> 00:22:37,540
+mm-hmm it's just gonna take a longer
+
+593
+00:22:35,950 --> 00:22:41,020
+time but you can still send it without
+
+594
+00:22:37,540 --> 00:22:47,770
+the internet Wow so how much Bitcoin do
+
+595
+00:22:41,020 --> 00:22:49,600
+you have is you know like here in
+
+596
+00:22:47,770 --> 00:22:50,860
+America or the Western world I don't
+
+597
+00:22:49,600 --> 00:22:52,420
+wanna say America but just in their
+
+598
+00:22:50,860 --> 00:22:53,770
+Western world the culture is everyone's
+
+599
+00:22:52,420 --> 00:22:55,270
+trying to flaunt through wealth like you
+
+600
+00:22:53,770 --> 00:22:56,890
+want to be on the front cover of Forbes
+
+601
+00:22:55,270 --> 00:22:58,480
+like yeah I'm rich well but then that
+
+602
+00:22:56,890 --> 00:22:59,530
+turns you into a target you know
+
+603
+00:22:58,480 --> 00:23:01,480
+interesting is I was reading an article
+
+604
+00:22:59,530 --> 00:23:03,490
+about in China a lot of the wealthy
+
+605
+00:23:01,480 --> 00:23:06,460
+people in China will pay money to these
+
+606
+00:23:03,490 --> 00:23:08,080
+magazines not just to tell it to put
+
+607
+00:23:06,460 --> 00:23:10,090
+them on the list because they want to
+
+608
+00:23:08,080 --> 00:23:11,710
+protect they want to be low-key about it
+
+609
+00:23:10,090 --> 00:23:13,630
+because they know they're gonna become a
+
+610
+00:23:11,710 --> 00:23:14,980
+target I mean I became a target that's
+
+611
+00:23:13,630 --> 00:23:16,240
+all yeah yeah that's what happened
+
+612
+00:23:14,980 --> 00:23:17,800
+that's why I've been just staying
+
+613
+00:23:16,240 --> 00:23:19,630
+low-key so the same with Bitcoin is
+
+614
+00:23:17,800 --> 00:23:20,680
+don't tell people you're a Bitcoin
+
+615
+00:23:19,630 --> 00:23:22,930
+billionaire you know you're gonna
+
+616
+00:23:20,680 --> 00:23:23,440
+attackers coming at you good thing we're
+
+617
+00:23:22,930 --> 00:23:26,140
+broke
+
+618
+00:23:23,440 --> 00:23:37,030
+we're so broke I'm no Bitcoin I have
+
+619
+00:23:26,140 --> 00:23:39,220
+seven okay sorry I was I didn't mean to
+
+620
+00:23:37,030 --> 00:23:41,710
+stay on that I just like I got it was
+
+621
+00:23:39,220 --> 00:23:42,940
+really trying to figure out what I never
+
+622
+00:23:41,710 --> 00:23:44,740
+knew I never understood it it's
+
+623
+00:23:42,940 --> 00:23:47,380
+fascinating it is it is a little
+
+624
+00:23:44,740 --> 00:23:49,630
+interesting only thing I know about
+
+625
+00:23:47,380 --> 00:23:50,890
+Bitcoin is that's why I like graphic
+
+626
+00:23:49,630 --> 00:23:54,700
+cards are getting expensive for
+
+627
+00:23:50,890 --> 00:23:58,150
+computers yeah it's harder to like pay
+
+628
+00:23:54,700 --> 00:24:00,880
+for the Facebook one I know it's not the
+
+629
+00:23:58,150 --> 00:24:03,130
+same thing but is that it's okay so the
+
+630
+00:24:00,880 --> 00:24:05,200
+Facebook Libre queen think of it like
+
+631
+00:24:03,130 --> 00:24:06,670
+Facebook is an arcade and you go in and
+
+632
+00:24:05,200 --> 00:24:08,800
+you exchange your dollar into the
+
+633
+00:24:06,670 --> 00:24:10,990
+quarters and that's what so you can only
+
+634
+00:24:08,800 --> 00:24:11,980
+use it within their ecosystem oh so
+
+635
+00:24:10,990 --> 00:24:13,450
+that's different then it's totally
+
+636
+00:24:11,980 --> 00:24:15,760
+different it's not the same it's not a
+
+637
+00:24:13,450 --> 00:24:17,680
+competitor I would I wouldn't even say
+
+638
+00:24:15,760 --> 00:24:20,140
+its competitor it could be one day
+
+639
+00:24:17,680 --> 00:24:22,150
+no because Bitcoin again it's finite
+
+640
+00:24:20,140 --> 00:24:24,310
+what about bitcoins competitors there's
+
+641
+00:24:22,150 --> 00:24:25,480
+other versions yeah but they're not
+
+642
+00:24:24,310 --> 00:24:27,040
+competitors they
+
+643
+00:24:25,480 --> 00:24:29,169
+offer different things util it like
+
+644
+00:24:27,040 --> 00:24:31,150
+their utility coins like aetherium they
+
+645
+00:24:29,169 --> 00:24:32,320
+offer different rings and some of them
+
+646
+00:24:31,150 --> 00:24:33,669
+will say like yeah we're faster than
+
+647
+00:24:32,320 --> 00:24:35,860
+Bitcoin we're better but it's like no
+
+648
+00:24:33,669 --> 00:24:37,090
+Bitcoin there's a reason why bitcoin is
+
+649
+00:24:35,860 --> 00:24:39,160
+at all right now
+
+650
+00:24:37,090 --> 00:24:42,299
+let's see how much it's at I know at one
+
+651
+00:24:39,160 --> 00:24:45,460
+point I think it was at 20 for a while
+
+652
+00:24:42,299 --> 00:24:46,990
+they say soon it's gonna go up to 30
+
+653
+00:24:45,460 --> 00:24:48,820
+thousand since are you recommending for
+
+654
+00:24:46,990 --> 00:24:51,280
+us so should we put in the title
+
+655
+00:24:48,820 --> 00:24:52,990
+why michelle phan says to buy bitcoin
+
+656
+00:24:51,280 --> 00:24:54,790
+now and then if they're sell their
+
+657
+00:24:52,990 --> 00:24:56,799
+things go up Bitcoin is at eleven
+
+658
+00:24:54,790 --> 00:24:58,630
+thousand eight hundred but it might go
+
+659
+00:24:56,799 --> 00:25:00,340
+down to nine thousand and migrate on a
+
+660
+00:24:58,630 --> 00:25:01,870
+three thousand if it does then you start
+
+661
+00:25:00,340 --> 00:25:03,970
+buying if it goes down to three thousand
+
+662
+00:25:01,870 --> 00:25:05,740
+because that's ridiculous really
+
+663
+00:25:03,970 --> 00:25:08,530
+but I tell people don't like stock
+
+664
+00:25:05,740 --> 00:25:11,190
+spaces it's not stocks well it's not but
+
+665
+00:25:08,530 --> 00:25:13,780
+it's not stocks like it's not even it's
+
+666
+00:25:11,190 --> 00:25:16,000
+gold isn't a stock Gold is a reserve
+
+667
+00:25:13,780 --> 00:25:19,540
+like she really think bitcoin is like
+
+668
+00:25:16,000 --> 00:25:21,880
+gold i think bitcoin is digital gold
+
+669
+00:25:19,540 --> 00:25:25,120
+digital gold real estate because it's
+
+670
+00:25:21,880 --> 00:25:27,220
+finite and it follows a protocol it's
+
+671
+00:25:25,120 --> 00:25:28,929
+all about following the protocol and for
+
+672
+00:25:27,220 --> 00:25:30,790
+over ten years it hasn't slipped it
+
+673
+00:25:28,929 --> 00:25:34,600
+hasn't even steered an inch away from
+
+674
+00:25:30,790 --> 00:25:37,450
+the protocol it's so when would you I
+
+675
+00:25:34,600 --> 00:25:40,030
+mean like you got in early hmm when
+
+676
+00:25:37,450 --> 00:25:43,299
+would you at what point do you yourself
+
+677
+00:25:40,030 --> 00:25:45,220
+decide I want to sell it okay so there's
+
+678
+00:25:43,299 --> 00:25:48,010
+different so you know I'm gonna have to
+
+679
+00:25:45,220 --> 00:25:50,830
+sell it you could buy a house with
+
+680
+00:25:48,010 --> 00:25:52,360
+Bitcoin I've seen a video and you know
+
+681
+00:25:50,830 --> 00:25:54,309
+the cool thing is you don't have to deal
+
+682
+00:25:52,360 --> 00:25:56,620
+with taxes or anything cuz it's at
+
+683
+00:25:54,309 --> 00:25:59,679
+illegal no one that's legal like no one
+
+684
+00:25:56,620 --> 00:26:02,980
+owns it's not government regulated I see
+
+685
+00:25:59,679 --> 00:26:05,500
+it's not and in a way we have the
+
+686
+00:26:02,980 --> 00:26:07,059
+internet we should have had a money that
+
+687
+00:26:05,500 --> 00:26:08,200
+went we should have had a currency that
+
+688
+00:26:07,059 --> 00:26:10,059
+went with the internet but we have in
+
+689
+00:26:08,200 --> 00:26:11,980
+everything's been tied to banks like
+
+690
+00:26:10,059 --> 00:26:14,530
+doing it so I was reading about how
+
+691
+00:26:11,980 --> 00:26:15,460
+there is 400 million dollars a Bitcoin
+
+692
+00:26:14,530 --> 00:26:17,559
+that was moved
+
+693
+00:26:15,460 --> 00:26:19,860
+guess how much the transaction fee was
+
+694
+00:26:17,559 --> 00:26:23,679
+four hundred million dollars just guess
+
+695
+00:26:19,860 --> 00:26:26,500
+Wow yeah with two dollars yeah exactly -
+
+696
+00:26:23,679 --> 00:26:29,260
+I'm a genius I know about Bitcoin but
+
+697
+00:26:26,500 --> 00:26:31,090
+you know in Zimbabwe they have a crazy
+
+698
+00:26:29,260 --> 00:26:33,909
+currency out there like I think they
+
+699
+00:26:31,090 --> 00:26:35,740
+have a note that's 100 trillion dollars
+
+700
+00:26:33,909 --> 00:26:37,630
+they have one note that's a hundred
+
+701
+00:26:35,740 --> 00:26:38,620
+trillion guess how much it's worth in
+
+702
+00:26:37,630 --> 00:26:43,320
+u.s.
+
+703
+00:26:38,620 --> 00:26:46,090
+I have no idea two dollars forty cents
+
+704
+00:26:43,320 --> 00:26:48,850
+but locally I think two days ago locally
+
+705
+00:26:46,090 --> 00:26:51,720
+in Zimbabwe Bitcoin was at seventy two
+
+706
+00:26:48,850 --> 00:26:54,850
+thousand dollars locally oh really yeah
+
+707
+00:26:51,720 --> 00:26:56,950
+that's crazy it dude like this is just
+
+708
+00:26:54,850 --> 00:26:57,909
+the beginning everyone so slept on it
+
+709
+00:26:56,950 --> 00:27:00,730
+I've been telling people for years
+
+710
+00:26:57,909 --> 00:27:03,460
+Bitcoin it's the future
+
+711
+00:27:00,730 --> 00:27:05,230
+well the hype sure died down because it
+
+712
+00:27:03,460 --> 00:27:07,269
+was at like 20-something when everybody
+
+713
+00:27:05,230 --> 00:27:08,590
+was buying Yeah right and I thought well
+
+714
+00:27:07,269 --> 00:27:12,940
+when it's down that's when you buy you
+
+715
+00:27:08,590 --> 00:27:15,820
+guys Warren Buffett did with stocks
+
+716
+00:27:12,940 --> 00:27:18,580
+yeah but Warren Buffett said um Bitcoin
+
+717
+00:27:15,820 --> 00:27:19,809
+is rat poison and now he's kind of
+
+718
+00:27:18,580 --> 00:27:21,190
+eating his words and he's talking to
+
+719
+00:27:19,809 --> 00:27:25,659
+crypto people oh really
+
+720
+00:27:21,190 --> 00:27:27,429
+yeah interesting okay well that went
+
+721
+00:27:25,659 --> 00:27:30,749
+down around I did not know I'm just like
+
+722
+00:27:27,429 --> 00:27:30,749
+alright well how do we do this though
+
+723
+00:27:31,860 --> 00:27:35,590
+like negative things around it though
+
+724
+00:27:34,240 --> 00:27:38,879
+like I mean whether it's true or not
+
+725
+00:27:35,590 --> 00:27:40,899
+well so was YouTube in the beginning
+
+726
+00:27:38,879 --> 00:27:42,850
+well you can make money on YouTube
+
+727
+00:27:40,899 --> 00:27:45,340
+that's so dumb yeah and the content -
+
+728
+00:27:42,850 --> 00:27:47,049
+they're talking about some parts you
+
+729
+00:27:45,340 --> 00:27:48,700
+can't argue there was a lot of dumb
+
+730
+00:27:47,049 --> 00:27:50,590
+stuff they're still dumb stuff but it
+
+731
+00:27:48,700 --> 00:27:53,320
+makes money there's people watch TV yeah
+
+732
+00:27:50,590 --> 00:27:55,779
+that's true - yeah well I'm talking like
+
+733
+00:27:53,320 --> 00:27:58,600
+current YouTube dumb stuff oh yeah
+
+734
+00:27:55,779 --> 00:28:00,279
+clickbait oh yeah everyone's there was
+
+735
+00:27:58,600 --> 00:28:03,669
+pick me before - though that's true but
+
+736
+00:28:00,279 --> 00:28:05,980
+I feel like now algorithm on YouTube has
+
+737
+00:28:03,669 --> 00:28:07,269
+become like a up god everyone's
+
+738
+00:28:05,980 --> 00:28:09,070
+trying to please and everyone's trying
+
+739
+00:28:07,269 --> 00:28:10,869
+to chase after and get and understand
+
+740
+00:28:09,070 --> 00:28:13,330
+and they're trying to optimize their
+
+741
+00:28:10,869 --> 00:28:16,179
+content to favor the algorithm there's
+
+742
+00:28:13,330 --> 00:28:17,619
+literal groups of youtubers I'm not
+
+743
+00:28:16,179 --> 00:28:19,809
+gonna say who but there's groups that
+
+744
+00:28:17,619 --> 00:28:22,090
+talk about this and this they tell each
+
+745
+00:28:19,809 --> 00:28:24,279
+other do you know about this anyone
+
+746
+00:28:22,090 --> 00:28:28,779
+there's a there's a discord channel it
+
+747
+00:28:24,279 --> 00:28:30,549
+will analyze the algorithm like on a
+
+748
+00:28:28,779 --> 00:28:32,110
+daily basis it's pretty pretty intense
+
+749
+00:28:30,549 --> 00:28:34,450
+to get oh can you send me that channel
+
+750
+00:28:32,110 --> 00:28:37,409
+yeah I just like to read it yep it's
+
+751
+00:28:34,450 --> 00:28:40,529
+interesting it is interesting but it I
+
+752
+00:28:37,409 --> 00:28:43,570
+it's hard to keep up with the changes I
+
+753
+00:28:40,529 --> 00:28:45,039
+would say that it never ends yeah never
+
+754
+00:28:43,570 --> 00:28:47,320
+ends they don't have to tell us either
+
+755
+00:28:45,039 --> 00:28:51,010
+you know so
+
+756
+00:28:47,320 --> 00:28:54,070
+Yeah right 30 minute mark okay I guess
+
+757
+00:28:51,010 --> 00:28:57,160
+we'll take a quick cheesy break a ninja
+
+758
+00:28:54,070 --> 00:29:00,010
+melt break ninja milk energy made with
+
+759
+00:28:57,160 --> 00:29:02,620
+organic milk and flavors she's such a
+
+760
+00:29:00,010 --> 00:29:06,940
+nice voice lightly carbonated energy
+
+761
+00:29:02,620 --> 00:29:15,010
+drink no artificial sweeteners or
+
+762
+00:29:06,940 --> 00:29:17,740
+preservatives and it tastes amazing let
+
+763
+00:29:15,010 --> 00:29:19,860
+me try let me try anyway try this all
+
+764
+00:29:17,740 --> 00:29:25,150
+right
+
+765
+00:29:19,860 --> 00:29:26,830
+lightly carbonated oh my all right quick
+
+766
+00:29:25,150 --> 00:29:36,690
+she she break and we'll be right back
+
+767
+00:29:26,830 --> 00:29:38,300
+[Music]
+
+768
+00:29:36,690 --> 00:29:40,770
+and we're back
+
+769
+00:29:38,300 --> 00:29:43,300
+[Music]
+
+770
+00:29:40,770 --> 00:29:44,710
+hey david's rusty he hasn't been
+
+771
+00:29:43,300 --> 00:29:47,560
+moderating in a while actually I don't
+
+772
+00:29:44,710 --> 00:29:48,910
+think he's ever done this really yeah
+
+773
+00:29:47,560 --> 00:29:51,480
+we're still learning sorry Michelle
+
+774
+00:29:48,910 --> 00:29:55,570
+we're getting back into it a little bit
+
+775
+00:29:51,480 --> 00:29:57,040
+but getting away from Krypto actually is
+
+776
+00:29:55,570 --> 00:29:58,420
+that so talking about Krypto we were
+
+777
+00:29:57,040 --> 00:30:03,010
+just talking about your other company M
+
+778
+00:29:58,420 --> 00:30:08,560
+cosmetics right it's awesome that's a
+
+779
+00:30:03,010 --> 00:30:10,330
+second one did you why yes I did i
+
+780
+00:30:08,560 --> 00:30:12,790
+completely engineered the opening sound
+
+781
+00:30:10,330 --> 00:30:14,410
+to sound delicious and fresh we're just
+
+782
+00:30:12,790 --> 00:30:19,090
+talking about this off camera because
+
+783
+00:30:14,410 --> 00:30:20,560
+thanks because um I I didn't do that but
+
+784
+00:30:19,090 --> 00:30:24,100
+you asked me that and you said I should
+
+785
+00:30:20,560 --> 00:30:26,260
+tell more people that see Ryan says I
+
+786
+00:30:24,100 --> 00:30:28,120
+can't lie to people and I said marketing
+
+787
+00:30:26,260 --> 00:30:30,790
+isn't lying or just exaggerating okay
+
+788
+00:30:28,120 --> 00:30:34,630
+but I didn't invent that sound sound
+
+789
+00:30:30,790 --> 00:30:36,820
+that's just science things were actually
+
+790
+00:30:34,630 --> 00:30:39,040
+people who engineer sounds like that
+
+791
+00:30:36,820 --> 00:30:42,580
+like the Snapple bottle that yes okay
+
+792
+00:30:39,040 --> 00:30:47,140
+that is satisfying yeah but I am yeah I
+
+793
+00:30:42,580 --> 00:30:48,580
+made that I made it up what we were
+
+794
+00:30:47,140 --> 00:30:53,140
+talking about were just talking about I
+
+795
+00:30:48,580 --> 00:30:54,910
+distract em cosmetics I have and look
+
+796
+00:30:53,140 --> 00:30:56,200
+this isn't sponsored or anything David
+
+797
+00:30:54,910 --> 00:30:58,240
+wanted to bring this up because he
+
+798
+00:30:56,200 --> 00:30:59,040
+stopped by my office interesting story
+
+799
+00:30:58,240 --> 00:31:00,720
+few months ago
+
+800
+00:30:59,040 --> 00:31:03,630
+and he was asking like yeah so what's up
+
+801
+00:31:00,720 --> 00:31:05,010
+with this em cosmetics thing how how did
+
+802
+00:31:03,630 --> 00:31:07,740
+this come about mmm
+
+803
+00:31:05,010 --> 00:31:09,480
+so to give you some perspective most
+
+804
+00:31:07,740 --> 00:31:11,850
+people who start a beauty brand they
+
+805
+00:31:09,480 --> 00:31:12,960
+start it they boot strap it they you
+
+806
+00:31:11,850 --> 00:31:14,130
+know you have a startup so you
+
+807
+00:31:12,960 --> 00:31:16,170
+understand like you put your own money
+
+808
+00:31:14,130 --> 00:31:17,430
+into it and you grow it and then if you
+
+809
+00:31:16,170 --> 00:31:19,470
+get around like a million to five
+
+810
+00:31:17,430 --> 00:31:22,470
+million a year pretty good but when you
+
+811
+00:31:19,470 --> 00:31:24,960
+get up to around 10 to 20 million up to
+
+812
+00:31:22,470 --> 00:31:26,820
+like 50 million this is when bigger
+
+813
+00:31:24,960 --> 00:31:29,610
+brands like the Estee Lauder the L'Oreal
+
+814
+00:31:26,820 --> 00:31:31,050
+the Procter & Gamble they want to they
+
+815
+00:31:29,610 --> 00:31:33,300
+are interested in acquiring your brand
+
+816
+00:31:31,050 --> 00:31:35,040
+so they want to acquire it and then they
+
+817
+00:31:33,300 --> 00:31:36,150
+take your existing company in your brand
+
+818
+00:31:35,040 --> 00:31:37,800
+and then they just power through and
+
+819
+00:31:36,150 --> 00:31:39,750
+turn it into a billion-dollar company so
+
+820
+00:31:37,800 --> 00:31:43,020
+they buy you out and that's normally the
+
+821
+00:31:39,750 --> 00:31:44,100
+lifecycle for value meaning like you
+
+822
+00:31:43,020 --> 00:31:45,660
+don't have any part of it once it
+
+823
+00:31:44,100 --> 00:31:46,710
+becomes a billion-dollar company no it
+
+824
+00:31:45,660 --> 00:31:49,290
+doesn't become a billion-dollar company
+
+825
+00:31:46,710 --> 00:31:52,380
+they buy you at 50 million so they turn
+
+826
+00:31:49,290 --> 00:31:55,440
+it into a billion-dollar company okay so
+
+827
+00:31:52,380 --> 00:31:58,200
+with em we did the exact opposite my
+
+828
+00:31:55,440 --> 00:32:00,360
+brand was actually created with L'Oreal
+
+829
+00:31:58,200 --> 00:32:02,250
+and this was the first time in 2011
+
+830
+00:32:00,360 --> 00:32:03,960
+L'Oreal has ever created a brand from
+
+831
+00:32:02,250 --> 00:32:05,370
+the ground up normally they acquire
+
+832
+00:32:03,960 --> 00:32:06,840
+brand that's what they're really good at
+
+833
+00:32:05,370 --> 00:32:09,360
+they acquire the brands and they grow it
+
+834
+00:32:06,840 --> 00:32:11,820
+into a big business like NYX Urban Decay
+
+835
+00:32:09,360 --> 00:32:13,740
+it cosmetics and in my case with em
+
+836
+00:32:11,820 --> 00:32:15,420
+they're like hey Michele she's doing
+
+837
+00:32:13,740 --> 00:32:17,400
+this really cool thing on YouTube let's
+
+838
+00:32:15,420 --> 00:32:20,280
+take a gamble and let's create a beauty
+
+839
+00:32:17,400 --> 00:32:22,500
+brand with her and granted L'Oreal is a
+
+840
+00:32:20,280 --> 00:32:26,010
+great they're masters when it comes to
+
+841
+00:32:22,500 --> 00:32:30,210
+marketing creating beauty products
+
+842
+00:32:26,010 --> 00:32:32,280
+expanding on that but creating a brand
+
+843
+00:32:30,210 --> 00:32:35,010
+from the start you know from the ground
+
+844
+00:32:32,280 --> 00:32:38,010
+up it's hard it is hard because you need
+
+845
+00:32:35,010 --> 00:32:39,840
+to have you you can't take a corporate
+
+846
+00:32:38,010 --> 00:32:42,030
+structure and then bring it into the
+
+847
+00:32:39,840 --> 00:32:45,330
+startup world it's really hard to do
+
+848
+00:32:42,030 --> 00:32:46,770
+that because you have to oftentimes a
+
+849
+00:32:45,330 --> 00:32:50,310
+lot of the corporate structures there's
+
+850
+00:32:46,770 --> 00:32:51,780
+so many layers and bureaucracies and to
+
+851
+00:32:50,310 --> 00:32:54,090
+get one thing approved you have to go
+
+852
+00:32:51,780 --> 00:32:55,890
+through 15 different people on a startup
+
+853
+00:32:54,090 --> 00:32:58,620
+you just talk to three people and that's
+
+854
+00:32:55,890 --> 00:33:00,300
+it it's instant umm and so what's
+
+855
+00:32:58,620 --> 00:33:02,970
+interesting was when I was developing
+
+856
+00:33:00,300 --> 00:33:05,400
+the brand with L'Oreal and this was in
+
+857
+00:33:02,970 --> 00:33:08,160
+2011 I was also building it C at the
+
+858
+00:33:05,400 --> 00:33:10,530
+same time so in New York I'm building
+
+859
+00:33:08,160 --> 00:33:12,700
+MCAS medics with L'Oreal and I fly back
+
+860
+00:33:10,530 --> 00:33:14,740
+to LA San Francisco and
+
+861
+00:33:12,700 --> 00:33:16,360
+building obscene doing the two and it's
+
+862
+00:33:14,740 --> 00:33:19,000
+it was interesting seeing the dichotomy
+
+863
+00:33:16,360 --> 00:33:21,520
+between the two worlds because on the
+
+864
+00:33:19,000 --> 00:33:23,260
+Loreal side they here they had a lot of
+
+865
+00:33:21,520 --> 00:33:25,000
+budget and a lot of people a lot of
+
+866
+00:33:23,260 --> 00:33:26,380
+bodies in the company building the brand
+
+867
+00:33:25,000 --> 00:33:28,570
+with me but because we had too many
+
+868
+00:33:26,380 --> 00:33:31,030
+people involved things became very
+
+869
+00:33:28,570 --> 00:33:33,430
+convoluted my vision became convoluted
+
+870
+00:33:31,030 --> 00:33:35,680
+along with it um but then on the other
+
+871
+00:33:33,430 --> 00:33:37,240
+side of the spectrum we had it see where
+
+872
+00:33:35,680 --> 00:33:39,520
+we only had two point seven million
+
+873
+00:33:37,240 --> 00:33:41,200
+dollars seed funding and that was it and
+
+874
+00:33:39,520 --> 00:33:43,960
+we were able to use that money and
+
+875
+00:33:41,200 --> 00:33:45,460
+stretch it and go go completely
+
+876
+00:33:43,960 --> 00:33:48,190
+grassroots like our marketing was
+
+877
+00:33:45,460 --> 00:33:49,570
+through YouTube we would just talk
+
+878
+00:33:48,190 --> 00:33:51,700
+directly to these brands and that was
+
+879
+00:33:49,570 --> 00:33:53,830
+how we were able to sell out of our bags
+
+880
+00:33:51,700 --> 00:33:55,900
+and then grow it to like ten thousand
+
+881
+00:33:53,830 --> 00:33:57,670
+bags thirty thousand fifty thousand a
+
+882
+00:33:55,900 --> 00:34:00,250
+hundred thousand and then grew up up to
+
+883
+00:33:57,670 --> 00:34:03,610
+a million and then when we launched em
+
+884
+00:34:00,250 --> 00:34:06,190
+cosmetics in 2013 with L'Oreal it
+
+885
+00:34:03,610 --> 00:34:07,480
+flopped it's completely flopped people
+
+886
+00:34:06,190 --> 00:34:09,580
+were hating on the brand because they
+
+887
+00:34:07,480 --> 00:34:11,710
+said the packaging looked so cheap
+
+888
+00:34:09,580 --> 00:34:13,660
+the praat like it was too expensive it
+
+889
+00:34:11,710 --> 00:34:15,880
+didn't look like me and I was getting so
+
+890
+00:34:13,660 --> 00:34:16,840
+much hate even though I had no control
+
+891
+00:34:15,880 --> 00:34:18,790
+over anything
+
+892
+00:34:16,840 --> 00:34:21,310
+I really didn't because it really was
+
+893
+00:34:18,790 --> 00:34:21,940
+not like your branding then it wasn't no
+
+894
+00:34:21,310 --> 00:34:23,560
+boss
+
+895
+00:34:21,940 --> 00:34:25,360
+when people saw when people watch my
+
+896
+00:34:23,560 --> 00:34:27,490
+videos I'm known for a certain aesthetic
+
+897
+00:34:25,360 --> 00:34:30,190
+and they were so confused when they saw
+
+898
+00:34:27,490 --> 00:34:32,620
+em by L'Oreal because it wasn't it was
+
+899
+00:34:30,190 --> 00:34:35,350
+completely off of my aesthetic um it was
+
+900
+00:34:32,620 --> 00:34:36,730
+an authentic it was not authentic no so
+
+901
+00:34:35,350 --> 00:34:37,990
+I got a lot of hate and it really sucked
+
+902
+00:34:36,730 --> 00:34:39,460
+because I couldn't say anything
+
+903
+00:34:37,990 --> 00:34:43,020
+you know I'm under certain contract so
+
+904
+00:34:39,460 --> 00:34:46,300
+I'm like you know NDA's and all of that
+
+905
+00:34:43,020 --> 00:34:47,710
+long story short I was stuck and but
+
+906
+00:34:46,300 --> 00:34:49,300
+thankfully I had epsy that was draining
+
+907
+00:34:47,710 --> 00:34:51,220
+really well so in a way that was kind of
+
+908
+00:34:49,300 --> 00:34:53,380
+my savings my saving grace like that
+
+909
+00:34:51,220 --> 00:34:55,060
+saved my face like I wasn't seen as a
+
+910
+00:34:53,380 --> 00:34:58,030
+failure because even though the
+
+911
+00:34:55,060 --> 00:34:59,830
+cosmetics L'Oreal flopped if she was
+
+912
+00:34:58,030 --> 00:35:02,680
+here zip see like doing two million bags
+
+913
+00:34:59,830 --> 00:35:04,210
+doing really well and we only needed 2.7
+
+914
+00:35:02,680 --> 00:35:07,180
+million dollars and we never need it to
+
+915
+00:35:04,210 --> 00:35:11,050
+raise sense right um so really shows you
+
+916
+00:35:07,180 --> 00:35:13,510
+it's not about like legacy companies
+
+917
+00:35:11,050 --> 00:35:15,370
+like these big companies like you know
+
+918
+00:35:13,510 --> 00:35:17,020
+Google when Google started Google+ they
+
+919
+00:35:15,370 --> 00:35:18,550
+thought oh we can take down Facebook or
+
+920
+00:35:17,020 --> 00:35:20,590
+Facebook is like let's take down tik-tok
+
+921
+00:35:18,550 --> 00:35:22,840
+and launch last so like now dude like
+
+922
+00:35:20,590 --> 00:35:24,850
+innovation comes from small startups
+
+923
+00:35:22,840 --> 00:35:26,349
+it's always been like that that's where
+
+924
+00:35:24,850 --> 00:35:27,789
+you really truly see it because you
+
+925
+00:35:26,349 --> 00:35:29,470
+people who are very passionate and again
+
+926
+00:35:27,789 --> 00:35:30,819
+you don't have so many different layers
+
+927
+00:35:29,470 --> 00:35:33,900
+of people you have to go through to
+
+928
+00:35:30,819 --> 00:35:37,979
+approve one thing and if C is a great
+
+929
+00:35:33,900 --> 00:35:40,960
+testament of that so going back to 2015
+
+930
+00:35:37,979 --> 00:35:43,259
+we raise 100 million dollars for epsy
+
+931
+00:35:40,960 --> 00:35:46,089
+were able to use that money to buy em
+
+932
+00:35:43,259 --> 00:35:49,089
+from L'Oreal and to acquire it under
+
+933
+00:35:46,089 --> 00:35:51,549
+Ipsy which was great but again it wasn't
+
+934
+00:35:49,089 --> 00:35:53,710
+my brand it was oopsies so I couldn't
+
+935
+00:35:51,549 --> 00:35:56,170
+approve everything of course even though
+
+936
+00:35:53,710 --> 00:35:58,150
+I am a founder of Ipsy I have shares in
+
+937
+00:35:56,170 --> 00:35:59,589
+it there's still a lot of politics when
+
+938
+00:35:58,150 --> 00:36:03,670
+you do raise money for a company you
+
+939
+00:35:59,589 --> 00:36:05,979
+give up some some control um and it got
+
+940
+00:36:03,670 --> 00:36:08,710
+to a point where I just became so tired
+
+941
+00:36:05,979 --> 00:36:10,900
+I just wanted something that was mine I
+
+942
+00:36:08,710 --> 00:36:12,910
+was ready to also be independent and so
+
+943
+00:36:10,900 --> 00:36:15,519
+two years ago I left obscene and I
+
+944
+00:36:12,910 --> 00:36:21,130
+bought my brand back and so M now is
+
+945
+00:36:15,519 --> 00:36:23,140
+completely owned by me and that's
+
+946
+00:36:21,130 --> 00:36:26,229
+awesome and it's just been incredible
+
+947
+00:36:23,140 --> 00:36:28,450
+because we're small but it feels like a
+
+948
+00:36:26,229 --> 00:36:30,009
+family unit well when you say small it's
+
+949
+00:36:28,450 --> 00:36:31,329
+a guessing comparison to the other
+
+950
+00:36:30,009 --> 00:36:32,410
+things we've seen your office it's not
+
+951
+00:36:31,329 --> 00:36:36,009
+oh yeah
+
+952
+00:36:32,410 --> 00:36:37,210
+it's sick it's not small but I guess it
+
+953
+00:36:36,009 --> 00:36:39,969
+come in compared to what you I mean
+
+954
+00:36:37,210 --> 00:36:42,249
+compared to having 200 employees now
+
+955
+00:36:39,969 --> 00:36:44,859
+having like twelve it is really small
+
+956
+00:36:42,249 --> 00:36:46,839
+but we are forced to be reckoned with
+
+957
+00:36:44,859 --> 00:36:49,539
+because we everyone can wear multiple
+
+958
+00:36:46,839 --> 00:36:51,910
+hats like this I thrive in smaller
+
+959
+00:36:49,539 --> 00:36:54,309
+environments I can't do a corporate
+
+960
+00:36:51,910 --> 00:36:56,890
+companies I just can't it's just I think
+
+961
+00:36:54,309 --> 00:36:59,319
+it's it's so opposite of even who we are
+
+962
+00:36:56,890 --> 00:37:00,999
+yeah right like you probably get more
+
+963
+00:36:59,319 --> 00:37:02,440
+work done if you were to just work with
+
+964
+00:37:00,999 --> 00:37:03,819
+you and a few of your friends and if you
+
+965
+00:37:02,440 --> 00:37:05,529
+were thrown into like an office right
+
+966
+00:37:03,819 --> 00:37:07,329
+yeah you have a hundred people and
+
+967
+00:37:05,529 --> 00:37:09,069
+everyone just focus on one job rather
+
+968
+00:37:07,329 --> 00:37:10,450
+than collaborating it becomes super
+
+969
+00:37:09,069 --> 00:37:12,579
+hyper specialist and you
+
+970
+00:37:10,450 --> 00:37:14,979
+compartmentalize it's like oh so-and-so
+
+971
+00:37:12,579 --> 00:37:16,450
+does that to refer to them rather than
+
+972
+00:37:14,979 --> 00:37:18,190
+owning it together you're owning the
+
+973
+00:37:16,450 --> 00:37:20,619
+project together then because if it's
+
+974
+00:37:18,190 --> 00:37:21,880
+all you know individuals it always ends
+
+975
+00:37:20,619 --> 00:37:24,190
+up being like alright I'm just gonna do
+
+976
+00:37:21,880 --> 00:37:25,630
+my job pass it off if they're not doing
+
+977
+00:37:24,190 --> 00:37:25,869
+their job that I don't care I'm doing my
+
+978
+00:37:25,630 --> 00:37:28,960
+thing
+
+979
+00:37:25,869 --> 00:37:30,789
+exactly yeah that's that's tough well in
+
+980
+00:37:28,960 --> 00:37:33,160
+trying I got a question so you know
+
+981
+00:37:30,789 --> 00:37:35,019
+you're very successful entrepreneur
+
+982
+00:37:33,160 --> 00:37:37,490
+obviously and you've built large
+
+983
+00:37:35,019 --> 00:37:40,130
+companies
+
+984
+00:37:37,490 --> 00:37:42,200
+what are like the top three things are
+
+985
+00:37:40,130 --> 00:37:44,750
+or there's the top things that you you
+
+986
+00:37:42,200 --> 00:37:46,130
+think are required for people out there
+
+987
+00:37:44,750 --> 00:37:48,260
+who are trying to start something like
+
+988
+00:37:46,130 --> 00:37:50,900
+you did like what are some of these
+
+989
+00:37:48,260 --> 00:37:53,060
+things that you feel like can help build
+
+990
+00:37:50,900 --> 00:37:54,830
+a massive business like you have a
+
+991
+00:37:53,060 --> 00:37:56,420
+billion-dollar billion-dollar business
+
+992
+00:37:54,830 --> 00:37:57,260
+how do you make a billion-dollar
+
+993
+00:37:56,420 --> 00:38:00,200
+business
+
+994
+00:37:57,260 --> 00:38:02,000
+well okay evaluation let's rephrase that
+
+995
+00:38:00,200 --> 00:38:03,260
+what does it even mean to be worth a
+
+996
+00:38:02,000 --> 00:38:05,599
+billion dollars because you look at
+
+997
+00:38:03,260 --> 00:38:07,220
+netflix and they're worth a billion
+
+998
+00:38:05,599 --> 00:38:09,950
+dollars but they haven't profited yet
+
+999
+00:38:07,220 --> 00:38:11,990
+gee um you look at even Amazon I think
+
+1000
+00:38:09,950 --> 00:38:13,820
+even Amazon is still in a deficit or
+
+1001
+00:38:11,990 --> 00:38:16,580
+something they started to make more
+
+1002
+00:38:13,820 --> 00:38:17,780
+money weirdly enough with Amazon Web
+
+1003
+00:38:16,580 --> 00:38:20,000
+service so for the longest time
+
+1004
+00:38:17,780 --> 00:38:21,950
+Amazon wasn't profiting really yeah they
+
+1005
+00:38:20,000 --> 00:38:23,810
+weren't profiting freely years years
+
+1006
+00:38:21,950 --> 00:38:26,150
+years and I don't know which year it was
+
+1007
+00:38:23,810 --> 00:38:28,790
+at 2015 or fourteen I forgot which year
+
+1008
+00:38:26,150 --> 00:38:30,980
+but Bezos because so many people were
+
+1009
+00:38:28,790 --> 00:38:32,690
+using Amazon they needed the best
+
+1010
+00:38:30,980 --> 00:38:35,480
+servers they needed private servers and
+
+1011
+00:38:32,690 --> 00:38:37,580
+all that he decided okay let's let's do
+
+1012
+00:38:35,480 --> 00:38:39,530
+redundancy servers where we build more
+
+1013
+00:38:37,580 --> 00:38:42,109
+servers because if one server shuts down
+
+1014
+00:38:39,530 --> 00:38:43,580
+Amazon can still run in like Colorado
+
+1015
+00:38:42,109 --> 00:38:45,020
+because we have the servers there so
+
+1016
+00:38:43,580 --> 00:38:47,510
+they did redundancy and it took a whole
+
+1017
+00:38:45,020 --> 00:38:49,609
+year to build several several different
+
+1018
+00:38:47,510 --> 00:38:52,339
+servers all across the nation for farms
+
+1019
+00:38:49,609 --> 00:38:54,349
+server farms okay and when he went to
+
+1020
+00:38:52,339 --> 00:38:55,790
+the board and he was talented oh no he
+
+1021
+00:38:54,349 --> 00:38:57,740
+didn't go to the board yet he had the
+
+1022
+00:38:55,790 --> 00:38:59,480
+engineers come to him and say okay we
+
+1023
+00:38:57,740 --> 00:39:02,570
+finished everything and he was curious
+
+1024
+00:38:59,480 --> 00:39:04,160
+he asked um how much is Amazon using of
+
+1025
+00:39:02,570 --> 00:39:06,109
+all these servers no like oh just like
+
+1026
+00:39:04,160 --> 00:39:08,690
+six or twelve percent like very little
+
+1027
+00:39:06,109 --> 00:39:10,490
+and he had an aha moment he went to the
+
+1028
+00:39:08,690 --> 00:39:12,320
+board he said hey let's create a
+
+1029
+00:39:10,490 --> 00:39:14,599
+subscription amazon web servers because
+
+1030
+00:39:12,320 --> 00:39:17,060
+we're only using a very small amount and
+
+1031
+00:39:14,599 --> 00:39:19,670
+we have all this excess and we can make
+
+1032
+00:39:17,060 --> 00:39:21,109
+money with just servers if you think
+
+1033
+00:39:19,670 --> 00:39:23,089
+about it it's like genius because you're
+
+1034
+00:39:21,109 --> 00:39:24,650
+not selling product you're not storing
+
+1035
+00:39:23,089 --> 00:39:27,230
+anything you don't have to ship anything
+
+1036
+00:39:24,650 --> 00:39:27,859
+it's just a subscription it's just data
+
+1037
+00:39:27,230 --> 00:39:29,570
+yeah
+
+1038
+00:39:27,859 --> 00:39:31,339
+and that helped them make tremendous
+
+1039
+00:39:29,570 --> 00:39:33,380
+money and so now when you opt in to
+
+1040
+00:39:31,339 --> 00:39:35,390
+Amazon web servers it's so impressive
+
+1041
+00:39:33,380 --> 00:39:36,740
+because you can get like you can have
+
+1042
+00:39:35,390 --> 00:39:38,510
+like machine learning involved in there
+
+1043
+00:39:36,740 --> 00:39:41,000
+I mean it's crazy like it's not just a
+
+1044
+00:39:38,510 --> 00:39:44,060
+normal it's not a basic setup like it's
+
+1045
+00:39:41,000 --> 00:39:46,130
+very very robust and impressive so again
+
+1046
+00:39:44,060 --> 00:39:47,869
+like going back to the valuation having
+
+1047
+00:39:46,130 --> 00:39:49,310
+a billion dollars that's like height
+
+1048
+00:39:47,869 --> 00:39:51,109
+that's like saying oh yeah my company is
+
+1049
+00:39:49,310 --> 00:39:52,849
+worth a billion but
+
+1050
+00:39:51,109 --> 00:39:54,440
+doesn't necessarily mean you're making a
+
+1051
+00:39:52,849 --> 00:39:56,119
+billion dollars that's what the
+
+1052
+00:39:54,440 --> 00:39:58,549
+investors who invested in your company
+
+1053
+00:39:56,119 --> 00:40:01,009
+are projecting for you to be worth and
+
+1054
+00:39:58,549 --> 00:40:02,869
+to make something sense know so a lot of
+
+1055
+00:40:01,009 --> 00:40:05,059
+a lot of these companies who raise like
+
+1056
+00:40:02,869 --> 00:40:07,190
+80 million dollars and they still don't
+
+1057
+00:40:05,059 --> 00:40:08,359
+profit yet but then their investors will
+
+1058
+00:40:07,190 --> 00:40:10,400
+be like yeah they're worth like a
+
+1059
+00:40:08,359 --> 00:40:13,069
+billion dollars they can go out and say
+
+1060
+00:40:10,400 --> 00:40:15,349
+that so it's kind of hype um thankfully
+
+1061
+00:40:13,069 --> 00:40:16,700
+with Ipsy we were so anti hype we were
+
+1062
+00:40:15,349 --> 00:40:19,609
+actually doing really well because we
+
+1063
+00:40:16,700 --> 00:40:21,529
+were subscription people were paying $10
+
+1064
+00:40:19,609 --> 00:40:24,890
+a month and three million bags are being
+
+1065
+00:40:21,529 --> 00:40:27,019
+sold um but we weren't like we weren't
+
+1066
+00:40:24,890 --> 00:40:28,849
+relying on that hype of being worth a
+
+1067
+00:40:27,019 --> 00:40:30,980
+billion dollars so to go back to
+
+1068
+00:40:28,849 --> 00:40:32,509
+everything I don't think I think if you
+
+1069
+00:40:30,980 --> 00:40:35,119
+have the intention to build a billion
+
+1070
+00:40:32,509 --> 00:40:37,369
+billion dollar company you don't have
+
+1071
+00:40:35,119 --> 00:40:40,970
+the right intention in place you your
+
+1072
+00:40:37,369 --> 00:40:42,710
+goal is mislead by numbers and what ends
+
+1073
+00:40:40,970 --> 00:40:45,259
+up happening is if you don't meet these
+
+1074
+00:40:42,710 --> 00:40:46,849
+numbers and these milestones oftentimes
+
+1075
+00:40:45,259 --> 00:40:48,259
+you can lose sight of yourself and you
+
+1076
+00:40:46,849 --> 00:40:50,390
+can burn out really fast and I always
+
+1077
+00:40:48,259 --> 00:40:54,049
+tell people and potential business
+
+1078
+00:40:50,390 --> 00:40:56,059
+owners and entrepreneurs don't set goals
+
+1079
+00:40:54,049 --> 00:40:58,670
+set intentions first I think when I
+
+1080
+00:40:56,059 --> 00:41:00,079
+started my youtube channel there was no
+
+1081
+00:40:58,670 --> 00:41:02,420
+money in it because there is no Adsense
+
+1082
+00:41:00,079 --> 00:41:04,789
+right but my intention was to teach I
+
+1083
+00:41:02,420 --> 00:41:07,279
+wanted to share I want to teach when I
+
+1084
+00:41:04,789 --> 00:41:09,140
+started epsy I wasn't I didn't have any
+
+1085
+00:41:07,279 --> 00:41:10,730
+idea would become such a big thing but
+
+1086
+00:41:09,140 --> 00:41:12,769
+my intention was I have this great
+
+1087
+00:41:10,730 --> 00:41:14,900
+product idea and I want to help people
+
+1088
+00:41:12,769 --> 00:41:17,420
+with it I think that's really important
+
+1089
+00:41:14,900 --> 00:41:20,029
+so intention set intentions and the
+
+1090
+00:41:17,420 --> 00:41:22,099
+second thing is look for a market gap
+
+1091
+00:41:20,029 --> 00:41:23,690
+that's really important too because you
+
+1092
+00:41:22,099 --> 00:41:27,259
+can have a really good product idea or
+
+1093
+00:41:23,690 --> 00:41:29,480
+service but if it's too early on then
+
+1094
+00:41:27,259 --> 00:41:31,430
+you miss out on that boat so you have to
+
+1095
+00:41:29,480 --> 00:41:33,859
+be you have to know when to be ready to
+
+1096
+00:41:31,430 --> 00:41:36,230
+launch it oftentimes so many people have
+
+1097
+00:41:33,859 --> 00:41:39,440
+great ideas but it's too early or it's
+
+1098
+00:41:36,230 --> 00:41:41,690
+too late so learn and observe the
+
+1099
+00:41:39,440 --> 00:41:44,630
+different market gaps that you have and
+
+1100
+00:41:41,690 --> 00:41:47,509
+market gaps so to bring it to bring this
+
+1101
+00:41:44,630 --> 00:41:49,249
+into like I was like to like bring it
+
+1102
+00:41:47,509 --> 00:41:53,029
+into my context because my viewers might
+
+1103
+00:41:49,249 --> 00:41:55,309
+understand in 2007 there were no makeup
+
+1104
+00:41:53,029 --> 00:41:56,660
+tutorials people if people wanted to
+
+1105
+00:41:55,309 --> 00:41:58,009
+learn makeup videos they would either
+
+1106
+00:41:56,660 --> 00:41:59,900
+have to go to a beauty counter and buy
+
+1107
+00:41:58,009 --> 00:42:02,630
+products or pay for Beauty seminars or
+
+1108
+00:41:59,900 --> 00:42:03,980
+read books and there is never something
+
+1109
+00:42:02,630 --> 00:42:05,300
+where they can just sit at home and
+
+1110
+00:42:03,980 --> 00:42:07,550
+watch for free and rewind
+
+1111
+00:42:05,300 --> 00:42:10,370
+fast-forward skip and have someone
+
+1112
+00:42:07,550 --> 00:42:12,920
+relatable speaking to them so that's a
+
+1113
+00:42:10,370 --> 00:42:14,360
+market gap market gap is wait no one's
+
+1114
+00:42:12,920 --> 00:42:16,550
+making these videos I'm gonna make them
+
+1115
+00:42:14,360 --> 00:42:18,920
+so identify these market gaps in the
+
+1116
+00:42:16,550 --> 00:42:22,940
+market I would that's one of the first
+
+1117
+00:42:18,920 --> 00:42:25,670
+things you would say to like yeah set
+
+1118
+00:42:22,940 --> 00:42:35,270
+the intention finding the market gap and
+
+1119
+00:42:25,670 --> 00:42:37,220
+I guess my third one top tips
+
+1120
+00:42:35,270 --> 00:42:38,630
+those are good tips and I think it is
+
+1121
+00:42:37,220 --> 00:42:40,340
+important most people don't know when
+
+1122
+00:42:38,630 --> 00:42:41,900
+they hear like oh the evaluation is a
+
+1123
+00:42:40,340 --> 00:42:43,430
+billion dollars they don't know you're
+
+1124
+00:42:41,900 --> 00:42:45,110
+not making a billion making like
+
+1125
+00:42:43,430 --> 00:42:47,360
+snapchat for one there were another one
+
+1126
+00:42:45,110 --> 00:42:49,070
+right that wasn't making dairy I don't
+
+1127
+00:42:47,360 --> 00:42:50,630
+know what their what are they worth well
+
+1128
+00:42:49,070 --> 00:42:52,640
+their IPO right note there they're a
+
+1129
+00:42:50,630 --> 00:42:54,410
+public company right now but I think for
+
+1130
+00:42:52,640 --> 00:42:56,540
+a long time they were making zero
+
+1131
+00:42:54,410 --> 00:42:57,440
+dollars no money at all but they were
+
+1132
+00:42:56,540 --> 00:42:59,540
+like the biggest thing in the world
+
+1133
+00:42:57,440 --> 00:43:01,490
+because they had active users they had
+
+1134
+00:42:59,540 --> 00:43:03,530
+millions of active users and so the idea
+
+1135
+00:43:01,490 --> 00:43:05,120
+is like everyone wants to find the next
+
+1136
+00:43:03,530 --> 00:43:07,370
+Facebook but for me it's like it's over
+
+1137
+00:43:05,120 --> 00:43:09,560
+because all Facebook needs to do is just
+
+1138
+00:43:07,370 --> 00:43:11,390
+copy it which is totally what I did yeah
+
+1139
+00:43:09,560 --> 00:43:12,770
+yeah and there's no shame in that like
+
+1140
+00:43:11,390 --> 00:43:14,390
+as in they don't see shame in that
+
+1141
+00:43:12,770 --> 00:43:16,370
+because they have to look out for their
+
+1142
+00:43:14,390 --> 00:43:19,100
+business and that's just how a cutthroat
+
+1143
+00:43:16,370 --> 00:43:20,600
+it is China copies it too you know like
+
+1144
+00:43:19,100 --> 00:43:22,730
+everyone's just copying each other and
+
+1145
+00:43:20,600 --> 00:43:23,960
+that's why I always tell people don't
+
+1146
+00:43:22,730 --> 00:43:26,090
+try and like create something that
+
+1147
+00:43:23,960 --> 00:43:27,740
+Facebook can easily copy like look at
+
+1148
+00:43:26,090 --> 00:43:30,260
+the future market gap if we are going
+
+1149
+00:43:27,740 --> 00:43:31,640
+towards this decentralized market place
+
+1150
+00:43:30,260 --> 00:43:34,640
+where money will even become
+
+1151
+00:43:31,640 --> 00:43:36,260
+decentralized build towards that that's
+
+1152
+00:43:34,640 --> 00:43:37,370
+gonna start happening in the next 10
+
+1153
+00:43:36,260 --> 00:43:38,870
+years you want to build towards the
+
+1154
+00:43:37,370 --> 00:43:41,450
+future if you want to build something
+
+1155
+00:43:38,870 --> 00:43:43,400
+that you can sell fast and now then yeah
+
+1156
+00:43:41,450 --> 00:43:45,680
+sure like build something that's
+
+1157
+00:43:43,400 --> 00:43:48,140
+hyperbole and then try and find an exit
+
+1158
+00:43:45,680 --> 00:43:49,910
+fast as you can but oftentimes when you
+
+1159
+00:43:48,140 --> 00:43:51,140
+don't find an exit you're stuck you're
+
+1160
+00:43:49,910 --> 00:43:54,260
+like a hamster in a wheel and you're
+
+1161
+00:43:51,140 --> 00:43:58,100
+stuck and you're in this very old old
+
+1162
+00:43:54,260 --> 00:43:59,900
+company that makes sense okay good
+
+1163
+00:43:58,100 --> 00:44:01,940
+advice yeah that is good advice actually
+
+1164
+00:43:59,900 --> 00:44:03,140
+I'm sure some people there's probably a
+
+1165
+00:44:01,940 --> 00:44:05,230
+lot of people who are like I'm gonna get
+
+1166
+00:44:03,140 --> 00:44:07,970
+Bitcoin I'm gonna start my own company
+
+1167
+00:44:05,230 --> 00:44:10,010
+what do people need right now so I don't
+
+1168
+00:44:07,970 --> 00:44:13,520
+know I think it's there you go
+
+1169
+00:44:10,010 --> 00:44:15,290
+ninja my energy not paid for yeah I
+
+1170
+00:44:13,520 --> 00:44:18,400
+didn't tell her to do this she just has
+
+1171
+00:44:15,290 --> 00:44:22,089
+a voice that's worth a lot of money no
+
+1172
+00:44:18,400 --> 00:44:22,750
+well two bitcoins I don't I don't that's
+
+1173
+00:44:22,089 --> 00:44:24,869
+a lot
+
+1174
+00:44:22,750 --> 00:44:27,220
+we just learned there's a finite amount
+
+1175
+00:44:24,869 --> 00:44:29,130
+do we still have the I know we didn't
+
+1176
+00:44:27,220 --> 00:44:31,869
+print them out the questions and stuff
+
+1177
+00:44:29,130 --> 00:44:33,940
+do we have some stuff yeah it was super
+
+1178
+00:44:31,869 --> 00:44:36,010
+sorry and thanks for coming it was super
+
+1179
+00:44:33,940 --> 00:44:38,589
+last-minute dude literally David deems
+
+1180
+00:44:36,010 --> 00:44:43,420
+me yesterday that's where we talk hey
+
+1181
+00:44:38,589 --> 00:44:44,829
+you guys DM you we do see you a long
+
+1182
+00:44:43,420 --> 00:44:46,359
+time ago on you had a different number
+
+1183
+00:44:44,829 --> 00:44:49,270
+that time are you always changing your
+
+1184
+00:44:46,359 --> 00:44:52,599
+number why is that dude I have some
+
+1185
+00:44:49,270 --> 00:44:54,910
+crazy people man for real yeah let me
+
+1186
+00:44:52,599 --> 00:44:57,819
+talk about that yeah let's talk about
+
+1187
+00:44:54,910 --> 00:45:00,630
+these crazy did the crazies there there
+
+1188
+00:44:57,819 --> 00:45:04,450
+is this one guy who came into my office
+
+1189
+00:45:00,630 --> 00:45:05,619
+and my team they're like uh do you have
+
+1190
+00:45:04,450 --> 00:45:06,670
+an appointment with someone here and
+
+1191
+00:45:05,619 --> 00:45:08,950
+he's like where's Michelle and he was
+
+1192
+00:45:06,670 --> 00:45:10,930
+like scratching himself right what was
+
+1193
+00:45:08,950 --> 00:45:13,990
+like he's like he was just like I got
+
+1194
+00:45:10,930 --> 00:45:17,380
+cracks machete I don't know yeah
+
+1195
+00:45:13,990 --> 00:45:18,789
+no I don't know like and and my business
+
+1196
+00:45:17,380 --> 00:45:20,380
+partner just sent me a picture cuz we
+
+1197
+00:45:18,789 --> 00:45:21,970
+have security cameras are you wearing
+
+1198
+00:45:20,380 --> 00:45:23,440
+he's like hey do you know this guy I'm
+
+1199
+00:45:21,970 --> 00:45:26,559
+like no I don't know him right like oh
+
+1200
+00:45:23,440 --> 00:45:30,490
+ so I'm one of them
+
+1201
+00:45:26,559 --> 00:45:33,210
+one of my co-workers I can't hook him
+
+1202
+00:45:30,490 --> 00:45:35,650
+and like sent him really far away like
+
+1203
+00:45:33,210 --> 00:45:36,819
+physically yeah like walked him escorted
+
+1204
+00:45:35,650 --> 00:45:40,539
+him off the property
+
+1205
+00:45:36,819 --> 00:45:42,940
+and I think like it was like a few days
+
+1206
+00:45:40,539 --> 00:45:45,970
+later I was in had Instagram stories I
+
+1207
+00:45:42,940 --> 00:45:49,299
+was going to one of my friends show he's
+
+1208
+00:45:45,970 --> 00:45:52,839
+he he was DJing at this show and I was
+
+1209
+00:45:49,299 --> 00:45:54,880
+gonna go and support so I when I arrived
+
+1210
+00:45:52,839 --> 00:45:56,440
+with my other friend I hear this guy
+
+1211
+00:45:54,880 --> 00:45:58,809
+he's like Michelle so your first
+
+1212
+00:45:56,440 --> 00:46:00,609
+instinct when you hear your name is turn
+
+1213
+00:45:58,809 --> 00:46:02,260
+around right so I turned around and I
+
+1214
+00:46:00,609 --> 00:46:05,680
+remember him from the picture I'm like
+
+1215
+00:46:02,260 --> 00:46:07,059
+oh I shouldn't same guy right and he's
+
+1216
+00:46:05,680 --> 00:46:08,349
+like Michelle Michelle but thankfully my
+
+1217
+00:46:07,059 --> 00:46:10,390
+friend was there was just blocking him
+
+1218
+00:46:08,349 --> 00:46:11,289
+like totally blocking it like hey that's
+
+1219
+00:46:10,390 --> 00:46:13,270
+not Michelle I don't know you're talking
+
+1220
+00:46:11,289 --> 00:46:16,029
+about and they quickly like let me into
+
+1221
+00:46:13,270 --> 00:46:17,710
+the venue and they blocked him and the
+
+1222
+00:46:16,029 --> 00:46:20,710
+security guard was saying yeah this guy
+
+1223
+00:46:17,710 --> 00:46:23,920
+showed up like he was here like six
+
+1224
+00:46:20,710 --> 00:46:25,059
+hours early and when you went in he
+
+1225
+00:46:23,920 --> 00:46:28,480
+started banging his head against the
+
+1226
+00:46:25,059 --> 00:46:31,119
+wall I was like dude this is crazy cuz
+
+1227
+00:46:28,480 --> 00:46:32,170
+I've been on hiatus for so long you know
+
+1228
+00:46:31,119 --> 00:46:34,599
+like it would make sense
+
+1229
+00:46:32,170 --> 00:46:37,630
+like you're active I was active and also
+
+1230
+00:46:34,599 --> 00:46:39,609
+I mean not to like you know not not to
+
+1231
+00:46:37,630 --> 00:46:41,980
+like shun anything or anything but it
+
+1232
+00:46:39,609 --> 00:46:43,510
+was more promiscuous to like if I'm
+
+1233
+00:46:41,980 --> 00:46:44,799
+showing more promiscuous photos of
+
+1234
+00:46:43,510 --> 00:46:46,599
+myself okay that makes more sense but
+
+1235
+00:46:44,799 --> 00:46:48,790
+you know like II go on my Instagram feed
+
+1236
+00:46:46,599 --> 00:46:51,040
+it's just my cat and me and like anime
+
+1237
+00:46:48,790 --> 00:46:54,609
+pictures and I'm so about even pictures
+
+1238
+00:46:51,040 --> 00:46:58,150
+of you yeah dude this is crazy so I
+
+1239
+00:46:54,609 --> 00:47:00,849
+can't even imagine other people who have
+
+1240
+00:46:58,150 --> 00:47:02,890
+a following built on you know their
+
+1241
+00:47:00,849 --> 00:47:03,910
+sexuality and all of that but yeah dude
+
+1242
+00:47:02,890 --> 00:47:07,299
+there's like crazy people
+
+1243
+00:47:03,910 --> 00:47:11,740
+I'm sure he's not crazy but you just
+
+1244
+00:47:07,299 --> 00:47:13,480
+don't do that yeah I mean at that point
+
+1245
+00:47:11,740 --> 00:47:16,690
+that's not even like a hardcore fan
+
+1246
+00:47:13,480 --> 00:47:19,510
+that's like even fans I think having of
+
+1247
+00:47:16,690 --> 00:47:20,410
+awareness to not show up and I don't
+
+1248
+00:47:19,510 --> 00:47:21,730
+know I don't know if you added in the
+
+1249
+00:47:20,410 --> 00:47:23,680
+whole scratching thing on purpose but
+
+1250
+00:47:21,730 --> 00:47:25,510
+that sounds I could I don't know I could
+
+1251
+00:47:23,680 --> 00:47:27,670
+be wrong I'm just judging right now no
+
+1252
+00:47:25,510 --> 00:47:30,160
+idea this guy's like you just you just
+
+1253
+00:47:27,670 --> 00:47:32,079
+don't do that like have some just have
+
+1254
+00:47:30,160 --> 00:47:34,150
+some respect for people's spaces and I
+
+1255
+00:47:32,079 --> 00:47:36,280
+and I feel like a lot of a lot of
+
+1256
+00:47:34,150 --> 00:47:38,589
+viewers they they almost feel entitled
+
+1257
+00:47:36,280 --> 00:47:40,720
+when they see online personalities like
+
+1258
+00:47:38,589 --> 00:47:41,200
+oh I know them because they're my best
+
+1259
+00:47:40,720 --> 00:47:42,849
+friend
+
+1260
+00:47:41,200 --> 00:47:45,190
+and so they've I've heard horror stories
+
+1261
+00:47:42,849 --> 00:47:47,170
+of youtubers where they would have
+
+1262
+00:47:45,190 --> 00:47:49,150
+people like outside their block like
+
+1263
+00:47:47,170 --> 00:47:50,920
+taking pictures of their house because
+
+1264
+00:47:49,150 --> 00:47:52,839
+they saw maybe on their GPS like where
+
+1265
+00:47:50,920 --> 00:47:55,809
+they were going right that's why I moved
+
+1266
+00:47:52,839 --> 00:47:57,400
+and it still happens yeah I moved
+
+1267
+00:47:55,809 --> 00:48:01,030
+because I was not in a gated community
+
+1268
+00:47:57,400 --> 00:48:03,220
+and I have camera I still have footage
+
+1269
+00:48:01,030 --> 00:48:05,020
+of people like kids coming to my house
+
+1270
+00:48:03,220 --> 00:48:06,730
+and like taking pictures like through
+
+1271
+00:48:05,020 --> 00:48:08,079
+the windows and stuff obviously I was
+
+1272
+00:48:06,730 --> 00:48:10,930
+already paranoid by then so all the
+
+1273
+00:48:08,079 --> 00:48:12,970
+things they could never see me but yeah
+
+1274
+00:48:10,930 --> 00:48:14,890
+there's that happens all the time I mean
+
+1275
+00:48:12,970 --> 00:48:17,049
+David had scarier story like your story
+
+1276
+00:48:14,890 --> 00:48:19,150
+about your stalker dude yeah you and
+
+1277
+00:48:17,049 --> 00:48:21,339
+kina and kina we had a his mascara
+
+1278
+00:48:19,150 --> 00:48:23,400
+shared stalker why don't you share that
+
+1279
+00:48:21,339 --> 00:48:26,200
+story you never talked about that sure
+
+1280
+00:48:23,400 --> 00:48:28,030
+I'm pretty sure he's not watching but he
+
+1281
+00:48:26,200 --> 00:48:29,920
+might be go ahead
+
+1282
+00:48:28,030 --> 00:48:32,980
+but yeah so kina and I had this one
+
+1283
+00:48:29,920 --> 00:48:35,530
+stalker on Twitter and he would put out
+
+1284
+00:48:32,980 --> 00:48:37,589
+these like really mysterious like the
+
+1285
+00:48:35,530 --> 00:48:40,809
+deaths the day of death shall come upon
+
+1286
+00:48:37,589 --> 00:48:42,730
+keen like you tagged kina and I and you
+
+1287
+00:48:40,809 --> 00:48:44,710
+just like come up with a lot of these
+
+1288
+00:48:42,730 --> 00:48:46,810
+like creepy cryptic kind of
+
+1289
+00:48:44,710 --> 00:48:47,980
+suja's and I just didn't really think
+
+1290
+00:48:46,810 --> 00:48:49,930
+too much of it I was like oh this is
+
+1291
+00:48:47,980 --> 00:48:51,099
+whatever I don't even know where this
+
+1292
+00:48:49,930 --> 00:48:54,010
+guy is or who this guy is
+
+1293
+00:48:51,099 --> 00:48:56,619
+so eventually kena and I we both went on
+
+1294
+00:48:54,010 --> 00:48:58,900
+tours separate separate tours but at the
+
+1295
+00:48:56,619 --> 00:49:02,349
+same time we were both on tour she plays
+
+1296
+00:48:58,900 --> 00:49:03,880
+at this venue in Florida and I was gonna
+
+1297
+00:49:02,349 --> 00:49:07,150
+play at the same venue two weeks later
+
+1298
+00:49:03,880 --> 00:49:08,710
+so two weeks later hums by and I I roll
+
+1299
+00:49:07,150 --> 00:49:12,609
+up you know with my gear and everything
+
+1300
+00:49:08,710 --> 00:49:15,099
+and you know my crew and they were the
+
+1301
+00:49:12,609 --> 00:49:16,599
+crew there they were they were like hey
+
+1302
+00:49:15,099 --> 00:49:18,880
+David we heard that there's a stocker
+
+1303
+00:49:16,599 --> 00:49:21,369
+guy and you know we have a picture of
+
+1304
+00:49:18,880 --> 00:49:24,040
+him and we just wanted to let you know
+
+1305
+00:49:21,369 --> 00:49:26,080
+that we are we know what's going on and
+
+1306
+00:49:24,040 --> 00:49:28,750
+we'll keep an eye out for anything weird
+
+1307
+00:49:26,080 --> 00:49:32,230
+or sketchy that may happen okay cool
+
+1308
+00:49:28,750 --> 00:49:35,349
+awesome I'm in my green room getting
+
+1309
+00:49:32,230 --> 00:49:38,380
+ready for the show guy a security guard
+
+1310
+00:49:35,349 --> 00:49:45,000
+comes in he's like David he's like the
+
+1311
+00:49:38,380 --> 00:49:48,550
+guy showed up I was like what no way and
+
+1312
+00:49:45,000 --> 00:49:49,740
+they were like yeah he came in he had a
+
+1313
+00:49:48,550 --> 00:49:53,980
+fake ID
+
+1314
+00:49:49,740 --> 00:49:58,690
+he he he saw before before the tour
+
+1315
+00:49:53,980 --> 00:50:00,820
+actually kinas shared me a web site like
+
+1316
+00:49:58,690 --> 00:50:03,369
+and he had a mug shot he had like a
+
+1317
+00:50:00,820 --> 00:50:04,720
+little mustache so he when he came to
+
+1318
+00:50:03,369 --> 00:50:08,830
+the show he actually shaved off his
+
+1319
+00:50:04,720 --> 00:50:18,160
+mustache and he showed up and the great
+
+1320
+00:50:08,830 --> 00:50:20,020
+thing is he bought a t-shirt in a CD and
+
+1321
+00:50:18,160 --> 00:50:21,970
+then they saw him and they caught him I
+
+1322
+00:50:20,020 --> 00:50:25,599
+mean I'm glad they did after he bought
+
+1323
+00:50:21,970 --> 00:50:32,619
+the t-shirt and I would have signed it
+
+1324
+00:50:25,599 --> 00:50:35,140
+for him too so but he had a mug shot
+
+1325
+00:50:32,619 --> 00:50:37,240
+yeah so yeah and then and then they were
+
+1326
+00:50:35,140 --> 00:50:39,460
+like they escorted him out and that's it
+
+1327
+00:50:37,240 --> 00:50:41,320
+yeah I was like did you guys not call
+
+1328
+00:50:39,460 --> 00:50:43,660
+the police or anything yeah they're like
+
+1329
+00:50:41,320 --> 00:50:46,630
+I mean he didn't have anything wrong so
+
+1330
+00:50:43,660 --> 00:50:48,790
+we just identified him we escorted him
+
+1331
+00:50:46,630 --> 00:50:51,730
+out and then that's all we could do just
+
+1332
+00:50:48,790 --> 00:50:53,560
+not let him back in it was still kind of
+
+1333
+00:50:51,730 --> 00:50:56,290
+scary because he could have waited a
+
+1334
+00:50:53,560 --> 00:50:57,970
+block away with a gun and he could have
+
+1335
+00:50:56,290 --> 00:50:58,619
+shot me with that that's why when the
+
+1336
+00:50:57,970 --> 00:51:01,079
+whole Christine
+
+1337
+00:50:58,619 --> 00:51:03,690
+machining grimmy that really affected me
+
+1338
+00:51:01,079 --> 00:51:05,490
+a lot I stopped doing show not just for
+
+1339
+00:51:03,690 --> 00:51:07,650
+that reason but some of the main reasons
+
+1340
+00:51:05,490 --> 00:51:09,450
+I stopped doing I don't travel anymore I
+
+1341
+00:51:07,650 --> 00:51:11,309
+don't do those kind of shows because I
+
+1342
+00:51:09,450 --> 00:51:13,829
+don't know I just that that situation
+
+1343
+00:51:11,309 --> 00:51:15,569
+really like haunted me you know because
+
+1344
+00:51:13,829 --> 00:51:18,599
+it could it's if you think about it it's
+
+1345
+00:51:15,569 --> 00:51:20,339
+really easy to do like the security is
+
+1346
+00:51:18,599 --> 00:51:21,990
+there but it's like it's not hard to get
+
+1347
+00:51:20,339 --> 00:51:23,910
+things past people right it's not like
+
+1348
+00:51:21,990 --> 00:51:26,579
+we're going through actually I don't
+
+1349
+00:51:23,910 --> 00:51:28,170
+know how like ariana grande tours are
+
+1350
+00:51:26,579 --> 00:51:30,480
+like they have metal detectors and stuff
+
+1351
+00:51:28,170 --> 00:51:34,279
+but for our shows it was never like that
+
+1352
+00:51:30,480 --> 00:51:36,839
+crazy but it has to be now right yeah so
+
+1353
+00:51:34,279 --> 00:51:37,650
+anyway that's just I thought it was
+
+1354
+00:51:36,839 --> 00:51:40,710
+interesting because you brought up
+
+1355
+00:51:37,650 --> 00:51:45,749
+something soccer related yeah no dude I
+
+1356
+00:51:40,710 --> 00:51:48,089
+mean I think I think I do I feel like
+
+1357
+00:51:45,749 --> 00:51:50,099
+some people they fantasize about having
+
+1358
+00:51:48,089 --> 00:51:50,970
+a stalker you know what I mean like oh I
+
+1359
+00:51:50,099 --> 00:51:53,039
+want a stalker
+
+1360
+00:51:50,970 --> 00:51:55,490
+I think you think like people want to
+
+1361
+00:51:53,039 --> 00:51:58,319
+stock quarterly Fifty Shades of Grey if
+
+1362
+00:51:55,490 --> 00:52:00,900
+I haven't seen it either but like I've
+
+1363
+00:51:58,319 --> 00:52:02,789
+read the wiki of it but I'm pretty sure
+
+1364
+00:52:00,900 --> 00:52:04,980
+of that Christian Grey guy or whatever
+
+1365
+00:52:02,789 --> 00:52:07,049
+his name is if he was a broke-ass guy
+
+1366
+00:52:04,980 --> 00:52:08,849
+like yeah it would not be a romantic
+
+1367
+00:52:07,049 --> 00:52:11,160
+story but the fact that he's a CEO and
+
+1368
+00:52:08,849 --> 00:52:13,230
+super rich people fantasize that like
+
+1369
+00:52:11,160 --> 00:52:15,569
+yeah he's a stalker it's so hard like no
+
+1370
+00:52:13,230 --> 00:52:17,309
+that is not yeah I think you should not
+
+1371
+00:52:15,569 --> 00:52:18,869
+romanticize whatever you what if your
+
+1372
+00:52:17,309 --> 00:52:22,140
+stalker guy that show up to your office
+
+1373
+00:52:18,869 --> 00:52:23,759
+he was like gorgeous like just the
+
+1374
+00:52:22,140 --> 00:52:25,559
+best-looking dude looks clean his
+
+1375
+00:52:23,759 --> 00:52:29,220
+business suit you just I need to see
+
+1376
+00:52:25,559 --> 00:52:31,349
+Michelle I need to see a show and even
+
+1377
+00:52:29,220 --> 00:52:33,480
+his voice is just like do you fake real
+
+1378
+00:52:31,349 --> 00:52:34,920
+buzz would you have still send it okay
+
+1379
+00:52:33,480 --> 00:52:35,220
+thank you would you still have sent him
+
+1380
+00:52:34,920 --> 00:52:37,680
+away
+
+1381
+00:52:35,220 --> 00:52:39,029
+because it looks matter in that case
+
+1382
+00:52:37,680 --> 00:52:40,739
+because you're not gonna judge him in
+
+1383
+00:52:39,029 --> 00:52:42,450
+the same way right even your co-workers
+
+1384
+00:52:40,739 --> 00:52:44,509
+you're right looks do you matter
+
+1385
+00:52:42,450 --> 00:52:46,849
+yeah if you don't have business with me
+
+1386
+00:52:44,509 --> 00:52:49,289
+but even if he sure I've been a nice
+
+1387
+00:52:46,849 --> 00:52:51,599
+Burberry I was trying to go my expensive
+
+1388
+00:52:49,289 --> 00:52:53,190
+brand I don't know Burberry suit that's
+
+1389
+00:52:51,599 --> 00:52:55,650
+an expensive one I feel like that would
+
+1390
+00:52:53,190 --> 00:52:57,210
+just be plaid like he's also came up
+
+1391
+00:52:55,650 --> 00:52:58,589
+okay but that's it happen and that was
+
+1392
+00:52:57,210 --> 00:53:00,329
+your stalker and you saw him in another
+
+1393
+00:52:58,589 --> 00:53:02,059
+event and he showed up it's a little
+
+1394
+00:53:00,329 --> 00:53:04,680
+weird but it's like this gorgeous dude
+
+1395
+00:53:02,059 --> 00:53:06,480
+expensive suit would you still have sent
+
+1396
+00:53:04,680 --> 00:53:07,950
+him away that's my question or would you
+
+1397
+00:53:06,480 --> 00:53:10,180
+have given him the benefit of the doubt
+
+1398
+00:53:07,950 --> 00:53:11,620
+and had a little talk with him
+
+1399
+00:53:10,180 --> 00:53:14,590
+would have seen just what is your
+
+1400
+00:53:11,620 --> 00:53:16,300
+business here oh really yeah the most
+
+1401
+00:53:14,590 --> 00:53:20,640
+gorgeous person even if the most
+
+1402
+00:53:16,300 --> 00:53:24,280
+gorgeous persons like money man I got it
+
+1403
+00:53:20,640 --> 00:53:25,930
+and speaking of time we're about to wrap
+
+1404
+00:53:24,280 --> 00:53:27,970
+up but we want to get one Twitter
+
+1405
+00:53:25,930 --> 00:53:29,500
+questioning with you at least and since
+
+1406
+00:53:27,970 --> 00:53:31,450
+I've said three lines this whole podcast
+
+1407
+00:53:29,500 --> 00:53:34,420
+I figure I should pitch it to you
+
+1408
+00:53:31,450 --> 00:53:39,550
+go for it somebody asked so Michelle
+
+1409
+00:53:34,420 --> 00:53:42,010
+what's next that's your question she
+
+1410
+00:53:39,550 --> 00:53:44,200
+talked a lot about what what was in the
+
+1411
+00:53:42,010 --> 00:53:46,240
+past sure yeah so you know we kind of
+
+1412
+00:53:44,200 --> 00:53:47,680
+want to see cuz you know you're like you
+
+1413
+00:53:46,240 --> 00:53:49,000
+said your channel is like you're
+
+1414
+00:53:47,680 --> 00:53:51,460
+starting to use it now there's music
+
+1415
+00:53:49,000 --> 00:53:54,310
+coming on so and you're like you said
+
+1416
+00:53:51,460 --> 00:53:55,690
+you and made an analogy where it's kind
+
+1417
+00:53:54,310 --> 00:53:57,190
+of like the beginning of a party people
+
+1418
+00:53:55,690 --> 00:54:00,490
+come to it you know so the party is
+
+1419
+00:53:57,190 --> 00:54:02,920
+starting up so you know how are you
+
+1420
+00:54:00,490 --> 00:54:10,480
+kicking off this party in and out truck
+
+1421
+00:54:02,920 --> 00:54:12,670
+coming in ten minutes I don't know I'm
+
+1422
+00:54:10,480 --> 00:54:14,590
+just I don't know I don't have a master
+
+1423
+00:54:12,670 --> 00:54:15,970
+plan I'm just really like you're doing
+
+1424
+00:54:14,590 --> 00:54:20,320
+what you're doing currently right with
+
+1425
+00:54:15,970 --> 00:54:21,730
+that but then you said you which I
+
+1426
+00:54:20,320 --> 00:54:26,890
+thought was interesting because like you
+
+1427
+00:54:21,730 --> 00:54:29,410
+said I'm an uber driver right and you
+
+1428
+00:54:26,890 --> 00:54:32,350
+know I have to show up and drive but you
+
+1429
+00:54:29,410 --> 00:54:34,630
+have created another uber but you want
+
+1430
+00:54:32,350 --> 00:54:36,330
+to go back to driving a little bit you
+
+1431
+00:54:34,630 --> 00:54:39,100
+missed driving a little bit wanna cruise
+
+1432
+00:54:36,330 --> 00:54:40,840
+okay so you just just for your own
+
+1433
+00:54:39,100 --> 00:54:42,220
+because that's what you love doing cuz
+
+1434
+00:54:40,840 --> 00:54:43,810
+you started it because you love doing it
+
+1435
+00:54:42,220 --> 00:54:46,030
+right you want to get back into making
+
+1436
+00:54:43,810 --> 00:54:47,530
+videos or is it to make some other kind
+
+1437
+00:54:46,030 --> 00:54:49,320
+of what else do you want what else are
+
+1438
+00:54:47,530 --> 00:54:51,580
+you actually learning how to make music
+
+1439
+00:54:49,320 --> 00:54:56,740
+like singing but like making beats
+
+1440
+00:54:51,580 --> 00:54:58,660
+alright computer no I'm not I'm just
+
+1441
+00:54:56,740 --> 00:55:01,510
+adding more to the the world to the
+
+1442
+00:54:58,660 --> 00:55:04,840
+world yeah yeah I'm just trying to
+
+1443
+00:55:01,510 --> 00:55:06,460
+acquire new skills I'm just I'm also
+
+1444
+00:55:04,840 --> 00:55:08,230
+doing a lot of mentorship I'm mentoring
+
+1445
+00:55:06,460 --> 00:55:12,010
+a lot of young entrepreneurs helping
+
+1446
+00:55:08,230 --> 00:55:14,680
+them with their businesses need to hire
+
+1447
+00:55:12,010 --> 00:55:18,270
+you to mentor me you've helped me a
+
+1448
+00:55:14,680 --> 00:55:20,650
+little bit boy I spoken with like other
+
+1449
+00:55:18,270 --> 00:55:22,450
+Asian content creators and they're
+
+1450
+00:55:20,650 --> 00:55:23,630
+always talking about how they reached
+
+1451
+00:55:22,450 --> 00:55:25,520
+out to you and you
+
+1452
+00:55:23,630 --> 00:55:26,810
+like welcome them with open arms and
+
+1453
+00:55:25,520 --> 00:55:29,150
+stuff that's something that I've had
+
+1454
+00:55:26,810 --> 00:55:33,050
+like yeah well that's good random
+
+1455
+00:55:29,150 --> 00:55:35,810
+craters see she's og man yeah I'm Snoop
+
+1456
+00:55:33,050 --> 00:55:37,280
+Dogg yeah okay well I mean we didn't get
+
+1457
+00:55:35,810 --> 00:55:40,370
+many Twitter questions in but I guess
+
+1458
+00:55:37,280 --> 00:55:41,960
+that's about our time so again thanks
+
+1459
+00:55:40,370 --> 00:55:46,460
+for being here do you want to plug
+
+1460
+00:55:41,960 --> 00:55:50,540
+anything no for yourself yourself all
+
+1461
+00:55:46,460 --> 00:55:52,880
+right well thank you milk also my friend
+
+1462
+00:55:50,540 --> 00:55:54,680
+who I've been mentoring launched these
+
+1463
+00:55:52,880 --> 00:55:57,380
+really cool phone covers called hype
+
+1464
+00:55:54,680 --> 00:56:00,170
+slides yep you can find it on Instagram
+
+1465
+00:55:57,380 --> 00:56:01,880
+type in hype slides it's a phone cover
+
+1466
+00:56:00,170 --> 00:56:04,520
+and it's very practical because you can
+
+1467
+00:56:01,880 --> 00:56:05,840
+just do this oh is that why and it looks
+
+1468
+00:56:04,520 --> 00:56:09,740
+funny because earlier you were taking a
+
+1469
+00:56:05,840 --> 00:56:13,160
+picture nice you can wear it Junko
+
+1470
+00:56:09,740 --> 00:56:16,520
+laughs what are your a socials michelle
+
+1471
+00:56:13,160 --> 00:56:20,030
+phan follow michelle at michelle phan on
+
+1472
+00:56:16,520 --> 00:56:22,880
+fun I keep saying fan it's easier Phin
+
+1473
+00:56:20,030 --> 00:56:24,680
+on Instagram all your other so shows
+
+1474
+00:56:22,880 --> 00:56:27,350
+it's on there also drink ninja milk
+
+1475
+00:56:24,680 --> 00:56:29,630
+support support I'm not chained by the
+
+1476
+00:56:27,350 --> 00:56:31,580
+way I'm not paying one question quick
+
+1477
+00:56:29,630 --> 00:56:32,330
+question you know the music stuff that
+
+1478
+00:56:31,580 --> 00:56:35,570
+you're doing though
+
+1479
+00:56:32,330 --> 00:56:36,980
+that's like skin I think that's
+
+1480
+00:56:35,570 --> 00:56:40,520
+something that's interesting hello
+
+1481
+00:56:36,980 --> 00:56:43,340
+somatic comm somatic thematic hello
+
+1482
+00:56:40,520 --> 00:56:45,080
+somatic calm and you can have access to
+
+1483
+00:56:43,340 --> 00:56:46,730
+all these great music for your content
+
+1484
+00:56:45,080 --> 00:56:48,860
+without having to worry about takedowns
+
+1485
+00:56:46,730 --> 00:56:50,300
+because article 13 and 17 is gonna
+
+1486
+00:56:48,860 --> 00:56:52,730
+you all that's in the UK especially
+
+1487
+00:56:50,300 --> 00:56:54,530
+right yeah yeah once the UK approves
+
+1488
+00:56:52,730 --> 00:56:56,990
+that it's gonna trickle down to the u.s.
+
+1489
+00:56:54,530 --> 00:56:58,910
+really cool well that's a whole nother
+
+1490
+00:56:56,990 --> 00:57:00,710
+topic we'll have you back this year here
+
+1491
+00:56:58,910 --> 00:57:04,190
+no we'd have to come to you because
+
+1492
+00:57:00,710 --> 00:57:06,410
+you're far so I also uh follow us at at
+
+1493
+00:57:04,190 --> 00:57:08,960
+off the pill on Twitter at off the pill
+
+1494
+00:57:06,410 --> 00:57:10,700
+podcast on Instagram we still say it
+
+1495
+00:57:08,960 --> 00:57:13,040
+every single podcast we will one day
+
+1496
+00:57:10,700 --> 00:57:17,300
+have them be the same thing but until
+
+1497
+00:57:13,040 --> 00:57:19,070
+then almost there that was uh that was
+
+1498
+00:57:17,300 --> 00:57:22,010
+our first la podcast it was not bad
+
+1499
+00:57:19,070 --> 00:57:24,740
+well kinks we got a workout we're kinky
+
+1500
+00:57:22,010 --> 00:57:25,820
+but let's do the proper outro alright so
+
+1501
+00:57:24,740 --> 00:57:28,160
+how we end these is you're basically
+
+1502
+00:57:25,820 --> 00:57:30,850
+just breathe into the mic and three two
+
+1503
+00:57:28,160 --> 00:57:30,850
+one
+
+1504
+00:57:33,680 --> 00:57:38,690
+these ones don't have smell yet because
+
+1505
+00:57:35,849 --> 00:57:38,690
+no one has done that yeah

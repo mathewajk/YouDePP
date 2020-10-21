@@ -1,0 +1,1619 @@
+1
+00:00:00,000 --> 00:00:03,689
+facciamo tutto insetti e benvenuti in
+
+2
+00:00:01,469 --> 00:00:06,330
+questo nuovissimo video della stone
+
+3
+00:00:03,689 --> 00:00:08,189
+block della serie delle sette e stalking
+
+4
+00:00:06,330 --> 00:00:09,990
+voglio traslocare un po dei macchinari
+
+5
+00:00:08,189 --> 00:00:12,599
+che abbiamo realizzato fino ad ora e
+
+6
+00:00:09,990 --> 00:00:14,519
+come vedete ho già realizzato una stanza
+
+7
+00:00:12,599 --> 00:00:16,379
+questa stanza non è abbastanza grande
+
+8
+00:00:14,519 --> 00:00:18,840
+era che ci penso perché il soffitto deve
+
+9
+00:00:16,379 --> 00:00:20,820
+essere un po più altino quindi scaveremo
+
+10
+00:00:18,840 --> 00:00:22,529
+ancora un po sto usando il mio
+
+11
+00:00:20,820 --> 00:00:24,510
+bellissimo flux board che ho trovato
+
+12
+00:00:22,529 --> 00:00:27,029
+grazie alla ricompensa per fortuna
+
+13
+00:00:24,510 --> 00:00:30,210
+aggiungerei con l'impostazione 3 x 3 x 3
+
+14
+00:00:27,029 --> 00:00:33,420
+così scavo dei cubi 3 x 3 x 3 per
+
+15
+00:00:30,210 --> 00:00:37,590
+l'appunto e sto creando una stanza in
+
+16
+00:00:33,420 --> 00:00:42,000
+questo caso con 9x9 sono tra cubi per
+
+17
+00:00:37,590 --> 00:00:43,500
+lato 9x9 ecco potenzialmente potrebbe
+
+18
+00:00:42,000 --> 00:00:45,510
+essere un buon inizio mi ricordo che
+
+19
+00:00:43,500 --> 00:00:47,760
+quando vuole moda era un poco standard
+
+20
+00:00:45,510 --> 00:00:49,170
+alla stanza 9x9 per 9 poi o possono
+
+21
+00:00:47,760 --> 00:00:50,460
+farle il gigante quanto vogliamo è che
+
+22
+00:00:49,170 --> 00:00:51,660
+ci interessa molto
+
+23
+00:00:50,460 --> 00:00:54,180
+in realtà è solo per una questione
+
+24
+00:00:51,660 --> 00:00:55,949
+pratica il soffitto piace molto perché
+
+25
+00:00:54,180 --> 00:00:58,550
+altrimenti mismo cioè non posso saltare
+
+26
+00:00:55,949 --> 00:01:01,309
+un posto fa cose mi sento un po chiuso è
+
+27
+00:00:58,550 --> 00:01:04,799
+però prima di fare qualsiasi altra cosa
+
+28
+00:01:01,309 --> 00:01:07,260
+voglio iniziare a giocare un po con la
+
+29
+00:01:04,799 --> 00:01:09,780
+cisl che è una mode che consente di
+
+30
+00:01:07,260 --> 00:01:12,000
+modificare tutti i blocchi che ci sono
+
+31
+00:01:09,780 --> 00:01:13,590
+in minder vanilla e non solo anche
+
+32
+00:01:12,000 --> 00:01:16,830
+quelli che sono stati aggiunti con le
+
+33
+00:01:13,590 --> 00:01:17,850
+mode è una cosa molto particolare che mi
+
+34
+00:01:16,830 --> 00:01:19,350
+ha sempre affascinato ma non ho mai
+
+35
+00:01:17,850 --> 00:01:21,150
+provato per la prima volta che prova a
+
+36
+00:01:19,350 --> 00:01:23,729
+cesellare dei blocchi non so come
+
+37
+00:01:21,150 --> 00:01:25,710
+funziona come lo scopriremo insieme tra
+
+38
+00:01:23,729 --> 00:01:27,840
+l'altro useremo altri l'exchange in
+
+39
+00:01:25,710 --> 00:01:31,040
+gadget per spostare tutto solo che
+
+40
+00:01:27,840 --> 00:01:33,900
+quando non so come come funziona con con
+
+41
+00:01:31,040 --> 00:01:35,250
+le modalità shift
+
+42
+00:01:33,900 --> 00:01:37,920
+non lo so comunque già delle modalità
+
+43
+00:01:35,250 --> 00:01:39,299
+sto coso ma non riesco a utilizzarle
+
+44
+00:01:37,920 --> 00:01:42,150
+facciamo così intanto lo mettiamo qui a
+
+45
+00:01:39,299 --> 00:01:44,939
+di caricare così magari a una certa avrà
+
+46
+00:01:42,150 --> 00:01:47,189
+tutto il giappone ma scopriamo che posso
+
+47
+00:01:44,939 --> 00:01:49,049
+cambiare tutta una stanza all'improvviso
+
+48
+00:01:47,189 --> 00:01:50,700
+detto questo allora andiamo a prendere
+
+49
+00:01:49,049 --> 00:01:52,829
+uno stick e tin oo approvato queste
+
+50
+00:01:50,700 --> 00:01:55,049
+ceste ad aaron ces è così c'entra più
+
+51
+00:01:52,829 --> 00:01:57,270
+roba senza preoccuparmi troppo
+
+52
+00:01:55,049 --> 00:01:58,770
+prendiamo anche un lingotto il ferro e
+
+53
+00:01:57,270 --> 00:02:01,200
+andiamo a fare una cosa bella
+
+54
+00:01:58,770 --> 00:02:03,530
+andiamo a creare il cisal che sega sta
+
+55
+00:02:01,200 --> 00:02:06,869
+così uno stick è un pezzo di ferro
+
+56
+00:02:03,530 --> 00:02:08,610
+perfetto l'avevamo facili ccc ninja che
+
+57
+00:02:06,869 --> 00:02:11,700
+con il tasto destro abbiamo la graphic
+
+58
+00:02:08,610 --> 00:02:13,080
+user interface con il tasso sinistra ci
+
+59
+00:02:11,700 --> 00:02:17,250
+svegliamo i blocchi che sono nel mondo
+
+60
+00:02:13,080 --> 00:02:19,860
+e niente basta se faccio così mi si apre
+
+61
+00:02:17,250 --> 00:02:22,470
+bob a prendere la mia cobb stone e
+
+62
+00:02:19,860 --> 00:02:23,970
+realizzare un botto di cose ad esempio
+
+63
+00:02:22,470 --> 00:02:26,490
+posso fare questo
+
+64
+00:02:23,970 --> 00:02:29,130
+se posso fare questo e m alcuni un blog
+
+65
+00:02:26,490 --> 00:02:31,950
+o mio dio ma è una figata pazzesca poi
+
+66
+00:02:29,130 --> 00:02:33,840
+immagino che se io faccio così
+
+67
+00:02:31,950 --> 00:02:35,730
+e così posso di trasformarlo in
+
+68
+00:02:33,840 --> 00:02:40,080
+qualsiasi cosa che voglio
+
+69
+00:02:35,730 --> 00:02:43,890
+va bene beh sicuramente bello ma non
+
+70
+00:02:40,080 --> 00:02:46,860
+solo bello po più figo c'è kobe stone
+
+71
+00:02:43,890 --> 00:02:48,290
+prisma cos'è sta roba bellissimo se
+
+72
+00:02:46,860 --> 00:02:51,270
+faccio così posso cambiare in qualsiasi
+
+73
+00:02:48,290 --> 00:02:53,430
+qualsiasi tipo di cosa che posso fare
+
+74
+00:02:51,270 --> 00:02:55,680
+tutti ma quanta durabilità ciao sto coso
+
+75
+00:02:53,430 --> 00:02:57,750
+ora non è che abbia bisogno di chissà
+
+76
+00:02:55,680 --> 00:02:59,520
+quante probabilità nel senso cioè un
+
+77
+00:02:57,750 --> 00:03:02,450
+lingotto di ferro alla fine non è che
+
+78
+00:02:59,520 --> 00:03:04,530
+qua muore nessuno però ho sicuramente
+
+79
+00:03:02,450 --> 00:03:07,020
+funziona con tutti i blocchi quindi la
+
+80
+00:03:04,530 --> 00:03:08,610
+cosa bella è che se io qua dentro ora
+
+81
+00:03:07,020 --> 00:03:11,190
+non è che abbia tantissimi blocchi ma
+
+82
+00:03:08,610 --> 00:03:11,730
+anche con del legno in teoria posso fare
+
+83
+00:03:11,190 --> 00:03:15,570
+delle cose
+
+84
+00:03:11,730 --> 00:03:16,950
+guarda qui che figata che figata
+
+85
+00:03:15,570 --> 00:03:18,630
+come se stesse in un cantiere
+
+86
+00:03:16,950 --> 00:03:19,950
+all'improvviso vasto rogo
+
+87
+00:03:18,630 --> 00:03:24,209
+detto questo su una parete di vetro una
+
+88
+00:03:19,950 --> 00:03:25,170
+figata pazzesca cioè bellissimo mi piace
+
+89
+00:03:24,209 --> 00:03:28,019
+un botto
+
+90
+00:03:25,170 --> 00:03:30,540
+va bene ora dobbiamo capire quale blocco
+
+91
+00:03:28,019 --> 00:03:33,540
+utilizzare sarei mezzo tentato di
+
+92
+00:03:30,540 --> 00:03:35,730
+utilizzare la pietra perché la pietra
+
+93
+00:03:33,540 --> 00:03:37,830
+magari c'è quella cosa un po diversa
+
+94
+00:03:35,730 --> 00:03:39,900
+anzi troviamo andiamo qui a lato
+
+95
+00:03:37,830 --> 00:03:41,280
+facciamo così possiamo trasformarla
+
+96
+00:03:39,900 --> 00:03:44,010
+direttamente in stone brics quindi
+
+97
+00:03:41,280 --> 00:03:47,550
+evitiamo di captare cose mossi cobb su
+
+98
+00:03:44,010 --> 00:03:50,190
+kraft cisl ed è su tutti cesellati in
+
+99
+00:03:47,550 --> 00:03:51,750
+realtà questo sembra poco mattoni mani
+
+100
+00:03:50,190 --> 00:03:53,040
+matteo di una prigione più che di una
+
+101
+00:03:51,750 --> 00:03:55,620
+casa ci sono alcune cose un po
+
+102
+00:03:53,040 --> 00:03:57,690
+particolari c'erano super liscio
+
+103
+00:03:55,620 --> 00:04:00,180
+non male si possono fare delle cose
+
+104
+00:03:57,690 --> 00:04:02,400
+sicuramente muoiono quanto quanto
+
+105
+00:04:00,180 --> 00:04:04,260
+episodi già sto coso a ok ok era finito
+
+106
+00:04:02,400 --> 00:04:07,830
+prima di spostare qualsiasi cosa
+
+107
+00:04:04,260 --> 00:04:10,620
+all'interno della questa stanza che
+
+108
+00:04:07,830 --> 00:04:13,049
+dedicheremo all'energia energia inteso
+
+109
+00:04:10,620 --> 00:04:14,910
+qui quei tre motori con questa struttura
+
+110
+00:04:13,049 --> 00:04:16,200
+qui basta per il momento poi magari
+
+111
+00:04:14,910 --> 00:04:18,239
+questo mettiamo di turno in un'altra
+
+112
+00:04:16,200 --> 00:04:20,790
+stanza e fai questa cosa volevo capire
+
+113
+00:04:18,239 --> 00:04:22,510
+se o della pietra io ora qualche parte
+
+114
+00:04:20,790 --> 00:04:24,130
+dovrei averne
+
+115
+00:04:22,510 --> 00:04:26,290
+no forse l'ho usata tutto per fare gere
+
+116
+00:04:24,130 --> 00:04:29,230
+nello scorso episodio e potete cuocere
+
+117
+00:04:26,290 --> 00:04:31,030
+un po di pietra in effetti devo capire
+
+118
+00:04:29,230 --> 00:04:33,310
+quale blocco voglio utilizzare pregava
+
+119
+00:04:31,030 --> 00:04:34,900
+con la pietra possiamo fare uno smash
+
+120
+00:04:33,310 --> 00:04:36,940
+allo di roba questo abbiamo capito
+
+121
+00:04:34,900 --> 00:04:39,520
+albero che quando non ci siano poi melo
+
+122
+00:04:36,940 --> 00:04:41,440
+da intero questo nuovo capito però figo
+
+123
+00:04:39,520 --> 00:04:43,560
+comunque i cocci sono davvero un botto
+
+124
+00:04:41,440 --> 00:04:47,230
+di roba in confronto alla coop stone
+
+125
+00:04:43,560 --> 00:04:49,630
+nostra commerce uno scherzo cena di più
+
+126
+00:04:47,230 --> 00:04:53,080
+la pietra anche qui questo fighissimo
+
+127
+00:04:49,630 --> 00:04:55,570
+equa purtroppo sentiamo un attimo nel
+
+128
+00:04:53,080 --> 00:04:58,360
+mondo del gusto personale che non sarà
+
+129
+00:04:55,570 --> 00:05:01,000
+mai nella vita uguale il mio al vostro
+
+130
+00:04:58,360 --> 00:05:02,590
+però una cosa è sicura facciamo così e
+
+131
+00:05:01,000 --> 00:05:05,170
+prendiamo un po di roba
+
+132
+00:05:02,590 --> 00:05:08,290
+e poi le cambiamo man umano nel senso
+
+133
+00:05:05,170 --> 00:05:10,750
+che farci troppi troppi scrupoli ad
+
+134
+00:05:08,290 --> 00:05:12,340
+esempio qui né gli angolini potremo
+
+135
+00:05:10,750 --> 00:05:15,160
+mettere tranquillamente queste cose così
+
+136
+00:05:12,340 --> 00:05:17,350
+sembra non sembrano cosa futuri 16 o mio
+
+137
+00:05:15,160 --> 00:05:20,110
+dio ma è un laboratorio ninja
+
+138
+00:05:17,350 --> 00:05:21,520
+non so perché ninja ma va bene uguale e
+
+139
+00:05:20,110 --> 00:05:23,950
+magari ai lati
+
+140
+00:05:21,520 --> 00:05:26,170
+proviamo a cesellare su una serie di
+
+141
+00:05:23,950 --> 00:05:29,320
+blocchi magari non cambiamo tutto perché
+
+142
+00:05:26,170 --> 00:05:31,450
+magari tutto può essere brutto potremmo
+
+143
+00:05:29,320 --> 00:05:36,370
+anche cambiare tutto in effetti cose
+
+144
+00:05:31,450 --> 00:05:38,170
+faccio così 4 5 6 7 8 9
+
+145
+00:05:36,370 --> 00:05:40,750
+ora potrebbe essere un po 1 sbatte in
+
+146
+00:05:38,170 --> 00:05:42,250
+realtà a fare tutto un po sì un po non
+
+147
+00:05:40,750 --> 00:05:44,320
+sbatti va bene acconciamo della coop
+
+148
+00:05:42,250 --> 00:05:45,550
+stone non è un problema non dovrebbe
+
+149
+00:05:44,320 --> 00:05:47,710
+essere un problema
+
+150
+00:05:45,550 --> 00:05:49,720
+non sarà un problema cuociamo uno stack
+
+151
+00:05:47,710 --> 00:05:52,810
+anche più di uno stacco intero di
+
+152
+00:05:49,720 --> 00:05:54,780
+goldstone lo trasformiamo in stone e
+
+153
+00:05:52,810 --> 00:05:56,710
+dopo averlo trasformato in stone
+
+154
+00:05:54,780 --> 00:05:57,400
+sbirceremo tutte le cose usando il
+
+155
+00:05:56,710 --> 00:05:58,900
+nostro budget
+
+156
+00:05:57,400 --> 00:06:00,700
+quindi non dobbiamo neanche spaccare
+
+157
+00:05:58,900 --> 00:06:02,710
+tutto semplicemente bisogno il nostro
+
+158
+00:06:00,700 --> 00:06:04,450
+amichetto che la cosa molto comoda in
+
+159
+00:06:02,710 --> 00:06:07,390
+realtà anzi potete già provarlo ora ad
+
+160
+00:06:04,450 --> 00:06:11,200
+esempio per la parte sopra sembrano cosa
+
+161
+00:06:07,390 --> 00:06:13,960
+ad angolo con questo posso ok ho il mio
+
+162
+00:06:11,200 --> 00:06:15,820
+queste cose sono venuti interessa faccio
+
+163
+00:06:13,960 --> 00:06:18,040
+shift tasto destro
+
+164
+00:06:15,820 --> 00:06:21,880
+l'ho appreso qualcosa li posso mettere
+
+165
+00:06:18,040 --> 00:06:26,560
+lì e li guarda che figata senza muovermi
+
+166
+00:06:21,880 --> 00:06:27,640
+troppo senza fare casini un 2 3 1 2 3 1
+
+167
+00:06:26,560 --> 00:06:30,010
+2 e 3
+
+168
+00:06:27,640 --> 00:06:32,080
+e siamo tutti molto molto molto contenti
+
+169
+00:06:30,010 --> 00:06:36,190
+male non male comunque con questa
+
+170
+00:06:32,080 --> 00:06:38,290
+strategia potrebbe addirittura non lo so
+
+171
+00:06:36,190 --> 00:06:40,210
+in pietro poi in realtà non appena
+
+172
+00:06:38,290 --> 00:06:42,430
+avremo dei blocchi più figli
+
+173
+00:06:40,210 --> 00:06:44,710
+sarà un botto di roba tipo a me
+
+174
+00:06:42,430 --> 00:06:48,100
+interesserebbe tipo olandesi te no non
+
+175
+00:06:44,710 --> 00:06:49,270
+al daisy tela diorite che bianca guarda
+
+176
+00:06:48,100 --> 00:06:53,040
+quante robe fi che si possa fare qua
+
+177
+00:06:49,270 --> 00:06:57,460
+diorite pillar si possono fare i pillar
+
+178
+00:06:53,040 --> 00:07:00,520
+ma io volo ragazzi oh mio dio sa che
+
+179
+00:06:57,460 --> 00:07:05,200
+figata quest'ultimo in mezzo alla sala 1
+
+180
+00:07:00,520 --> 00:07:08,080
+2 3 4 ma che figata ai pillar ma io sto
+
+181
+00:07:05,200 --> 00:07:11,080
+volando tantissimo pieno di roba bella e
+
+182
+00:07:08,080 --> 00:07:13,150
+stupak etto no no non lo metterà lato mi
+
+183
+00:07:11,080 --> 00:07:14,860
+serve dritto e figata
+
+184
+00:07:13,150 --> 00:07:16,720
+posso metterci non ci posso mettere le
+
+185
+00:07:14,860 --> 00:07:18,640
+torce mi sembra anche abbastanza giusto
+
+186
+00:07:16,720 --> 00:07:20,830
+stiamo abbastanza bene di timo delle
+
+187
+00:07:18,640 --> 00:07:23,410
+torce per terra per il momento che
+
+188
+00:07:20,830 --> 00:07:25,810
+figata e pilar wow
+
+189
+00:07:23,410 --> 00:07:30,600
+ma chissà quante 9 ci sono cerchiamo
+
+190
+00:07:25,810 --> 00:07:34,510
+questa moda missing pieces no sono solo
+
+191
+00:07:30,600 --> 00:07:37,720
+sono solamente pillar a quanto pare ci
+
+192
+00:07:34,510 --> 00:07:39,730
+sono delle wag che so perché spindle non
+
+193
+00:07:37,720 --> 00:07:43,210
+so che cosa sia flat spinto al tol
+
+194
+00:07:39,730 --> 00:07:43,690
+spindle bent spindle una spinta come si
+
+195
+00:07:43,210 --> 00:07:46,750
+fa
+
+196
+00:07:43,690 --> 00:07:49,540
+legno e stick non so cosa sono questi ma
+
+197
+00:07:46,750 --> 00:07:51,330
+secondo me possono essere piazzati
+
+198
+00:07:49,540 --> 00:07:54,250
+indi per cui li andremo a craftare
+
+199
+00:07:51,330 --> 00:07:55,660
+diciamo così le facciamo un po ha
+
+200
+00:07:54,250 --> 00:07:58,210
+bisogno di log o di un blocco
+
+201
+00:07:55,660 --> 00:07:59,590
+normalissimo delle plant va bene alla
+
+202
+00:07:58,210 --> 00:08:00,910
+trasformiamo un po di questi facciamo
+
+203
+00:07:59,590 --> 00:08:03,760
+così
+
+204
+00:08:00,910 --> 00:08:06,190
+e così per altri di questi abbiamo ok a
+
+205
+00:08:03,760 --> 00:08:07,240
+uno spin posso piazzare la spinge la
+
+206
+00:08:06,190 --> 00:08:09,640
+spina non si piazza abbiamo quasi
+
+207
+00:08:07,240 --> 00:08:13,210
+all'utilizzo delle spindle frac spindle
+
+208
+00:08:09,640 --> 00:08:15,040
+forse dovrei fare queste otto spindle a
+
+209
+00:08:13,210 --> 00:08:17,890
+cosa servono ste cose o che ne servono a
+
+210
+00:08:15,040 --> 00:08:19,960
+captare altre cose ma perché la missing
+
+211
+00:08:17,890 --> 00:08:21,460
+pieces giustamente io scrivo attaccato
+
+212
+00:08:19,960 --> 00:08:23,620
+altrimenti non funziona qua
+
+213
+00:08:21,460 --> 00:08:26,530
+ecco qui ora posso vedere tutte le cose
+
+214
+00:08:23,620 --> 00:08:30,100
+di questa moda sono tre pagine tra cui
+
+215
+00:08:26,530 --> 00:08:31,960
+anche delle lampade candelabri le sedie
+
+216
+00:08:30,100 --> 00:08:34,570
+che figata sono sicuro che le sedie sono
+
+217
+00:08:31,960 --> 00:08:37,450
+addirittura utilizzabili ma è bellissimo
+
+218
+00:08:34,570 --> 00:08:39,070
+per arredare ci sono molti tavoli per
+
+219
+00:08:37,450 --> 00:08:41,650
+fare una sedia voglio una sedia
+
+220
+00:08:39,070 --> 00:08:43,390
+normalissima di hoc perché l'unico legno
+
+221
+00:08:41,650 --> 00:08:45,190
+che ho al momento cioè non è vero però è
+
+222
+00:08:43,390 --> 00:08:46,960
+l'unico legno che facile da fare che ho
+
+223
+00:08:45,190 --> 00:08:50,200
+al momento per fare
+
+224
+00:08:46,960 --> 00:08:52,840
+di questi non non me lo fa fare posso
+
+225
+00:08:50,200 --> 00:08:55,480
+fare solo l'ultima a quanto pare mi
+
+226
+00:08:52,840 --> 00:08:58,090
+servo degli ben dei bent speedle un po
+
+227
+00:08:55,480 --> 00:09:01,570
+un casino in effetti è però è fattibile
+
+228
+00:08:58,090 --> 00:09:04,240
+perché dovrei averle sì se faccio così o
+
+229
+00:09:01,570 --> 00:09:07,600
+tre band speedo faccio così è una sedia
+
+230
+00:09:04,240 --> 00:09:10,330
+a a adirondack share
+
+231
+00:09:07,600 --> 00:09:12,340
+ma che cacchio est roba promettere una
+
+232
+00:09:10,330 --> 00:09:15,880
+cui una qui posso sedermi ci posso
+
+233
+00:09:12,340 --> 00:09:19,150
+sedermi c o mio dio che bello ci sono
+
+234
+00:09:15,880 --> 00:09:20,530
+delle sedie capito posso arredare so se
+
+235
+00:09:19,150 --> 00:09:21,700
+proprio la cosa della vita che volevo
+
+236
+00:09:20,530 --> 00:09:25,120
+fare
+
+237
+00:09:21,700 --> 00:09:27,670
+però si può e quindi niente al primo
+
+238
+00:09:25,120 --> 00:09:29,620
+momento non lasceremo qui oppure non lo
+
+239
+00:09:27,670 --> 00:09:32,380
+so c'è che figata già solo il fece cdp
+
+240
+00:09:29,620 --> 00:09:35,110
+la grafica da pazzesca bello bello va
+
+241
+00:09:32,380 --> 00:09:36,550
+bene non ci sarà un po della stone che
+
+242
+00:09:35,110 --> 00:09:37,450
+abbiamo già così questo punto inizia a
+
+243
+00:09:36,550 --> 00:09:38,740
+lavorare
+
+244
+00:09:37,450 --> 00:09:40,420
+vediamo dobbiamo scegliere un blocco
+
+245
+00:09:38,740 --> 00:09:43,420
+meno scegliere un blocco un blog che non
+
+246
+00:09:40,420 --> 00:09:45,400
+sia troppo troppo troppo brutto nel
+
+247
+00:09:43,420 --> 00:09:47,590
+troppo troppo troppo bello
+
+248
+00:09:45,400 --> 00:09:49,690
+a questi ti dirò questi mi ispiravano
+
+249
+00:09:47,590 --> 00:09:51,520
+non poco devono vederlo
+
+250
+00:09:49,690 --> 00:09:53,920
+questi sono cazzuti troppo cazzuti però
+
+251
+00:09:51,520 --> 00:09:56,620
+no bisogna cose di un po più tranquillo
+
+252
+00:09:53,920 --> 00:10:00,820
+che altrimenti rischiamo di rendere il
+
+253
+00:09:56,620 --> 00:10:01,720
+tutto troppo poi l'occhio ti si stanca
+
+254
+00:10:00,820 --> 00:10:04,000
+un po così
+
+255
+00:10:01,720 --> 00:10:07,990
+questo sembra interessante ci sono dei
+
+256
+00:10:04,000 --> 00:10:11,530
+tagli ok va bene alla prima piazzarne 1
+
+257
+00:10:07,990 --> 00:10:14,050
+facciamo così prendiamo club tocca a
+
+258
+00:10:11,530 --> 00:10:15,160
+piazzarli noi e poi si fa così vediamo
+
+259
+00:10:14,050 --> 00:10:18,970
+se cambia
+
+260
+00:10:15,160 --> 00:10:19,990
+ok di sicuro è particolare questo posso
+
+261
+00:10:18,970 --> 00:10:22,720
+dirlo con certezza
+
+262
+00:10:19,990 --> 00:10:24,610
+devo fare così che ogni che figata non
+
+263
+00:10:22,720 --> 00:10:27,130
+ne va ma anche una torcia possiamo fare
+
+264
+00:10:24,610 --> 00:10:30,580
+così che ogni istanza avrà un blocco
+
+265
+00:10:27,130 --> 00:10:33,040
+cesellato diverso secondo me e non
+
+266
+00:10:30,580 --> 00:10:36,580
+essere una brutta idea voglio dire vista
+
+267
+00:10:33,040 --> 00:10:38,380
+secondo me poi ho poi capiamo però lei
+
+268
+00:10:36,580 --> 00:10:40,870
+non ci piace questo che ho fatto metà
+
+269
+00:10:38,380 --> 00:10:42,430
+stanza con uno stack
+
+270
+00:10:40,870 --> 00:10:44,620
+la cosa positiva è che tutto particolare
+
+271
+00:10:42,430 --> 00:10:46,480
+così tutto diverso ci sta contento di
+
+272
+00:10:44,620 --> 00:10:49,180
+aver esplorato questa morte esplorato e
+
+273
+00:10:46,480 --> 00:10:51,610
+sparato a un padrone che perché ho poi
+
+274
+00:10:49,180 --> 00:10:54,670
+ho notato che i cc sono di diversi tipi
+
+275
+00:10:51,610 --> 00:10:58,060
+c'è anche quello di diamante ora io non
+
+276
+00:10:54,670 --> 00:10:58,440
+so se questo a select mode single cosa
+
+277
+00:10:58,060 --> 00:11:03,390
+vuole
+
+278
+00:10:58,440 --> 00:11:05,730
+us multi cinici mons ok non so cosa
+
+279
+00:11:03,390 --> 00:11:07,770
+voglia dire sinceramente però poi
+
+280
+00:11:05,730 --> 00:11:10,860
+cesellare anche altre cose poi cesellare
+
+281
+00:11:07,770 --> 00:11:13,620
+un fottìo di roba 193 questo qua di
+
+282
+00:11:10,860 --> 00:11:15,180
+ferro invece poi cesellare ha sempre 143
+
+283
+00:11:13,620 --> 00:11:17,310
+a mente cambiasso la durabilità di
+
+284
+00:11:15,180 --> 00:11:19,530
+quello che cosa c'è più modalità non ci
+
+285
+00:11:17,310 --> 00:11:21,270
+interessa molto si trova verità però
+
+286
+00:11:19,530 --> 00:11:23,280
+guardate cioè se io clicco sull'utilizzo
+
+287
+00:11:21,270 --> 00:11:25,650
+qui la quantità di blocchi che posso
+
+288
+00:11:23,280 --> 00:11:28,950
+cesellare cioè tipo questo qua bianco e
+
+289
+00:11:25,650 --> 00:11:31,020
+cos'era blocco di alluminio che figata
+
+290
+00:11:28,950 --> 00:11:33,330
+che figata cioè possiamo fare un bunker
+
+291
+00:11:31,020 --> 00:11:35,430
+della vita a suddisti blocchi arancioni
+
+292
+00:11:33,330 --> 00:11:37,530
+belli blocco di bronzo voglio un blocco
+
+293
+00:11:35,430 --> 00:11:40,410
+di bronzo ora ti rendi conto cioè o del
+
+294
+00:11:37,530 --> 00:11:42,990
+bronzo del co per poi fare un blocco di
+
+295
+00:11:40,410 --> 00:11:45,600
+copper vi direi forse anche se se posso
+
+296
+00:11:42,990 --> 00:11:47,940
+fare un blocco di copper luci dell eco
+
+297
+00:11:45,600 --> 00:11:50,160
+lo questo è un blocco noi è lo copre
+
+298
+00:11:47,940 --> 00:11:52,230
+shock non voglio su un blocco di coppe
+
+299
+00:11:50,160 --> 00:11:54,540
+ma esisterà per forza un copper block
+
+300
+00:11:52,230 --> 00:11:55,560
+dai non mi deludere cerchiamo lo
+
+301
+00:11:54,540 --> 00:11:58,140
+facciamo prima
+
+302
+00:11:55,560 --> 00:12:00,390
+coop per bloc c'è un copper copper block
+
+303
+00:11:58,140 --> 00:12:03,840
+box copper va bene uguale
+
+304
+00:12:00,390 --> 00:12:06,660
+lo ci sediamo può diventare tante cose
+
+305
+00:12:03,840 --> 00:12:08,880
+ma non è bello come l'altro optato scusa
+
+306
+00:12:06,660 --> 00:12:10,590
+facciamo un blocco di copper lo so che
+
+307
+00:12:08,880 --> 00:12:13,200
+non ne ho tantissimo e che non dovrei
+
+308
+00:12:10,590 --> 00:12:16,680
+che ce frega sono qui per divertirci noi
+
+309
+00:12:13,200 --> 00:12:18,480
+o sbaglio 15 segniamo sto coso e lo
+
+310
+00:12:16,680 --> 00:12:20,910
+rendiamo questo qualche blocco più figo
+
+311
+00:12:18,480 --> 00:12:23,160
+che un po di intese un po sembra un po
+
+312
+00:12:20,910 --> 00:12:26,580
+steampunk dove lo mettiamo
+
+313
+00:12:23,160 --> 00:12:30,030
+lo mettiamo lo mettiamo qui al centro
+
+314
+00:12:26,580 --> 00:12:33,270
+dell'entrata guarda che figata
+
+315
+00:12:30,030 --> 00:12:34,920
+chi ficcata ok poi all'improvviso dovrò
+
+316
+00:12:33,270 --> 00:12:37,080
+fare un crafting mancherà del co però
+
+317
+00:12:34,920 --> 00:12:40,530
+guarda cielo per terra
+
+318
+00:12:37,080 --> 00:12:43,260
+è così che si fa più o meno vito lisi ok
+
+319
+00:12:40,530 --> 00:12:45,630
+ultimi due blocchi e li piazziamo
+
+320
+00:12:43,260 --> 00:12:47,910
+perfetto per il pavimento per lo meno è
+
+321
+00:12:45,630 --> 00:12:49,980
+fatto allora prima disposta a qualsiasi
+
+322
+00:12:47,910 --> 00:12:53,100
+cosa mi piacerebbe creare intanto
+
+323
+00:12:49,980 --> 00:12:57,750
+l'altra stanza che a rigor di logica a
+
+324
+00:12:53,100 --> 00:12:59,370
+questo punto metterei tipo di quanti
+
+325
+00:12:57,750 --> 00:13:01,450
+piacevi tra di qua non so se la scala
+
+326
+00:12:59,370 --> 00:13:04,210
+c'era ce lo concede
+
+327
+00:13:01,450 --> 00:13:05,920
+sai che forse no perché ho scavato fino
+
+328
+00:13:04,210 --> 00:13:08,080
+a tre blocchi si lasci faccio tra di
+
+329
+00:13:05,920 --> 00:13:09,700
+tunnel arrivo ad avere tre di qua
+
+330
+00:13:08,080 --> 00:13:12,940
+vorrei spostarmi un po facciamo in
+
+331
+00:13:09,700 --> 00:13:14,650
+questo primo livello lo lasciamo stare e
+
+332
+00:13:12,940 --> 00:13:18,460
+scaviamo invece tre blocchi di qua
+
+333
+00:13:14,650 --> 00:13:24,640
+questo mezzo corridori noi facciamo così
+
+334
+00:13:18,460 --> 00:13:28,570
+1 2 3 1 2 3
+
+335
+00:13:24,640 --> 00:13:29,920
+direi che come base una stanza 9x9 può
+
+336
+00:13:28,570 --> 00:13:32,070
+bastare
+
+337
+00:13:29,920 --> 00:13:34,320
+mi sembra di una dimensione reale poi a
+
+338
+00:13:32,070 --> 00:13:37,960
+seconda di cosa ci mettiamo dentro
+
+339
+00:13:34,320 --> 00:13:40,390
+potrebbe o meno cambiare io direi anche
+
+340
+00:13:37,960 --> 00:13:43,300
+di fare il soffitto sempre alto
+
+341
+00:13:40,390 --> 00:13:46,030
+sei blocchi che non è male cioè l'avremo
+
+342
+00:13:43,300 --> 00:13:49,450
+sempre a cubi di tre x 3 x trac che non
+
+343
+00:13:46,030 --> 00:13:52,090
+è male a me piace ora spostiamo in tanto
+
+344
+00:13:49,450 --> 00:13:56,440
+di qua l'energia e poi magari facciamo
+
+345
+00:13:52,090 --> 00:13:59,260
+passare un flux dat mezzo al muro ci
+
+346
+00:13:56,440 --> 00:14:00,760
+facciamo delle cover qualcosa per dare
+
+347
+00:13:59,260 --> 00:14:03,460
+energia comunque a tutta quella roba lì
+
+348
+00:14:00,760 --> 00:14:06,250
+cioè voglio creare magari il sistema di
+
+349
+00:14:03,460 --> 00:14:09,140
+polverizzazione
+
+350
+00:14:06,250 --> 00:14:11,390
+tipo di processi in the ior
+
+351
+00:14:09,140 --> 00:14:12,500
+nel caso poi ne avrò altri è sempre la
+
+352
+00:14:11,390 --> 00:14:15,320
+stessa stanza a questo punto facciamo
+
+353
+00:14:12,500 --> 00:14:18,500
+tutto il sistema che da questa cesta poi
+
+354
+00:14:15,320 --> 00:14:21,640
+mi porta ad avere i lingotti veri e
+
+355
+00:14:18,500 --> 00:14:24,410
+propri che non sarebbe male sinceramente
+
+356
+00:14:21,640 --> 00:14:27,470
+che aveva tutta la coppia stone keith
+
+357
+00:14:24,410 --> 00:14:29,150
+scavo su più di cobb sto bene comunque
+
+358
+00:14:27,470 --> 00:14:31,730
+per fare questo sistema paese utilizzerò
+
+359
+00:14:29,150 --> 00:14:34,070
+il compact in drawer perché dovrebbero
+
+360
+00:14:31,730 --> 00:14:36,020
+funzionare abbastanza bene
+
+361
+00:14:34,070 --> 00:14:38,180
+tutti questi peace dovrebbero
+
+362
+00:14:36,020 --> 00:14:41,000
+automaticamente s trasformati in coppe
+
+363
+00:14:38,180 --> 00:14:43,130
+rohr chunk anzi potrei fare una prova
+
+364
+00:14:41,000 --> 00:14:46,910
+sinceramente però che al tar né uno
+
+365
+00:14:43,130 --> 00:14:49,100
+tanto la pietra cielo i pistoni posso
+
+366
+00:14:46,910 --> 00:14:51,740
+captarli molto facilmente vediamo un po
+
+367
+00:14:49,100 --> 00:14:53,570
+di ferro mi serve poi un drouet roma per
+
+368
+00:14:51,740 --> 00:14:55,610
+fare il drover non penso ci sia nessun
+
+369
+00:14:53,570 --> 00:14:58,670
+tipo di problema fece un basic drawer
+
+370
+00:14:55,610 --> 00:15:01,160
+con vabbè legno cielo
+
+371
+00:14:58,670 --> 00:15:05,240
+direi che siamo a cavallo facciamo una
+
+372
+00:15:01,160 --> 00:15:08,300
+cesta con dei pranks attorno
+
+373
+00:15:05,240 --> 00:15:10,310
+ok abbiamo basic trower captiamo uno di
+
+374
+00:15:08,300 --> 00:15:13,040
+questi mancano i pistoni non è un
+
+375
+00:15:10,310 --> 00:15:14,420
+problema che facciamo 22 per il momento
+
+376
+00:15:13,040 --> 00:15:16,130
+per lo meno è vero che queste cobol
+
+377
+00:15:14,420 --> 00:15:17,900
+stone in quel momento detto ma che ci
+
+378
+00:15:16,130 --> 00:15:21,350
+fanno delle lanterne là dentro
+
+379
+00:15:17,900 --> 00:15:24,890
+facciamo così e pupo ma c'è anche uno
+
+380
+00:15:21,350 --> 00:15:28,520
+strumento compresse silence cosa vuol
+
+381
+00:15:24,890 --> 00:15:31,310
+dire interessante magari e tipo il
+
+382
+00:15:28,520 --> 00:15:32,510
+crowne auto crafter allora tanto vediamo
+
+383
+00:15:31,310 --> 00:15:35,060
+se questo funziona anche se questo
+
+384
+00:15:32,510 --> 00:15:37,160
+funziona è un è un modo un minimo più
+
+385
+00:15:35,060 --> 00:15:39,350
+analogico ma dovrebbe funzionare
+
+386
+00:15:37,160 --> 00:15:42,890
+veniamo tutti i nostri air onora se io
+
+387
+00:15:39,350 --> 00:15:46,340
+faccio così come tutto là dentro e posso
+
+388
+00:15:42,890 --> 00:15:50,840
+tirare fuori 130 iron horse chunk
+
+389
+00:15:46,340 --> 00:15:53,060
+perfetto mi trovo leggermente a cavallo
+
+390
+00:15:50,840 --> 00:15:54,920
+se posso dire la mia e sono molto
+
+391
+00:15:53,060 --> 00:15:59,930
+contento di questa cosa perché vuol dire
+
+392
+00:15:54,920 --> 00:16:03,440
+che posso mandare dentro con i transfer
+
+393
+00:15:59,930 --> 00:16:06,560
+pipe ip i pezzi e con un altro transfer
+
+394
+00:16:03,440 --> 00:16:08,720
+pipe magari con un filtro a questo punto
+
+395
+00:16:06,560 --> 00:16:10,370
+fuori l'altra roba devo fare un po di
+
+396
+00:16:08,720 --> 00:16:11,000
+esperimenti vedere se funziona ma se
+
+397
+00:16:10,370 --> 00:16:12,920
+funziona
+
+398
+00:16:11,000 --> 00:16:14,420
+siamo a cavallo ragazzi per questo video
+
+399
+00:16:12,920 --> 00:16:15,950
+è tutto scegliamo domande 7 con i
+
+400
+00:16:14,420 --> 00:16:17,150
+prossimi cederà sedere sette iscritti
+
+401
+00:16:15,950 --> 00:16:18,259
+del canale se ancora è di fatto che
+
+402
+00:16:17,150 --> 00:16:19,939
+sulla campania per non perder
+
+403
+00:16:18,259 --> 00:16:22,779
+quindi nessun video io vi saluto ciao
+
+404
+00:16:19,939 --> 00:16:22,779
+futuro tutti
+
+405
+00:16:25,730 --> 00:16:40,429
+[Musica]

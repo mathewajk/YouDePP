@@ -1,0 +1,1271 @@
+1
+00:00:00,000 --> 00:00:03,540
+ciao a tutti che ciotti e benvenuti in
+
+2
+00:00:01,620 --> 00:00:09,290
+questo nuovissimo video di minecraft
+
+3
+00:00:03,540 --> 00:00:12,509
+oggi siamo nello snapshot lo snapshot 19
+
+4
+00:00:09,290 --> 00:00:14,040
+www non so mai come cacchio si pronuncio
+
+5
+00:00:12,509 --> 00:00:16,289
+perché non mi ricordo ma che cacchio che
+
+6
+00:00:14,040 --> 00:00:21,240
+cosa rappresenta in teoria dovrebbe
+
+7
+00:00:16,289 --> 00:00:23,119
+essere di c'hanno 19 el'hanno wl week
+
+8
+00:00:21,240 --> 00:00:27,180
+quindi è quarantunesima settimana
+
+9
+00:00:23,119 --> 00:00:27,930
+dell'anno 2019 e la indica la prima
+
+10
+00:00:27,180 --> 00:00:31,920
+versione dello staff
+
+11
+00:00:27,930 --> 00:00:34,890
+qui siamo nel 19w 41 a fantastic ora
+
+12
+00:00:31,920 --> 00:00:36,600
+abbiamo capito il senso del nome dello
+
+13
+00:00:34,890 --> 00:00:39,660
+snap shot siamo in questo snapshot qui
+
+14
+00:00:36,600 --> 00:00:42,239
+dopo un paio di edizioni in cui hanno
+
+15
+00:00:39,660 --> 00:00:44,579
+evitato di aggiungere cose ma non
+
+16
+00:00:42,239 --> 00:00:46,890
+solamente fatto dei bugfix bug fix che
+
+17
+00:00:44,579 --> 00:00:49,230
+sicuramente sarebbero ne sono essenziali
+
+18
+00:00:46,890 --> 00:00:51,239
+per il buon pro che dire dello sviluppo
+
+19
+00:00:49,230 --> 00:00:53,399
+del gioco ma anche a noi non interessano
+
+20
+00:00:51,239 --> 00:00:56,250
+per niente infatti come te notato non ho
+
+21
+00:00:53,399 --> 00:00:56,879
+fatto video su gli snapshot nell'ultimo
+
+22
+00:00:56,250 --> 00:00:58,920
+periodo
+
+23
+00:00:56,879 --> 00:01:00,750
+se per quello la profumazione ancora un
+
+24
+00:00:58,920 --> 00:01:02,309
+po instabile prova bene prima o poi
+
+25
+00:01:00,750 --> 00:01:03,030
+riuscirò a capire cosa voglio fare della
+
+26
+00:01:02,309 --> 00:01:05,010
+mia vita
+
+27
+00:01:03,030 --> 00:01:07,020
+detto questo allora in questo snapshot
+
+28
+00:01:05,010 --> 00:01:09,990
+in realtà hanno aggiunto diverse cose
+
+29
+00:01:07,020 --> 00:01:12,000
+alcune cose anche abbastanza utili sono
+
+30
+00:01:09,990 --> 00:01:15,270
+state tre le aggiunte hanno aggiunto il
+
+31
+00:01:12,000 --> 00:01:17,340
+blocco di miele jonico bloc che è
+
+32
+00:01:15,270 --> 00:01:19,830
+un'altra cosa e poi hanno fatto una
+
+33
+00:01:17,340 --> 00:01:22,799
+modifica ieri un gol e ma che potrebbe
+
+34
+00:01:19,830 --> 00:01:25,470
+non essere interessante ma secondo me in
+
+35
+00:01:22,799 --> 00:01:28,409
+realtà lo sarà per lo meno sono curioso
+
+36
+00:01:25,470 --> 00:01:30,600
+di vedere come l'hanno fatta allora idea
+
+37
+00:01:28,409 --> 00:01:32,400
+che bisogna partire dai blocchi di di
+
+38
+00:01:30,600 --> 00:01:36,150
+miele che annunciato anche durante la
+
+39
+00:01:32,400 --> 00:01:37,650
+live del main con non del main con
+
+40
+00:01:36,150 --> 00:01:39,600
+insomma dell'aggiornamento di minecraft
+
+41
+00:01:37,650 --> 00:01:44,009
+fatto questa live ci ho fatto un video
+
+42
+00:01:39,600 --> 00:01:45,210
+dedicato anche e da questa live è sorto
+
+43
+00:01:44,009 --> 00:01:48,899
+stop o nei blog
+
+44
+00:01:45,210 --> 00:01:50,280
+andiamo a vederlo allora ci sono tutti i
+
+45
+00:01:48,899 --> 00:01:52,950
+tipi di blocchi in realtà abbiamo e l'on
+
+46
+00:01:50,280 --> 00:01:55,079
+e com che si ottiene dagli alveari delle
+
+47
+00:01:52,950 --> 00:01:56,009
+api demoni e battono anche questo studio
+
+48
+00:01:55,079 --> 00:01:58,259
+degli alveari
+
+49
+00:01:56,009 --> 00:02:00,450
+immagino che componendolo né combo
+
+50
+00:01:58,259 --> 00:02:02,520
+oppure in qualche modo non so bene come
+
+51
+00:02:00,450 --> 00:02:04,350
+si captano i blocchi d'alta jonico ha un
+
+52
+00:02:02,520 --> 00:02:06,869
+blog so che posso cacciarlo
+
+53
+00:02:04,350 --> 00:02:09,509
+se per una caf thing the ball e prendo
+
+54
+00:02:06,869 --> 00:02:12,450
+dello nei e per un tipo un botto di
+
+55
+00:02:09,509 --> 00:02:15,060
+questi se metto cuna casting table
+
+56
+00:02:12,450 --> 00:02:16,890
+però captare riescono 16 honey comb
+
+57
+00:02:15,060 --> 00:02:18,540
+block però non ne con bloc che io sappia
+
+58
+00:02:16,890 --> 00:02:20,310
+non è che serve a molto
+
+59
+00:02:18,540 --> 00:02:23,129
+in teoria su tutti appiccicosi stiloge
+
+60
+00:02:20,310 --> 00:02:25,459
+anche se ora non mi sembra anno a questo
+
+61
+00:02:23,129 --> 00:02:27,480
+è puramente decorativo dice il changelog
+
+62
+00:02:25,459 --> 00:02:29,430
+fantastico allora l'unico un blog che
+
+63
+00:02:27,480 --> 00:02:30,980
+kraft abile tramite leone com che si
+
+64
+00:02:29,430 --> 00:02:35,849
+ottiene degli alveari è puramente
+
+65
+00:02:30,980 --> 00:02:38,700
+decorativo il rumore è un po strano però
+
+66
+00:02:35,849 --> 00:02:41,849
+va bene uguale detto questo mi verrebbe
+
+67
+00:02:38,700 --> 00:02:44,580
+da dire quindi che non serve a molto è
+
+68
+00:02:41,849 --> 00:02:47,700
+solo decorativo to serve a nulla invece
+
+69
+00:02:44,580 --> 00:02:50,420
+launay block sakozy kraft aloni bloc che
+
+70
+00:02:47,700 --> 00:02:54,299
+non vedere qui se io vado a vedere tipo
+
+71
+00:02:50,420 --> 00:02:57,150
+jolie non cerco honey
+
+72
+00:02:54,299 --> 00:02:57,569
+non lo so sono le cose che ci servivano
+
+73
+00:02:57,150 --> 00:02:59,519
+i block
+
+74
+00:02:57,569 --> 00:03:02,040
+ok c'è chi ore sitebook per failoni
+
+75
+00:02:59,519 --> 00:03:03,810
+block attenzione per fare un blocco ha
+
+76
+00:03:02,040 --> 00:03:06,329
+bisogno di quattro bottiglie di honey
+
+77
+00:03:03,810 --> 00:03:10,170
+quindi diventerà un crafting in realtà
+
+78
+00:03:06,329 --> 00:03:12,390
+abbastanza complicato e molto complicato
+
+79
+00:03:10,170 --> 00:03:14,670
+perché le bottiglie non sono staccabili
+
+80
+00:03:12,390 --> 00:03:16,940
+se io prendo uno nei botto non può
+
+81
+00:03:14,670 --> 00:03:20,970
+averne uno stack capito devo avere
+
+82
+00:03:16,940 --> 00:03:25,739
+quattro diverse nell'inventario e allora
+
+83
+00:03:20,970 --> 00:03:27,690
+potrò fare un blocco di di miele
+
+84
+00:03:25,739 --> 00:03:29,430
+va bene ha sicuramente sarà interessante
+
+85
+00:03:27,690 --> 00:03:31,760
+però intanto a piazzarlo che vediamo
+
+86
+00:03:29,430 --> 00:03:36,780
+come il rumore fa dà ancora più fastidio
+
+87
+00:03:31,760 --> 00:03:39,389
+dell'on e com guarda 6 dà più fastidio è
+
+88
+00:03:36,780 --> 00:03:40,859
+più gelatinoso proprio da vabbè comunque
+
+89
+00:03:39,389 --> 00:03:44,040
+come vedete è come se fosse in realtà
+
+90
+00:03:40,859 --> 00:03:46,350
+uno slide bloc non a tutti gli effetti
+
+91
+00:03:44,040 --> 00:03:48,840
+perché come vi anticipavo del video di
+
+92
+00:03:46,350 --> 00:03:51,690
+analisi della live di minecraft ci sono
+
+93
+00:03:48,840 --> 00:03:53,280
+delle modifiche diciamo che cambia un po
+
+94
+00:03:51,690 --> 00:03:55,170
+il principio dietro questo tipo di
+
+95
+00:03:53,280 --> 00:03:58,620
+blocco in teoria dovrebbe rallentare le
+
+96
+00:03:55,170 --> 00:04:00,959
+persone anche lo slide bloc a modifica
+
+97
+00:03:58,620 --> 00:04:03,120
+la velocità diciamo non ti fa andare
+
+98
+00:04:00,959 --> 00:04:06,239
+veloce velocissimo e ti fa saltare di
+
+99
+00:04:03,120 --> 00:04:08,819
+più questo in realtà e appiccicoso
+
+100
+00:04:06,239 --> 00:04:10,769
+come vedete vado molto più lento
+
+101
+00:04:08,819 --> 00:04:13,169
+rispetto a un blocco normale come
+
+102
+00:04:10,769 --> 00:04:15,389
+potrebbe essere dalle com o la terra
+
+103
+00:04:13,169 --> 00:04:17,220
+vado molto più lento e anche altri
+
+104
+00:04:15,389 --> 00:04:19,609
+principi che ora andiamo a vedere
+
+105
+00:04:17,220 --> 00:04:22,229
+insieme notare che se stesso il bordino
+
+106
+00:04:19,609 --> 00:04:25,470
+corre uguale quindi già questo potrebbe
+
+107
+00:04:22,229 --> 00:04:26,020
+essere un modo per ovviare a mappe di
+
+108
+00:04:25,470 --> 00:04:27,759
+parco
+
+109
+00:04:26,020 --> 00:04:31,090
+perché faranno io già ne sono sicuro
+
+110
+00:04:27,759 --> 00:04:32,710
+mamma mia andiamo a vedere insieme tutto
+
+111
+00:04:31,090 --> 00:04:35,710
+il cielo perché hanno fatto che hanno
+
+112
+00:04:32,710 --> 00:04:37,840
+aggiunto con questo con i block allora
+
+113
+00:04:35,710 --> 00:04:39,940
+walking gianpi nice limited quindi come
+
+114
+00:04:37,840 --> 00:04:42,310
+potete vedere anche saltare anche
+
+115
+00:04:39,940 --> 00:04:44,440
+saltare diventa complicato
+
+116
+00:04:42,310 --> 00:04:46,060
+questo è un salto normale questo è un
+
+117
+00:04:44,440 --> 00:04:48,069
+salto sullo niblock quindi per la mente
+
+118
+00:04:46,060 --> 00:04:51,569
+non può esaltare questo ci sta dicendo
+
+119
+00:04:48,069 --> 00:04:54,220
+il gioco fantastico poi questo è
+
+120
+00:04:51,569 --> 00:04:57,280
+interessantissimo allora prendiamo dei
+
+121
+00:04:54,220 --> 00:04:59,319
+pistoni prendiamo una leva perché la
+
+122
+00:04:57,280 --> 00:05:04,330
+leva e nera lo scopriremo poi col tempo
+
+123
+00:04:59,319 --> 00:05:08,050
+sicuramente allora se io prendo un
+
+124
+00:05:04,330 --> 00:05:10,300
+pistone e ci metto 1 nei blog
+
+125
+00:05:08,050 --> 00:05:12,789
+anzi facciamo così lo mettiamo qua in
+
+126
+00:05:10,300 --> 00:05:13,419
+alto o metto 1 nei blog e accanto 9
+
+127
+00:05:12,789 --> 00:05:14,800
+blocchi mit
+
+128
+00:05:13,419 --> 00:05:17,530
+anzi sembra non avevo messo tipo una
+
+129
+00:05:14,800 --> 00:05:18,819
+casting table che io faccio così si
+
+130
+00:05:17,530 --> 00:05:20,440
+sposta tutto insieme
+
+131
+00:05:18,819 --> 00:05:22,180
+fantastico non capisco perché la leva
+
+132
+00:05:20,440 --> 00:05:23,650
+cia questa texture nera proprio bene
+
+133
+00:05:22,180 --> 00:05:26,680
+uguale
+
+134
+00:05:23,650 --> 00:05:30,849
+cioè capite che il principe lo stesso
+
+135
+00:05:26,680 --> 00:05:33,580
+dei si chiamano baseline bloc
+
+136
+00:05:30,849 --> 00:05:40,090
+ok quindi esposta alle cose però fare
+
+137
+00:05:33,580 --> 00:05:43,090
+una differenza tra slide block e come si
+
+138
+00:05:40,090 --> 00:05:45,550
+dice o niblock perché se non è una
+
+139
+00:05:43,090 --> 00:05:47,110
+differenza c'è a meno che non abbia
+
+140
+00:05:45,550 --> 00:05:50,620
+letto ma nel centro prendiamo anche lo
+
+141
+00:05:47,110 --> 00:05:52,389
+slide block lo mettiamo qui allora
+
+142
+00:05:50,620 --> 00:05:54,279
+vedete che se io metto la carta table e
+
+143
+00:05:52,389 --> 00:05:55,960
+prendo un po di red room per attivare
+
+144
+00:05:54,279 --> 00:05:58,690
+tutto altrimenti giustamente rimandano
+
+145
+00:05:55,960 --> 00:06:00,789
+tutti a quel paese è fatto così si
+
+146
+00:05:58,690 --> 00:06:02,319
+sposta tutto fantastico primo levare ste
+
+147
+00:06:00,789 --> 00:06:04,990
+cose per metterci sullo slide block e
+
+148
+00:06:02,319 --> 00:06:06,789
+attiva del tutto io rimango fermo vedete
+
+149
+00:06:04,990 --> 00:06:09,279
+non mi sono mosso insieme allo slide hoc
+
+150
+00:06:06,789 --> 00:06:12,310
+invece secondo il changelog quando io
+
+151
+00:06:09,279 --> 00:06:13,949
+sto sopra launay block mi sposto insieme
+
+152
+00:06:12,310 --> 00:06:17,620
+allo nei blog
+
+153
+00:06:13,949 --> 00:06:22,750
+questo signori ci permetterà di creare
+
+154
+00:06:17,620 --> 00:06:24,430
+degli spostamenti rapidi e ci pensate
+
+155
+00:06:22,750 --> 00:06:28,419
+cioè se io prendo questo niblock e lo
+
+156
+00:06:24,430 --> 00:06:30,660
+spaccio spostare tante volte prima a
+
+157
+00:06:28,419 --> 00:06:33,750
+fare una cosa di questo tipo
+
+158
+00:06:30,660 --> 00:06:36,960
+io ho questo qui voglio qualcosa qui
+
+159
+00:06:33,750 --> 00:06:38,510
+tipo potenzialmente io faccio cose di
+
+160
+00:06:36,960 --> 00:06:41,250
+questo tipo
+
+161
+00:06:38,510 --> 00:06:44,220
+123 capito automatizzando questo
+
+162
+00:06:41,250 --> 00:06:47,960
+processo con della red stone anno
+
+163
+00:06:44,220 --> 00:06:50,820
+aspetta ritorno no ok anche al ritorno
+
+164
+00:06:47,960 --> 00:06:54,090
+bucata ovviamente ancora uno snapshot
+
+165
+00:06:50,820 --> 00:06:56,460
+quindi dove tutto oro ciò che luccica e
+
+166
+00:06:54,090 --> 00:07:00,390
+sto scusato tutto appresso posso fare
+
+167
+00:06:56,460 --> 00:07:01,980
+una macchina volante che mi può la
+
+168
+00:07:00,390 --> 00:07:03,960
+macchina volante che porta anche i
+
+169
+00:07:01,980 --> 00:07:07,200
+player perché figura la macchina volante
+
+170
+00:07:03,960 --> 00:07:09,810
+per trasportare un player cioè non penso
+
+171
+00:07:07,200 --> 00:07:10,890
+ci fosse una super super efficace con
+
+172
+00:07:09,810 --> 00:07:12,780
+questo un i block
+
+173
+00:07:10,890 --> 00:07:20,430
+la differenza si farà sentire ma un
+
+174
+00:07:12,780 --> 00:07:23,030
+botto dopo un botto è fantastico
+
+175
+00:07:20,430 --> 00:07:26,130
+un'altra cosa che faccio il game hub
+
+176
+00:07:23,030 --> 00:07:29,250
+survival in teoria il blocco di miele
+
+177
+00:07:26,130 --> 00:07:31,080
+attutisce la caduta funziona un po come
+
+178
+00:07:29,250 --> 00:07:33,240
+lo slideshow close la mente di far
+
+179
+00:07:31,080 --> 00:07:35,820
+rimbalzare questo ti blocca la caduta
+
+180
+00:07:33,240 --> 00:07:38,340
+all'istante e a tutti c'è anche il danno
+
+181
+00:07:35,820 --> 00:07:41,040
+che non è male altra cosa se prendo dei
+
+182
+00:07:38,340 --> 00:07:44,400
+o niblock e faccio un muro di honey
+
+183
+00:07:41,040 --> 00:07:46,650
+block diventa interessante diventa
+
+184
+00:07:44,400 --> 00:07:49,590
+particolarmente interessante questo
+
+185
+00:07:46,650 --> 00:07:51,540
+diciamo apre a nuove idee sia per il par
+
+186
+00:07:49,590 --> 00:07:53,520
+tour ma anche proprio per il proprio
+
+187
+00:07:51,540 --> 00:07:56,370
+mondo ad esempio potrebbe essere
+
+188
+00:07:53,520 --> 00:07:59,760
+interessante fare un cannone di kenneth
+
+189
+00:07:56,370 --> 00:08:01,580
+di chi spara contro un muro di miele e
+
+190
+00:07:59,760 --> 00:08:04,380
+il muro di miele da quello che ho capito
+
+191
+00:08:01,580 --> 00:08:06,000
+a tutti c'è la caduta
+
+192
+00:08:04,380 --> 00:08:08,250
+quindi se io faccio una cosa di questo
+
+193
+00:08:06,000 --> 00:08:12,470
+tipo e prendo un approccio degli slam
+
+194
+00:08:08,250 --> 00:08:16,950
+book però non è un tipo nella terra
+
+195
+00:08:12,470 --> 00:08:17,600
+della terra no e mi lanciò contro sta
+
+196
+00:08:16,950 --> 00:08:20,360
+roba
+
+197
+00:08:17,600 --> 00:08:22,380
+come vedete scendo molto più lentamente
+
+198
+00:08:20,360 --> 00:08:24,360
+sembra tipo assassin's creed quando si
+
+199
+00:08:22,380 --> 00:08:28,650
+lancia contro le cose però a farlo
+
+200
+00:08:24,360 --> 00:08:30,750
+in questo modo boom vedi molto lento è
+
+201
+00:08:28,650 --> 00:08:34,590
+una figata è una figata alcuni ti
+
+202
+00:08:30,750 --> 00:08:36,960
+permette di bloccare un gran bene so se
+
+203
+00:08:34,590 --> 00:08:39,630
+blocca il danno perchè se venissi
+
+204
+00:08:36,960 --> 00:08:44,140
+lanciato cui down da un qualcosa di
+
+205
+00:08:39,630 --> 00:08:45,460
+potente tipo un cannone di tnt
+
+206
+00:08:44,140 --> 00:08:47,830
+non so se prenderei danno o meno
+
+207
+00:08:45,460 --> 00:08:49,480
+possiamo provare
+
+208
+00:08:47,830 --> 00:08:51,670
+possiamo provare allora è da un po che
+
+209
+00:08:49,480 --> 00:08:53,290
+non faccio un clienti canon ma se non
+
+210
+00:08:51,670 --> 00:08:58,720
+ricordo male mi serve tipo uno sla
+
+211
+00:08:53,290 --> 00:09:00,430
+bettino qua ci serve un po di tnt qua un
+
+212
+00:08:58,720 --> 00:09:02,170
+blocco d'acqua ancora come vi faccio
+
+213
+00:09:00,430 --> 00:09:04,180
+esplodere tutto sicuro guarda come
+
+214
+00:09:02,170 --> 00:09:06,880
+esplode tutto il mondo
+
+215
+00:09:04,180 --> 00:09:09,790
+serve un po d'acqua che metterò qua e
+
+216
+00:09:06,880 --> 00:09:12,580
+facciamo una cosa di questo tipo e di
+
+217
+00:09:09,790 --> 00:09:13,060
+questo tipo se mi metto qui vediamo sta
+
+218
+00:09:12,580 --> 00:09:15,310
+roba qua
+
+219
+00:09:13,060 --> 00:09:18,670
+forse bisogna anche alzato attimino
+
+220
+00:09:15,310 --> 00:09:21,160
+questo mi metto qui e vediamo sparati
+
+221
+00:09:18,670 --> 00:09:27,430
+giusto
+
+222
+00:09:21,160 --> 00:09:29,890
+vediamo che succede ok non era
+
+223
+00:09:27,430 --> 00:09:31,810
+propriamente miglior canzone la vita
+
+224
+00:09:29,890 --> 00:09:35,610
+facciamo così visto che il canone non è
+
+225
+00:09:31,810 --> 00:09:35,610
+abbastanza potente avviciniamo il muro
+
+226
+00:09:41,130 --> 00:09:49,540
+quasi sicuramente comunque prenderei
+
+227
+00:09:43,090 --> 00:09:51,490
+dell'anno è già solo l'esclusione però
+
+228
+00:09:49,540 --> 00:09:54,850
+sono curioso di sapere se funziona o
+
+229
+00:09:51,490 --> 00:09:55,300
+meno la mia teoria sul proprio sul
+
+230
+00:09:54,850 --> 00:09:58,120
+blocco
+
+231
+00:09:55,300 --> 00:10:00,400
+mannaggia purtroppo controllando e che
+
+232
+00:09:58,120 --> 00:10:01,990
+etica non lancio per i giocatori per lo
+
+233
+00:10:00,400 --> 00:10:04,090
+meno non lanciano solo in verticale non
+
+234
+00:10:01,990 --> 00:10:06,640
+escort quando uno che lancia passo
+
+235
+00:10:04,090 --> 00:10:10,150
+avanti ultimissimo tentativo giusto
+
+236
+00:10:06,640 --> 00:10:15,910
+perché son curioso pazza guarda quanta
+
+237
+00:10:10,150 --> 00:10:20,140
+tnt ok no di un blocco di un blocco
+
+238
+00:10:15,910 --> 00:10:22,810
+troppo come superato questo è un affare
+
+239
+00:10:20,140 --> 00:10:25,930
+così rendere questo più alto così devi
+
+240
+00:10:22,810 --> 00:10:32,260
+sbattere per forza voglio dire porca
+
+241
+00:10:25,930 --> 00:10:35,140
+vacca fammi volare forza ma è capitano
+
+242
+00:10:32,260 --> 00:10:36,760
+ok esattamente ciò che volevo fare
+
+243
+00:10:35,140 --> 00:10:39,040
+ultimo no meno importante è un'altra
+
+244
+00:10:36,760 --> 00:10:43,330
+caratteristica di questo blocco è che in
+
+245
+00:10:39,040 --> 00:10:46,570
+teoria dovrebbe tenere lontano moby e
+
+246
+00:10:43,330 --> 00:10:48,670
+animali a quanto pare non piace agli
+
+247
+00:10:46,570 --> 00:10:50,890
+animali il camminare su questo blocco
+
+248
+00:10:48,670 --> 00:10:51,940
+perché gli venne a principi ci proviamo
+
+249
+00:10:50,890 --> 00:10:54,769
+inserire qua dentro
+
+250
+00:10:51,940 --> 00:10:57,350
+non lo so villager
+
+251
+00:10:54,769 --> 00:10:58,129
+e vediamo se il villager prova uscire
+
+252
+00:10:57,350 --> 00:11:00,579
+oppure no
+
+253
+00:10:58,129 --> 00:11:02,869
+ok beh in realtà è sul blocco
+
+254
+00:11:00,579 --> 00:11:04,939
+promettevano di zombie vediamo se scappa
+
+255
+00:11:02,869 --> 00:11:08,089
+vediamo se la paura dello zombie è
+
+256
+00:11:04,939 --> 00:11:09,110
+maggiore rispetto dei se ne sbatte se ne
+
+257
+00:11:08,089 --> 00:11:12,679
+sbatto il cazzo
+
+258
+00:11:09,110 --> 00:11:15,799
+proviamo con un animale tipo una ship e
+
+259
+00:11:12,679 --> 00:11:17,899
+un wolf mettiamo un lupo e pecora
+
+260
+00:11:15,799 --> 00:11:19,309
+mettiamo una pecora qua dentro
+
+261
+00:11:17,899 --> 00:11:20,899
+ma ad ogni modo vedo che ci passa sopra
+
+262
+00:11:19,309 --> 00:11:23,029
+come se nulla fosse dal changelog
+
+263
+00:11:20,899 --> 00:11:25,399
+sembrava come se fosse lo stesso
+
+264
+00:11:23,029 --> 00:11:27,649
+principio della rotaia cioè che non ci
+
+265
+00:11:25,399 --> 00:11:29,389
+può passare sopra invece dice no non gli
+
+266
+00:11:27,649 --> 00:11:32,239
+piace ho capito noi piace ci passa
+
+267
+00:11:29,389 --> 00:11:34,249
+comunque sopra le scelto un lupo ecco il
+
+268
+00:11:32,239 --> 00:11:35,470
+lupo ora si incazzava uccide la pecora è
+
+269
+00:11:34,249 --> 00:11:38,299
+come se non ci fossero stati blocchi
+
+270
+00:11:35,470 --> 00:11:39,860
+fantastico fantastico e tolone komba è
+
+271
+00:11:38,299 --> 00:11:41,350
+puramente decorativo
+
+272
+00:11:39,860 --> 00:11:43,610
+ultima cosa che è stata aggiunta
+
+273
+00:11:41,350 --> 00:11:46,040
+riguarda gli aerei un golem a vagliare
+
+274
+00:11:43,610 --> 00:11:49,189
+un golem interessante quando prendo un
+
+275
+00:11:46,040 --> 00:11:50,540
+aereo un golem e lo dobbiamo craftare
+
+276
+00:11:49,189 --> 00:11:54,829
+lealtà quindi prendiamo anche una
+
+277
+00:11:50,540 --> 00:11:56,720
+pumpkin ok può anche non lo so una spada
+
+278
+00:11:54,829 --> 00:11:59,269
+non lo perdona sparapano solamente una
+
+279
+00:11:56,720 --> 00:12:03,170
+ironing ott un po dr un link facciamo un
+
+280
+00:11:59,269 --> 00:12:06,170
+due tre quattro facciamo sfondare il
+
+281
+00:12:03,170 --> 00:12:07,089
+nostro golem e primo a picchiarlo in
+
+282
+00:12:06,170 --> 00:12:10,670
+teoria
+
+283
+00:12:07,089 --> 00:12:13,910
+dopo un po di danno dovrebbe iniziare a
+
+284
+00:12:10,670 --> 00:12:15,019
+rompersi e se ti dirò non vedo frattura
+
+285
+00:12:13,910 --> 00:12:17,809
+di nessun tipo
+
+286
+00:12:15,019 --> 00:12:21,619
+non sto picchiando ma non vedo fratture
+
+287
+00:12:17,809 --> 00:12:24,379
+non vorrei che a ok vedi ora è tutto
+
+288
+00:12:21,619 --> 00:12:25,879
+tutto è rotto piano piano ora non so se
+
+289
+00:12:24,379 --> 00:12:28,879
+facevo una spalla faccio prima in
+
+290
+00:12:25,879 --> 00:12:29,899
+effetti è una spada e piano picchiarlo
+
+291
+00:12:28,879 --> 00:12:32,480
+un amore
+
+292
+00:12:29,899 --> 00:12:34,540
+spero che abbia un altro livello ok vede
+
+293
+00:12:32,480 --> 00:12:37,879
+tutto rotto se i raw di ieri un lingotto
+
+294
+00:12:34,540 --> 00:12:40,220
+lo riparo quindi si possono curare gli
+
+295
+00:12:37,879 --> 00:12:43,399
+aerei un golem è una cosa scontata
+
+296
+00:12:40,220 --> 00:12:46,369
+no è una figata cioè possiamo curare un
+
+297
+00:12:43,399 --> 00:12:47,360
+mob con dei lingotti di ferro non è una
+
+298
+00:12:46,369 --> 00:12:50,119
+cosa inutile
+
+299
+00:12:47,360 --> 00:12:51,350
+vediamo finché livello posso portarlo di
+
+300
+00:12:50,119 --> 00:12:53,989
+distruzione 2
+
+301
+00:12:51,350 --> 00:12:56,869
+quanta vita ciò ok c'è solo due livelli
+
+302
+00:12:53,989 --> 00:12:58,429
+di distruzione vabbè però è una cosa
+
+303
+00:12:56,869 --> 00:12:59,149
+interessante è molto più interessante di
+
+304
+00:12:58,429 --> 00:13:02,929
+quel che sembra
+
+305
+00:12:59,149 --> 00:13:05,720
+poi dice aggiunto il comando spectator
+
+306
+00:13:02,929 --> 00:13:07,040
+cosa vuol dire anche posso selezionare
+
+307
+00:13:05,720 --> 00:13:08,930
+un giocatore
+
+308
+00:13:07,040 --> 00:13:11,630
+e poi sospettarlo ma questo e per i
+
+309
+00:13:08,930 --> 00:13:18,829
+server è cosa quanto signori questo è lo
+
+310
+00:13:11,630 --> 00:13:20,300
+snap shot 19w 19w 41 a e tanti aggiunte
+
+311
+00:13:18,829 --> 00:13:21,500
+carine sono curioso di sapere cosa
+
+312
+00:13:20,300 --> 00:13:23,509
+aggiungeranno settimana prossima
+
+313
+00:13:21,500 --> 00:13:26,240
+sperando che non siano solamente bugfix
+
+314
+00:13:23,509 --> 00:13:27,410
+e niente per questo vi è tutto in casa
+
+315
+00:13:26,240 --> 00:13:28,970
+tantissimo per la bisogno e ci vediamo
+
+316
+00:13:27,410 --> 00:13:30,150
+prossimamente quasi ecco altri video
+
+317
+00:13:28,970 --> 00:13:49,620
+ciao tutti
+
+318
+00:13:30,150 --> 00:13:49,620
+[Musica]

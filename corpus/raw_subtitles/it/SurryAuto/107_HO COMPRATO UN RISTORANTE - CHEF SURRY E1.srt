@@ -1,0 +1,1515 @@
+1
+00:00:00,000 --> 00:00:04,319
+ciao a tutti che sotto e benvenuti in
+
+2
+00:00:01,709 --> 00:00:07,859
+questo nuovissimo video di questa che
+
+3
+00:00:04,319 --> 00:00:10,230
+spero sarà una nuova serie se uno
+
+4
+00:00:07,859 --> 00:00:12,990
+showcooking simulator un gioco di cui
+
+5
+00:00:10,230 --> 00:00:14,490
+avevo visto il trailer qualche mese fa e
+
+6
+00:00:12,990 --> 00:00:16,770
+di cui non vedevo l'ora uscisse la
+
+7
+00:00:14,490 --> 00:00:18,960
+versione effettiva giocabile
+
+8
+00:00:16,770 --> 00:00:21,270
+ora non so quando effettivamente uscita
+
+9
+00:00:18,960 --> 00:00:22,740
+la versione però me lo sono ritrovato lì
+
+10
+00:00:21,270 --> 00:00:24,359
+nella un peggio di stimoli e toccati o
+
+11
+00:00:22,740 --> 00:00:25,710
+non posso non comprarlo perché mi
+
+12
+00:00:24,359 --> 00:00:28,050
+ricordo di aver visto il predetto perché
+
+13
+00:00:25,710 --> 00:00:29,820
+sarà una figata pazzesca aveva tanto che
+
+14
+00:00:28,050 --> 00:00:31,470
+vedete è pure l'italiano quindi a tutti
+
+15
+00:00:29,820 --> 00:00:34,020
+i presupposti per essere una bella serie
+
+16
+00:00:31,470 --> 00:00:35,880
+ci sono i poster italiano il sia un
+
+17
+00:00:34,020 --> 00:00:37,649
+nuovo gioco il suo nuovo gioco io non ho
+
+18
+00:00:35,880 --> 00:00:40,530
+la più minima di cosa aspettarmi non
+
+19
+00:00:37,649 --> 00:00:42,989
+solo più minima cosa rispetto né al
+
+20
+00:00:40,530 --> 00:00:43,860
+gioco in sé né alla cucina perché io non
+
+21
+00:00:42,989 --> 00:00:45,629
+so cucinare
+
+22
+00:00:43,860 --> 00:00:47,309
+quindi sono curioso signore e signori
+
+23
+00:00:45,629 --> 00:00:49,530
+perché sono curioso perché secondo me
+
+24
+00:00:47,309 --> 00:00:51,149
+riusciamo a fare qualche disastro
+
+25
+00:00:49,530 --> 00:00:53,219
+io ve lo posso assicurare questa cucina
+
+26
+00:00:51,149 --> 00:00:55,110
+che vedete ott ha fatto che è bellissima
+
+27
+00:00:53,219 --> 00:00:58,800
+costa centinaia di migliaia di euro
+
+28
+00:00:55,110 --> 00:01:01,109
+esploderà esplode questa esplode allora
+
+29
+00:00:58,800 --> 00:01:02,699
+benvenuto al cooking simulator come già
+
+30
+00:01:01,109 --> 00:01:04,830
+notato il ristorante dei lavori non a
+
+31
+00:01:02,699 --> 00:01:06,210
+valutazione migliore è ovviamente la
+
+32
+00:01:04,830 --> 00:01:08,280
+traduzione italiana non è delle migliori
+
+33
+00:01:06,210 --> 00:01:10,820
+posso immaginare però c'è chi
+
+34
+00:01:08,280 --> 00:01:13,229
+parafrasarlo il riscontro lavori
+
+35
+00:01:10,820 --> 00:01:15,540
+migliori valutazioni della città perché
+
+36
+00:01:13,229 --> 00:01:16,950
+ho compito è di renderlo di nuovo un
+
+37
+00:01:15,540 --> 00:01:19,130
+posto di grande prestigio
+
+38
+00:01:16,950 --> 00:01:22,290
+l'ultimo chef ha lasciato il posto
+
+39
+00:01:19,130 --> 00:01:25,220
+coperto di post it in questo modo forse
+
+40
+00:01:22,290 --> 00:01:28,170
+ti saranno utili in bocca al lupo ottimo
+
+41
+00:01:25,220 --> 00:01:30,390
+vuoi seguenti toria la ovvio che sì non
+
+42
+00:01:28,170 --> 00:01:32,220
+ho la primaria di cosa fare
+
+43
+00:01:30,390 --> 00:01:33,420
+ciao sono i manager di questo posto il
+
+44
+00:01:32,220 --> 00:01:36,090
+tuo primo giorno quindi userò come
+
+45
+00:01:33,420 --> 00:01:37,770
+funziona ristorante grazie grazie
+
+46
+00:01:36,090 --> 00:01:41,159
+ma prima di cominciare ci sono tre cose
+
+47
+00:01:37,770 --> 00:01:42,030
+importante per non perderti la grafica
+
+48
+00:01:41,159 --> 00:01:43,200
+molto bella
+
+49
+00:01:42,030 --> 00:01:44,820
+prima le scorciatoie sono sempre
+
+50
+00:01:43,200 --> 00:01:47,369
+mostrati in basso a destra dello schermo
+
+51
+00:01:44,820 --> 00:01:48,570
+non vedo scorciatoie probabile durante
+
+52
+00:01:47,369 --> 00:01:49,950
+costruttore può vedere i compiti in
+
+53
+00:01:48,570 --> 00:01:51,360
+basso a sinistra o che quindi fa la
+
+54
+00:01:49,950 --> 00:01:53,579
+lista delle cose devo fare
+
+55
+00:01:51,360 --> 00:01:55,560
+figata pazzesca terzo questo tuttora si
+
+56
+00:01:53,579 --> 00:01:56,759
+salva automaticamente fra le fasi se ti
+
+57
+00:01:55,560 --> 00:02:00,030
+perdi il mali bloccato poi sempre
+
+58
+00:01:56,759 --> 00:02:02,969
+ritornare al tutorial penso immagino va
+
+59
+00:02:00,030 --> 00:02:03,899
+bene va bene se anche per questo posso
+
+60
+00:02:02,969 --> 00:02:05,820
+abbia lasciato in condizioni terribili
+
+61
+00:02:03,899 --> 00:02:07,860
+effetti vedo che ci sono un po di
+
+62
+00:02:05,820 --> 00:02:09,360
+fornelli distrutti e cose varie
+
+63
+00:02:07,860 --> 00:02:10,830
+per il telefono devo chiamare i
+
+64
+00:02:09,360 --> 00:02:13,200
+professionisti me o far riparare tutte
+
+65
+00:02:10,830 --> 00:02:16,980
+queste cose è già allora
+
+66
+00:02:13,200 --> 00:02:19,530
+per il telefono bene a devo andare al
+
+67
+00:02:16,980 --> 00:02:21,239
+telefono awalam importa proprio lui che
+
+68
+00:02:19,530 --> 00:02:23,489
+figata raga questa potrebbe diventare
+
+69
+00:02:21,239 --> 00:02:25,620
+una serie quasi sicuramente questa
+
+70
+00:02:23,489 --> 00:02:26,069
+diventerà una serie al bisogno di questi
+
+71
+00:02:25,620 --> 00:02:28,769
+numeri
+
+72
+00:02:26,069 --> 00:02:30,420
+quali numeri e allucinati vivere un prof
+
+73
+00:02:28,769 --> 00:02:31,830
+e conte mente aggiunto numero il
+
+74
+00:02:30,420 --> 00:02:33,599
+servizio di riparazione più economico
+
+75
+00:02:31,830 --> 00:02:35,400
+nel mondo del telefono devi ringraziarmi
+
+76
+00:02:33,599 --> 00:02:36,330
+pensaci due volte prima di assumere
+
+77
+00:02:35,400 --> 00:02:38,250
+quello più economico
+
+78
+00:02:36,330 --> 00:02:40,170
+non ti preoccupare non ti preoccupare
+
+79
+00:02:38,250 --> 00:02:42,540
+non sono un tirchio
+
+80
+00:02:40,170 --> 00:02:44,400
+allora ho un telefono in mano dovrà fare
+
+81
+00:02:42,540 --> 00:02:46,860
+tutto nella cucina a gas va bene come
+
+82
+00:02:44,400 --> 00:02:49,620
+faccio a utilizzarlo nel telefono andare
+
+83
+00:02:46,860 --> 00:02:52,410
+alla rassegnata a ora posso selezionare
+
+84
+00:02:49,620 --> 00:02:53,610
+le cose ci dovrebbero anni per ripararlo
+
+85
+00:02:52,410 --> 00:02:55,620
+addirittura meglio vediamo
+
+86
+00:02:53,610 --> 00:02:57,360
+professionista veloce a devo scegliere
+
+87
+00:02:55,620 --> 00:03:01,140
+l'azienda e ognuno ha un costo diverso
+
+88
+00:02:57,360 --> 00:03:02,130
+cioè questa è cosa 200 che fa service ma
+
+89
+00:03:01,140 --> 00:03:05,370
+vi sono abbiamo clienti
+
+90
+00:03:02,130 --> 00:03:06,900
+direi che non ci serve quello a 37
+
+91
+00:03:05,370 --> 00:03:13,440
+quelle più economico io direi che
+
+92
+00:03:06,900 --> 00:03:15,000
+possiamo prendere quello da 50 75 70 50
+
+93
+00:03:13,440 --> 00:03:18,690
+i soldi o io non me lo dice
+
+94
+00:03:15,000 --> 00:03:22,290
+loro dice preoccupa 75 avevo 600 circa
+
+95
+00:03:18,690 --> 00:03:24,690
+lo avevo 600 seicento soldi cioè di non
+
+96
+00:03:22,290 --> 00:03:26,430
+fallire in cucina quasi tutto costa
+
+97
+00:03:24,690 --> 00:03:28,859
+tanti soldi piatti prodotti e
+
+98
+00:03:26,430 --> 00:03:30,060
+particolarmente riparazioni non prendere
+
+99
+00:03:28,859 --> 00:03:31,709
+più di quanto ai bisogni e tieni
+
+100
+00:03:30,060 --> 00:03:36,030
+d'occhio al saldo quando noi soldi se
+
+101
+00:03:31,709 --> 00:03:38,819
+hai fallito grazie lo sapevo ok adesso a
+
+102
+00:03:36,030 --> 00:03:40,230
+c'è bisogna addirittura aspettare ok
+
+103
+00:03:38,819 --> 00:03:42,750
+doveva riparare il bisogno di fare un
+
+104
+00:03:40,230 --> 00:03:45,750
+botto di roba qua porca vacca e allora
+
+105
+00:03:42,750 --> 00:03:46,980
+prendiamo quello da 50 li preoccupa da
+
+106
+00:03:45,750 --> 00:03:50,340
+50
+
+107
+00:03:46,980 --> 00:03:51,930
+il primo anche qua questa cosa sono la
+
+108
+00:03:50,340 --> 00:03:53,880
+friggitrice è sta roba
+
+109
+00:03:51,930 --> 00:03:55,500
+si usa che sa friggitrice questo è il
+
+110
+00:03:53,880 --> 00:03:57,930
+forno fatto sai forse dovevo usare
+
+111
+00:03:55,500 --> 00:04:00,840
+quello più costoso bafana la radiosa
+
+112
+00:03:57,930 --> 00:04:02,430
+ancora 75 perché secondo me non è sulla
+
+113
+00:04:00,840 --> 00:04:05,519
+questione di tempistica questore di
+
+114
+00:04:02,430 --> 00:04:08,099
+quanto misura poi ok c'è qualcos'altro a
+
+115
+00:04:05,519 --> 00:04:09,930
+riparare vedete qualcosa che ti vuoi e
+
+116
+00:04:08,099 --> 00:04:12,599
+mezzo rotto a c'è anche il forno sotto
+
+117
+00:04:09,930 --> 00:04:15,060
+giustamente e la figc a destra e
+
+118
+00:04:12,599 --> 00:04:18,090
+impariamo anche questa ok ora mettere
+
+119
+00:04:15,060 --> 00:04:20,729
+sul telefono lo dobbiamo usare vecchi
+
+120
+00:04:18,090 --> 00:04:24,539
+giu e ora ci tocca aspettare e giusto
+
+121
+00:04:20,729 --> 00:04:26,900
+va bene questo posto vuoto attenzione
+
+122
+00:04:24,539 --> 00:04:29,220
+andiamo alla zona dei piatti
+
+123
+00:04:26,900 --> 00:04:31,470
+cosa fare ha bisogno di attrezzatura
+
+124
+00:04:29,220 --> 00:04:35,280
+trova in scatole di cartone e premi per
+
+125
+00:04:31,470 --> 00:04:39,360
+aprire il negozio a ok posso comprare
+
+126
+00:04:35,280 --> 00:04:41,060
+cose vi sembra va bene sito la verità mi
+
+127
+00:04:39,360 --> 00:04:44,220
+sembra tutto abbastanza vuoto al momento
+
+128
+00:04:41,060 --> 00:04:47,580
+utensili posso comprare un quanto costa
+
+129
+00:04:44,220 --> 00:04:49,740
+un frullatore e 150 euro ma che ce n'è a
+
+130
+00:04:47,580 --> 00:04:52,950
+tutti sti soldi
+
+131
+00:04:49,740 --> 00:04:55,590
+porca vacca giustizia cioè metti il
+
+132
+00:04:52,950 --> 00:04:57,750
+frullatore via lo metto frullatore
+
+133
+00:04:55,590 --> 00:05:02,040
+mettilo giu momento qua appoggiamo lo
+
+134
+00:04:57,750 --> 00:05:04,350
+quando lo appoggiamo adesso sai perché
+
+135
+00:05:02,040 --> 00:05:05,520
+sono una mano a perché quel coltello ci
+
+136
+00:05:04,350 --> 00:05:08,100
+siamo tagliati all'odio metterlo lì
+
+137
+00:05:05,520 --> 00:05:11,160
+potevo spostarla scatola ok siamo e
+
+138
+00:05:08,100 --> 00:05:12,720
+possiamo la scatola mettiamo qua sopra e
+
+139
+00:05:11,160 --> 00:05:14,850
+siamo contentissimi usa il negozio e
+
+140
+00:05:12,720 --> 00:05:17,160
+compagni attrezzatura della lista non ho
+
+141
+00:05:14,850 --> 00:05:18,510
+mai così tanti soldi ragazzi non ho mai
+
+142
+00:05:17,160 --> 00:05:20,490
+nella vita così tanti soldi devo
+
+143
+00:05:18,510 --> 00:05:22,980
+chiedere un prestito sicuro
+
+144
+00:05:20,490 --> 00:05:25,500
+allora una teglia da forno tanta
+
+145
+00:05:22,980 --> 00:05:27,570
+compriamola e la possiamo qua
+
+146
+00:05:25,500 --> 00:05:30,840
+anzi diciamo mettiamo vicino al forno ha
+
+147
+00:05:27,570 --> 00:05:32,730
+più senso è un'acqua ok poi dovrò
+
+148
+00:05:30,840 --> 00:05:36,450
+comprare una pentola da due pentole
+
+149
+00:05:32,730 --> 00:05:39,270
+grandi compra le mettiamo qua per il
+
+150
+00:05:36,450 --> 00:05:42,090
+momento ne compriamo un altri non ho più
+
+151
+00:05:39,270 --> 00:05:44,370
+soldi ma perché ho più soldi ora mi sa
+
+152
+00:05:42,090 --> 00:05:45,150
+darmi ha regalato altri soldi sarebbe
+
+153
+00:05:44,370 --> 00:05:47,820
+una grande cosa
+
+154
+00:05:45,150 --> 00:05:51,240
+grazie amico mio che mi regali soldi va
+
+155
+00:05:47,820 --> 00:05:52,470
+bene poi un tagliere
+
+156
+00:05:51,240 --> 00:05:54,870
+ma questi mi sa che procedevo comprare
+
+157
+00:05:52,470 --> 00:05:57,060
+tutte addirittura abbiamo il tagliere
+
+158
+00:05:54,870 --> 00:06:02,010
+prendiamo il coltello che ci serve e
+
+159
+00:05:57,060 --> 00:06:04,680
+metteremo qui posso ok abbiamo coltello
+
+160
+00:06:02,010 --> 00:06:08,220
+poi la padella che metteremo sul
+
+161
+00:06:04,680 --> 00:06:11,790
+fornello potrebbe avere senso guala e
+
+162
+00:06:08,220 --> 00:06:14,160
+una spatola per gli hamburger e immagino
+
+163
+00:06:11,790 --> 00:06:17,010
+l'appoggeremo sempre vicino al fornello
+
+164
+00:06:14,160 --> 00:06:20,280
+magari qua a destra ma lascia anche il
+
+165
+00:06:17,010 --> 00:06:23,760
+timer figurare al suo gioco sembra figo
+
+166
+00:06:20,280 --> 00:06:25,770
+ma altrettanto difficile usa il
+
+167
+00:06:23,760 --> 00:06:27,300
+portatile sblocca tutte le ricette base
+
+168
+00:06:25,770 --> 00:06:29,760
+ma sblocchiamo delle ricette base
+
+169
+00:06:27,300 --> 00:06:32,610
+signori attenzione diventato un
+
+170
+00:06:29,760 --> 00:06:35,430
+supermanager della vita ora ciò anche il
+
+171
+00:06:32,610 --> 00:06:37,860
+livello quanto voi non lo vedete figata
+
+172
+00:06:35,430 --> 00:06:40,350
+che figata allora il giorno 1 ricetta
+
+173
+00:06:37,860 --> 00:06:42,600
+manager decorazioni
+
+174
+00:06:40,350 --> 00:06:44,460
+sassari conduce un cacchio ricetta
+
+175
+00:06:42,600 --> 00:06:46,530
+manager clicca su non posseduti per
+
+176
+00:06:44,460 --> 00:06:48,000
+aprire le nostre ricette va bene allora
+
+177
+00:06:46,530 --> 00:06:49,680
+cosa posso fare
+
+178
+00:06:48,000 --> 00:06:51,840
+comprano certa per tratta al forno
+
+179
+00:06:49,680 --> 00:06:55,230
+cliccando sul pulsante eco è stato dal
+
+180
+00:06:51,840 --> 00:06:57,630
+forno 78 sono questi minuti di
+
+181
+00:06:55,230 --> 00:06:59,760
+preparazione potrebbero essere venuti
+
+182
+00:06:57,630 --> 00:07:03,990
+popolazione credo che fare un blog
+
+183
+00:06:59,760 --> 00:07:06,990
+acimit 8.30 una bomba va bene compriamo
+
+184
+00:07:03,990 --> 00:07:10,590
+la trota al forno allora prendi trota
+
+185
+00:07:06,990 --> 00:07:14,100
+200 grammi da condire con pepe nero timo
+
+186
+00:07:10,590 --> 00:07:17,220
+essiccato aneto in polvere metti la
+
+187
+00:07:14,100 --> 00:07:20,250
+teglia in forno cuoci per 90 secondi out
+
+188
+00:07:17,220 --> 00:07:22,320
+of nowhere un po al sangue pesce con dc
+
+189
+00:07:20,250 --> 00:07:25,200
+con rafano essiccato francesi sul piatto
+
+190
+00:07:22,320 --> 00:07:27,660
+serve bollente taglia limone in quarti e
+
+191
+00:07:25,200 --> 00:07:30,060
+16 sul piatto già non ci sto capendo più
+
+192
+00:07:27,660 --> 00:07:34,740
+niente ma compriamolo ok compiamo anche
+
+193
+00:07:30,060 --> 00:07:36,960
+questo bistecca di salmone compriamo la
+
+194
+00:07:34,740 --> 00:07:38,310
+zuppa di pomodoro io voglio solo fare il
+
+195
+00:07:36,960 --> 00:07:40,950
+succo di pomodoro dove un po perché mi
+
+196
+00:07:38,310 --> 00:07:42,780
+sembrava più semplice ok allora il
+
+197
+00:07:40,950 --> 00:07:45,840
+nostro è molto semplice ma taverna siamo
+
+198
+00:07:42,780 --> 00:07:46,740
+una tavola calda ottimo questo si motiva
+
+199
+00:07:45,840 --> 00:07:49,950
+risale sano di mente
+
+200
+00:07:46,740 --> 00:07:53,310
+cos'è la radio ha sì l'avevo anche della
+
+201
+00:07:49,950 --> 00:07:53,940
+musica entra nella vita del negozio come
+
+202
+00:07:53,310 --> 00:07:55,970
+si fa
+
+203
+00:07:53,940 --> 00:07:58,650
+non c'è via d'uscita a porca vacca
+
+204
+00:07:55,970 --> 00:08:03,660
+dell'esistenza e futile a le ho comprate
+
+205
+00:07:58,650 --> 00:08:06,810
+il sale ok prodotti spezie sale compra
+
+206
+00:08:03,660 --> 00:08:08,310
+abbiamo il sale beaches sai fosse
+
+207
+00:08:06,810 --> 00:08:10,170
+dovermi mettere tutto in maniera più
+
+208
+00:08:08,310 --> 00:08:12,180
+ordinata perché sennò poi già non ci
+
+209
+00:08:10,170 --> 00:08:12,960
+capisco più nulla e finisce male io ve
+
+210
+00:08:12,180 --> 00:08:15,030
+lo posso assicurare
+
+211
+00:08:12,960 --> 00:08:17,940
+è una cucina la prima cosa da fare è
+
+212
+00:08:15,030 --> 00:08:19,950
+essere ordinati sapere cosa si fa dove
+
+213
+00:08:17,940 --> 00:08:21,570
+si fa e tutto quanto
+
+214
+00:08:19,950 --> 00:08:24,050
+poi abbiamo il sale il sale lo tenevo
+
+215
+00:08:21,570 --> 00:08:27,810
+vicino al banco di lavoro perché è utile
+
+216
+00:08:24,050 --> 00:08:30,740
+e siamo prontissimi a cuba tutte le
+
+217
+00:08:27,810 --> 00:08:34,890
+spezie sembra giusto poi sopra le tutte
+
+218
+00:08:30,740 --> 00:08:40,680
+doveva competente aneto mettiamo una
+
+219
+00:08:34,890 --> 00:08:43,500
+tipo di zona solo solo mettono bene una
+
+220
+00:08:40,680 --> 00:08:44,670
+zona solo spezie che poi tra l'altro
+
+221
+00:08:43,500 --> 00:08:46,080
+anche nella vita reale mi sto
+
+222
+00:08:44,670 --> 00:08:49,140
+appassionando di spezia e ora io non
+
+223
+00:08:46,080 --> 00:08:50,660
+cucino molto è vero devo dire cucivo
+
+224
+00:08:49,140 --> 00:08:52,860
+davvero poco ci sarà un periodo in cui
+
+225
+00:08:50,660 --> 00:08:53,940
+cucinavo un po se ne facevo in viso
+
+226
+00:08:52,860 --> 00:08:56,040
+colpo
+
+227
+00:08:53,940 --> 00:08:57,660
+palestre tranquille però ci mette un
+
+228
+00:08:56,040 --> 00:09:00,870
+botto di spezie perché mi piaceva
+
+229
+00:08:57,660 --> 00:09:02,970
+sperimentare però devo dì la verità è
+
+230
+00:09:00,870 --> 00:09:05,100
+molto più comodo maggiore le cose già
+
+231
+00:09:02,970 --> 00:09:07,050
+pronte è detto questo sì nella vita
+
+232
+00:09:05,100 --> 00:09:10,800
+reale anche mi faccio un botto le specie
+
+233
+00:09:07,050 --> 00:09:11,670
+che tirano un botto di varietà al piatto
+
+234
+00:09:10,800 --> 00:09:13,590
+una figata
+
+235
+00:09:11,670 --> 00:09:16,440
+poi devi sempre non deve esagerare un
+
+236
+00:09:13,590 --> 00:09:17,430
+casino però va bene ok i liquidi mi devo
+
+237
+00:09:16,440 --> 00:09:19,650
+comprare anche dei liquidi cosa
+
+238
+00:09:17,430 --> 00:09:24,480
+avrebbero di pollo e compriamo la
+
+239
+00:09:19,650 --> 00:09:27,000
+mettiamo il cuore brodo di pollo abbiamo
+
+240
+00:09:24,480 --> 00:09:28,710
+l'olio di girasole la panna acida
+
+241
+00:09:27,000 --> 00:09:29,850
+io non so dove tutti sti soldi ma
+
+242
+00:09:28,710 --> 00:09:31,920
+giustamente come deve aprire un
+
+243
+00:09:29,850 --> 00:09:32,910
+ristorante ha bisogno di un bel capitale
+
+244
+00:09:31,920 --> 00:09:35,640
+poco ma sicuro
+
+245
+00:09:32,910 --> 00:09:37,110
+ok abbiamo tutte le cose che abbiamo
+
+246
+00:09:35,640 --> 00:09:38,550
+bisogno giusto
+
+247
+00:09:37,110 --> 00:09:40,730
+vediamo tra cavi bene voglio che tu mi
+
+248
+00:09:38,550 --> 00:09:43,740
+serve la tratta al forno porca vacca
+
+249
+00:09:40,730 --> 00:09:46,620
+penso di dover comprare una trota penso
+
+250
+00:09:43,740 --> 00:09:48,090
+non ti dirò come un cliente oltre
+
+251
+00:09:46,620 --> 00:09:49,980
+occupare avrei qualche aiuto che sono
+
+252
+00:09:48,090 --> 00:09:52,500
+amico di cui lati del processo chi è che
+
+253
+00:09:49,980 --> 00:09:54,000
+al tuo amico o stai calmo qualcuno
+
+254
+00:09:52,500 --> 00:09:55,620
+allegato un piatto ogni volta che un
+
+255
+00:09:54,000 --> 00:09:57,720
+cliente ordina qualcosa sarà notificato
+
+256
+00:09:55,620 --> 00:09:58,860
+in alto a sinistra dello schermo le
+
+257
+00:09:57,720 --> 00:10:00,060
+notifiche appariranno anche un ottimo
+
+258
+00:09:58,860 --> 00:10:01,080
+anche era venuto per completare un
+
+259
+00:10:00,060 --> 00:10:02,460
+piatto quando si è un po in ritardo
+
+260
+00:10:01,080 --> 00:10:04,470
+quando queste se ne va via
+
+261
+00:10:02,460 --> 00:10:06,030
+allora mettiti al lavoro bene abbiamo
+
+262
+00:10:04,470 --> 00:10:11,520
+bisogno di un'altra volta troviamo la
+
+263
+00:10:06,030 --> 00:10:14,190
+trota allora affetto di salmone trota
+
+264
+00:10:11,520 --> 00:10:17,130
+prendiamo la trota ha già fatto per fa
+
+265
+00:10:14,190 --> 00:10:18,660
+proprio pagare veniamo la trota e
+
+266
+00:10:17,130 --> 00:10:20,700
+mettiamo a trovata sul tagliere che
+
+267
+00:10:18,660 --> 00:10:22,770
+avevo già comprato bisogna pulirla
+
+268
+00:10:20,700 --> 00:10:25,710
+immagino spostiamolo mettiamolo come si
+
+269
+00:10:22,770 --> 00:10:27,000
+deve e mettiamolo padova al coltello lo
+
+270
+00:10:25,710 --> 00:10:29,460
+appoggiamo qua il frullatore all'os
+
+271
+00:10:27,000 --> 00:10:31,650
+posti a condisci con pepe nero alla
+
+272
+00:10:29,460 --> 00:10:35,040
+spostiamo il tagliere di qua lo abbiamo
+
+273
+00:10:31,650 --> 00:10:36,390
+molto tempo allora pepe nero quanto devo
+
+274
+00:10:35,040 --> 00:10:39,780
+programmi poi faccio sapere quanto io
+
+275
+00:10:36,390 --> 00:10:42,420
+ami ho messo ok 5 grammi non sono stato
+
+276
+00:10:39,780 --> 00:10:43,370
+molto deciso no non lo doveva il pepe
+
+277
+00:10:42,420 --> 00:10:46,589
+nero
+
+278
+00:10:43,370 --> 00:10:49,890
+mettiamo questo 3 g 1 2 e 3
+
+279
+00:10:46,589 --> 00:10:52,530
+mamma mia e cosa manca a pepe nero
+
+280
+00:10:49,890 --> 00:10:55,320
+l'omesso anno aspetta però manca ancora
+
+281
+00:10:52,530 --> 00:10:59,850
+ma quanti 2 grammi di pepe nero l'ho
+
+282
+00:10:55,320 --> 00:11:03,570
+messo troppo vero me sono le g porca
+
+283
+00:10:59,850 --> 00:11:06,089
+vacca dove l'aneto ok siamo anche
+
+284
+00:11:03,570 --> 00:11:07,310
+l'aneto sia meno di un grammo portava
+
+285
+00:11:06,089 --> 00:11:09,440
+come troppa roba
+
+286
+00:11:07,310 --> 00:11:11,090
+vedo ne vuole ancora di più che un vice
+
+287
+00:11:09,440 --> 00:11:13,940
+completo
+
+288
+00:11:11,090 --> 00:11:15,470
+ok danese c'è ultimo mettiamo tutto il
+
+289
+00:11:13,940 --> 00:11:17,000
+team
+
+290
+00:11:15,470 --> 00:11:19,820
+forse l'ho messo davvero un po troppo ma
+
+291
+00:11:17,000 --> 00:11:20,660
+noi non interessa metti trota su teglia
+
+292
+00:11:19,820 --> 00:11:22,940
+del forno
+
+293
+00:11:20,660 --> 00:11:26,150
+vi piace storia ok ora pesce dover
+
+294
+00:11:22,940 --> 00:11:30,380
+mettere in forno alto questo il forno
+
+295
+00:11:26,150 --> 00:11:31,970
+alto dove tra forno alto ok chiudiamo e
+
+296
+00:11:30,380 --> 00:11:33,940
+devo accendere il forno devo anche
+
+297
+00:11:31,970 --> 00:11:37,900
+selezionare il tempo giusto
+
+298
+00:11:33,940 --> 00:11:40,100
+lasciamo piacimento per 90 secondi come
+
+299
+00:11:37,900 --> 00:11:42,110
+faccio sapere quanto ci sono passati 90
+
+300
+00:11:40,100 --> 00:11:46,550
+secondi diciamo che tipo a 110
+
+301
+00:11:42,110 --> 00:11:49,130
+volevo devo comprare un limone va bene o
+
+302
+00:11:46,550 --> 00:11:51,860
+un limone un'opera di usarlo mettiamola
+
+303
+00:11:49,130 --> 00:11:53,600
+sul tagliere con la mia ricetta usa il
+
+304
+00:11:51,860 --> 00:11:54,440
+coltello per usare per tagliarlo in
+
+305
+00:11:53,600 --> 00:11:57,200
+quattro pezzi
+
+306
+00:11:54,440 --> 00:12:00,140
+va bene allora tra quattro perfetto
+
+307
+00:11:57,200 --> 00:12:02,150
+quanto manca ancora trenta secondi lo
+
+308
+00:12:00,140 --> 00:12:04,760
+terrei dentro ma se viene anche il fumo
+
+309
+00:12:02,150 --> 00:12:06,860
+magnificata io i miei quattro pezzi di
+
+310
+00:12:04,760 --> 00:12:08,779
+glock compra un piatto immagino vabbè
+
+311
+00:12:06,860 --> 00:12:12,830
+poi mi dirà lui che piatto comprare ok
+
+312
+00:12:08,779 --> 00:12:15,740
+con per piatto allora tra di spegnere
+
+313
+00:12:12,830 --> 00:12:17,990
+questo ok perché vedo troppo fumo
+
+314
+00:12:15,740 --> 00:12:18,350
+signori a devo comprare un piatto piatto
+
+315
+00:12:17,990 --> 00:12:21,380
+base
+
+316
+00:12:18,350 --> 00:12:23,870
+ok è quello piccolino perciò ho rotto il
+
+317
+00:12:21,380 --> 00:12:26,510
+piatto tatto ho rotto il piatto si
+
+318
+00:12:23,870 --> 00:12:30,980
+possono rompere i piatti facciamo così
+
+319
+00:12:26,510 --> 00:12:32,650
+ok aggiungiamo del rafano sì non è
+
+320
+00:12:30,980 --> 00:12:35,540
+proprio il tratto migliore della vita
+
+321
+00:12:32,650 --> 00:12:38,000
+prendi il piatto ce lo devono portare
+
+322
+00:12:35,540 --> 00:12:39,290
+dal mio amico anno ad omettere limone
+
+323
+00:12:38,000 --> 00:12:43,570
+anche a momenti un po di prezzemolo
+
+324
+00:12:39,290 --> 00:12:44,780
+fresco e chi ce l'ha ma devo comprarlo
+
+325
+00:12:43,570 --> 00:12:51,500
+prezzemolo
+
+326
+00:12:44,780 --> 00:12:53,420
+eccolo lo mettiamo qua sopra 6 grammi fi
+
+327
+00:12:51,500 --> 00:12:56,270
+3g e mettere un po di prezzemolo quanto
+
+328
+00:12:53,420 --> 00:12:57,140
+mi costa prezzemolo 2 euro a fogliolina
+
+329
+00:12:56,270 --> 00:13:00,770
+porca vacca
+
+330
+00:12:57,140 --> 00:13:02,930
+ok posso servirlo mamma mia che cagata
+
+331
+00:13:00,770 --> 00:13:06,020
+cosa un fatto
+
+332
+00:13:02,930 --> 00:13:09,680
+ok allora fica sull'app scout e senza
+
+333
+00:13:06,020 --> 00:13:11,089
+nell'ordine trotto al forno prego tutto
+
+334
+00:13:09,680 --> 00:13:12,560
+tuo
+
+335
+00:13:11,089 --> 00:13:14,960
+allora
+
+336
+00:13:12,560 --> 00:13:17,840
+temporizzazione 5 stelle in sostato nei
+
+337
+00:13:14,960 --> 00:13:19,670
+tempi più o meno punteggio totale tra
+
+338
+00:13:17,840 --> 00:13:21,860
+stelle e mezzo e il gusto della al
+
+339
+00:13:19,670 --> 00:13:23,360
+massimo anche la presentazione di rho il
+
+340
+00:13:21,860 --> 00:13:25,970
+che interrogato 31 euro
+
+341
+00:13:23,360 --> 00:13:29,930
+poca vacca 31 euro per una trota al
+
+342
+00:13:25,970 --> 00:13:32,360
+forno dove siamo da cracco menato pure 4
+
+343
+00:13:29,930 --> 00:13:34,070
+euro di mancia il piatto rimandato
+
+344
+00:13:32,360 --> 00:13:35,750
+indietro 4 euro anch'esso che non si è
+
+345
+00:13:34,070 --> 00:13:38,029
+rubato il piatto quindi è come se avesse
+
+346
+00:13:35,750 --> 00:13:41,810
+guadagnato a tre non ho capito pure a
+
+347
+00:13:38,029 --> 00:13:44,000
+tagliare ok ok fai del tuo meglio domani
+
+348
+00:13:41,810 --> 00:13:46,570
+porca vacca c'è già l'ansia oggi ho
+
+349
+00:13:44,000 --> 00:13:50,089
+perso 1.400 euro
+
+350
+00:13:46,570 --> 00:13:52,010
+beh mi sembra comunque un business plan
+
+351
+00:13:50,089 --> 00:13:53,089
+ideale aveva quanto pare posso scegliere
+
+352
+00:13:52,010 --> 00:13:55,190
+abilità
+
+353
+00:13:53,089 --> 00:13:58,160
+allora vediamo ad uscire qualcosa penso
+
+354
+00:13:55,190 --> 00:13:59,720
+che giraud mani ferme raccomandato
+
+355
+00:13:58,160 --> 00:14:01,550
+giocatore infatti perché vuol dire che
+
+356
+00:13:59,720 --> 00:14:02,510
+posso bloccare inglese quando lo tagli
+
+357
+00:14:01,550 --> 00:14:04,310
+ma è una figata
+
+358
+00:14:02,510 --> 00:14:06,310
+vai perché tre punti abilità vabbé
+
+359
+00:14:04,310 --> 00:14:10,250
+aumento profitti mi sembra interessante
+
+360
+00:14:06,310 --> 00:14:12,350
+io risparmierei sul prodotti che costano
+
+361
+00:14:10,250 --> 00:14:14,810
+di meno per azione che mi costa di meno
+
+362
+00:14:12,350 --> 00:14:17,750
+sicuramente i clienti che pagano di più
+
+363
+00:14:14,810 --> 00:14:18,380
+sembra giusto senza più usare il
+
+364
+00:14:17,750 --> 00:14:20,600
+punteggio
+
+365
+00:14:18,380 --> 00:14:22,160
+sembra che possiamo cominciare il giorno
+
+366
+00:14:20,600 --> 00:14:23,540
+del giorno successivo ma non lo faremo
+
+367
+00:14:22,160 --> 00:14:27,020
+in questo episodio mai nella vita
+
+368
+00:14:23,540 --> 00:14:30,050
+chef sul boom
+
+369
+00:14:27,020 --> 00:14:31,700
+ci siamo signori per questo video è
+
+370
+00:14:30,050 --> 00:14:32,839
+tutto ditemi cosa ne pensate potrebbe
+
+371
+00:14:31,700 --> 00:14:35,240
+inter una serie potremo fare delle
+
+372
+00:14:32,839 --> 00:14:36,890
+ricette su per me gastronomiche e io
+
+373
+00:14:35,240 --> 00:14:38,810
+sarei anche gasatissimo da questa roba
+
+374
+00:14:36,890 --> 00:14:40,280
+sono un posto metano e che non ne
+
+375
+00:14:38,810 --> 00:14:42,290
+capiscono lei potrebbe risultare un po
+
+376
+00:14:40,280 --> 00:14:44,660
+brutto però poteva invitare anche bello
+
+377
+00:14:42,290 --> 00:14:47,310
+penso di sapere cosa pensa dei commenti
+
+378
+00:14:44,660 --> 00:15:07,509
+io saluto ciao ridurre tutti
+
+379
+00:14:47,310 --> 00:15:07,509
+[Musica]

@@ -1,0 +1,2459 @@
+1
+00:00:00,000 --> 00:00:03,120
+ciao a tutti che ciotti e venuti in
+
+2
+00:00:01,140 --> 00:00:06,029
+questo nuovissimo video di minecraft ita
+
+3
+00:00:03,120 --> 00:00:07,980
+benvenuti episodio 929 non ricordo solo
+
+4
+00:00:06,029 --> 00:00:09,990
+che c'è un doppio 9 sto ho fatto una
+
+5
+00:00:07,980 --> 00:00:12,509
+cagata detto il numero giusto è giusto
+
+6
+00:00:09,990 --> 00:00:15,360
+incredibilmente sono le nuove 29 signori
+
+7
+00:00:12,509 --> 00:00:17,400
+quest'oggi andremo ad affrontare una
+
+8
+00:00:15,360 --> 00:00:20,789
+nuova sfida una nuova sfida che ci
+
+9
+00:00:17,400 --> 00:00:23,250
+sbloccherà una situazione che si era
+
+10
+00:00:20,789 --> 00:00:25,920
+bloccata con l'avventura 1.14 cioè la
+
+11
+00:00:23,250 --> 00:00:27,330
+questione della iron pharma che non
+
+12
+00:00:25,920 --> 00:00:29,849
+funziona più non vi sono più bravi
+
+13
+00:00:27,330 --> 00:00:33,750
+cambiato completamente il metodo di
+
+14
+00:00:29,849 --> 00:00:35,579
+spawn dei golem sono chiamate un botto
+
+15
+00:00:33,750 --> 00:00:37,110
+di cose infatti qua è da un po che ferro
+
+16
+00:00:35,579 --> 00:00:39,090
+non né vediamo né rimasto un po il
+
+17
+00:00:37,110 --> 00:00:41,850
+abbiamo utilizzato ma basta è finito
+
+18
+00:00:39,090 --> 00:00:44,550
+allora ora in golem per spronare hanno
+
+19
+00:00:41,850 --> 00:00:45,809
+bisogno di una situazione favorevole
+
+20
+00:00:44,550 --> 00:00:50,910
+la cosa positiva è che non abbiamo più
+
+21
+00:00:45,809 --> 00:00:53,460
+bisogno di cose enormi tipo queste e ci
+
+22
+00:00:50,910 --> 00:00:55,500
+sono un po di complicazioni nel senso i
+
+23
+00:00:53,460 --> 00:00:58,410
+village air per essere in grado di far
+
+24
+00:00:55,500 --> 00:01:00,480
+suonare dei golem hanno bisogno di letti
+
+25
+00:00:58,410 --> 00:01:02,039
+nel senso devono dormire devono poter
+
+26
+00:01:00,480 --> 00:01:05,240
+lavorare quindi questi casi sono in
+
+27
+00:01:02,039 --> 00:01:08,729
+cattività non fanno non vado bene devono
+
+28
+00:01:05,240 --> 00:01:09,960
+no non devono possono essere spaventati
+
+29
+00:01:08,729 --> 00:01:12,240
+se sono spaventati c'è più possibilità
+
+30
+00:01:09,960 --> 00:01:14,189
+che facciano spronare dei golem e ne
+
+31
+00:01:12,240 --> 00:01:18,509
+andiamo a giocarci questa cosa voglio
+
+32
+00:01:14,189 --> 00:01:20,610
+essere chiaro questo design me l'ha
+
+33
+00:01:18,509 --> 00:01:23,250
+suggerito utente in direct dicendomi di
+
+34
+00:01:20,610 --> 00:01:25,619
+volere un video di hera in blade che
+
+35
+00:01:23,250 --> 00:01:26,580
+saluto ho visto il suo video in cui
+
+36
+00:01:25,619 --> 00:01:29,100
+spiega questa roba detto cacchio
+
+37
+00:01:26,580 --> 00:01:31,799
+fighissimo è una iron farm supercompatta
+
+38
+00:01:29,100 --> 00:01:33,540
+è una figata pazzesca poi cercato su su
+
+39
+00:01:31,799 --> 00:01:35,909
+su youtube visto che un design in realtà
+
+40
+00:01:33,540 --> 00:01:37,170
+di un utente estero ci stano cosa che
+
+41
+00:01:35,909 --> 00:01:39,360
+facciamo un po tutti cioè andare a
+
+42
+00:01:37,170 --> 00:01:40,740
+cercare i design e da questi canali che
+
+43
+00:01:39,360 --> 00:01:43,939
+si specializzano in vari circuiti
+
+44
+00:01:40,740 --> 00:01:47,130
+diverso fare super cose super compatte e
+
+45
+00:01:43,939 --> 00:01:48,810
+figlie e e quindi ho preso questo
+
+46
+00:01:47,130 --> 00:01:50,640
+tutorial di questo ragazzo inglese che
+
+47
+00:01:48,810 --> 00:01:52,409
+si chiama spettacolo ben conosce neanche
+
+48
+00:01:50,640 --> 00:01:55,170
+se stato il primo che ha ideato però
+
+49
+00:01:52,409 --> 00:01:57,299
+race works in teoria il 2 che ha fatto
+
+50
+00:01:55,170 --> 00:01:58,619
+un paio di design fighi su questa è un
+
+51
+00:01:57,299 --> 00:02:01,140
+fame e quindi vado a prendere da lui
+
+52
+00:01:58,619 --> 00:02:03,840
+anche l'idea per questo video
+
+53
+00:02:01,140 --> 00:02:06,329
+e allora abbiamo bisogno di due cose una
+
+54
+00:02:03,840 --> 00:02:09,780
+farm che come dicevo è super compatta si
+
+55
+00:02:06,329 --> 00:02:11,370
+fa 3x3 per 7 cioè un neanche meno di un
+
+56
+00:02:09,780 --> 00:02:12,690
+decimo di questa fanno qui praticamente
+
+57
+00:02:11,370 --> 00:02:14,190
+e
+
+58
+00:02:12,690 --> 00:02:16,290
+abbiamo bisogno di un'altra cosa di uno
+
+59
+00:02:14,190 --> 00:02:18,060
+zombie a differenza di questa fame in
+
+60
+00:02:16,290 --> 00:02:19,680
+cui ha bisogno solamente di villa jersey
+
+61
+00:02:18,060 --> 00:02:21,570
+è un po palloso portarli so perché di
+
+62
+00:02:19,680 --> 00:02:23,400
+file e rotaie un po un casino
+
+63
+00:02:21,570 --> 00:02:24,990
+però per il resto è abbastanza semplice
+
+64
+00:02:23,400 --> 00:02:27,300
+questo è un po più complicata perché
+
+65
+00:02:24,990 --> 00:02:29,700
+abbiamo necessità di trovare uno zombie
+
+66
+00:02:27,300 --> 00:02:31,110
+allora io direi possiamo sfruttare e ho
+
+67
+00:02:29,700 --> 00:02:32,850
+già controllato qui abbiamo tre village
+
+68
+00:02:31,110 --> 00:02:34,380
+che sono quelli che ci servono
+
+69
+00:02:32,850 --> 00:02:36,180
+potremo sfruttare questa pharma nel
+
+70
+00:02:34,380 --> 00:02:37,680
+senso prendere qui villager fargli
+
+71
+00:02:36,180 --> 00:02:40,740
+scendere qualche modo con della con
+
+72
+00:02:37,680 --> 00:02:42,300
+qualcosa e e sfruttarli per mettere
+
+73
+00:02:40,740 --> 00:02:43,800
+all'interno di una nuova era un farmaco
+
+74
+00:02:42,300 --> 00:02:45,510
+perché questa non funzionerà cia non
+
+75
+00:02:43,800 --> 00:02:47,910
+servirà più che aveva bisogno anche dei
+
+76
+00:02:45,510 --> 00:02:51,300
+di uno zombie quindi per far sì che lo
+
+77
+00:02:47,910 --> 00:02:53,400
+zombie faccia cose dobbiamo prima
+
+78
+00:02:51,300 --> 00:02:55,980
+catturare uno zombie per catturarlo
+
+79
+00:02:53,400 --> 00:02:58,560
+zombie o vi sono sempre un video di una
+
+80
+00:02:55,980 --> 00:03:01,590
+trappola che è semplicissima ma ragazzi
+
+81
+00:02:58,560 --> 00:03:04,560
+e geniale allora dobbiamo mettere un
+
+82
+00:03:01,590 --> 00:03:06,450
+piccolo percorso di questo tipo con in
+
+83
+00:03:04,560 --> 00:03:09,270
+mezzo una zona buia
+
+84
+00:03:06,450 --> 00:03:11,790
+in questo modo facciamo se del tutto di
+
+85
+00:03:09,270 --> 00:03:15,180
+due blocchi o inserire delle pressure
+
+86
+00:03:11,790 --> 00:03:16,410
+plate di legno due per la precisione le
+
+87
+00:03:15,180 --> 00:03:19,260
+mettiamo
+
+88
+00:03:16,410 --> 00:03:20,340
+un'acqua è un'acqua andiamo a prendere
+
+89
+00:03:19,260 --> 00:03:22,140
+anche degli slam
+
+90
+00:03:20,340 --> 00:03:24,090
+li ho presi e nemo a coprire tutta
+
+91
+00:03:22,140 --> 00:03:26,910
+questa zona perché vogliamo che una
+
+92
+00:03:24,090 --> 00:03:28,770
+volta catturato lo zombie non disponi
+
+93
+00:03:26,910 --> 00:03:31,170
+non bruci anzi no anche andar per una
+
+94
+00:03:28,770 --> 00:03:33,150
+bella nei tag da dargli ci siamo l'unica
+
+95
+00:03:31,170 --> 00:03:35,850
+cosa da fare è aggiungere una trap d'ora
+
+96
+00:03:33,150 --> 00:03:38,250
+qui non una tractor un fake qui è un
+
+97
+00:03:35,850 --> 00:03:40,739
+face kate qui è una genialata perché è
+
+98
+00:03:38,250 --> 00:03:42,150
+semplicissimo ma funziona alla grande tu
+
+99
+00:03:40,739 --> 00:03:45,600
+arrivi con uno zombie che ti sta
+
+100
+00:03:42,150 --> 00:03:46,769
+inseguendo entry qua aspetti lo zombie
+
+101
+00:03:45,600 --> 00:03:50,070
+con la sua intelligenza artificiale
+
+102
+00:03:46,769 --> 00:03:52,739
+riesce a raggiungerti entra con fa il
+
+103
+00:03:50,070 --> 00:03:54,660
+giro esci e lui rimasto bloccato dentro
+
+104
+00:03:52,739 --> 00:03:55,950
+queste non sono porta di legno lui non
+
+105
+00:03:54,660 --> 00:03:59,120
+può a distruggerle
+
+106
+00:03:55,950 --> 00:04:02,340
+e siamo cioè siamo a cavallo alla grande
+
+107
+00:03:59,120 --> 00:04:05,970
+semplice ma super efficace e va bene
+
+108
+00:04:02,340 --> 00:04:08,070
+anche con scheletri creeper qualsiasi
+
+109
+00:04:05,970 --> 00:04:10,110
+cosa è un modo per catturare i mob e
+
+110
+00:04:08,070 --> 00:04:12,959
+allora con il cibo esempio pericoloso
+
+111
+00:04:10,110 --> 00:04:14,700
+perché magari bg irap ed esplode però
+
+112
+00:04:12,959 --> 00:04:17,280
+comunque se si altro tipo di mob alto
+
+113
+00:04:14,700 --> 00:04:18,930
+due blocchi quindi non i ragni può andar
+
+114
+00:04:17,280 --> 00:04:19,470
+bene ed è una figata pazzesca e lo
+
+115
+00:04:18,930 --> 00:04:21,810
+useremo
+
+116
+00:04:19,470 --> 00:04:24,110
+non appena diventerà notte c'è tra poco
+
+117
+00:04:21,810 --> 00:04:27,229
+per far sì che
+
+118
+00:04:24,110 --> 00:04:28,520
+è uno zombie demand a disposizione per
+
+119
+00:04:27,229 --> 00:04:33,590
+far ciò abbiamo bisogno anche di una tag
+
+120
+00:04:28,520 --> 00:04:36,800
+perché è l'unico modo con cui un zombie
+
+121
+00:04:33,590 --> 00:04:38,900
+uno zombie può non destinare è ossia una
+
+122
+00:04:36,800 --> 00:04:40,639
+niente addosso o se ha un oggetto
+
+123
+00:04:38,900 --> 00:04:43,879
+addosso se siamo talmente fortunati di
+
+124
+00:04:40,639 --> 00:04:44,300
+avere uno zombie con una situazione del
+
+125
+00:04:43,879 --> 00:04:46,969
+genere
+
+126
+00:04:44,300 --> 00:04:50,030
+ben venga nel caso io mi preparo manning
+
+127
+00:04:46,969 --> 00:04:52,990
+tag e lo chiameremo quel nome del
+
+128
+00:04:50,030 --> 00:04:57,469
+creatore di questo design che è race
+
+129
+00:04:52,990 --> 00:05:00,529
+works i lavori di raise di bomba a un
+
+130
+00:04:57,469 --> 00:05:01,729
+piccolo contributo a questa ragazza
+
+131
+00:05:00,529 --> 00:05:04,180
+diciamo che la mia preoccupazione
+
+132
+00:05:01,729 --> 00:05:07,430
+principale per il momento è raggiungere
+
+133
+00:05:04,180 --> 00:05:10,969
+lo status in cui o lo zombie poi
+
+134
+00:05:07,430 --> 00:05:13,460
+ragioneremo a come spostare i villager e
+
+135
+00:05:10,969 --> 00:05:15,469
+afa e tutta tutta la zona realtà
+
+136
+00:05:13,460 --> 00:05:17,960
+potremmo già ragionare un attimo su come
+
+137
+00:05:15,469 --> 00:05:19,960
+fare tutta la zona la farma perché
+
+138
+00:05:17,960 --> 00:05:23,240
+abbiamo bisogno di alcuni blocchi che
+
+139
+00:05:19,960 --> 00:05:24,949
+non ho in questo momento ad esempio ad
+
+140
+00:05:23,240 --> 00:05:28,180
+esempio ad esempio esempio quando non ne
+
+141
+00:05:24,949 --> 00:05:30,409
+ho proprio burrell lo prendiamo
+
+142
+00:05:28,180 --> 00:05:32,150
+composter non mi serve
+
+143
+00:05:30,409 --> 00:05:33,919
+voglio voglio utilizzare anzi non voglio
+
+144
+00:05:32,150 --> 00:05:36,500
+deve utilizzare alcuni dei nuovi blocchi
+
+145
+00:05:33,919 --> 00:05:38,120
+ecco tipo ad esempio lum il lume avrà
+
+146
+00:05:36,500 --> 00:05:39,740
+bisogno di due di lui
+
+147
+00:05:38,120 --> 00:05:41,569
+il lungo mi ricordo come seacraft ma se
+
+148
+00:05:39,740 --> 00:05:43,069
+non erro servivano delle stringhe un po
+
+149
+00:05:41,569 --> 00:05:45,050
+di legno cose che ho a disposizione
+
+150
+00:05:43,069 --> 00:05:47,629
+quindi se vado appena un altro po di
+
+151
+00:05:45,050 --> 00:05:50,029
+stringhe doveva essere in grado di kraft
+
+152
+00:05:47,629 --> 00:05:52,490
+harlow se faccio così e faccio così
+
+153
+00:05:50,029 --> 00:05:54,139
+esatto abbiamo un altro lum per
+
+154
+00:05:52,490 --> 00:05:55,909
+sicurezza né che però un altro così ne
+
+155
+00:05:54,139 --> 00:05:58,339
+abbiamo tre e siamo tutti contenti
+
+156
+00:05:55,909 --> 00:06:01,189
+quindi o un bar avrò sicuramente bisogno
+
+157
+00:05:58,339 --> 00:06:05,439
+di un over di rotaie vati e quindi
+
+158
+00:06:01,189 --> 00:06:08,930
+prenderemo delle paure 34 powertrain e
+
+159
+00:06:05,439 --> 00:06:11,839
+un botto di deo taglie normali un main
+
+160
+00:06:08,930 --> 00:06:13,729
+kart e due opere di realtà pro bisogno
+
+161
+00:06:11,839 --> 00:06:17,029
+di due o per appendere due ceste della
+
+162
+00:06:13,729 --> 00:06:18,469
+nostra festa del legno e facciamo 2 ott
+
+163
+00:06:17,029 --> 00:06:20,900
+per un non andiamo in siria qua dentro
+
+164
+00:06:18,469 --> 00:06:22,430
+insieme mine kart già così abbiamo
+
+165
+00:06:20,900 --> 00:06:23,240
+svincolato molte delle cose di cui
+
+166
+00:06:22,430 --> 00:06:24,889
+abbiamo bisogno
+
+167
+00:06:23,240 --> 00:06:28,400
+un altra cosa però di cui abbiamo
+
+168
+00:06:24,889 --> 00:06:30,919
+bisogno che qui non ho molto comoda sono
+
+169
+00:06:28,400 --> 00:06:32,209
+le arpa sono lana bianca
+
+170
+00:06:30,919 --> 00:06:34,610
+vabbè non ci interessa perché tanto non
+
+171
+00:06:32,209 --> 00:06:37,550
+sarà visibile a nelle nuove pezzettini
+
+172
+00:06:34,610 --> 00:06:39,050
+di lana e andiamo a creare tre letti
+
+173
+00:06:37,550 --> 00:06:40,250
+quindi o uno rosso ma non lascerò gli
+
+174
+00:06:39,050 --> 00:06:42,530
+perché è quello che importa giro quando
+
+175
+00:06:40,250 --> 00:06:44,120
+devo dormire ne farò 3 bianchi quindi
+
+176
+00:06:42,530 --> 00:06:45,140
+facciamo perché sono due hanno
+
+177
+00:06:44,120 --> 00:06:47,930
+abbastanza legno
+
+178
+00:06:45,140 --> 00:06:49,160
+no problem bro facciamo così e si
+
+179
+00:06:47,930 --> 00:06:52,910
+risolve il problema
+
+180
+00:06:49,160 --> 00:06:54,740
+boom ok o anche tre letti nel frattempo
+
+181
+00:06:52,910 --> 00:06:57,980
+non è ancora diventata notte il nostro
+
+182
+00:06:54,740 --> 00:06:59,690
+orologio ci dice però manca poco
+
+183
+00:06:57,980 --> 00:07:02,330
+ottimo aspettiamo la nota che potremmo
+
+184
+00:06:59,690 --> 00:07:05,180
+metterci a prendere altre trapdoor
+
+185
+00:07:02,330 --> 00:07:06,350
+quindi on boat di birch per un progetto
+
+186
+00:07:05,180 --> 00:07:08,420
+che ho fatto ma non mi sono neanche
+
+187
+00:07:06,350 --> 00:07:10,130
+quale è cautamente tante rock e poi ciò
+
+188
+00:07:08,420 --> 00:07:11,360
+le sei delle sette quindi in fondo tutto
+
+189
+00:07:10,130 --> 00:07:12,560
+è un casino
+
+190
+00:07:11,360 --> 00:07:15,170
+fatto sta che prenderò queste 26
+
+191
+00:07:12,560 --> 00:07:16,730
+trapdoor anche se sono sicuramente più
+
+192
+00:07:15,170 --> 00:07:17,420
+del dovuto il suo ragionato ci sia da
+
+193
+00:07:16,730 --> 00:07:19,040
+qualcos'altro
+
+194
+00:07:17,420 --> 00:07:21,020
+proprio da un attimino il video mentre
+
+195
+00:07:19,040 --> 00:07:24,020
+aspetto questo si accenda cudia che è
+
+196
+00:07:21,020 --> 00:07:25,130
+limitato notte a una cosa che servirà è
+
+197
+00:07:24,020 --> 00:07:27,530
+una and roll
+
+198
+00:07:25,130 --> 00:07:29,930
+se per caso che nel vostro mondo non
+
+199
+00:07:27,530 --> 00:07:32,750
+avete una and rock and roll potete
+
+200
+00:07:29,930 --> 00:07:36,950
+provare ok e notte potete provare a
+
+201
+00:07:32,750 --> 00:07:39,410
+prendere una stack di neve e mettere 6
+
+202
+00:07:36,950 --> 00:07:41,240
+layer uno sopra l'altro quella è la
+
+203
+00:07:39,410 --> 00:07:43,310
+stessa altezza che produce una and roll
+
+204
+00:07:41,240 --> 00:07:46,040
+intanto noi li vediamo un attimo
+
+205
+00:07:43,310 --> 00:07:49,730
+l'inventario e aspettiamo che arrivi lo
+
+206
+00:07:46,040 --> 00:07:52,850
+zombie ci mettiamo magari qui un po
+
+207
+00:07:49,730 --> 00:07:54,320
+lontani dalla zona dei villager così se
+
+208
+00:07:52,850 --> 00:07:56,360
+sponda qualche modo magari dispone in
+
+209
+00:07:54,320 --> 00:07:58,550
+quella zona e sono tutti contenti e
+
+210
+00:07:56,360 --> 00:07:59,690
+speriamo bene per trovare subito un
+
+211
+00:07:58,550 --> 00:08:01,580
+bello zombie senza dover aspettare
+
+212
+00:07:59,690 --> 00:08:03,710
+magari più di una notte vede uno
+
+213
+00:08:01,580 --> 00:08:07,640
+scheletro là in fondo quello è un
+
+214
+00:08:03,710 --> 00:08:09,680
+creeper sono abbastanza sicuro si zombie
+
+215
+00:08:07,640 --> 00:08:11,690
+qualcuno li vede basta uno
+
+216
+00:08:09,680 --> 00:08:14,900
+tanto l'importante è che mi segua non
+
+217
+00:08:11,690 --> 00:08:17,560
+deve per forza essere vicino giustamente
+
+218
+00:08:14,900 --> 00:08:21,230
+ragni and her me ne vedo a bizzeffe
+
+219
+00:08:17,560 --> 00:08:24,290
+eccolo eccolo è proprio lì vicino alla
+
+220
+00:08:21,230 --> 00:08:26,060
+mia pharma allora attiriamo lo mentre
+
+221
+00:08:24,290 --> 00:08:28,520
+uccido quello spirito lontana ben
+
+222
+00:08:26,060 --> 00:08:31,010
+lontano da lontano lontano oralmente
+
+223
+00:08:28,520 --> 00:08:31,580
+zombie viene qui da me io è da un po che
+
+224
+00:08:31,010 --> 00:08:35,960
+succede
+
+225
+00:08:31,580 --> 00:08:38,430
+no no va bene qua qua sono qui mi vedi
+
+226
+00:08:35,960 --> 00:08:40,770
+sono qui sono qui
+
+227
+00:08:38,430 --> 00:08:44,580
+vieni a prendere ti do una bella nick
+
+228
+00:08:40,770 --> 00:08:47,070
+clegg bella niente e io esco porca vacca
+
+229
+00:08:44,580 --> 00:08:48,029
+riuscito anche mangiato all'inter blu e
+
+230
+00:08:47,070 --> 00:08:50,070
+voilà
+
+231
+00:08:48,029 --> 00:08:53,460
+abbiamo il nostro prigioniero benvenuto
+
+232
+00:08:50,070 --> 00:08:54,210
+nella famiglia roy works race words alla
+
+233
+00:08:53,460 --> 00:08:57,029
+grande
+
+234
+00:08:54,210 --> 00:08:59,180
+ora andiamo a dormire così liberiamo
+
+235
+00:08:57,029 --> 00:09:01,529
+tutti i mob che non dovrebbero esserci
+
+236
+00:08:59,180 --> 00:09:03,330
+qualche bello il mio mondo di notte
+
+237
+00:09:01,529 --> 00:09:04,649
+mammamia può lavorare ancora di più
+
+238
+00:09:03,330 --> 00:09:06,360
+sulle strade che questo mondo ragazzi
+
+239
+00:09:04,649 --> 00:09:08,310
+perché gioco a minecraft più mi rendo
+
+240
+00:09:06,360 --> 00:09:09,390
+conto che l'ho già detto più più e più
+
+241
+00:09:08,310 --> 00:09:10,950
+volte
+
+242
+00:09:09,390 --> 00:09:12,000
+la cosa principale rendere il mondo più
+
+243
+00:09:10,950 --> 00:09:15,510
+bello possibile
+
+244
+00:09:12,000 --> 00:09:19,589
+dormi dormi bel bambino che ti porto un
+
+245
+00:09:15,510 --> 00:09:21,779
+bel bambino detto questo se il tutto ha
+
+246
+00:09:19,589 --> 00:09:25,649
+funzionato come dovrebbe dovrei
+
+247
+00:09:21,779 --> 00:09:28,020
+ritrovarmi con un amichetto che non può
+
+248
+00:09:25,649 --> 00:09:29,640
+più di espugnare perché anonimi tag e
+
+249
+00:09:28,020 --> 00:09:32,220
+spero vivamente che non sia destinato
+
+250
+00:09:29,640 --> 00:09:34,950
+che non può neanche morire perché ora è
+
+251
+00:09:32,220 --> 00:09:36,480
+al buio è un nostro amico perfetto ti
+
+252
+00:09:34,950 --> 00:09:39,750
+direi per sicurezza
+
+253
+00:09:36,480 --> 00:09:41,370
+andiamo a rimuovere le tra le lepri show
+
+254
+00:09:39,750 --> 00:09:43,529
+play perché non voglio casini non voglio
+
+255
+00:09:41,370 --> 00:09:45,240
+che questo improvviso esce perché passa
+
+256
+00:09:43,529 --> 00:09:48,000
+solo una gallina se la gallina via
+
+257
+00:09:45,240 --> 00:09:50,130
+zumbini incazzo se permetti potente
+
+258
+00:09:48,000 --> 00:09:52,920
+potrei anche incazzarmi ora lo zombie ce
+
+259
+00:09:50,130 --> 00:09:55,800
+l'abbiamo qui e io direi ottima come
+
+260
+00:09:52,920 --> 00:09:58,140
+cosa lei davvero ottima
+
+261
+00:09:55,800 --> 00:10:01,200
+dobbiamo far sì che questi amichetti
+
+262
+00:09:58,140 --> 00:10:03,240
+finiscano in un determinato punto quindi
+
+263
+00:10:01,200 --> 00:10:05,510
+che dite se iniziamo a di limitare il
+
+264
+00:10:03,240 --> 00:10:07,380
+nostro famoso ma buongiorni simo
+
+265
+00:10:05,510 --> 00:10:10,110
+buongiorni stimolo sai che tu sei
+
+266
+00:10:07,380 --> 00:10:12,779
+proprio bello e dovrei dare a te la nip
+
+267
+00:10:10,110 --> 00:10:15,420
+tuck con tutta questa armatura sei
+
+268
+00:10:12,779 --> 00:10:18,120
+proprio bello tu ormai race works
+
+269
+00:10:15,420 --> 00:10:20,310
+tacchio che figo stombi non potevo
+
+270
+00:10:18,120 --> 00:10:21,390
+accorgermene prima festa una figata
+
+271
+00:10:20,310 --> 00:10:23,130
+pazzesca
+
+272
+00:10:21,390 --> 00:10:25,200
+invece mi dispiace ma devi morire oppure
+
+273
+00:10:23,130 --> 00:10:27,810
+forte tutto quanto però se devo dire
+
+274
+00:10:25,200 --> 00:10:30,779
+morire per ma dai ed armatura lui non se
+
+275
+00:10:27,810 --> 00:10:33,720
+la piglia e la figlia elisa dai piglia
+
+276
+00:10:30,779 --> 00:10:36,839
+la pignata grande ti posso vestire
+
+277
+00:10:33,720 --> 00:10:38,880
+allora grande raise works titolar ma tu
+
+278
+00:10:36,839 --> 00:10:41,220
+hai diamante blu stai calmo
+
+279
+00:10:38,880 --> 00:10:43,829
+mamma mia ti do delle sneakers ti metto
+
+280
+00:10:41,220 --> 00:10:45,930
+le jordan faccio volare l'ora
+
+281
+00:10:43,829 --> 00:10:48,630
+dicevamo si limitiamo la nostra zona
+
+282
+00:10:45,930 --> 00:10:50,190
+abbiamo bisogno di un 3x3 lo mettiamo
+
+283
+00:10:48,630 --> 00:10:51,960
+direttamente qua sotto
+
+284
+00:10:50,190 --> 00:10:54,570
+così in qualche modo riusciamo
+
+285
+00:10:51,960 --> 00:10:56,670
+azionare i villager senza far bene
+
+286
+00:10:54,570 --> 00:10:57,960
+troppo danno e cose varie
+
+287
+00:10:56,670 --> 00:11:00,330
+tanto questa è una zona molto e statica
+
+288
+00:10:57,960 --> 00:11:02,280
+del mondo questa potenzialmente è un
+
+289
+00:11:00,330 --> 00:11:04,230
+iron man che non andremo a distruggere
+
+290
+00:11:02,280 --> 00:11:06,690
+perché è una cosa vecchia ma è
+
+291
+00:11:04,230 --> 00:11:09,030
+abbastanza mastodontica potrebbe essere
+
+292
+00:11:06,690 --> 00:11:10,530
+resa più bellina sicuramente potremo
+
+293
+00:11:09,030 --> 00:11:13,140
+abbellirla magari con delle costruzioni
+
+294
+00:11:10,530 --> 00:11:15,090
+in legno e dei bei conto degli archetti
+
+295
+00:11:13,140 --> 00:11:17,370
+delle cose però non l'ha rimuoveremo
+
+296
+00:11:15,090 --> 00:11:19,410
+allora qui in teoria io ho bisogno di un
+
+297
+00:11:17,370 --> 00:11:21,350
+secchio d'acqua che per fortuna occhio a
+
+298
+00:11:19,410 --> 00:11:25,460
+disposizione neanche a farlo apposta
+
+299
+00:11:21,350 --> 00:11:28,050
+posso prendere una bad trip wood
+
+300
+00:11:25,460 --> 00:11:28,500
+trapdoor tra food e metterci questo
+
+301
+00:11:28,050 --> 00:11:30,000
+dentro
+
+302
+00:11:28,500 --> 00:11:32,610
+ora posso dare a posizionare i
+
+303
+00:11:30,000 --> 00:11:35,070
+bigliettini e devo posizionare in teoria
+
+304
+00:11:32,610 --> 00:11:37,500
+uno così no aspetta voglio funzionali
+
+305
+00:11:35,070 --> 00:11:40,680
+con la testa di là per un vizio mio
+
+306
+00:11:37,500 --> 00:11:43,740
+facciamo così diciamo così mettiamo qui
+
+307
+00:11:40,680 --> 00:11:45,030
+land road posizionata contro il muro ed
+
+308
+00:11:43,740 --> 00:11:48,150
+è qui che andremo a mettere il nostro
+
+309
+00:11:45,030 --> 00:11:51,600
+zombie fate pure l'angolo più vicino
+
+310
+00:11:48,150 --> 00:11:56,130
+e cos'altro equa mettiamo invece uno
+
+311
+00:11:51,600 --> 00:11:58,290
+delle come sia blocchi operativi
+
+312
+00:11:56,130 --> 00:12:00,630
+richiamo come sono come si chiamano sono
+
+313
+00:11:58,290 --> 00:12:02,790
+i blocchi in cui i village si sentono di
+
+314
+00:12:00,630 --> 00:12:04,740
+poter fare cose ok vi ledger lavoratori
+
+315
+00:12:02,790 --> 00:12:07,080
+su quelle cose possono fare cose vanno
+
+316
+00:12:04,740 --> 00:12:08,700
+lì è come se lavorassero ok più o meno
+
+317
+00:12:07,080 --> 00:12:10,620
+il principio a quello io spero dato che
+
+318
+00:12:08,700 --> 00:12:12,120
+questi video ager vadano bene perché su
+
+319
+00:12:10,620 --> 00:12:14,070
+un bialbero cioè su un vecchio in un
+
+320
+00:12:12,120 --> 00:12:17,220
+anno le texture nuove non e cappellini
+
+321
+00:12:14,070 --> 00:12:19,260
+le cose se non lo so speriamo bene
+
+322
+00:12:17,220 --> 00:12:21,000
+chi ha lividi non andò cappellini robe
+
+323
+00:12:19,260 --> 00:12:22,860
+strane sono tre villaggi normalissimi
+
+324
+00:12:21,000 --> 00:12:25,500
+non lo so speriamo bene ecco comunque
+
+325
+00:12:22,860 --> 00:12:27,090
+questo è il principio i villaggi ad un
+
+326
+00:12:25,500 --> 00:12:29,520
+anno stare qui in mezzo e dovranno
+
+327
+00:12:27,090 --> 00:12:31,380
+saltellare come ed efficienti meno male
+
+328
+00:12:29,520 --> 00:12:33,450
+questo è il mood da questo blocchetto
+
+329
+00:12:31,380 --> 00:12:36,330
+loro possono dare a dormire e fare tutte
+
+330
+00:12:33,450 --> 00:12:38,970
+le cose del caso metterò un altro strato
+
+331
+00:12:36,330 --> 00:12:40,710
+di blocchi di cobol stone perché chi ha
+
+332
+00:12:38,970 --> 00:12:44,460
+realizzato questa questo design l'ha
+
+333
+00:12:40,710 --> 00:12:45,930
+fatto o sotto terra o in o in aria
+
+334
+00:12:44,460 --> 00:12:49,140
+quindi ho paura che poi villaggio e
+
+335
+00:12:45,930 --> 00:12:51,300
+magari da cui riesca quando si sveglia
+
+336
+00:12:49,140 --> 00:12:52,830
+teletrasportarsi fuori e vorrei che
+
+337
+00:12:51,300 --> 00:12:54,000
+questo fosse l'unico blocco in cui può
+
+338
+00:12:52,830 --> 00:12:56,430
+andare
+
+339
+00:12:54,000 --> 00:12:58,410
+giusto per sicurezza tra posto race a
+
+340
+00:12:56,430 --> 00:13:00,090
+posto e mi raccomando comportati bene
+
+341
+00:12:58,410 --> 00:13:01,020
+ora prima nostro bel barilotto e lo
+
+342
+00:13:00,090 --> 00:13:03,810
+piazzano qua sopra
+
+343
+00:13:01,020 --> 00:13:04,550
+insomma bariloche mettiamo uno per qua
+
+344
+00:13:03,810 --> 00:13:05,870
+piazza
+
+345
+00:13:04,550 --> 00:13:07,940
+con un attimo che ci servirà super di
+
+346
+00:13:05,870 --> 00:13:09,290
+essere un altro bloom e poi lo leviamo
+
+347
+00:13:07,940 --> 00:13:11,120
+che non ci serve
+
+348
+00:13:09,290 --> 00:13:13,700
+ora prendiamo i nostri slam non sa fare
+
+349
+00:13:11,120 --> 00:13:14,810
+un bel giro qua attorno diciamo così
+
+350
+00:13:13,700 --> 00:13:16,370
+così
+
+351
+00:13:14,810 --> 00:13:19,459
+riempiamo questo buchetto nell'angolo
+
+352
+00:13:16,370 --> 00:13:22,250
+facciamo così così e qui dove invece ci
+
+353
+00:13:19,459 --> 00:13:24,140
+sarà quello zombi mettiamo una trapdoor
+
+354
+00:13:22,250 --> 00:13:27,050
+in questo modo
+
+355
+00:13:24,140 --> 00:13:28,490
+in realtà dove mi trap dr eccole qua
+
+356
+00:13:27,050 --> 00:13:30,260
+abbiamo bisogno di mettere un anche nel
+
+357
+00:13:28,490 --> 00:13:34,250
+mezzo ci mettiamo anche qui una bella
+
+358
+00:13:30,260 --> 00:13:36,890
+trapdoor e le voci possiamo uscire qui
+
+359
+00:13:34,250 --> 00:13:39,950
+la l'apriamo ce la facciamo ed è dove
+
+360
+00:13:36,890 --> 00:13:40,430
+andremo inserire i nostri villager cosa
+
+361
+00:13:39,950 --> 00:13:42,829
+dovrei fare
+
+362
+00:13:40,430 --> 00:13:45,350
+ora quindi fatemi questo vado a prendere
+
+363
+00:13:42,829 --> 00:13:47,899
+un po di gogol stone vado a dormire tra
+
+364
+00:13:45,350 --> 00:13:49,790
+un po con cisco un bel gioiellino e ci
+
+365
+00:13:47,899 --> 00:13:52,880
+metto dentro villager bisogna anche un
+
+366
+00:13:49,790 --> 00:13:54,860
+po di più acqua ma c'è un bello scudo
+
+367
+00:13:52,880 --> 00:13:56,839
+perché non voglio che arrivino dei mini
+
+368
+00:13:54,860 --> 00:13:58,640
+zombie a uccidere me villager e a
+
+369
+00:13:56,839 --> 00:14:01,459
+tramutarli in zombie villager non è
+
+370
+00:13:58,640 --> 00:14:04,370
+l'ideale qua possiamo tenere aperto e
+
+371
+00:14:01,459 --> 00:14:05,750
+facciamo un pennellino sembra la cosa
+
+372
+00:14:04,370 --> 00:14:08,240
+più ideale
+
+373
+00:14:05,750 --> 00:14:11,890
+c'è un tunnel lino che da qui vi farà
+
+374
+00:14:08,240 --> 00:14:15,950
+cadere però dell'acqua talmente qua
+
+375
+00:14:11,890 --> 00:14:19,670
+sembra sensato sembra un buon piano
+
+376
+00:14:15,950 --> 00:14:21,649
+addirittura userei dire l'acqua qui in
+
+377
+00:14:19,670 --> 00:14:24,050
+teoria dovrebbe essere bloccata da
+
+378
+00:14:21,649 --> 00:14:26,570
+questo giusto per confermare facciamo
+
+379
+00:14:24,050 --> 00:14:29,990
+così ok l'acqua non esce ager dovrebbe
+
+380
+00:14:26,570 --> 00:14:32,570
+cadere non dovrebbe cercare di notare
+
+381
+00:14:29,990 --> 00:14:36,440
+anche se cercassi notare non dovrebbe
+
+382
+00:14:32,570 --> 00:14:38,089
+farcela e che facciamo ci proviamo con
+
+383
+00:14:36,440 --> 00:14:41,420
+casinò è però ce la facciamo
+
+384
+00:14:38,089 --> 00:14:43,940
+devo rompere quel blocco e ora devo
+
+385
+00:14:41,420 --> 00:14:45,290
+salire invece la notte non è proprio
+
+386
+00:14:43,940 --> 00:14:49,060
+momento perfetto per fare sta roba
+
+387
+00:14:45,290 --> 00:14:52,399
+però salirò qua e spingerò i miei amici
+
+388
+00:14:49,060 --> 00:14:55,279
+verso il buco l'ho appena creato e che a
+
+389
+00:14:52,399 --> 00:14:58,430
+quanto pare perfetto per loro
+
+390
+00:14:55,279 --> 00:15:00,529
+sentite siamo calmissimi è che non
+
+391
+00:14:58,430 --> 00:15:02,089
+voglio farvi nulla
+
+392
+00:15:00,529 --> 00:15:07,010
+entrerò qua dentro vi spingerò piano
+
+393
+00:15:02,089 --> 00:15:09,649
+piano abbiamo uno abbiamo due rai e
+
+394
+00:15:07,010 --> 00:15:13,640
+abbiamo un numero 3 bye bye tutto 2
+
+395
+00:15:09,649 --> 00:15:15,680
+tutto tuo amichetto vai vai vai da ciò
+
+396
+00:15:13,640 --> 00:15:18,770
+che vuoi vai vai vai vai vai di là
+
+397
+00:15:15,680 --> 00:15:21,070
+ride non vuole andare no sono ancora lì
+
+398
+00:15:18,770 --> 00:15:24,910
+devo scendere spingerli a mano
+
+399
+00:15:21,070 --> 00:15:28,399
+sembrerebbe di sì amichetto mio signor
+
+400
+00:15:24,910 --> 00:15:28,850
+non sei un villager perché faranno con
+
+401
+00:15:28,399 --> 00:15:32,089
+la testa
+
+402
+00:15:28,850 --> 00:15:36,410
+oh mio dio allora non ti suicidare ti
+
+403
+00:15:32,089 --> 00:15:39,740
+prego vai vai vai vai la fanno
+
+404
+00:15:36,410 --> 00:15:42,800
+volete scendere vi prego buttati giù che
+
+405
+00:15:39,740 --> 00:15:46,820
+ti ci vuole una caduta
+
+406
+00:15:42,800 --> 00:15:49,730
+no sono tutti qua è che cacchio forza
+
+407
+00:15:46,820 --> 00:15:52,100
+devo levare l'acqua però arrivare
+
+408
+00:15:49,730 --> 00:16:01,010
+l'acqua che succede se non può notare
+
+409
+00:15:52,100 --> 00:16:04,870
+cadrai forza let go quarta vacca ok che
+
+410
+00:16:01,010 --> 00:16:08,270
+ansia signori mamma mia che ansia
+
+411
+00:16:04,870 --> 00:16:10,339
+va bene e villager ce li abbiamo
+
+412
+00:16:08,270 --> 00:16:13,700
+andiamo a dormire perché quas poni non
+
+413
+00:16:10,339 --> 00:16:16,250
+so cosa allora tutti vivi tutti
+
+414
+00:16:13,700 --> 00:16:18,020
+operativi ma io li sentirei anche quindi
+
+415
+00:16:16,250 --> 00:16:20,990
+secondo me siamo tutti operativi per
+
+416
+00:16:18,020 --> 00:16:22,850
+fare un buchettino sono tutti lì dentro
+
+417
+00:16:20,990 --> 00:16:24,620
+hanno anche dormito perché di notte che
+
+418
+00:16:22,850 --> 00:16:26,510
+lo provano a dormire direi che ci siamo
+
+419
+00:16:24,620 --> 00:16:27,950
+signori già che ci siamo quindi abbiamo
+
+420
+00:16:26,510 --> 00:16:29,720
+rimuovere tutta questa struttura che
+
+421
+00:16:27,950 --> 00:16:32,089
+abbiamo realizzato real che non ci serve
+
+422
+00:16:29,720 --> 00:16:34,490
+assolutamente sono solo blocchi blocchi
+
+423
+00:16:32,089 --> 00:16:37,550
+brutti che dobbiamo levare ora bisogna
+
+424
+00:16:34,490 --> 00:16:38,990
+lavorare e andare avanti perché qui
+
+425
+00:16:37,550 --> 00:16:40,820
+abbiamo bisogno di intanto chiudere
+
+426
+00:16:38,990 --> 00:16:44,120
+questa perché non devo più aprirla in
+
+427
+00:16:40,820 --> 00:16:47,180
+teoria mi sono scordato una cosa due
+
+428
+00:16:44,120 --> 00:16:49,160
+cose mi son scordato signori cazzo stata
+
+429
+00:16:47,180 --> 00:16:50,810
+una cosa importante ho bisogno di un
+
+430
+00:16:49,160 --> 00:16:52,820
+pistone scusata una cosa super
+
+431
+00:16:50,810 --> 00:16:56,089
+importante spero che non abbia fatto una
+
+432
+00:16:52,820 --> 00:16:58,250
+cappellata perché potrebbe aver mandato
+
+433
+00:16:56,089 --> 00:17:01,040
+a fanculo tutto se devono per un blocco
+
+434
+00:16:58,250 --> 00:17:03,130
+e qualche villaggio e scappa non riesco
+
+435
+00:17:01,040 --> 00:17:05,870
+di portarlo lì devo prendere un altro
+
+436
+00:17:03,130 --> 00:17:08,300
+allora ha bisogno in pistonesi o un
+
+437
+00:17:05,870 --> 00:17:10,459
+pistone appiccicoso ma non vorrei far
+
+438
+00:17:08,300 --> 00:17:12,530
+casini quindi prenderò un normale e
+
+439
+00:17:10,459 --> 00:17:15,800
+prenderò anche una torcia di reds vede
+
+440
+00:17:12,530 --> 00:17:18,829
+questo blocco deve diventare molto
+
+441
+00:17:15,800 --> 00:17:22,670
+magicamente e anche lì ci dovrebbe
+
+442
+00:17:18,829 --> 00:17:25,339
+essere una così chiama un'altra app
+
+443
+00:17:22,670 --> 00:17:26,959
+d'ora come anche l'attacco una trattoria
+
+444
+00:17:25,339 --> 00:17:28,429
+la sopra
+
+445
+00:17:26,959 --> 00:17:30,169
+suona tractor per impedirgli di andare
+
+446
+00:17:28,429 --> 00:17:32,390
+dove non dovrebbero ci siano spostati
+
+447
+00:17:30,169 --> 00:17:36,649
+solo da letto dove dico io
+
+448
+00:17:32,390 --> 00:17:42,169
+quindi facciamo così e anche così e
+
+449
+00:17:36,649 --> 00:17:44,960
+facciamo così a ottimo rimettiamo qua
+
+450
+00:17:42,169 --> 00:17:47,510
+due blocchi la stessa cosa di qua solo
+
+451
+00:17:44,960 --> 00:17:49,929
+che devo fare una sostituzione ed è
+
+452
+00:17:47,510 --> 00:17:55,399
+molto più pericolosa una sostituzione
+
+453
+00:17:49,929 --> 00:17:57,950
+molto più pericolosa good e devo lo
+
+454
+00:17:55,399 --> 00:18:01,789
+chiamavano il mouse più veloce del west
+
+455
+00:17:57,950 --> 00:18:05,149
+ok ottimo è tutto è salvo possiamo
+
+456
+00:18:01,789 --> 00:18:07,909
+ancora andare avanti credibile e in
+
+457
+00:18:05,149 --> 00:18:10,250
+teoria mettendo qui con uno shift click
+
+458
+00:18:07,909 --> 00:18:13,159
+questa questo andremo più aprirla ma
+
+459
+00:18:10,250 --> 00:18:15,230
+questo dovrebbe essere esatto un bel
+
+460
+00:18:13,159 --> 00:18:17,929
+pistone attivo ora bisogna inserire qui
+
+461
+00:18:15,230 --> 00:18:20,059
+il nostro amico raise works e poi
+
+462
+00:18:17,929 --> 00:18:23,299
+possiamo dare avanti quindi che ride se
+
+463
+00:18:20,059 --> 00:18:27,380
+intanto se non ha ancora un pochino i
+
+464
+00:18:23,299 --> 00:18:29,299
+nostri blocchi guida e e poi chiamò da
+
+465
+00:18:27,380 --> 00:18:32,630
+farsi come cacchio ce lo metto io quello
+
+466
+00:18:29,299 --> 00:18:34,490
+che bella domanda
+
+467
+00:18:32,630 --> 00:18:36,320
+sapore legando sono in single player ma
+
+468
+00:18:34,490 --> 00:18:38,690
+allarga grande manca avrei una mezza
+
+469
+00:18:36,320 --> 00:18:43,309
+intenzione di fare sistema come mine
+
+470
+00:18:38,690 --> 00:18:45,860
+carta potrebbe avere senso potrebbe
+
+471
+00:18:43,309 --> 00:18:48,760
+addirittura avere il senso signore tanto
+
+472
+00:18:45,860 --> 00:18:52,370
+sono vicini perché no fa di questo tipo
+
+473
+00:18:48,760 --> 00:18:57,440
+sarà attento a una cosa illuminate che
+
+474
+00:18:52,370 --> 00:19:00,559
+cosa al danno da caduta e da cose varie
+
+475
+00:18:57,440 --> 00:19:04,010
+io faccio così in teoria il tipo arriva
+
+476
+00:19:00,559 --> 00:19:06,620
+accade sono tutti felici perché no
+
+477
+00:19:04,010 --> 00:19:08,179
+distruggiamo un attimino questo così mi
+
+478
+00:19:06,620 --> 00:19:09,470
+dalle mine cat normale
+
+479
+00:19:08,179 --> 00:19:11,330
+poi nel caso del capo un altro se ho
+
+480
+00:19:09,470 --> 00:19:11,720
+bisogno vero c'è l'armatura non dovrebbe
+
+481
+00:19:11,330 --> 00:19:15,169
+morire
+
+482
+00:19:11,720 --> 00:19:19,010
+diciamo così facciamo così ok il nostro
+
+483
+00:19:15,169 --> 00:19:22,340
+amichetto c'è lo spinge lo spingiamo vai
+
+484
+00:19:19,010 --> 00:19:27,370
+di da nomi attaccare e cammina su guido
+
+485
+00:19:22,340 --> 00:19:29,840
+buffetto deriva una manata porca puttana
+
+486
+00:19:27,370 --> 00:19:32,380
+porca puttana no no no no no torna di
+
+487
+00:19:29,840 --> 00:19:36,799
+acqua per nadia tornato andato a nato ma
+
+488
+00:19:32,380 --> 00:19:37,190
+non mi morire super e johnson non puoi
+
+489
+00:19:36,799 --> 00:19:40,220
+morire
+
+490
+00:19:37,190 --> 00:19:42,980
+non so devo aspettare notte
+
+491
+00:19:40,220 --> 00:19:45,830
+grande re jones aspettiamo notte
+
+492
+00:19:42,980 --> 00:19:47,330
+aspettiamo notte se no mi basta dargli
+
+493
+00:19:45,830 --> 00:19:50,260
+un elmetto ecco l'elmetto che non
+
+494
+00:19:47,330 --> 00:19:52,789
+prenderanno abbiamo cercato nel mezzo
+
+495
+00:19:50,260 --> 00:19:53,990
+stupido ray johnson
+
+496
+00:19:52,789 --> 00:19:56,690
+non so perché ora si chiama ray johnson
+
+497
+00:19:53,990 --> 00:19:58,850
+propri johnson mai detto ti devo dare
+
+498
+00:19:56,690 --> 00:20:02,179
+per un elmetto di ferro dimmi tu se non
+
+499
+00:19:58,850 --> 00:20:03,380
+ti voglio bene data no però non è che
+
+500
+00:20:02,179 --> 00:20:06,049
+ora subito anche un botto di dando
+
+501
+00:20:03,380 --> 00:20:09,169
+quindi se si glissa è finita poca vacca
+
+502
+00:20:06,049 --> 00:20:10,700
+se si dice è finita la grande amico mio
+
+503
+00:20:09,169 --> 00:20:14,929
+ora in teoria ma dovresti prender danno
+
+504
+00:20:10,700 --> 00:20:19,220
+vero cammina alzati e cammina disse suri
+
+505
+00:20:14,929 --> 00:20:21,230
+ok ora non prendi danno no sali porca
+
+506
+00:20:19,220 --> 00:20:24,740
+vacca se qui deve incazzare mena non
+
+507
+00:20:21,230 --> 00:20:26,600
+puoi ammazzarmi e che cacchio devo
+
+508
+00:20:24,740 --> 00:20:27,740
+davvero mettere una power ed rail
+
+509
+00:20:26,600 --> 00:20:30,380
+mi stai dicendo che volete un'app a
+
+510
+00:20:27,740 --> 00:20:31,820
+vedere il seno non salì io ti odio visto
+
+511
+00:20:30,380 --> 00:20:34,100
+ci conosciamo appena e già ti odio le
+
+512
+00:20:31,820 --> 00:20:38,179
+johnson tra l'altro sta diventando notte
+
+513
+00:20:34,100 --> 00:20:40,700
+vero quasi notte ce la faremo a suon di
+
+514
+00:20:38,179 --> 00:20:41,450
+pesci per recuperare la fame ma ce la
+
+515
+00:20:40,700 --> 00:20:43,370
+faremo
+
+516
+00:20:41,450 --> 00:20:45,350
+fidati di me amichetto mio e come tutta
+
+517
+00:20:43,370 --> 00:20:50,590
+la vita dai recupera quel mezzo cuore di
+
+518
+00:20:45,350 --> 00:20:50,590
+ti manca mai
+
+519
+00:20:51,700 --> 00:20:55,940
+ok
+
+520
+00:20:52,909 --> 00:20:58,789
+stiamo molto calmi
+
+521
+00:20:55,940 --> 00:21:04,820
+andiamo a fare la seguente cosa 3 2 1 no
+
+522
+00:20:58,789 --> 00:21:08,919
+credo uno lorca merda cadi dentro norah
+
+523
+00:21:04,820 --> 00:21:12,230
+jones che mi combini grande ray johnson
+
+524
+00:21:08,919 --> 00:21:14,840
+grande re johnson vai così ma alla
+
+525
+00:21:12,230 --> 00:21:18,289
+grande o mio dio che avventura
+
+526
+00:21:14,840 --> 00:21:20,630
+incredibile grande ray johnson stima
+
+527
+00:21:18,289 --> 00:21:23,110
+totale per le johnson vai così più di
+
+528
+00:21:20,630 --> 00:21:28,900
+qua questa trappola dei mod
+
+529
+00:21:23,110 --> 00:21:30,340
+allora che fatica che fatica
+
+530
+00:21:28,900 --> 00:21:31,840
+andiamo avanti stiamo attenti a non più
+
+531
+00:21:30,340 --> 00:21:36,010
+in nessuna delle cose che non dovrei
+
+532
+00:21:31,840 --> 00:21:36,850
+aprire e andrò a posizionare 4 powered
+
+533
+00:21:36,010 --> 00:21:40,180
+rail
+
+534
+00:21:36,850 --> 00:21:42,100
+in questo modo 4 rotaie normali in
+
+535
+00:21:40,180 --> 00:21:44,530
+quest'altro modo stando attenti aprire a
+
+536
+00:21:42,100 --> 00:21:46,660
+non aprire le tac dr posizioniamo il
+
+537
+00:21:44,530 --> 00:21:48,100
+nostro main kart con o per iniziamo a
+
+538
+00:21:46,660 --> 00:21:49,900
+farlo andare
+
+539
+00:21:48,100 --> 00:21:51,490
+ok con sandra all'infinito signori poco
+
+540
+00:21:49,900 --> 00:21:55,570
+ma sicuro
+
+541
+00:21:51,490 --> 00:21:57,850
+vediamo il tutto alla grandissima ok che
+
+542
+00:21:55,570 --> 00:22:00,220
+faticare johnson che fatica ci ragazzi
+
+543
+00:21:57,850 --> 00:22:02,980
+per voi sono passati solo pochi secondi
+
+544
+00:22:00,220 --> 00:22:04,990
+ferme sono passate quasi un'ora e mezzo
+
+545
+00:22:02,980 --> 00:22:07,510
+perché ho dovuto fare delle cose
+
+546
+00:22:04,990 --> 00:22:09,940
+comunque piazziamo tutto il resto dei
+
+547
+00:22:07,510 --> 00:22:12,400
+blocchi guardia e mettiamo un due
+
+548
+00:22:09,940 --> 00:22:14,800
+blocchi sopra sullo slot superiore degli
+
+549
+00:22:12,400 --> 00:22:15,520
+slum lasciando al centro uno spazio
+
+550
+00:22:14,800 --> 00:22:18,160
+vuoto
+
+551
+00:22:15,520 --> 00:22:19,240
+mettiamo uno slide qui eleviamo questo e
+
+552
+00:22:18,160 --> 00:22:21,730
+ora mettiamo invece tutto attorno
+
+553
+00:22:19,240 --> 00:22:24,760
+lasciando uno spazio quindi uno spazio
+
+554
+00:22:21,730 --> 00:22:25,630
+in cui può spronare il golem i nostri
+
+555
+00:22:24,760 --> 00:22:27,850
+trap dr
+
+556
+00:22:25,630 --> 00:22:30,360
+in questo modo ora andremo anche a
+
+557
+00:22:27,850 --> 00:22:33,910
+piazzare un pezzo di lava che non ho qui
+
+558
+00:22:30,360 --> 00:22:35,440
+sopra questo e dovremmo essere pressoché
+
+559
+00:22:33,910 --> 00:22:38,560
+a posto
+
+560
+00:22:35,440 --> 00:22:41,200
+facciamo così vediamoci uno slot d'acqua
+
+561
+00:22:38,560 --> 00:22:43,240
+e torniamo a casa stando attenti modo
+
+562
+00:22:41,200 --> 00:22:45,940
+andiamo anche a dormire per inciso con
+
+563
+00:22:43,240 --> 00:22:47,740
+molta calma ma non troppo come dicevo è
+
+564
+00:22:45,940 --> 00:22:49,120
+passato un po di tempo e se la devo fare
+
+565
+00:22:47,740 --> 00:22:51,400
+anche altre cose quindi non voglio
+
+566
+00:22:49,120 --> 00:22:53,260
+andare nel nether ruberò un pezzo di
+
+567
+00:22:51,400 --> 00:22:58,620
+lava dal nostro laghetto barra
+
+568
+00:22:53,260 --> 00:23:02,440
+laboratorio e il ruberò da qui ottimo
+
+569
+00:22:58,620 --> 00:23:05,230
+andiamo qua sopra e piazziamo il blocco
+
+570
+00:23:02,440 --> 00:23:07,270
+di lava può essere anche scoperto non ci
+
+571
+00:23:05,230 --> 00:23:09,790
+interessa devo solo rimuovere questi gli
+
+572
+00:23:07,270 --> 00:23:10,360
+occhi non danno fastidio ma mi dà
+
+573
+00:23:09,790 --> 00:23:13,300
+fastidio
+
+574
+00:23:10,360 --> 00:23:15,000
+a me personalmente mi mia me non si
+
+575
+00:23:13,300 --> 00:23:17,860
+impedisce però va bene mi dà fastidio
+
+576
+00:23:15,000 --> 00:23:19,840
+personalmente e metterò qui sopra lava e
+
+577
+00:23:17,860 --> 00:23:21,490
+a rigor di logica dovrebbe dare nessuna
+
+578
+00:23:19,840 --> 00:23:23,890
+parte perché tra per lo bloccano
+
+579
+00:23:21,490 --> 00:23:25,450
+non solo le tratte non posso prendere
+
+580
+00:23:23,890 --> 00:23:26,350
+fuoco anche se sono di legno quindi
+
+581
+00:23:25,450 --> 00:23:29,920
+tranquilli
+
+582
+00:23:26,350 --> 00:23:30,850
+va tutto bene e a rigor di logica questo
+
+583
+00:23:29,920 --> 00:23:33,970
+è quanto
+
+584
+00:23:30,850 --> 00:23:36,970
+signori abbiamo villager
+
+585
+00:23:33,970 --> 00:23:38,560
+zombie tutto quanto e dovremmo essere
+
+586
+00:23:36,970 --> 00:23:41,140
+tutti molto molto contenti del risultato
+
+587
+00:23:38,560 --> 00:23:43,210
+anche perché dovrebbe funzionare in
+
+588
+00:23:41,140 --> 00:23:47,340
+realtà come efficienza è molto simile
+
+589
+00:23:43,210 --> 00:23:50,080
+all efficienza che avevamo di qua però
+
+590
+00:23:47,340 --> 00:23:54,010
+vediamo aspettiamo di capire come quando
+
+591
+00:23:50,080 --> 00:23:56,530
+e perché devo fare solo un buco che se
+
+592
+00:23:54,010 --> 00:24:00,070
+non erro dovrebbe essere di qua no non
+
+593
+00:23:56,530 --> 00:24:03,430
+qui ma qui per accedere al bar del al
+
+594
+00:24:00,070 --> 00:24:06,070
+bar dove arriverà il nostro il nostro
+
+595
+00:24:03,430 --> 00:24:09,070
+ferro sia perché ha tra l'altro una cosa
+
+596
+00:24:06,070 --> 00:24:11,920
+utile e perché questo barrella serve si
+
+597
+00:24:09,070 --> 00:24:13,690
+aprì villager per lavorare ma anche come
+
+598
+00:24:11,920 --> 00:24:15,220
+storage infatti lo usiamo per prendere
+
+599
+00:24:13,690 --> 00:24:17,980
+il ferro quindi bomba
+
+600
+00:24:15,220 --> 00:24:20,050
+lo so che è bruttissimo da vedere ne
+
+601
+00:24:17,980 --> 00:24:21,490
+sono consapevole ma avremo modo di
+
+602
+00:24:20,050 --> 00:24:23,950
+abbellirlo magari insieme a
+
+603
+00:24:21,490 --> 00:24:25,180
+l'abbellimento di questa struttura per
+
+604
+00:24:23,950 --> 00:24:26,710
+oggi purtroppo non ho più tempo a
+
+605
+00:24:25,180 --> 00:24:28,810
+disposizione e quindi ringrazio
+
+606
+00:24:26,710 --> 00:24:30,070
+tantissimo per la visione la parte più
+
+607
+00:24:28,810 --> 00:24:31,540
+bella di questo video se non è costata
+
+608
+00:24:30,070 --> 00:24:33,220
+comunque la trappola perché è semplice
+
+609
+00:24:31,540 --> 00:24:34,960
+si sa mai una genialata e avevo mai
+
+610
+00:24:33,220 --> 00:24:37,840
+usata prima d'ora nonostante giochi a
+
+611
+00:24:34,960 --> 00:24:39,520
+minecraft tanto tempo è generata totale
+
+612
+00:24:37,840 --> 00:24:41,170
+ragazzi noi cediamo prossimamente quassù
+
+613
+00:24:39,520 --> 00:24:41,950
+canale con altri video io vi saluto ciao
+
+614
+00:24:41,170 --> 00:25:01,420
+tutti
+
+615
+00:24:41,950 --> 00:25:01,420
+[Musica]

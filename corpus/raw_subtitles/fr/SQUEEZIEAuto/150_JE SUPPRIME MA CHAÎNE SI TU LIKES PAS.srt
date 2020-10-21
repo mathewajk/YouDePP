@@ -1,0 +1,823 @@
+1
+00:00:01,250 --> 00:00:10,260
+youtube va mal cette vidéo n'était pas
+
+2
+00:00:08,700 --> 00:00:11,580
+du tout prévu à la base mais lui ce qui
+
+3
+00:00:10,260 --> 00:00:12,750
+se passe en ce moment je me suis dit que
+
+4
+00:00:11,580 --> 00:00:13,559
+ce n'était pas une si mauvaise idée de
+
+5
+00:00:12,750 --> 00:00:15,089
+les tenir au courant
+
+6
+00:00:13,559 --> 00:00:16,890
+il avait raison et youtube veut bien
+
+7
+00:00:15,089 --> 00:00:19,780
+nous acculer et et j'en paie bien sûr
+
+8
+00:00:16,890 --> 00:00:23,230
+car en effet youtube a décidé d'eux
+
+9
+00:00:19,780 --> 00:00:25,030
+nous sommes récemment youtube a changé
+
+10
+00:00:23,230 --> 00:00:26,620
+son algorithme et quelques bugs ont fait
+
+11
+00:00:25,030 --> 00:00:27,970
+leur apparition youtube désabonnent
+
+12
+00:00:26,620 --> 00:00:28,630
+automatiquement les gens de certaines
+
+13
+00:00:27,970 --> 00:00:29,950
+chaînes youtube
+
+14
+00:00:28,630 --> 00:00:31,780
+le compteur de vue fait de l'immense
+
+15
+00:00:29,950 --> 00:00:32,710
+merde et enfin le pire de tous les gens
+
+16
+00:00:31,780 --> 00:00:33,790
+ne reçoivent plus dans leurs frais
+
+17
+00:00:32,710 --> 00:00:35,110
+d'abonnement les vidéos des gens
+
+18
+00:00:33,790 --> 00:00:36,610
+auxquels ils se sont abonnés ça a
+
+19
+00:00:35,110 --> 00:00:38,020
+entraîné une baisse des vues une baisse
+
+20
+00:00:36,610 --> 00:00:39,340
+du nombre d'abonnés et une baisse de
+
+21
+00:00:38,020 --> 00:00:41,080
+motivation la part de tous les créateurs
+
+22
+00:00:39,340 --> 00:00:42,670
+de contenu mais le vrai sujet de cette
+
+23
+00:00:41,080 --> 00:00:43,210
+vidéo c'est l'algorithme et tout ce que
+
+24
+00:00:42,670 --> 00:00:44,770
+ça implique
+
+25
+00:00:43,210 --> 00:00:45,879
+l'algorithme de youtube c'est quoi c'est
+
+26
+00:00:44,770 --> 00:00:47,410
+un système qui fonctionne de manière
+
+27
+00:00:45,879 --> 00:00:48,820
+indépendante est totalement automatique
+
+28
+00:00:47,410 --> 00:00:49,900
+et qui met en avant des vidéos en se
+
+29
+00:00:48,820 --> 00:00:51,309
+basant sur certains critères
+
+30
+00:00:49,900 --> 00:00:52,989
+le watch times à savoir quel pourcentage
+
+31
+00:00:51,309 --> 00:00:54,400
+de la vidéo le mec qu'a cliquer dessus à
+
+32
+00:00:52,989 --> 00:00:55,510
+regarder le nombre de pouces bleus et le
+
+33
+00:00:54,400 --> 00:00:56,890
+nombre de commentaires ça a fonctionné
+
+34
+00:00:55,510 --> 00:00:58,449
+comme ça pendant des années mais youtube
+
+35
+00:00:56,890 --> 00:00:59,800
+n'a jamais donné sur quels critères se
+
+36
+00:00:58,449 --> 00:01:01,030
+basait son algorithme sinon ça n'aurait
+
+37
+00:00:59,800 --> 00:01:03,010
+plus de sens puisque tout le monde dort
+
+38
+00:01:01,030 --> 00:01:04,330
+et abusé mais attend des escapades ya
+
+39
+00:01:03,010 --> 00:01:05,740
+plein mieux qu'ils ont totalement abusé
+
+40
+00:01:04,330 --> 00:01:07,300
+quand même si tu le congratuler vidéo
+
+41
+00:01:05,740 --> 00:01:09,220
+promo lui permettre aux six pouces bleus
+
+42
+00:01:07,300 --> 00:01:10,330
+au début de la vidéo comme bonjour le
+
+43
+00:01:09,220 --> 00:01:11,320
+ministère de la culture vous entendre
+
+44
+00:01:10,330 --> 00:01:12,400
+que si cette vidéo vous engagez vous
+
+45
+00:01:11,320 --> 00:01:13,930
+pouvez cliquer sur le petit bleu il vous
+
+46
+00:01:12,400 --> 00:01:15,760
+a donné la champagne s'est immolé en
+
+47
+00:01:13,930 --> 00:01:17,740
+vidéo et ben on va dire delight sur
+
+48
+00:01:15,760 --> 00:01:19,690
+cette vidéo est à la lumière mais le son
+
+49
+00:01:17,740 --> 00:01:22,330
+à fond et met un gros like sur ma vidéo
+
+50
+00:01:19,690 --> 00:01:25,050
+si tu kiffes alors mais un pouce bleu mc
+
+51
+00:01:22,330 --> 00:01:25,050
+oujda angad
+
+52
+00:01:26,570 --> 00:01:29,630
+il est le petit poucet bleus bref
+
+53
+00:01:28,370 --> 00:01:30,800
+algorithmes et tu vas changer maintenant
+
+54
+00:01:29,630 --> 00:01:32,180
+les vidéos qui sont mises en avant dans
+
+55
+00:01:30,800 --> 00:01:33,800
+les suggestions sur la page d'accueil
+
+56
+00:01:32,180 --> 00:01:34,940
+dans l'onglet tendances ne sont plus du
+
+57
+00:01:33,800 --> 00:01:36,590
+tout la même qu'avant du coup les gens
+
+58
+00:01:34,940 --> 00:01:38,120
+qui falsifié leurs stats et qui a buzzé
+
+59
+00:01:36,590 --> 00:01:40,040
+l'algorithme qui avait donc une mine un
+
+60
+00:01:38,120 --> 00:01:41,990
+en-avant monstrueuse et bat as tu vas
+
+61
+00:01:40,040 --> 00:01:42,830
+t'en de vue mais c'est putain je
+
+62
+00:01:41,990 --> 00:01:44,119
+comprends qu'on puisse s'en vouloir
+
+63
+00:01:42,830 --> 00:01:45,650
+youtube pour les bucks geste et au début
+
+64
+00:01:44,119 --> 00:01:47,180
+de la vidéo c'est n'importe quoi et ça
+
+65
+00:01:45,650 --> 00:01:48,950
+pénalise énormément les petits et moyens
+
+66
+00:01:47,180 --> 00:01:50,060
+youtuber et c'est ce qu'il faut le moins
+
+67
+00:01:48,950 --> 00:01:51,619
+pénalisés aujourd'hui qu'un gros
+
+68
+00:01:50,060 --> 00:01:52,700
+youtuber fassent plus qu'un tiers des vu
+
+69
+00:01:51,619 --> 00:01:53,810
+qu'il faisait avant c'est pas grave et
+
+70
+00:01:52,700 --> 00:01:54,860
+gagnent quand même de l'argent il pourra
+
+71
+00:01:53,810 --> 00:01:56,000
+quand même vivre il continuera quand
+
+72
+00:01:54,860 --> 00:01:57,440
+même ces vidéos et ça fera toujours pas
+
+73
+00:01:56,000 --> 00:01:58,580
+mal de vue mais qu'un petit youtuber qui
+
+74
+00:01:57,440 --> 00:01:59,780
+a déjà un peu ric rac et même niveau
+
+75
+00:01:58,580 --> 00:02:01,759
+motivation il attend que sa chaîne
+
+76
+00:01:59,780 --> 00:02:02,869
+prenne de l'ampleur et avance et on lui
+
+77
+00:02:01,759 --> 00:02:04,520
+met des bâtons dans les roues comme ça
+
+78
+00:02:02,869 --> 00:02:05,930
+ça c'est dégueulasse ma question est la
+
+79
+00:02:04,520 --> 00:02:07,160
+suivante peut-on vraiment vouloir à
+
+80
+00:02:05,930 --> 00:02:09,289
+youtube d'avoir modifié son algorithme
+
+81
+00:02:07,160 --> 00:02:10,489
+non et non les gars chez youtube ils
+
+82
+00:02:09,289 --> 00:02:12,260
+sont pas dupes les ont vus tout le monde
+
+83
+00:02:10,489 --> 00:02:14,360
+arrivait à comprendre les algorithmes et
+
+84
+00:02:12,260 --> 00:02:16,489
+al manipuler comme ce très cher ibra tv
+
+85
+00:02:14,360 --> 00:02:18,260
+et ses poses blocs qui sont devenus sa
+
+86
+00:02:16,489 --> 00:02:20,420
+marque de fabrique moi je suis l'enfant
+
+87
+00:02:18,260 --> 00:02:22,400
+de pop aux bleus et bottes bleues roses
+
+88
+00:02:20,420 --> 00:02:24,170
+bleues
+
+89
+00:02:22,400 --> 00:02:26,330
+je crois qu'il le faudra mettre cent
+
+90
+00:02:24,170 --> 00:02:27,530
+mille pouces bleus c'est normal de
+
+91
+00:02:26,330 --> 00:02:29,480
+donner un objectif de pouce bleus à
+
+92
+00:02:27,530 --> 00:02:30,560
+chacune de ces putains de vidéos c'est
+
+93
+00:02:29,480 --> 00:02:32,060
+un truc que tu fais quand tu sors un
+
+94
+00:02:30,560 --> 00:02:33,200
+gros projet ou quand tu fais très peu de
+
+95
+00:02:32,060 --> 00:02:35,060
+vidéos antoine daniel pourrait le faire
+
+96
+00:02:33,200 --> 00:02:36,890
+quand c'est un événement quand c'est un
+
+97
+00:02:35,060 --> 00:02:38,840
+truc qui change qui voilà que sur lequel
+
+98
+00:02:36,890 --> 00:02:40,130
+tu as bossé à mort là ok mais demandez
+
+99
+00:02:38,840 --> 00:02:41,360
+des putains de pouce bleus en début de
+
+100
+00:02:40,130 --> 00:02:42,739
+vidéo c'est comme juge et une pomme
+
+101
+00:02:41,360 --> 00:02:49,549
+avant de la voir manger tu dis pas ici
+
+102
+00:02:42,739 --> 00:02:50,600
+pour toi il faut au moins été croqué la
+
+103
+00:02:49,549 --> 00:02:51,680
+pomme donc devant une vidéo il faut au
+
+104
+00:02:50,600 --> 00:02:52,579
+moins été regardé un bout de la vidéo
+
+105
+00:02:51,680 --> 00:02:53,720
+c'est bien vouloir soutenir les
+
+106
+00:02:52,579 --> 00:02:54,980
+créateurs que l'on tire mais le système
+
+107
+00:02:53,720 --> 00:02:56,360
+de pouce bleus il est là pour dire si tu
+
+108
+00:02:54,980 --> 00:02:57,260
+aimes bien ou pas une vidéo c'est juste
+
+109
+00:02:56,360 --> 00:02:58,130
+des coups de battements ce que youtube
+
+110
+00:02:57,260 --> 00:02:59,780
+heures tu dis que tu te fais pas ton
+
+111
+00:02:58,130 --> 00:03:01,220
+propre avis sur la vidéo sacra ça pue du
+
+112
+00:02:59,780 --> 00:03:02,360
+cul du coup on sait pas trop sur quoi de
+
+113
+00:03:01,220 --> 00:03:03,890
+mal gré de ce base mais tout on a
+
+114
+00:03:02,360 --> 00:03:05,090
+remarqué que plus une vidéo fait un
+
+115
+00:03:03,890 --> 00:03:06,440
+temps record de pouce blanc peu de temps
+
+116
+00:03:05,090 --> 00:03:08,060
+plus elle va être en avant elle va se
+
+117
+00:03:06,440 --> 00:03:09,440
+trouver dans les tendances un jab avoir
+
+118
+00:03:08,060 --> 00:03:10,850
+des gens chialent sur les eaux sociaux
+
+119
+00:03:09,440 --> 00:03:12,320
+youtube moeurs et la fin de you tube bla
+
+120
+00:03:10,850 --> 00:03:13,340
+bla bla et y en a plein qui dit ça pour
+
+121
+00:03:12,320 --> 00:03:14,209
+les bonnes raisons qui sont les bugs
+
+122
+00:03:13,340 --> 00:03:15,769
+mais doutent qu'ils parlent que
+
+123
+00:03:14,209 --> 00:03:16,790
+d'algorithmes et qui flippe à ce qu'ils
+
+124
+00:03:15,769 --> 00:03:18,230
+valent en nombre de vues baissé mais
+
+125
+00:03:16,790 --> 00:03:20,090
+franchement aujourd'hui on se concentre
+
+126
+00:03:18,230 --> 00:03:21,620
+plus sur est ce que ma vidéo à un bon
+
+127
+00:03:20,090 --> 00:03:22,700
+petit une bonne nature et surtout est-ce
+
+128
+00:03:21,620 --> 00:03:23,630
+qu'elle a beaucoup de pouce bleus est ce
+
+129
+00:03:22,700 --> 00:03:24,380
+que les gens vont mettre beaucoup de
+
+130
+00:03:23,630 --> 00:03:25,489
+commentaires faut que ce soit un moyen
+
+131
+00:03:24,380 --> 00:03:26,630
+qu'ils le fassent comme ça elle est mise
+
+132
+00:03:25,489 --> 00:03:27,950
+en avant et je fais des vues ça fait
+
+133
+00:03:26,630 --> 00:03:29,060
+combien d'années qu'un mec ne s'est pas
+
+134
+00:03:27,950 --> 00:03:30,530
+posé la question est ce que ma vidéo
+
+135
+00:03:29,060 --> 00:03:31,579
+elle est bien c'est vous ou pas ça fait
+
+136
+00:03:30,530 --> 00:03:32,840
+combien d'années qu'un mec s'est pas dit
+
+137
+00:03:31,579 --> 00:03:34,519
+ça c'est la base quand même c'est faire
+
+138
+00:03:32,840 --> 00:03:35,600
+des vidéos qui sont bien trouver le
+
+139
+00:03:34,519 --> 00:03:37,459
+meilleur moyen de faire des vidéos cool
+
+140
+00:03:35,600 --> 00:03:38,720
+qui plaisent et qui nous plaisent à nous
+
+141
+00:03:37,459 --> 00:03:39,830
+les créateurs aujourd'hui plein de gens
+
+142
+00:03:38,720 --> 00:03:41,150
+râlent parce qu'il voit des trucs 2
+
+143
+00:03:39,830 --> 00:03:42,680
+aird mise en avant des vidéos pas drôle
+
+144
+00:03:41,150 --> 00:03:43,820
+pas cool nul mais les amis ceux qui
+
+145
+00:03:42,680 --> 00:03:45,230
+mettent leurs bons pouces bleus en début
+
+146
+00:03:43,820 --> 00:03:46,610
+de vidéo avant même d'avoir regardé et
+
+147
+00:03:45,230 --> 00:03:48,170
+contribue à sa ceux qui écoutent leur
+
+148
+00:03:46,610 --> 00:03:49,730
+idole qui leur 10ème la vidéo vous
+
+149
+00:03:48,170 --> 00:03:50,630
+contribuez à cette merde putain je me
+
+150
+00:03:49,730 --> 00:03:51,680
+savais comme david lafarge et siph
+
+151
+00:03:50,630 --> 00:03:53,060
+annoncé à pas du tout et ouais un
+
+152
+00:03:51,680 --> 00:03:54,320
+véritable héros merci de m'avoir montré
+
+153
+00:03:53,060 --> 00:03:55,880
+l'exemple à ne pas suivre les gars merci
+
+154
+00:03:54,320 --> 00:03:57,110
+donc les youtuber plus petits qui n'ont
+
+155
+00:03:55,880 --> 00:03:58,460
+pas les millions d'abonnés mais qu'il
+
+156
+00:03:57,110 --> 00:03:59,570
+faut quand même débat mal de vue parce
+
+157
+00:03:58,460 --> 00:04:00,860
+que faut pas oublier que la cinquante
+
+158
+00:03:59,570 --> 00:04:02,000
+mille cent mille vu ses énormes putain
+
+159
+00:04:00,860 --> 00:04:03,230
+on l'oubli parce qu'on pense qu aux
+
+160
+00:04:02,000 --> 00:04:04,040
+millions de vu un truc même moi des fois
+
+161
+00:04:03,230 --> 00:04:05,960
+une vidéo avait fait un million de vues
+
+162
+00:04:04,040 --> 00:04:07,970
+je fais au el habib et mais ferme-la
+
+163
+00:04:05,960 --> 00:04:09,440
+gamin faut arrêter de chialer aussi
+
+164
+00:04:07,970 --> 00:04:10,970
+putain bref j'ai pas de morale ou de
+
+165
+00:04:09,440 --> 00:04:11,930
+leçons à donner à fin de cette vidéo et
+
+166
+00:04:10,970 --> 00:04:13,160
+brad est bien sorti nouvelle vidéo
+
+167
+00:04:11,930 --> 00:04:16,690
+attendait alors le but c'est de faire un
+
+168
+00:04:13,160 --> 00:04:20,330
+million d'abonnés en plus en 24 heures
+
+169
+00:04:16,690 --> 00:04:21,320
+si vous faites ça je vais supprimer ma
+
+170
+00:04:20,330 --> 00:04:31,940
+chaîne je vais faire un dernier et
+
+171
+00:04:21,320 --> 00:04:32,870
+vidéos dans lesquelles je sais la
+
+172
+00:04:31,940 --> 00:04:34,340
+première fois de ma vie que je vois
+
+173
+00:04:32,870 --> 00:04:35,570
+youtuber plus se fout de votre gueule
+
+174
+00:04:34,340 --> 00:04:36,950
+que des hommes politiques mon gars ce
+
+175
+00:04:35,570 --> 00:04:38,450
+qui est drôle c'est que ce gars est le
+
+176
+00:04:36,950 --> 00:04:39,290
+gars le moins pénalisés par les
+
+177
+00:04:38,450 --> 00:04:40,490
+politiques youtube
+
+178
+00:04:39,290 --> 00:04:42,080
+au contraire c'est celui qui a le plus
+
+179
+00:04:40,490 --> 00:04:43,250
+bénéficié du changement d'algorithme est
+
+180
+00:04:42,080 --> 00:04:44,660
+celui qui me prendre les mesures les
+
+181
+00:04:43,250 --> 00:04:45,680
+plus drastiques pour montrer youtube
+
+182
+00:04:44,660 --> 00:04:46,940
+qu'il est pas content bon honnêtement
+
+183
+00:04:45,680 --> 00:04:49,150
+que personne n'ya cru et nourri ces
+
+184
+00:04:46,940 --> 00:04:49,150
+conneries
+
+185
+00:04:51,940 --> 00:04:54,380
+oh
+
+186
+00:04:52,040 --> 00:04:56,690
+[Musique]
+
+187
+00:04:54,380 --> 00:04:58,370
+bref je te blâme pas ibra tv tu as tes
+
+188
+00:04:56,690 --> 00:04:59,750
+raisons que la raison ignore franchement
+
+189
+00:04:58,370 --> 00:05:01,880
+un moment il faut arrêter les conneries
+
+190
+00:04:59,750 --> 00:05:02,930
+venez on fait tout juste des vidéos on
+
+191
+00:05:01,880 --> 00:05:04,340
+essaie de faire des bonnes vidéos pour
+
+192
+00:05:02,930 --> 00:05:06,440
+les gens qui sont sur la plateforme ok
+
+193
+00:05:04,340 --> 00:05:08,450
+on arrête de gueuler ils ont vu qu'on a
+
+194
+00:05:06,440 --> 00:05:09,920
+gueulé juste plus ni pai pippa number
+
+195
+00:05:08,450 --> 00:05:11,420
+one au monde fait tout un coup de gueule
+
+196
+00:05:09,920 --> 00:05:12,530
+autour de ça ils ont vu mais je
+
+197
+00:05:11,420 --> 00:05:14,060
+comprends que tu perçois pas content
+
+198
+00:05:12,530 --> 00:05:16,490
+mais il faut pas en venir à faire
+
+199
+00:05:14,060 --> 00:05:17,630
+n'importe quoi et à ramper à terre pour
+
+200
+00:05:16,490 --> 00:05:18,590
+être mis en avant par l'égoïsme de
+
+201
+00:05:17,630 --> 00:05:19,880
+youtube en fait actuellement
+
+202
+00:05:18,590 --> 00:05:21,950
+l'algorithme a changé et tout le monde
+
+203
+00:05:19,880 --> 00:05:23,210
+cherche comment faire et sur quoi il se
+
+204
+00:05:21,950 --> 00:05:24,350
+base pour qu'ils nous mettent en avant
+
+205
+00:05:23,210 --> 00:05:28,120
+mais les gars la réponse est toute bête
+
+206
+00:05:24,350 --> 00:05:28,120
+fait des bonnes vidéos au revoir

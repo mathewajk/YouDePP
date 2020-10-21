@@ -1,0 +1,1235 @@
+1
+00:00:00,000 --> 00:00:02,580
+bonjour le ministère de la culture vous
+
+2
+00:00:01,410 --> 00:00:03,600
+informe que si cette vidéo vous envahit
+
+3
+00:00:02,580 --> 00:00:04,560
+vous pouvez cliquer sur le pouce bleus
+
+4
+00:00:03,600 --> 00:00:06,150
+et vous abonner à la chaîne d'amx est
+
+5
+00:00:04,560 --> 00:00:07,170
+mort voir ces deux là bonjour et
+
+6
+00:00:06,150 --> 00:00:07,980
+certaines thématiques de jeux vidéo
+
+7
+00:00:07,170 --> 00:00:09,030
+quand je les vois je suis absolument
+
+8
+00:00:07,980 --> 00:00:10,830
+obligé d'y jouer
+
+9
+00:00:09,030 --> 00:00:11,880
+j'avais fait une vidéo sur universum box
+
+10
+00:00:10,830 --> 00:00:12,960
+et précis tu te rappelles c'est un truc
+
+11
+00:00:11,880 --> 00:00:14,759
+avec des planètes et tout fait ce que je
+
+12
+00:00:12,960 --> 00:00:16,170
+kiffe les planètes les astres la
+
+13
+00:00:14,759 --> 00:00:17,580
+cosmologie tout ça et là ça absolument
+
+14
+00:00:16,170 --> 00:00:20,130
+rien à voir mais une thématique que
+
+15
+00:00:17,580 --> 00:00:21,990
+j'adore aussi c'est les combats navals
+
+16
+00:00:20,130 --> 00:00:23,130
+de l'époque de ya longtemps jeu
+
+17
+00:00:21,990 --> 00:00:25,980
+s'appelle navale actionné ses des
+
+18
+00:00:23,130 --> 00:00:28,170
+combats de bateaux à base de canon à
+
+19
+00:00:25,980 --> 00:00:29,670
+base de jack sparrow à base de rhum à
+
+20
+00:00:28,170 --> 00:00:30,900
+base de pirates à base de ce que tu veux
+
+21
+00:00:29,670 --> 00:00:32,130
+nous allons commencer par créer un petit
+
+22
+00:00:30,900 --> 00:00:34,410
+personnage alors bon comme c'est lé
+
+23
+00:00:32,130 --> 00:00:35,700
+bateau nous allons créer un autre bateau
+
+24
+00:00:34,410 --> 00:00:36,870
+plus qu'un autre personnage vous faut
+
+25
+00:00:35,700 --> 00:00:38,190
+que ça fasse vraiment un nom de bateaux
+
+26
+00:00:36,870 --> 00:00:39,300
+et non de bateaux c'est toujours un peu
+
+27
+00:00:38,190 --> 00:00:41,969
+un peu classe tu vois ces genres
+
+28
+00:00:39,300 --> 00:00:43,260
+l'esturgeon rapide tu vois c'est un peu
+
+29
+00:00:41,969 --> 00:00:45,300
+comme ça genre souvent en trois mots
+
+30
+00:00:43,260 --> 00:00:46,739
+avec un article genre là la vie veut
+
+31
+00:00:45,300 --> 00:00:47,760
+jument montre que tu vois ce que je veux
+
+32
+00:00:46,739 --> 00:00:50,309
+dire les noms de bateaux c'est chelou je
+
+33
+00:00:47,760 --> 00:00:52,260
+propose la belle couilles
+
+34
+00:00:50,309 --> 00:00:54,030
+ça fait noms de bateaux capitaine regard
+
+35
+00:00:52,260 --> 00:00:56,219
+des voiles à l'horizon qu'est ce que
+
+36
+00:00:54,030 --> 00:00:57,170
+c'est pavillon français ces labels
+
+37
+00:00:56,219 --> 00:00:59,969
+couilles
+
+38
+00:00:57,170 --> 00:01:01,350
+alors c'est l'ex nation pour écouter on
+
+39
+00:00:59,969 --> 00:01:03,780
+est français on va prendre france alors
+
+40
+00:01:01,350 --> 00:01:07,350
+sinon à court de pirate on à l'espagne
+
+41
+00:01:03,780 --> 00:01:09,540
+la grande-bretagne la verrine danemark
+
+42
+00:01:07,350 --> 00:01:10,950
+norvège imagine suède états unis la
+
+43
+00:01:09,540 --> 00:01:15,020
+france est des territoires en louisiane
+
+44
+00:01:10,950 --> 00:01:16,759
+en hispaniola les antilles françaises et
+
+45
+00:01:15,020 --> 00:01:18,409
+bref ok donc la france ils disent que
+
+46
+00:01:16,759 --> 00:01:20,450
+c'est dur on va écouter on va prendre la
+
+47
+00:01:18,409 --> 00:01:23,060
+france on verra bien avec notre bateau
+
+48
+00:01:20,450 --> 00:01:24,740
+label couilles france c'est parti
+
+49
+00:01:23,060 --> 00:01:26,500
+bienvenue à fort royal c'est le premier
+
+50
+00:01:24,740 --> 00:01:28,310
+port de départ des français
+
+51
+00:01:26,500 --> 00:01:30,350
+effectivement graphiquement pour
+
+52
+00:01:28,310 --> 00:01:31,969
+l'instant ça envoie pas du gras vous
+
+53
+00:01:30,350 --> 00:01:34,280
+n'êtes pas subjugué je suis d'accord
+
+54
+00:01:31,969 --> 00:01:35,659
+c'est un menu ok mais c'est ce à quoi
+
+55
+00:01:34,280 --> 00:01:36,560
+ressemble les ports pour le moment parce
+
+56
+00:01:35,659 --> 00:01:37,909
+que c'est quand même un jeu en early
+
+57
+00:01:36,560 --> 00:01:40,130
+access donc si vous voyez des petits
+
+58
+00:01:37,909 --> 00:01:42,289
+bugs sam ça me paraît quand même assez
+
+59
+00:01:40,130 --> 00:01:45,679
+normal même si ça fait déjà un an qu'il
+
+60
+00:01:42,289 --> 00:01:46,520
+est plus ou moins disponibles alors que
+
+61
+00:01:45,679 --> 00:01:48,170
+c'est qu'est ce que c'est que tout ce
+
+62
+00:01:46,520 --> 00:01:49,880
+bordel là équipements machin moi
+
+63
+00:01:48,170 --> 00:01:51,979
+j'imagine que ça c'est monté mon bateau
+
+64
+00:01:49,880 --> 00:01:53,659
+basique cutter stack auteur assez
+
+65
+00:01:51,979 --> 00:01:55,399
+basique un jeu c'est parce que c'est un
+
+66
+00:01:53,659 --> 00:01:56,929
+cutter effectivement bon voilà c'est un
+
+67
+00:01:55,399 --> 00:01:58,610
+jeu qui se joue sur plusieurs heures
+
+68
+00:01:56,929 --> 00:02:01,060
+c'est pas un jeu où tu en fais une vidéo
+
+69
+00:01:58,610 --> 00:02:03,829
+comme ça pendant 10 minutes
+
+70
+00:02:01,060 --> 00:02:04,789
+non non c'est un jeu qui se joue sur
+
+71
+00:02:03,829 --> 00:02:07,489
+plusieurs heures c'est un jeu qui
+
+72
+00:02:04,789 --> 00:02:10,130
+mériterait de faire des led ce play
+
+73
+00:02:07,489 --> 00:02:11,090
+entier dessus donc c'est pas vraiment le
+
+74
+00:02:10,130 --> 00:02:13,250
+but de ma chaîne de faire des laisses
+
+75
+00:02:11,090 --> 00:02:14,930
+plaît mais si jamais ça vous plaît eh
+
+76
+00:02:13,250 --> 00:02:16,879
+bien on fera plusieurs épisodes voilà je
+
+77
+00:02:14,930 --> 00:02:18,049
+sais pas quelques épisodes voilà j'ai
+
+78
+00:02:16,879 --> 00:02:19,790
+commencé à prendre le large je suis
+
+79
+00:02:18,049 --> 00:02:21,560
+partie de la ville tranquille où je dans
+
+80
+00:02:19,790 --> 00:02:23,660
+l'océan est tout beau gosse est en fait
+
+81
+00:02:21,560 --> 00:02:25,340
+placé le mod d'open world
+
+82
+00:02:23,660 --> 00:02:26,389
+donc là je peux aller absolument partout
+
+83
+00:02:25,340 --> 00:02:28,609
+il ya des joueurs un petit peu partout
+
+84
+00:02:26,389 --> 00:02:30,019
+et on tombe sur ça ils sont des
+
+85
+00:02:28,609 --> 00:02:31,310
+batailles et du coup je peux les
+
+86
+00:02:30,019 --> 00:02:32,930
+rejoindre et là la raison pour laquelle
+
+87
+00:02:31,310 --> 00:02:34,790
+je n'avance pas c'est parce que je suis
+
+88
+00:02:32,930 --> 00:02:36,380
+totalement à contrevent homme je dois
+
+89
+00:02:34,790 --> 00:02:38,150
+elle exactement dans le sens inverse du
+
+90
+00:02:36,380 --> 00:02:40,609
+vent c'est le cas qui a déjà une france
+
+91
+00:02:38,150 --> 00:02:42,620
+ok première bataille mais pas trop
+
+92
+00:02:40,609 --> 00:02:44,989
+parler de mon bateau le fameux basique
+
+93
+00:02:42,620 --> 00:02:46,130
+cutter label coup mais il a il a pas
+
+94
+00:02:44,989 --> 00:02:47,930
+l'air terrible mais canon sont
+
+95
+00:02:46,130 --> 00:02:50,080
+totalement nuls et mes mates lot habitat
+
+96
+00:02:47,930 --> 00:02:51,520
+blanc
+
+97
+00:02:50,080 --> 00:02:53,290
+j'ai six balles à droite si bas la
+
+98
+00:02:51,520 --> 00:02:54,730
+gauche alors pas débat non pas des
+
+99
+00:02:53,290 --> 00:02:58,030
+balles des boulets ça veut dire boulet
+
+100
+00:02:54,730 --> 00:02:59,530
+il ya anton ramsi qui est temps que tu
+
+101
+00:02:58,030 --> 00:03:01,270
+es un connard on peut le dire c'est un
+
+102
+00:02:59,530 --> 00:03:02,320
+connard de deux pirates
+
+103
+00:03:01,270 --> 00:03:04,000
+me dis à mon pote à droite là vous le
+
+104
+00:03:02,320 --> 00:03:05,640
+voyez on est d'accord c'est stylé
+
+105
+00:03:04,000 --> 00:03:08,140
+graphiquement on est d'accord que pour
+
+106
+00:03:05,640 --> 00:03:11,940
+une fois c'est pas un jeu tous pourris
+
+107
+00:03:08,140 --> 00:03:14,110
+non là ça ça claque regardez comme c'est
+
+108
+00:03:11,940 --> 00:03:16,180
+avec le sont plus
+
+109
+00:03:14,110 --> 00:03:17,860
+excusez moi mais c'est pour piqué des
+
+110
+00:03:16,180 --> 00:03:20,170
+hannetons là on va essayer de lui mettre
+
+111
+00:03:17,860 --> 00:03:21,280
+une petite bordé parce que bon je sais
+
+112
+00:03:20,170 --> 00:03:22,510
+pas ce que ça veut dire mais j'ai vu ça
+
+113
+00:03:21,280 --> 00:03:23,620
+une fois dans un film ça me fait kiffer
+
+114
+00:03:22,510 --> 00:03:26,650
+de le dire pas tué je peux viser comme
+
+115
+00:03:23,620 --> 00:03:28,690
+ça et bon voilà on est un petit peu loin
+
+116
+00:03:26,650 --> 00:03:30,820
+mais soit je peux tirer boulet par
+
+117
+00:03:28,690 --> 00:03:32,380
+boulet soit je peux tirer tous les
+
+118
+00:03:30,820 --> 00:03:34,060
+boulets en même temps là on va tirer
+
+119
+00:03:32,380 --> 00:03:35,350
+boulet par bull est encore temps va lui
+
+120
+00:03:34,060 --> 00:03:37,120
+mettre une petite j'ai freiné un peu
+
+121
+00:03:35,350 --> 00:03:38,800
+frais un frein à main pourquoi pas sera
+
+122
+00:03:37,120 --> 00:03:40,540
+donc un petit boulet pour monsieur un
+
+123
+00:03:38,800 --> 00:03:42,310
+deuxième ici je crois que j'en ai mis
+
+124
+00:03:40,540 --> 00:03:43,810
+aucun on va faire un petit demi tour là
+
+125
+00:03:42,310 --> 00:03:44,680
+comme ceci parce qu'ils sont en train de
+
+126
+00:03:43,810 --> 00:03:47,050
+se mettre dans la gueule et il s'en ai
+
+127
+00:03:44,680 --> 00:03:48,240
+je peux jouer avec vous pas c'est bon on
+
+128
+00:03:47,050 --> 00:03:50,620
+pouvait arrêter de vous tirer dessus
+
+129
+00:03:48,240 --> 00:03:53,140
+merde moi aussi je veux jouer
+
+130
+00:03:50,620 --> 00:03:53,800
+est il en train de défoncer mon pote et
+
+131
+00:03:53,140 --> 00:03:55,360
+ça va
+
+132
+00:03:53,800 --> 00:03:56,680
+s'inquiète pas la belle quia la secousse
+
+133
+00:03:55,360 --> 00:03:57,730
+là j'ai pas encore recharger là vous
+
+134
+00:03:56,680 --> 00:03:59,560
+voyez c'est en train de recharger tout
+
+135
+00:03:57,730 --> 00:04:01,120
+en bas une fois que sera chargé je
+
+136
+00:03:59,560 --> 00:04:02,620
+pourrais tirer si boulet soit en même
+
+137
+00:04:01,120 --> 00:04:07,320
+temps soit à la fois là je suis beaucoup
+
+138
+00:04:02,620 --> 00:04:10,420
+trop loin enfin je veux dire je lesquels
+
+139
+00:04:07,320 --> 00:04:11,709
+vous voyez sa vie en haut à droite donc
+
+140
+00:04:10,420 --> 00:04:14,440
+en fait on a des jauges de vie
+
+141
+00:04:11,709 --> 00:04:16,540
+on a une jauge de vie latéral gauche une
+
+142
+00:04:14,440 --> 00:04:18,609
+jauge de vie latérale droite et une
+
+143
+00:04:16,540 --> 00:04:20,560
+jauge de vie devant et derrière j'avance
+
+144
+00:04:18,609 --> 00:04:22,120
+pas là il est pourri mon bateau ouais je
+
+145
+00:04:20,560 --> 00:04:24,520
+mettais les moteurs je sais pas tu es
+
+146
+00:04:22,120 --> 00:04:26,290
+kiseka pas fait le plein là ok vous êtes
+
+147
+00:04:24,520 --> 00:04:29,910
+prêts vous êtes prêt ça va chier ça va
+
+148
+00:04:26,290 --> 00:04:29,910
+chier ça va chier feu
+
+149
+00:04:30,780 --> 00:04:36,220
+je le défends ce jeu le tracé tellement
+
+150
+00:04:33,370 --> 00:04:37,150
+épique au l'impact l'impact non ces
+
+151
+00:04:36,220 --> 00:04:39,100
+lignes c'est quand tu veut naviguer
+
+152
+00:04:37,150 --> 00:04:41,110
+ouais c'est le mode navigation et là je
+
+153
+00:04:39,100 --> 00:04:42,430
+peux mettre en mode girly qui rend la
+
+154
+00:04:41,110 --> 00:04:43,960
+navigation beaucoup plus compliqué
+
+155
+00:04:42,430 --> 00:04:45,550
+beaucoup plus lente beaucoup moins
+
+156
+00:04:43,960 --> 00:04:46,090
+maniable mais par contre sa recherche
+
+157
+00:04:45,550 --> 00:04:47,290
+plus vite
+
+158
+00:04:46,090 --> 00:04:48,760
+oui lui fonce dedans c'est pas les autos
+
+159
+00:04:47,290 --> 00:04:50,260
+tamponneuses star a compris michel tu
+
+160
+00:04:48,760 --> 00:04:52,600
+passes toujours devant je peux pas tirer
+
+161
+00:04:50,260 --> 00:04:55,600
+mère d'un balcon michel fais pas le con
+
+162
+00:04:52,600 --> 00:04:57,560
+tendaient à donner aux os et épique et
+
+163
+00:04:55,600 --> 00:04:59,580
+feu
+
+164
+00:04:57,560 --> 00:05:01,590
+là vous voyez j'ai pas de visée j'ai
+
+165
+00:04:59,580 --> 00:05:03,180
+tiré directement et je lui mets tarifs
+
+166
+00:05:01,590 --> 00:05:05,039
+alors attendez je vous ai pas parlé des
+
+167
+00:05:03,180 --> 00:05:06,990
+types de munitions mais l'a par exemple
+
+168
+00:05:05,039 --> 00:05:09,629
+sur le côté gauche de mon bateau je peux
+
+169
+00:05:06,990 --> 00:05:10,919
+l'équipe est soit en boulet soit en
+
+170
+00:05:09,629 --> 00:05:12,539
+chaîne soit en grippe
+
+171
+00:05:10,919 --> 00:05:14,250
+or les bouley c'est pour défoncer la
+
+172
+00:05:12,539 --> 00:05:15,569
+coque la chaîne ce pour défoncer les
+
+173
+00:05:14,250 --> 00:05:16,979
+voiles et les mares ce qui peut
+
+174
+00:05:15,569 --> 00:05:19,349
+immobiliser le bateau et après il est
+
+175
+00:05:16,979 --> 00:05:21,449
+apte à merci lol les gens qui s'y
+
+176
+00:05:19,349 --> 00:05:22,259
+connaissent en ce jeu et navigation du
+
+177
+00:05:21,449 --> 00:05:23,819
+xviie siècle
+
+178
+00:05:22,259 --> 00:05:25,469
+vos commentaires sont les bienvenus
+
+179
+00:05:23,819 --> 00:05:29,009
+c'est en train d'aborder un mois si je
+
+180
+00:05:25,469 --> 00:05:29,969
+vais aborder la magie et moi j mais moi
+
+181
+00:05:29,009 --> 00:05:33,539
+j'ai pas d'armes en fait face à acheter
+
+182
+00:05:29,969 --> 00:05:35,639
+des armes si tu veux aborder des épées
+
+183
+00:05:33,539 --> 00:05:37,860
+il reste de la vie à sa gauche et à son
+
+184
+00:05:35,639 --> 00:05:39,569
+avant droit et son arrière droit ok donc
+
+185
+00:05:37,860 --> 00:05:41,580
+il faut que j'essaye de lui défoncer
+
+186
+00:05:39,569 --> 00:05:43,469
+l'arrière-train phrase à ne pas sortir
+
+187
+00:05:41,580 --> 00:05:44,189
+de son contexte bien évidemment tu crois
+
+188
+00:05:43,469 --> 00:05:46,050
+qu'ils sont en train de faire un
+
+189
+00:05:44,189 --> 00:05:47,460
+abordage je suis dégoûté parce qu'on va
+
+190
+00:05:46,050 --> 00:05:48,900
+t'il pu faire un abordage
+
+191
+00:05:47,460 --> 00:05:50,279
+tu peux récupérer le bateau et le vendre
+
+192
+00:05:48,900 --> 00:05:51,240
+et tu te fais du pognon ouais ils sont
+
+193
+00:05:50,279 --> 00:05:52,409
+en train d'aborder j'entends des coups
+
+194
+00:05:51,240 --> 00:05:54,150
+d'épée il est en train de couler la
+
+195
+00:05:52,409 --> 00:05:57,599
+n'est d'accord là ça y est cool
+
+196
+00:05:54,150 --> 00:06:00,810
+il coule bien joué 1
+
+197
+00:05:57,599 --> 00:06:02,159
+quoi quoi quoi maintenant il n'a pas
+
+198
+00:06:00,810 --> 00:06:02,639
+coulé attendait regarder le pavillon
+
+199
+00:06:02,159 --> 00:06:03,690
+pirates
+
+200
+00:06:02,639 --> 00:06:06,300
+ah non mais c'est mon pote qui s'est
+
+201
+00:06:03,690 --> 00:06:06,719
+fait défoncer non il a pris le bateau de
+
+202
+00:06:06,300 --> 00:06:09,089
+mon pote
+
+203
+00:06:06,719 --> 00:06:11,729
+oh non quel revirement de situation
+
+204
+00:06:09,089 --> 00:06:13,740
+incroyable actuellement à tan tan tan
+
+205
+00:06:11,729 --> 00:06:15,690
+tan tan roland non non non mon pote il a
+
+206
+00:06:13,740 --> 00:06:17,159
+essayé d'aborder le pirate pas l'aborder
+
+207
+00:06:15,690 --> 00:06:17,370
+en mode s est lui ça va n'ont rien à
+
+208
+00:06:17,159 --> 00:06:18,659
+voir
+
+209
+00:06:17,370 --> 00:06:20,279
+il essayait dû défoncer la gueule en
+
+210
+00:06:18,659 --> 00:06:22,620
+sautant avec ses matelots par dessus
+
+211
+00:06:20,279 --> 00:06:23,879
+finalement c'est le pirate qu'à gagner
+
+212
+00:06:22,620 --> 00:06:25,139
+parce qu'ils devaient avoir des épées
+
+213
+00:06:23,879 --> 00:06:27,029
+j'en sais rien moi tu me pose la
+
+214
+00:06:25,139 --> 00:06:29,189
+question je ne sais pas du coup je me
+
+215
+00:06:27,029 --> 00:06:30,210
+retrouve à bama combattre contre un
+
+216
+00:06:29,189 --> 00:06:31,560
+bateau français
+
+217
+00:06:30,210 --> 00:06:32,909
+non mais alors là franchement j'étais en
+
+218
+00:06:31,560 --> 00:06:34,770
+train de me dire ouais il a coulé à trop
+
+219
+00:06:32,909 --> 00:06:36,270
+bien on a gagné à nantes tient à rien du
+
+220
+00:06:34,770 --> 00:06:37,710
+tout je crois qu'il ya un gros galion
+
+221
+00:06:36,270 --> 00:06:38,759
+français qui arrive pour nous aider bon
+
+222
+00:06:37,710 --> 00:06:40,169
+je me suis refait regardez regardez
+
+223
+00:06:38,759 --> 00:06:41,849
+pavillon la bassée qui sait c'est qu'ils
+
+224
+00:06:40,169 --> 00:06:43,830
+un capitaine cache cache à la barre
+
+225
+00:06:41,849 --> 00:06:45,029
+qu'elle se cachait ah non alors j'ai
+
+226
+00:06:43,830 --> 00:06:46,560
+rien dit mais là chez les papes de tout
+
+227
+00:06:45,029 --> 00:06:47,580
+à l'heure de la fin c'est bon on est
+
+228
+00:06:46,560 --> 00:06:49,919
+dans la merde on est toujours dans la
+
+229
+00:06:47,580 --> 00:06:51,479
+merde un emmerdeur aux maires non non tu
+
+230
+00:06:49,919 --> 00:06:53,189
+marié la peinture jean-michel on est en
+
+231
+00:06:51,479 --> 00:06:54,719
+train de se faire déglinguer savak on a
+
+232
+00:06:53,189 --> 00:06:55,979
+de l'avancé au niveau de la vie et qu'il
+
+233
+00:06:54,719 --> 00:06:57,150
+a par un plus gros bateau que moi parce
+
+234
+00:06:55,979 --> 00:06:58,020
+que ça aurait pu être un galion je te
+
+235
+00:06:57,150 --> 00:06:59,669
+raconte pas l'histoire
+
+236
+00:06:58,020 --> 00:07:01,409
+à écouter ce qu'on va faire c'est on va
+
+237
+00:06:59,669 --> 00:07:02,279
+s'équiper en chain et on va essayer de
+
+238
+00:07:01,409 --> 00:07:03,419
+les endommager les voiles
+
+239
+00:07:02,279 --> 00:07:06,590
+il arrive droit sur moi t'inquiète
+
+240
+00:07:03,419 --> 00:07:08,210
+inquiète tiens prends ça
+
+241
+00:07:06,590 --> 00:07:09,890
+ça l'oréal derrière il est tout trouvé
+
+242
+00:07:08,210 --> 00:07:11,030
+comment tu veux que le vent ils passent
+
+243
+00:07:09,890 --> 00:07:12,530
+dans ses voiles et le fasse avancer
+
+244
+00:07:11,030 --> 00:07:14,600
+maintenant potentiellement il devra
+
+245
+00:07:12,530 --> 00:07:16,780
+réparer et là il sera à ma merci je vais
+
+246
+00:07:14,600 --> 00:07:18,860
+lui mettre sa patte et à la prends ça
+
+247
+00:07:16,780 --> 00:07:20,540
+n'inquiète pas petit à petit mon gars
+
+248
+00:07:18,860 --> 00:07:20,840
+tomba il va pas il va pas résister
+
+249
+00:07:20,540 --> 00:07:23,270
+longtemps
+
+250
+00:07:20,840 --> 00:07:27,620
+démis le navire en mode préparation donc
+
+251
+00:07:23,270 --> 00:07:31,040
+on regagne un petit peu de vie oh putain
+
+252
+00:07:27,620 --> 00:07:35,330
+ils disent bien le conte aux hausses
+
+253
+00:07:31,040 --> 00:07:37,940
+étaient pour aux eaux alors là c'est
+
+254
+00:07:35,330 --> 00:07:41,180
+vraiment coup pour coup je tairai ma
+
+255
+00:07:37,940 --> 00:07:42,710
+peinture qu béret ma peinture ou 1ère
+
+256
+00:07:41,180 --> 00:07:44,540
+2ème et matelots ils sont en kevlar
+
+257
+00:07:42,710 --> 00:07:45,980
+autant il habite à gland
+
+258
+00:07:44,540 --> 00:07:47,090
+autant je peux dire les mecs qui se
+
+259
+00:07:45,980 --> 00:07:50,480
+prennent des bouées dans la tronche il
+
+260
+00:07:47,090 --> 00:07:51,800
+s'en bat les reins oui ça nan ça
+
+261
+00:07:50,480 --> 00:07:53,750
+commence à venir la salle à vous qu'on
+
+262
+00:07:51,800 --> 00:07:58,130
+vous sentez que mons qu'il commence à
+
+263
+00:07:53,750 --> 00:07:59,660
+naître bon vous ne sentez pas forcément
+
+264
+00:07:58,130 --> 00:08:00,590
+à chaque coup de canon après trois
+
+265
+00:07:59,660 --> 00:08:05,890
+heures de jeu je vais peut-être finir
+
+266
+00:08:00,590 --> 00:08:05,890
+par le kent où ça ça fait mal ça
+
+267
+00:08:10,070 --> 00:08:13,160
+hd mais tarif là j'ai mis trois boules
+
+268
+00:08:11,930 --> 00:08:14,150
+et regardez regardez sa vie c'est bien
+
+269
+00:08:13,160 --> 00:08:15,890
+ça bien regarder chez en train de faire
+
+270
+00:08:14,150 --> 00:08:17,960
+le tour pour avoir son côté
+
+271
+00:08:15,890 --> 00:08:18,650
+arrière-droit extrêmement important pour
+
+272
+00:08:17,960 --> 00:08:20,360
+la victoire
+
+273
+00:08:18,650 --> 00:08:24,830
+sachant qu'il faut aussi son côté avant
+
+274
+00:08:20,360 --> 00:08:26,030
+droit c'est bien c'est bien c'est bien
+
+275
+00:08:24,830 --> 00:08:27,410
+c'est bien j'ai pas du tout envie
+
+276
+00:08:26,030 --> 00:08:29,810
+d'aller l'aborder parce que je sens que
+
+277
+00:08:27,410 --> 00:08:31,910
+lui il a des épées tout le bordel et du
+
+278
+00:08:29,810 --> 00:08:33,890
+coup ça va pas le faire du aa ça y est
+
+279
+00:08:31,910 --> 00:08:34,310
+ça y est ça y est il a abandonné la
+
+280
+00:08:33,890 --> 00:08:37,520
+bataille
+
+281
+00:08:34,310 --> 00:08:39,740
+j'ai failli gagner les coeurs train de
+
+282
+00:08:37,520 --> 00:08:41,090
+couler il est terminé il ya juste un
+
+283
+00:08:39,740 --> 00:08:42,200
+petit message qui vient d'apparaître et
+
+284
+00:08:41,090 --> 00:08:43,430
+qui dit que les serveurs vont être en
+
+285
+00:08:42,200 --> 00:08:44,660
+maintenance dans quelques minutes donc
+
+286
+00:08:43,430 --> 00:08:46,400
+en fait le jeu va fermer c'est le
+
+287
+00:08:44,660 --> 00:08:47,690
+problème des jeux orly access mais je
+
+288
+00:08:46,400 --> 00:08:49,760
+pense que la bataille était suffisamment
+
+289
+00:08:47,690 --> 00:08:51,230
+longue pour que vous ayez une première
+
+290
+00:08:49,760 --> 00:08:52,970
+impression du jeu je leur ferai des
+
+291
+00:08:51,230 --> 00:08:54,050
+vidéos su si ça vous a plu je pense
+
+292
+00:08:52,970 --> 00:08:57,380
+qu'on fera des petits combats navals
+
+293
+00:08:54,050 --> 00:08:59,270
+avec super connard aussi il ya plein de
+
+294
+00:08:57,380 --> 00:09:00,590
+choses à faire donc voilà je pense que
+
+295
+00:08:59,270 --> 00:09:01,910
+je vais faire plusieurs vidéos sur ce
+
+296
+00:09:00,590 --> 00:09:03,530
+truc que ce soit ici ou que ce soit sur
+
+297
+00:09:01,910 --> 00:09:04,160
+les pizzas gaye de toute façon il y aura
+
+298
+00:09:03,530 --> 00:09:06,170
+d'autres vidéos
+
+299
+00:09:04,160 --> 00:09:07,850
+je vous fais des bisous à très bientôt
+
+300
+00:09:06,170 --> 00:09:10,850
+pour une prochaine c'était à mx m
+
+301
+00:09:07,850 --> 00:09:12,920
+au fait quand je me fais chier dans mon
+
+302
+00:09:10,850 --> 00:09:15,410
+lit le soir je vais sur périscope
+
+303
+00:09:12,920 --> 00:09:18,080
+c'est ce que c'est périscope réunion du
+
+304
+00:09:15,410 --> 00:09:19,630
+soir du 12 janvier église évangélique
+
+305
+00:09:18,080 --> 00:09:23,000
+parole
+
+306
+00:09:19,630 --> 00:09:26,720
+quasthoff l'amandier match en plein air
+
+307
+00:09:23,000 --> 00:09:29,240
+france met tout seul dans ces tubes en
+
+308
+00:09:26,720 --> 00:09:32,890
+acier traité tout instant dès ce soir
+
+309
+00:09:29,240 --> 00:09:32,890
+quelque chose s'est passé

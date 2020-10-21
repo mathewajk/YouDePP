@@ -31,16 +31,20 @@ def get_subs(channel, id, url, language, code):
         return 0
 
 
-    caption_dict = {caption.name: caption for caption in  video.captions.all()}
-    print(caption_dict)
+    caption_dict = {caption.name: caption for caption in video.captions}
+    print(caption_dict.keys())
+    
+    for key in caption_dict.keys():
 
-    if language in caption_dict.keys():
-        write_subs(channel, video, id, url, caption_dict[language], code)
-        logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
-        return video.length
-    else:
-        logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
-        return 0
+        if language in key:
+            if "auto-generated" in language or "auto-generated" not in key:
+                write_subs(channel, video, id, url, caption_dict[key], code)
+                logging.info("Video {0}: Manual captions found for (URL: {1} Title: {2})".format(id, url, video.title))
+                print(key)
+                return video.length
+
+    logging.info("Video {0}: No manual captions found (URL: {1} Title: {2})".format(id, url, video.title))
+    return 0
 
 
 def main(args):
@@ -70,9 +74,13 @@ def main(args):
             total_count += 1
             if total_count % 50 == 0:
                 print("Processed {0} URLs...".format(total_count))
+                print(found_count, total_count, total_time)
+
+            if(total_count - args.r == args.s):
+                break
 
             # Be considerate!
-            sleep(5)
+            sleep(1)
 
         print("Found {0} subtitled videos (out of {1} videos) totaling {2} seconds".format(found_count, total_count, total_time))
 
@@ -84,7 +92,10 @@ if __name__ == '__main__':
     parser.add_argument('channel',  type=str, help='a friendly name for the channel')
     parser.add_argument('language', type=str, help='desired output language for the subtitles')
     parser.add_argument('code',     type=str, help='language code')
+
     parser.add_argument('--r',      type=int, metavar='N', nargs='?', default=0, help='resume downloading from Nth video')
+    parser.add_argument('--s',      type=int, metavar='S', nargs='?', default=-1, help='stop after N subtitles')
+
     parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
 
     args = parser.parse_args()

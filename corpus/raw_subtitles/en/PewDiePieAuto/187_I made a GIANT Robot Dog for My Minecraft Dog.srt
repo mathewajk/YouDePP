@@ -1,0 +1,979 @@
+1
+00:00:00,000 --> 00:00:08,820
+good morning gamers what up Steuben
+
+2
+00:00:04,770 --> 00:00:11,250
+who's a good boy today we are building
+
+3
+00:00:08,820 --> 00:00:13,429
+something special for my minecraft dog I
+
+4
+00:00:11,250 --> 00:00:15,719
+don't know exactly what we're gonna pill
+
+5
+00:00:13,429 --> 00:00:18,570
+but that's the fun of Minecraft
+
+6
+00:00:15,719 --> 00:00:21,150
+isn't that right Sven that's right I've
+
+7
+00:00:18,570 --> 00:00:23,189
+been messing around a lot with you with
+
+8
+00:00:21,150 --> 00:00:25,970
+redstone I have a lot of fun doing it
+
+9
+00:00:23,189 --> 00:00:28,980
+and I finally learned how to build
+
+10
+00:00:25,970 --> 00:00:31,260
+robots and stuff like that so I want to
+
+11
+00:00:28,980 --> 00:00:34,620
+build a giant robot for my for my dog I
+
+12
+00:00:31,260 --> 00:00:36,510
+don't know if this will work but that's
+
+13
+00:00:34,620 --> 00:00:38,300
+the fun of it that's the part of it what
+
+14
+00:00:36,510 --> 00:00:41,820
+I do know is how to build a leg
+
+15
+00:00:38,300 --> 00:00:45,950
+mechanism in Minecraft
+
+16
+00:00:41,820 --> 00:00:49,079
+with redstone okay gamers and it's
+
+17
+00:00:45,950 --> 00:00:51,329
+actually really cool and really easy so
+
+18
+00:00:49,079 --> 00:00:54,120
+we're just gonna do that bling blang
+
+19
+00:00:51,329 --> 00:00:56,460
+blang you do a bling blang blang see if
+
+20
+00:00:54,120 --> 00:00:59,940
+I remember and you do a bling blang
+
+21
+00:00:56,460 --> 00:01:01,410
+blang and then bling this will all make
+
+22
+00:00:59,940 --> 00:01:02,850
+sense you have to do the sound effects
+
+23
+00:01:01,410 --> 00:01:05,580
+otherwise it doesn't work this needs to
+
+24
+00:01:02,850 --> 00:01:08,909
+go here and then this needs to go here
+
+25
+00:01:05,580 --> 00:01:10,950
+and it's goes here and there you go
+
+26
+00:01:08,909 --> 00:01:14,159
+there we have a leg doesn't look like
+
+27
+00:01:10,950 --> 00:01:18,600
+much of a leg does its fame cool the
+
+28
+00:01:14,159 --> 00:01:21,900
+basic gist of it is you'll have a piston
+
+29
+00:01:18,600 --> 00:01:23,640
+pushing here and voila this goes up
+
+30
+00:01:21,900 --> 00:01:25,970
+which activates this piston which pushed
+
+31
+00:01:23,640 --> 00:01:30,990
+it pushes it forward which gives us like
+
+32
+00:01:25,970 --> 00:01:32,490
+robot like leg movement very cool which
+
+33
+00:01:30,990 --> 00:01:35,880
+means of course we can build you
+
+34
+00:01:32,490 --> 00:01:39,420
+something very adorable sent about we do
+
+35
+00:01:35,880 --> 00:01:41,640
+this orange like the honey block and
+
+36
+00:01:39,420 --> 00:01:43,470
+we'll build you a little kitty cat how
+
+37
+00:01:41,640 --> 00:01:45,659
+about that Sven you like kid the cat's
+
+38
+00:01:43,470 --> 00:01:51,030
+well hope will build Sven and giant
+
+39
+00:01:45,659 --> 00:01:53,549
+elaborate that look house man he's so
+
+40
+00:01:51,030 --> 00:01:54,899
+impressed he can't wait I mean other
+
+41
+00:01:53,549 --> 00:01:57,600
+than that it's pretty simple you just
+
+42
+00:01:54,899 --> 00:02:02,430
+need said no stop you need something to
+
+43
+00:01:57,600 --> 00:02:04,140
+just push this basically 1 2 3 4 5 6 7 8
+
+44
+00:02:02,430 --> 00:02:06,450
+9 10 11
+
+45
+00:02:04,140 --> 00:02:11,930
+can we put a boat here and put spend in
+
+46
+00:02:06,450 --> 00:02:15,379
+the boat yes oh I'm getting the boat
+
+47
+00:02:11,930 --> 00:02:16,640
+get in the boat son I ask a question all
+
+48
+00:02:15,379 --> 00:02:18,980
+right fine you can get in the boat I'll
+
+49
+00:02:16,640 --> 00:02:21,530
+make sure it's safe then we just need to
+
+50
+00:02:18,980 --> 00:02:25,459
+add a motor to it I'll use that we'll
+
+51
+00:02:21,530 --> 00:02:26,659
+hit the ones I use it works okay they'll
+
+52
+00:02:25,459 --> 00:02:29,569
+make fun of me all right
+
+53
+00:02:26,659 --> 00:02:32,870
+bing bang bong and then we just need it
+
+54
+00:02:29,569 --> 00:02:37,730
+swen is in spend is ready to ride oh god
+
+55
+00:02:32,870 --> 00:02:41,299
+this is dangerous I'll do a backup this
+
+56
+00:02:37,730 --> 00:02:43,519
+friend will not die here we go all right
+
+57
+00:02:41,299 --> 00:02:51,879
+so when you're ready to ride go
+
+58
+00:02:43,519 --> 00:02:51,879
+I forgot the redstone and go
+
+59
+00:02:54,250 --> 00:02:57,760
+be safe Sven
+
+60
+00:02:58,629 --> 00:03:08,629
+yes it's like a bunny Oh God haha he
+
+61
+00:03:05,390 --> 00:03:12,739
+loved said don't you love it then it's
+
+62
+00:03:08,629 --> 00:03:14,420
+like a weird horse looking thing isn't
+
+63
+00:03:12,739 --> 00:03:17,530
+it
+
+64
+00:03:14,420 --> 00:03:17,530
+[Music]
+
+65
+00:03:18,599 --> 00:03:21,470
+yeah
+
+66
+00:03:19,730 --> 00:03:25,800
+[Music]
+
+67
+00:03:21,470 --> 00:03:27,330
+yeah onwards spend
+
+68
+00:03:25,800 --> 00:03:29,230
+you're looking in the wrong direction
+
+69
+00:03:27,330 --> 00:03:33,030
+but this is so cool
+
+70
+00:03:29,230 --> 00:03:37,989
+[Music]
+
+71
+00:03:33,030 --> 00:03:42,670
+okay time to stop time to stop yay I'm
+
+72
+00:03:37,989 --> 00:03:44,739
+so glad you made it safe what does that
+
+73
+00:03:42,670 --> 00:03:47,530
+look like I'm trying to figure out like
+
+74
+00:03:44,739 --> 00:03:50,769
+what animal I should bill for him maybe
+
+75
+00:03:47,530 --> 00:03:54,329
+I'll ask him Twitter a lot of people are
+
+76
+00:03:50,769 --> 00:03:59,799
+saying tanks a lot of people are saying
+
+77
+00:03:54,329 --> 00:04:02,310
+the moving doghouse that's so buddy so
+
+78
+00:03:59,799 --> 00:04:05,439
+this is cool and all it's very basic
+
+79
+00:04:02,310 --> 00:04:07,689
+it's when lumps in the problem I have it
+
+80
+00:04:05,439 --> 00:04:09,639
+with it is that it's walking like this I
+
+81
+00:04:07,689 --> 00:04:14,950
+don't like that I want one leg one leg
+
+82
+00:04:09,639 --> 00:04:16,979
+one leg you understand me and to do that
+
+83
+00:04:14,950 --> 00:04:26,020
+we need a different type of motor
+
+84
+00:04:16,979 --> 00:04:28,150
+spending is on top of this literally the
+
+85
+00:04:26,020 --> 00:04:30,870
+Redstone community on YouTube is so cool
+
+86
+00:04:28,150 --> 00:04:33,490
+everyone is building such amazing things
+
+87
+00:04:30,870 --> 00:04:36,789
+I'll link some of the videos that I use
+
+88
+00:04:33,490 --> 00:04:41,740
+to learn how to do stuff just in case
+
+89
+00:04:36,789 --> 00:04:45,580
+here oh my god saved [ __ ] hey come dance
+
+90
+00:04:41,740 --> 00:04:48,220
+me that's right so this is a three step
+
+91
+00:04:45,580 --> 00:04:49,570
+motor this will activate this one and
+
+92
+00:04:48,220 --> 00:04:51,250
+then this will activate this one in this
+
+93
+00:04:49,570 --> 00:04:54,250
+so each leg at a time will it be
+
+94
+00:04:51,250 --> 00:04:56,409
+activated wait did I do it upside down I
+
+95
+00:04:54,250 --> 00:05:00,699
+don't know what it is with redstone as'
+
+96
+00:04:56,409 --> 00:05:06,990
+is so addicting why is a redstone
+
+97
+00:05:00,699 --> 00:05:06,990
+addictive it makes no sense okay so
+
+98
+00:05:10,509 --> 00:05:17,330
+so I built this yesterday but it's I
+
+99
+00:05:16,039 --> 00:05:18,439
+don't know it doesn't always work so
+
+100
+00:05:17,330 --> 00:05:22,669
+we'll see how this goes
+
+101
+00:05:18,439 --> 00:05:24,680
+Oh God like that so this activates this
+
+102
+00:05:22,669 --> 00:05:26,509
+this is stuck to this so this activates
+
+103
+00:05:24,680 --> 00:05:28,129
+the this and then this activates this so
+
+104
+00:05:26,509 --> 00:05:29,449
+it will be one leg at a time it'll be
+
+105
+00:05:28,129 --> 00:05:31,699
+epic but we also got to make sure that
+
+106
+00:05:29,449 --> 00:05:37,879
+it powers itself isn't that right Sven
+
+107
+00:05:31,699 --> 00:05:40,849
+yes see which will do like this and then
+
+108
+00:05:37,879 --> 00:05:47,750
+connect it with slime three two one go
+
+109
+00:05:40,849 --> 00:05:53,810
+oh don't ever do that again you scare my
+
+110
+00:05:47,750 --> 00:05:55,669
+meat it is it shower you would love now
+
+111
+00:05:53,810 --> 00:05:57,500
+this is the fun stuff this is the fun
+
+112
+00:05:55,669 --> 00:06:01,430
+stuff come on it will be epic and we
+
+113
+00:05:57,500 --> 00:06:06,680
+just need to add something to make it
+
+114
+00:06:01,430 --> 00:06:10,580
+push we shouldn't be too bad we just put
+
+115
+00:06:06,680 --> 00:06:11,029
+that there right that isn't really that
+
+116
+00:06:10,580 --> 00:06:17,029
+easy
+
+117
+00:06:11,029 --> 00:06:20,389
+oh my gold let's try it you see one leg
+
+118
+00:06:17,029 --> 00:06:21,800
+two leg one leg two legs epic so n is
+
+119
+00:06:20,389 --> 00:06:22,930
+following because he knows it's gonna be
+
+120
+00:06:21,800 --> 00:06:26,120
+awesome
+
+121
+00:06:22,930 --> 00:06:29,120
+so let's build our little little Smith
+
+122
+00:06:26,120 --> 00:06:31,930
+the legs I just realized I want to build
+
+123
+00:06:29,120 --> 00:06:31,930
+it higher up god
+
+124
+00:06:33,270 --> 00:06:48,900
+and what big legs cuz that's what I have
+
+125
+00:06:37,140 --> 00:06:50,150
+in real life I don't even care his leg
+
+126
+00:06:48,900 --> 00:06:53,330
+looks so dumb
+
+127
+00:06:50,150 --> 00:06:55,290
+okay Japan let's build the other leg
+
+128
+00:06:53,330 --> 00:06:59,400
+let's make sure they work
+
+129
+00:06:55,290 --> 00:07:02,850
+oh god it's fine you're very close to
+
+130
+00:06:59,400 --> 00:07:07,500
+that all right who's ready to test out
+
+131
+00:07:02,850 --> 00:07:12,360
+this thing let's freakin do this did I
+
+132
+00:07:07,500 --> 00:07:17,420
+forget to connect them again every time
+
+133
+00:07:12,360 --> 00:07:25,680
+oh okay
+
+134
+00:07:17,420 --> 00:07:30,990
+look it's walking dance legs I finally
+
+135
+00:07:25,680 --> 00:07:35,060
+made yeah they're beautiful
+
+136
+00:07:30,990 --> 00:07:38,430
+I finally had links it's the most
+
+137
+00:07:35,060 --> 00:07:42,270
+happiest day of my life never been their
+
+138
+00:07:38,430 --> 00:07:45,200
+proud event is so happy for me as well
+
+139
+00:07:42,270 --> 00:07:45,200
+Mike
+
+140
+00:07:46,690 --> 00:08:00,010
+what there's legs in Minecraft oh yeah
+
+141
+00:07:55,910 --> 00:08:06,400
+yeah run over him kill him kill him
+
+142
+00:08:00,010 --> 00:08:06,400
+destroy destroy damn it
+
+143
+00:08:07,060 --> 00:08:11,990
+creeper creeper is equally disappointed
+
+144
+00:08:10,010 --> 00:08:14,630
+I'm starting to realize in just the
+
+145
+00:08:11,990 --> 00:08:17,180
+absolute grind the absolute grind for
+
+146
+00:08:14,630 --> 00:08:19,370
+Redstone engineers like Jesus all right
+
+147
+00:08:17,180 --> 00:08:23,030
+I do want to build a can so let's see
+
+148
+00:08:19,370 --> 00:08:24,110
+how I would do that well this turned out
+
+149
+00:08:23,030 --> 00:08:25,820
+a lot more complicated than I thought
+
+150
+00:08:24,110 --> 00:08:27,680
+okay it's fine I don't care
+
+151
+00:08:25,820 --> 00:08:31,760
+think I'm running out of brainpower I
+
+152
+00:08:27,680 --> 00:08:43,099
+don't know what happened to me this
+
+153
+00:08:31,760 --> 00:08:45,320
+should not be that difficult this is so
+
+154
+00:08:43,099 --> 00:08:47,600
+convoluted I cannot believe it
+
+155
+00:08:45,320 --> 00:08:53,839
+and it doesn't work either so that's
+
+156
+00:08:47,600 --> 00:08:56,150
+always good I think this will work did
+
+157
+00:08:53,839 --> 00:09:01,820
+it who knows
+
+158
+00:08:56,150 --> 00:09:02,650
+god it's so big is it no it's not
+
+159
+00:09:01,820 --> 00:09:11,020
+working
+
+160
+00:09:02,650 --> 00:09:13,550
+did it work I think it is working I
+
+161
+00:09:11,020 --> 00:09:14,870
+might as well make it in a horse at this
+
+162
+00:09:13,550 --> 00:09:19,330
+point because that's what it looks like
+
+163
+00:09:14,870 --> 00:09:19,330
+anyway this is the front paw
+
+164
+00:09:21,310 --> 00:09:27,459
+did I delete the motor
+
+165
+00:09:23,329 --> 00:09:31,149
+oh I deleted the motor by accident I
+
+166
+00:09:27,459 --> 00:09:33,470
+don't think that's supposed to happen I
+
+167
+00:09:31,149 --> 00:09:35,660
+don't even know what I'm looking at
+
+168
+00:09:33,470 --> 00:09:45,740
+anymore I'm trying to recreate what I
+
+169
+00:09:35,660 --> 00:09:48,399
+made I did not expect to be a little bit
+
+170
+00:09:45,740 --> 00:09:51,350
+freaking Oh God
+
+171
+00:09:48,399 --> 00:09:55,339
+the effort smash like on this video for
+
+172
+00:09:51,350 --> 00:10:04,610
+the effort the absolute effort what is
+
+173
+00:09:55,339 --> 00:10:05,959
+this it should work yeah so I'm pretty
+
+174
+00:10:04,610 --> 00:10:08,180
+sure I've never spent this much effort
+
+175
+00:10:05,959 --> 00:10:11,350
+on anything in my entire life I thought
+
+176
+00:10:08,180 --> 00:10:16,269
+this would be an easy little pill that's
+
+177
+00:10:11,350 --> 00:10:22,430
+becoming very very very very convoluted
+
+178
+00:10:16,269 --> 00:10:23,629
+it stays it's so ugly oh all right I
+
+179
+00:10:22,430 --> 00:10:27,680
+don't like a face
+
+180
+00:10:23,629 --> 00:10:31,129
+god damn do I have a lot of regrets
+
+181
+00:10:27,680 --> 00:10:34,279
+absolutely but is it too late to go back
+
+182
+00:10:31,129 --> 00:10:40,009
+now yeah that's that's the situation
+
+183
+00:10:34,279 --> 00:10:42,050
+we're in here I am very very cautiously
+
+184
+00:10:40,009 --> 00:10:44,960
+optimistic that this is gonna work but I
+
+185
+00:10:42,050 --> 00:10:48,139
+do want to try it so here we go
+
+186
+00:10:44,960 --> 00:10:48,139
+[Music]
+
+187
+00:10:48,900 --> 00:11:10,960
+it took a couple steps oh god I can't
+
+188
+00:11:07,360 --> 00:11:14,210
+stop I just like I can't stop I'm so oh
+
+189
+00:11:10,960 --> 00:11:14,210
+[Music]
+
+190
+00:11:15,060 --> 00:11:21,180
+my god it's beautiful
+
+191
+00:11:27,660 --> 00:11:38,220
+what is this wow it's a holy creature oh
+
+192
+00:11:39,360 --> 00:11:42,529
+[Music]
+
+193
+00:11:43,440 --> 00:11:46,440
+okay
+
+194
+00:11:46,800 --> 00:11:52,060
+we're almost done we're almost at I can
+
+195
+00:11:49,570 --> 00:11:54,480
+do this I can do this it is a Shannon
+
+196
+00:11:52,060 --> 00:11:54,480
+both
+
+197
+00:11:54,500 --> 00:11:57,659
+[Music]
+
+198
+00:12:08,050 --> 00:12:15,999
+okay so this will be the command center
+
+199
+00:12:13,110 --> 00:12:20,829
+and then now we just have to connect
+
+200
+00:12:15,999 --> 00:12:22,529
+this last bit one all right it's time so
+
+201
+00:12:20,829 --> 00:12:27,309
+then I know you've been very patient
+
+202
+00:12:22,529 --> 00:12:31,019
+come out of there wake up yes that's
+
+203
+00:12:27,309 --> 00:12:34,299
+right I've got a present for you swing I
+
+204
+00:12:31,019 --> 00:12:35,939
+need you to get in the boat like we
+
+205
+00:12:34,299 --> 00:12:45,100
+practiced
+
+206
+00:12:35,939 --> 00:12:57,119
+come on Spain hey you are ask my boy get
+
+207
+00:12:45,100 --> 00:12:57,119
+in the boat oh oh yes he's backwards
+
+208
+00:12:57,730 --> 00:13:02,739
+[Music]
+
+209
+00:13:00,329 --> 00:13:06,069
+why are you backwards is the boat
+
+210
+00:13:02,739 --> 00:13:12,269
+backwards don't be sad don't be scared
+
+211
+00:13:06,069 --> 00:13:12,269
+don't be scared here we go
+
+212
+00:13:19,660 --> 00:13:26,410
+I'm sorry what did I do wrong
+
+213
+00:13:33,880 --> 00:13:36,960
+finally
+
+214
+00:13:35,710 --> 00:13:42,089
+[Music]
+
+215
+00:13:36,960 --> 00:13:47,100
+well let me clear the way said I made
+
+216
+00:13:42,089 --> 00:13:48,950
+God in Minecraft gamers he loves said he
+
+217
+00:13:47,100 --> 00:13:54,810
+loves it
+
+218
+00:13:48,950 --> 00:14:01,620
+this is me my boy we started off trying
+
+219
+00:13:54,810 --> 00:14:04,260
+to blow up tea and tea and here we are
+
+220
+00:14:01,620 --> 00:14:14,540
+boys we made it to the top spin we made
+
+221
+00:14:04,260 --> 00:14:16,860
+it did it that there you go then then
+
+222
+00:14:14,540 --> 00:14:21,029
+look at me are you happy
+
+223
+00:14:16,860 --> 00:14:31,649
+look what I made you it's a it's a giant
+
+224
+00:14:21,029 --> 00:14:33,860
+event for swain it so cute Sven loves it
+
+225
+00:14:31,649 --> 00:14:36,390
+you're welcome Spain oh it's still going
+
+226
+00:14:33,860 --> 00:14:38,250
+spend goes forever I need to feel like a
+
+227
+00:14:36,390 --> 00:14:39,529
+weapon for him or something maybe I'll
+
+228
+00:14:38,250 --> 00:14:42,450
+do that next time
+
+229
+00:14:39,529 --> 00:14:45,450
+where's the back legs the back legs are
+
+230
+00:14:42,450 --> 00:14:46,020
+so far away can we see the whole thing
+
+231
+00:14:45,450 --> 00:14:50,279
+in motion
+
+232
+00:14:46,020 --> 00:14:51,990
+all right smash like if you enjoyed this
+
+233
+00:14:50,279 --> 00:14:53,430
+video if you want if you have any
+
+234
+00:14:51,990 --> 00:14:58,520
+suggestions what I should build for Sven
+
+235
+00:14:53,430 --> 00:15:02,310
+next airplane helicopter let me know and
+
+236
+00:14:58,520 --> 00:15:06,140
+I'll be sure to build it this is a lot
+
+237
+00:15:02,310 --> 00:15:06,140
+of fun i genuinely had a lot of fun
+
+238
+00:15:09,020 --> 00:15:16,380
+why is it so scary Jeff laughs ah you
+
+239
+00:15:14,040 --> 00:15:21,990
+haven't played PewDiePie pixel in yet
+
+240
+00:15:16,380 --> 00:15:23,100
+you clearly don't understand the game is
+
+241
+00:15:21,990 --> 00:15:26,820
+so great
+
+242
+00:15:23,100 --> 00:15:32,690
+hold on two chairs it might even make
+
+243
+00:15:26,820 --> 00:15:32,690
+tuber simulator irrelevant and it's free
+
+244
+00:15:33,980 --> 00:15:41,669
+check it out
+
+245
+00:15:35,620 --> 00:15:41,669
+[Music]

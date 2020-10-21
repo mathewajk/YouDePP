@@ -1,0 +1,2083 @@
+1
+00:00:00,000 --> 00:00:02,939
+ciao a tutti che c'è benvenuti in questo
+
+2
+00:00:01,410 --> 00:00:04,380
+nuovissimo video e la sei delle sette
+
+3
+00:00:02,939 --> 00:00:06,480
+della stone block ii
+
+4
+00:00:04,380 --> 00:00:08,910
+in questo episodio andiamo ad analizzare
+
+5
+00:00:06,480 --> 00:00:11,160
+perché ho insistito così tanto sulla
+
+6
+00:00:08,910 --> 00:00:12,030
+trasportation table vi spiegherò perché
+
+7
+00:00:11,160 --> 00:00:14,340
+non ho fatto prima
+
+8
+00:00:12,030 --> 00:00:17,730
+nonostante tantissimo avessero chiesto e
+
+9
+00:00:14,340 --> 00:00:19,949
+perché è davvero potentissima allora
+
+10
+00:00:17,730 --> 00:00:21,300
+cos'è la strisciante volevamo già visto
+
+11
+00:00:19,949 --> 00:00:23,310
+diciamo brevemente nello scorso episodio
+
+12
+00:00:21,300 --> 00:00:25,439
+alla fine dopo averla kraft ata il
+
+13
+00:00:23,310 --> 00:00:30,119
+primate un'interfaccia a sinistra
+
+14
+00:00:25,439 --> 00:00:31,619
+possiamo imparare le cose diciamo quindi
+
+15
+00:00:30,119 --> 00:00:34,260
+quando io imparo un oggetto per posso
+
+16
+00:00:31,619 --> 00:00:37,559
+replicarlo tante liam si possono anche
+
+17
+00:00:34,260 --> 00:00:40,710
+scaricare e caricare energia quindi se
+
+18
+00:00:37,559 --> 00:00:42,750
+io prendo non lo so vediamo qualche
+
+19
+00:00:40,710 --> 00:00:45,300
+oggettino qui non c'è nessun oggetto ne
+
+20
+00:00:42,750 --> 00:00:48,539
+ha uno stack di ferro uno stack di ferro
+
+21
+00:00:45,300 --> 00:00:51,600
+cia 16.000 i am see lo prendo lo metto
+
+22
+00:00:48,539 --> 00:00:54,149
+qui ora ho imparato al ferro lo brucio e
+
+23
+00:00:51,600 --> 00:00:56,309
+o gli am see qui posso di trasformarlo
+
+24
+00:00:54,149 --> 00:00:58,230
+quindi di prendere il mio ferro però non
+
+25
+00:00:56,309 --> 00:01:00,750
+lo voglio fare lo ri brucio se metto la
+
+26
+00:00:58,230 --> 00:01:02,309
+mia klein star da questa parte put
+
+27
+00:01:00,750 --> 00:01:04,470
+energia viene rimossa e messa
+
+28
+00:01:02,309 --> 00:01:05,790
+all'interno della mia star che è un mega
+
+29
+00:01:04,470 --> 00:01:07,650
+perché lo aumentata dopo l'ultima volta
+
+30
+00:01:05,790 --> 00:01:09,540
+moda fa accedere come ho fatto
+
+31
+00:01:07,650 --> 00:01:11,640
+se invece la metto a destra tutele già
+
+32
+00:01:09,540 --> 00:01:14,250
+viene rimossa emessa acqua dentro qui mi
+
+33
+00:01:11,640 --> 00:01:16,500
+trovo con 11 milioni di energia e posso
+
+34
+00:01:14,250 --> 00:01:17,700
+craftare tutte le cose che vedete jason
+
+35
+00:01:16,500 --> 00:01:20,130
+diverse pagine possono anche cercare
+
+36
+00:01:17,700 --> 00:01:22,650
+tipo se cerco star mi fa vedere solo le
+
+37
+00:01:20,130 --> 00:01:26,369
+stelle quindi è molto comodo ed è
+
+38
+00:01:22,650 --> 00:01:27,360
+praticamente come barare è il motivo per
+
+39
+00:01:26,369 --> 00:01:29,909
+cui non l'ho fatto prima
+
+40
+00:01:27,360 --> 00:01:32,250
+vi faccio un esempio semplicissimo ed è
+
+41
+00:01:29,909 --> 00:01:35,369
+presente quanto ci vuole per kraft aree
+
+42
+00:01:32,250 --> 00:01:38,579
+un coso da 1.024 k
+
+43
+00:01:35,369 --> 00:01:40,530
+ci vuole tantissimo ora io l'ho imparato
+
+44
+00:01:38,579 --> 00:01:42,580
+lo più sulla cella l'omessa qua dentro
+
+45
+00:01:40,530 --> 00:01:43,909
+posso prenderne una
+
+46
+00:01:42,580 --> 00:01:46,030
+2
+
+47
+00:01:43,909 --> 00:01:46,030
+3
+
+48
+00:01:46,620 --> 00:01:51,130
+456 con che facilità i ragazzi di temi
+
+49
+00:01:50,140 --> 00:01:53,950
+con che facilità
+
+50
+00:01:51,130 --> 00:01:56,200
+vi ho appena aggregato il mio sistema di
+
+51
+00:01:53,950 --> 00:01:59,290
+storage qualcuno mi vuole dire per
+
+52
+00:01:56,200 --> 00:02:02,410
+favore perché è abbastanza ridicola la
+
+53
+00:01:59,290 --> 00:02:05,980
+situazione capite ora perché è ridicola
+
+54
+00:02:02,410 --> 00:02:08,350
+perché io ho iniziato da subito a creare
+
+55
+00:02:05,980 --> 00:02:09,040
+ad oltranza tutti i blocchi possibili
+
+56
+00:02:08,350 --> 00:02:13,660
+immaginabili
+
+57
+00:02:09,040 --> 00:02:15,040
+ok ora ad esempio il ferro che l'oro che
+
+58
+00:02:13,660 --> 00:02:17,530
+sono quelli che avevo in maggioranza
+
+59
+00:02:15,040 --> 00:02:19,570
+fino a poco tempo fa non hanno neanche
+
+60
+00:02:17,530 --> 00:02:20,770
+così tanta i am see quindi non è questo
+
+61
+00:02:19,570 --> 00:02:22,600
+il problema
+
+62
+00:02:20,770 --> 00:02:24,970
+il problema tra virgolette ma per noi è
+
+63
+00:02:22,600 --> 00:02:27,430
+una fortuna in realtà è quando ho fatto
+
+64
+00:02:24,970 --> 00:02:30,220
+ad esempio la farma di app indovina un
+
+65
+00:02:27,430 --> 00:02:32,650
+po di ned airstar una nether star meda
+
+66
+00:02:30,220 --> 00:02:35,200
+132.000 1 st comi da 9 milioni
+
+67
+00:02:32,650 --> 00:02:38,680
+capisci con il fatto che io riesco a
+
+68
+00:02:35,200 --> 00:02:40,870
+captare stack di never star si vola ma
+
+69
+00:02:38,680 --> 00:02:43,570
+si vola a livelli altissimi
+
+70
+00:02:40,870 --> 00:02:45,990
+per inciso non ci avevo pensato ma
+
+71
+00:02:43,570 --> 00:02:48,370
+potremmo fare una cosa semplicissima
+
+72
+00:02:45,990 --> 00:02:51,370
+collegare anche qui uno un meccanico
+
+73
+00:02:48,370 --> 00:02:54,280
+user a questo è raccogliere e craftare
+
+74
+00:02:51,370 --> 00:02:56,050
+anche le uova di drago perché ti danno
+
+75
+00:02:54,280 --> 00:02:58,660
+un botto di roba che anche le uova di
+
+76
+00:02:56,050 --> 00:03:02,760
+drago tirano tirano più roba le uova di
+
+77
+00:02:58,660 --> 00:03:07,000
+drago che non le nether star e diventa
+
+78
+00:03:02,760 --> 00:03:10,090
+diventi davvero incredibile incredibile
+
+79
+00:03:07,000 --> 00:03:12,940
+ad esempio mettiamo un altra cosa che è
+
+80
+00:03:10,090 --> 00:03:15,250
+stata difficile craftare i 64 crafting
+
+81
+00:03:12,940 --> 00:03:18,760
+storage se io pi uno di questi
+
+82
+00:03:15,250 --> 00:03:20,170
+ehi ciao unimc valium perfetto siamo a
+
+83
+00:03:18,760 --> 00:03:22,690
+cavallo ricordo a tutti che questo è il
+
+84
+00:03:20,170 --> 00:03:24,610
+massimo che si può fare ok c'è è il
+
+85
+00:03:22,690 --> 00:03:27,310
+livello massimo di crafting storage che
+
+86
+00:03:24,610 --> 00:03:29,320
+può essere inserito a quanto mi manca mi
+
+87
+00:03:27,310 --> 00:03:31,090
+manca uno qui 2
+
+88
+00:03:29,320 --> 00:03:32,500
+mancano due ma non c'è assolutamente
+
+89
+00:03:31,090 --> 00:03:35,260
+nessun problema
+
+90
+00:03:32,500 --> 00:03:37,120
+metto la mia stellina qui la mia
+
+91
+00:03:35,260 --> 00:03:39,310
+stellina vado a vedere dove sono i craft
+
+92
+00:03:37,120 --> 00:03:42,850
+historic guarda 1 e 12
+
+93
+00:03:39,310 --> 00:03:45,730
+mamma mia ma che bello capite che ora
+
+94
+00:03:42,850 --> 00:03:46,420
+possiamo dedicarci al vero e proprio lei
+
+95
+00:03:45,730 --> 00:03:52,120
+the game
+
+96
+00:03:46,420 --> 00:03:55,120
+nel senso l'esempio pratico fisico non
+
+97
+00:03:52,120 --> 00:03:57,160
+so come spiegarlo neanche se è citata di
+
+98
+00:03:55,120 --> 00:04:00,250
+fare quelle cose davvero cazzute ad
+
+99
+00:03:57,160 --> 00:04:01,270
+esempio arrivare a vela colossal star
+
+100
+00:04:00,250 --> 00:04:04,090
+via
+
+101
+00:04:01,270 --> 00:04:06,160
+ok che sono queste stelle epocali si può
+
+102
+00:04:04,090 --> 00:04:08,020
+fare si può fare perché prima per
+
+103
+00:04:06,160 --> 00:04:11,940
+arrivare a fare un'altra clan stir sfir
+
+104
+00:04:08,020 --> 00:04:15,280
+dovevo captare 16 milioni di standby e
+
+105
+00:04:11,940 --> 00:04:19,660
+di star ain e poi fare streets mai dry
+
+106
+00:04:15,280 --> 00:04:23,050
+via omega e sfir e poi potevo fare la
+
+107
+00:04:19,660 --> 00:04:25,120
+magnum starà in capito ora invece metto
+
+108
+00:04:23,050 --> 00:04:28,450
+questo all'interno del traslation tablet
+
+109
+00:04:25,120 --> 00:04:31,240
+tab table e sono a cavallo perché ora
+
+110
+00:04:28,450 --> 00:04:34,840
+posto io so che per fare uno di questi
+
+111
+00:04:31,240 --> 00:04:38,169
+ho bisogno di 31 milioni sono tanti sono
+
+112
+00:04:34,840 --> 00:04:40,930
+tantissimi però attenzione nether star
+
+113
+00:04:38,169 --> 00:04:45,039
+quante ne ho ma ne ho davvero tante ma
+
+114
+00:04:40,930 --> 00:04:47,530
+guarda un po davvero tante queste ma è
+
+115
+00:04:45,039 --> 00:04:50,440
+scappato il mouse quanti sono un sono 9
+
+116
+00:04:47,530 --> 00:04:52,990
+milioni l'uno ma se io facessi così
+
+117
+00:04:50,440 --> 00:04:56,020
+e succede che succede se io faccio così
+
+118
+00:04:52,990 --> 00:04:57,700
+e posso craftare all'improvviso un'altra
+
+119
+00:04:56,020 --> 00:04:59,650
+star omega ora ne ho due
+
+120
+00:04:57,700 --> 00:05:00,910
+e con quattro faccio il passaggio
+
+121
+00:04:59,650 --> 00:05:04,740
+successivo
+
+122
+00:05:00,910 --> 00:05:07,060
+ora è molto costoso 30 milioni sono
+
+123
+00:05:04,740 --> 00:05:09,190
+tantissimi c'è anche da dire che poi
+
+124
+00:05:07,060 --> 00:05:11,950
+faccio così con tutta l'energia e ora ho
+
+125
+00:05:09,190 --> 00:05:13,539
+questa qua con dentro 34 milioni quelle
+
+126
+00:05:11,950 --> 00:05:15,669
+che se io levo tutta l'energia posso
+
+127
+00:05:13,539 --> 00:05:16,030
+farne un'altra e guarda un po siamo a
+
+128
+00:05:15,669 --> 00:05:18,310
+tre
+
+129
+00:05:16,030 --> 00:05:20,950
+manca solamente una l'ho già 9 milioni
+
+130
+00:05:18,310 --> 00:05:23,620
+da parte dire che oggi è davvero poco
+
+131
+00:05:20,950 --> 00:05:27,160
+anche uno di questi ha unimc valium
+
+132
+00:05:23,620 --> 00:05:28,539
+ovvio che sì ovvio che se l'anti mettere
+
+133
+00:05:27,160 --> 00:05:31,810
+lei non so neanche se mi interessa
+
+134
+00:05:28,539 --> 00:05:33,099
+impararlo sinceramente sì e no perché è
+
+135
+00:05:31,810 --> 00:05:35,410
+molto più come brucia le cose qua dentro
+
+136
+00:05:33,099 --> 00:05:37,270
+sto punto è vero magari poi l'impari
+
+137
+00:05:35,410 --> 00:05:39,070
+anche se non vuoi però magari l'energy
+
+138
+00:05:37,270 --> 00:05:39,550
+collector mark ii potrebbe avere più
+
+139
+00:05:39,070 --> 00:05:42,350
+senso
+
+140
+00:05:39,550 --> 00:05:44,240
+ma noi possiamo farlo mark iii
+
+141
+00:05:42,350 --> 00:05:46,760
+e poi imparare mark iii fare tanti di
+
+142
+00:05:44,240 --> 00:05:48,710
+mark iii così ha quindi energia e poi li
+
+143
+00:05:46,760 --> 00:05:51,290
+metto dentro alle mie alle mie stelle
+
+144
+00:05:48,710 --> 00:05:53,660
+oppure anche no perché nel senso se
+
+145
+00:05:51,290 --> 00:05:55,280
+possiamo far mare raffica ta pazzesca
+
+146
+00:05:53,660 --> 00:05:58,930
+test che sta roba
+
+147
+00:05:55,280 --> 00:06:01,220
+capiamo che è un po inutile tra l'altro
+
+148
+00:05:58,930 --> 00:06:03,020
+facciamo questo upgrade un attimino
+
+149
+00:06:01,220 --> 00:06:04,610
+quindi andiamo a generare anche in lupo
+
+150
+00:06:03,020 --> 00:06:06,190
+questo cosa devo fare un altro meccanica
+
+151
+00:06:04,610 --> 00:06:09,920
+user ma ti direi che è abbastanza
+
+152
+00:06:06,190 --> 00:06:11,529
+semplice ma perché complicarci la vita
+
+153
+00:06:09,920 --> 00:06:13,989
+dico io
+
+154
+00:06:11,529 --> 00:06:17,469
+perché aspetta se davvero super elisi da
+
+155
+00:06:13,989 --> 00:06:18,729
+craftare bene a siena cacata cioè posso
+
+156
+00:06:17,469 --> 00:06:21,339
+farlo davvero
+
+157
+00:06:18,729 --> 00:06:23,439
+fino a dopodomani sto coso pane 12
+
+158
+00:06:21,339 --> 00:06:26,979
+milioni perché il sede era già un buon
+
+159
+00:06:23,439 --> 00:06:28,929
+caso lo prendevo lo imparavo lo mettevo
+
+160
+00:06:26,979 --> 00:06:31,839
+2010 un tablet e eravamo tutti contenti
+
+161
+00:06:28,929 --> 00:06:33,549
+aspetta non voglio fare fail che è molto
+
+162
+00:06:31,839 --> 00:06:36,819
+più se invece del previsto fare file in
+
+163
+00:06:33,549 --> 00:06:40,059
+questo mondo e magari rilevavo ha usato
+
+164
+00:06:36,819 --> 00:06:43,449
+una cosa no e mettilo grazie ora
+
+165
+00:06:40,059 --> 00:06:45,639
+prendiamo in conduit e mettiamo così e
+
+166
+00:06:43,449 --> 00:06:48,789
+momento le stesse cose di qua quindi
+
+167
+00:06:45,639 --> 00:06:51,449
+verde in output marrone in input presa
+
+168
+00:06:48,789 --> 00:06:54,309
+active poi mettiamo il round robin
+
+169
+00:06:51,449 --> 00:06:56,379
+così cerca sempre di dividere le cose
+
+170
+00:06:54,309 --> 00:06:57,399
+che arrivano quando una di queste tipo c
+
+171
+00:06:56,379 --> 00:07:00,159
+momento questa qua dentro
+
+172
+00:06:57,399 --> 00:07:03,050
+ora si sta caricando dovrebbe arrivare e
+
+173
+00:07:00,159 --> 00:07:05,780
+andare di qua giusto
+
+174
+00:07:03,050 --> 00:07:07,639
+paiato aspetta ecco il problema che lo
+
+175
+00:07:05,780 --> 00:07:09,470
+nome sul filtro devo creare un power a
+
+176
+00:07:07,639 --> 00:07:12,590
+the filter di nuovo poi magari questo
+
+177
+00:07:09,470 --> 00:07:14,629
+questo già più complicato da craftare no
+
+178
+00:07:12,590 --> 00:07:16,060
+c'è bisogno conduit probo a che casino
+
+179
+00:07:14,629 --> 00:07:18,669
+ma chi c'ha voglia di fare sta roba
+
+180
+00:07:16,060 --> 00:07:23,690
+semplicemente vado a prendere sto coso
+
+181
+00:07:18,669 --> 00:07:26,300
+mille 1084 cucciolino non vale davvero
+
+182
+00:07:23,690 --> 00:07:29,289
+nulla però uno sbatti da trattare ma nel
+
+183
+00:07:26,300 --> 00:07:30,760
+momento in cui io lo imparo
+
+184
+00:07:29,289 --> 00:07:32,260
+guarda un po
+
+185
+00:07:30,760 --> 00:07:34,420
+guarda un po che cosa succede ma non ho
+
+186
+00:07:32,260 --> 00:07:36,689
+più energia a guarda cosa posso fare
+
+187
+00:07:34,420 --> 00:07:38,529
+posso bruciare uno di questi
+
+188
+00:07:36,689 --> 00:07:41,619
+2 quanto costa
+
+189
+00:07:38,529 --> 00:07:43,299
+nell'ottocento che bruciamo 2
+
+190
+00:07:41,619 --> 00:07:46,599
+ok e ci prendiamo un altro favorito in
+
+191
+00:07:43,299 --> 00:07:47,849
+filter o non a cavallo di più
+
+192
+00:07:46,599 --> 00:07:51,249
+vediamo se mi ha già osservato le
+
+193
+00:07:47,849 --> 00:07:53,319
+impostazioni o minore del 25 per cento
+
+194
+00:07:51,249 --> 00:07:56,189
+ok premettere anche qui speed up grade
+
+195
+00:07:53,319 --> 00:07:59,499
+mascella quindi non ha senso neanche
+
+196
+00:07:56,189 --> 00:08:00,459
+andarli a prendere è il massimo al 4 li
+
+197
+00:07:59,499 --> 00:08:02,469
+mettiamo qua dentro
+
+198
+00:08:00,459 --> 00:08:05,499
+dovrebbe andare tutto molto molto veloce
+
+199
+00:08:02,469 --> 00:08:07,599
+e guarda qua sai quante sai quanti
+
+200
+00:08:05,499 --> 00:08:10,389
+possiamo generarne ed è un te lo dico
+
+201
+00:08:07,599 --> 00:08:13,119
+manco carter tier one questo staccarlo
+
+202
+00:08:10,389 --> 00:08:15,279
+forse un po più una palla quindi mi
+
+203
+00:08:13,119 --> 00:08:18,419
+conviene caf tarlo davvero anche se a
+
+204
+00:08:15,279 --> 00:08:20,589
+questo punto potrei fare un craft beer
+
+205
+00:08:18,419 --> 00:08:22,929
+livello 2
+
+206
+00:08:20,589 --> 00:08:25,389
+così faccio tutto con un unico robot e
+
+207
+00:08:22,929 --> 00:08:28,419
+poi metto un output che viene messo tipo
+
+208
+00:08:25,389 --> 00:08:30,159
+non lo so e barili ma neanche li metto
+
+209
+00:08:28,419 --> 00:08:32,559
+direttamente nella cesta di sistema di
+
+210
+00:08:30,159 --> 00:08:34,449
+cui leggo al sistema assenso al senso
+
+211
+00:08:32,559 --> 00:08:39,479
+questa cosa signori diamo il nostro
+
+212
+00:08:34,449 --> 00:08:41,519
+crafting di livello 1 un po amaramente
+
+213
+00:08:39,479 --> 00:08:43,919
+andiamo a creare casting tir di livello
+
+214
+00:08:41,519 --> 00:08:46,889
+2 poi fatto di livello 3
+
+215
+00:08:43,919 --> 00:08:49,110
+non serve non serve potenzialmente
+
+216
+00:08:46,889 --> 00:08:51,630
+piazziamo e ora abbiamo questo possiamo
+
+217
+00:08:49,110 --> 00:08:54,029
+aggiungere un'altra ricetta che sarà
+
+218
+00:08:51,630 --> 00:08:55,769
+quella del dragon age ii mettiamo prima
+
+219
+00:08:54,029 --> 00:08:57,990
+questo
+
+220
+00:08:55,769 --> 00:09:00,810
+e poi la ricetta di questo
+
+221
+00:08:57,990 --> 00:09:03,209
+con la dovremmo essere a cavalli ma ora
+
+222
+00:09:00,810 --> 00:09:05,910
+devo solo fare sì che questo colletto
+
+223
+00:09:03,209 --> 00:09:09,570
+raccolga tutto quindi devo spostare
+
+224
+00:09:05,910 --> 00:09:11,550
+questo basic glover uno per trasformare
+
+225
+00:09:09,570 --> 00:09:14,940
+in uno da quattro cielo quello da
+
+226
+00:09:11,550 --> 00:09:18,000
+quattro già pronto brauer ce l'ho già
+
+227
+00:09:14,940 --> 00:09:20,279
+2 x 2 easy dove magari prendere un paio
+
+228
+00:09:18,000 --> 00:09:21,620
+di una prima non serve la poetica età
+
+229
+00:09:20,279 --> 00:09:24,170
+studi co
+
+230
+00:09:21,620 --> 00:09:25,580
+va bene un piano sto coso quindi ora ci
+
+231
+00:09:24,170 --> 00:09:29,240
+sarà un botto nuova per terra in teoria
+
+232
+00:09:25,580 --> 00:09:32,990
+è anche locato a noi serve lo carlo ma
+
+233
+00:09:29,240 --> 00:09:38,260
+che dirò di no amsa che ok ci mettiamo
+
+234
+00:09:32,990 --> 00:09:41,870
+sopra nuovamente lo trovo il collector
+
+235
+00:09:38,260 --> 00:09:44,510
+facciamo così questo qua dentro
+
+236
+00:09:41,870 --> 00:09:46,070
+ok non un upgrade forse ha senso fate un
+
+237
+00:09:44,510 --> 00:09:48,740
+colletto lo mettiamo qui doveva
+
+238
+00:09:46,070 --> 00:09:51,320
+funzionare quanto collegato sì devo
+
+239
+00:09:48,740 --> 00:09:55,220
+vedere iniziamo a captare sia né other
+
+240
+00:09:51,320 --> 00:09:58,529
+star e dragone gcanc giusto
+
+241
+00:09:55,220 --> 00:09:59,790
+in teoria sì ragone cassis
+
+242
+00:09:58,529 --> 00:10:02,579
+dobbiamo modificare ottimi non solamente
+
+243
+00:09:59,790 --> 00:10:05,910
+dai temi filt perché dobbiamo poter
+
+244
+00:10:02,579 --> 00:10:08,129
+accettare anche questo e ora dovremmo
+
+245
+00:10:05,910 --> 00:10:10,410
+essere a cavallo guarda un po stiamo
+
+246
+00:10:08,129 --> 00:10:13,110
+generando anche uova di drago e un uovo
+
+247
+00:10:10,410 --> 00:10:13,980
+di drago fa un milione ragazzi non so se
+
+248
+00:10:13,110 --> 00:10:17,040
+capite
+
+249
+00:10:13,980 --> 00:10:20,749
+quanta energia cioè due uova di drago
+
+250
+00:10:17,040 --> 00:10:24,959
+cui valgono 16 nether star spaziale
+
+251
+00:10:20,749 --> 00:10:27,689
+stiamo livelli altissimi livelli davvero
+
+252
+00:10:24,959 --> 00:10:29,819
+davvero altissimo ora per sfregio non
+
+253
+00:10:27,689 --> 00:10:32,459
+peraltro completamente è assolutamente
+
+254
+00:10:29,819 --> 00:10:34,410
+per sfregio prenderò una chiave lo
+
+255
+00:10:32,459 --> 00:10:36,660
+crosta cosa intanto perché mi dà
+
+256
+00:10:34,410 --> 00:10:38,220
+fastidio il fatto che si muova ogni
+
+257
+00:10:36,660 --> 00:10:40,740
+secondo me un po fastidio sinceramente
+
+258
+00:10:38,220 --> 00:10:42,329
+in questi 52 cose mettiamo qua dentro
+
+259
+00:10:40,740 --> 00:10:45,209
+a tutti i miei uova di drago li
+
+260
+00:10:42,329 --> 00:10:47,399
+prendiamo andiamo subito a bruciare li
+
+261
+00:10:45,209 --> 00:10:51,089
+mettiamo dentro la mia stellina e la
+
+262
+00:10:47,399 --> 00:10:55,319
+stellina la note si avvicina ora io ho
+
+263
+00:10:51,089 --> 00:10:58,170
+anche una superproduzione di raccordi ad
+
+264
+00:10:55,319 --> 00:10:59,209
+esempio vediamo quanto vale un drago new
+
+265
+00:10:58,170 --> 00:11:01,559
+ming ott
+
+266
+00:10:59,209 --> 00:11:03,809
+sedicimila e didac on you mean ho
+
+267
+00:11:01,559 --> 00:11:07,740
+davvero tanto ma davvero davvero tanto
+
+268
+00:11:03,809 --> 00:11:08,569
+troppo forse uno stack equivale a un
+
+269
+00:11:07,740 --> 00:11:11,519
+uovo di drago
+
+270
+00:11:08,569 --> 00:11:14,279
+quindi o come se stessi mutando via ora
+
+271
+00:11:11,519 --> 00:11:16,259
+oa di drago e mi ritrovo con i miei 32
+
+272
+00:11:14,279 --> 00:11:18,149
+milioni posso prendere una prince taro
+
+273
+00:11:16,259 --> 00:11:21,149
+mega e questo è quello che voglio fare
+
+274
+00:11:18,149 --> 00:11:23,519
+per sfregio energia gratuita
+
+275
+00:11:21,149 --> 00:11:24,839
+mi sono fatto la miopia maghi un bando
+
+276
+00:11:23,519 --> 00:11:28,819
+num star game
+
+277
+00:11:24,839 --> 00:11:32,850
+mammamia costa 100 milioni mannaggia
+
+278
+00:11:28,819 --> 00:11:34,410
+contanti 100 milioni e con tantissimi
+
+279
+00:11:32,850 --> 00:11:37,150
+poi ma diventa più veloce
+
+280
+00:11:34,410 --> 00:11:39,760
+no non diventa più veloce tacchio
+
+281
+00:11:37,150 --> 00:11:43,450
+e cerco project c'è qualche upgrade per
+
+282
+00:11:39,760 --> 00:11:46,259
+far sì che tu possa prendere più roba a
+
+283
+00:11:43,450 --> 00:11:48,029
+cerchi zanetti ora me lo dici cazzo
+
+284
+00:11:46,259 --> 00:11:50,249
+rossella alchemico il cesso e buonanotte
+
+285
+00:11:48,029 --> 00:11:52,169
+questo è un po complicata da farla
+
+286
+00:11:50,249 --> 00:11:53,630
+all'inizio kristeva all'inizio mi serve
+
+287
+00:11:52,169 --> 00:11:58,460
+ora
+
+288
+00:11:53,630 --> 00:12:02,120
+ora ci starebbe anche una cosa ora io in
+
+289
+00:11:58,460 --> 00:12:04,400
+realtà ho trovato il tom of knowledge
+
+290
+00:12:02,120 --> 00:12:06,120
+vedete che qui per kraft allo serve una
+
+291
+00:12:04,400 --> 00:12:10,110
+marea di roba
+
+292
+00:12:06,120 --> 00:12:11,370
+e davvero cazzuto però se non sbaglio ok
+
+293
+00:12:10,110 --> 00:12:13,500
+non ce l'ho
+
+294
+00:12:11,370 --> 00:12:16,470
+forse un bene forse un bene perché se
+
+295
+00:12:13,500 --> 00:12:18,450
+cioè mi sembrava di ricordare di averlo
+
+296
+00:12:16,470 --> 00:12:20,070
+trovato
+
+297
+00:12:18,450 --> 00:12:21,930
+se l'avessi davvero trovato sarebbe
+
+298
+00:12:20,070 --> 00:12:23,970
+stato p vuol dire che avevo tutte le
+
+299
+00:12:21,930 --> 00:12:26,730
+ricette sbloccate potevo captare
+
+300
+00:12:23,970 --> 00:12:29,820
+qualsiasi oggetto all'interno del gioco
+
+301
+00:12:26,730 --> 00:12:32,080
+che avesse un qualsiasi valore di ainsi
+
+302
+00:12:29,820 --> 00:12:34,050
+que
+
+303
+00:12:32,080 --> 00:12:36,430
+bellissima come cosa ci potevo craftare
+
+304
+00:12:34,050 --> 00:12:39,340
+tutto.facevo altri dieci di questi
+
+305
+00:12:36,430 --> 00:12:42,130
+capito mi avevo un genera una
+
+306
+00:12:39,340 --> 00:12:45,460
+generazione costante di uova di drago e
+
+307
+00:12:42,130 --> 00:12:47,590
+c'è eravamo a posto finito è il caput
+
+308
+00:12:45,460 --> 00:12:49,810
+bella l'iva è così sai che è una mezza
+
+309
+00:12:47,590 --> 00:12:52,150
+era di fare un destruction catalyst
+
+310
+00:12:49,810 --> 00:12:53,830
+sbaglia qualcosa che per scavare poi
+
+311
+00:12:52,150 --> 00:12:55,880
+abbandonate dimensione scavo tutto non
+
+312
+00:12:53,830 --> 00:12:57,980
+lascio manco un blocco libero
+
+313
+00:12:55,880 --> 00:13:00,440
+nello sbloccare ragazzino mode che non
+
+314
+00:12:57,980 --> 00:13:04,010
+avete idea che li anch'io di vedere però
+
+315
+00:13:00,440 --> 00:13:06,950
+wow ragazzi attenzione voglio provare
+
+316
+00:13:04,010 --> 00:13:09,980
+una cosa questo semino ok non ha un
+
+317
+00:13:06,950 --> 00:13:12,650
+valore di sì per fortuna altrimenti
+
+318
+00:13:09,980 --> 00:13:14,300
+facevo la farm di dragon ed più grande
+
+319
+00:13:12,650 --> 00:13:16,880
+che voi abbiate mai visto mamma mi
+
+320
+00:13:14,300 --> 00:13:19,310
+attaccavo tutto scherzando qui prendiamo
+
+321
+00:13:16,880 --> 00:13:21,860
+le nostre piedi neutroni che sono
+
+322
+00:13:19,310 --> 00:13:24,230
+diciamo i regolatori
+
+323
+00:13:21,860 --> 00:13:25,790
+ok nel senso nel momento in cui tu puoi
+
+324
+00:13:24,230 --> 00:13:27,650
+fare delle file per captare tutto
+
+325
+00:13:25,790 --> 00:13:29,810
+l'unica cosa il tipo bloccare dal
+
+326
+00:13:27,650 --> 00:13:31,910
+diventare troppo forte finiva serie così
+
+327
+00:13:29,810 --> 00:13:35,030
+perché potesse trattare di tutto non c'è
+
+328
+00:13:31,910 --> 00:13:37,570
+più divertimento è la generazione di
+
+329
+00:13:35,030 --> 00:13:41,420
+alcuni prodotti che non possono essere
+
+330
+00:13:37,570 --> 00:13:43,550
+resi e superfarm abili come ad esempio i
+
+331
+00:13:41,420 --> 00:13:44,780
+neutroni in otri da far male solo una
+
+332
+00:13:43,550 --> 00:13:47,810
+palla assurda
+
+333
+00:13:44,780 --> 00:13:50,810
+ho fatto ora 26 nugget posso fare due
+
+334
+00:13:47,810 --> 00:13:52,580
+lingotti in tre episodi capite che per
+
+335
+00:13:50,810 --> 00:13:54,770
+fare del super ricette del mega crafting
+
+336
+00:13:52,580 --> 00:13:56,600
+diventa davvero complicato
+
+337
+00:13:54,770 --> 00:13:58,880
+ed è questo il principio cioè è fatto
+
+338
+00:13:56,600 --> 00:14:01,490
+apposta per questo carino il boyd ormai
+
+339
+00:13:58,880 --> 00:14:04,130
+bruciato ora anche questo è davvero
+
+340
+00:14:01,490 --> 00:14:05,900
+interessante il neutroni un compressor è
+
+341
+00:14:04,130 --> 00:14:08,570
+il prossimo passo dobbiamo fare per
+
+342
+00:14:05,900 --> 00:14:12,290
+carelli singolarità il problema delle
+
+343
+00:14:08,570 --> 00:14:15,170
+singolarità è un altro che avevo bisogno
+
+344
+00:14:12,290 --> 00:14:17,090
+di talmente tanta energia che sembreremo
+
+345
+00:14:15,170 --> 00:14:19,190
+comunque nabi le cui a fare una
+
+346
+00:14:17,090 --> 00:14:23,210
+singolarità di diamante abbiamo bisogno
+
+347
+00:14:19,190 --> 00:14:27,830
+di 12.200 blocchi di diamante quino
+
+348
+00:14:23,210 --> 00:14:29,600
+calcolo 110.000 diamanti capito e ci
+
+349
+00:14:27,830 --> 00:14:31,760
+serve per ognuno di queste cose quindi
+
+350
+00:14:29,600 --> 00:14:32,810
+abbiamo generare tantissima energia per
+
+351
+00:14:31,760 --> 00:14:35,240
+poi trasformare tutta quell'energia
+
+352
+00:14:32,810 --> 00:14:37,010
+tutta quella i am see nelle singolarità
+
+353
+00:14:35,240 --> 00:14:38,480
+di copiamo bisogno però pare al fatto
+
+354
+00:14:37,010 --> 00:14:40,160
+che abbiamo del complesso per fa tutto
+
+355
+00:14:38,480 --> 00:14:43,250
+quindi siamo galli aveva il dragon ed
+
+356
+00:14:40,160 --> 00:14:46,130
+crooks può essere attenzione ci siamo
+
+357
+00:14:43,250 --> 00:14:48,860
+anche linssen humour all'insegna non
+
+358
+00:14:46,130 --> 00:14:51,620
+conta più nulla ragazzi libraia dragons
+
+359
+00:14:48,860 --> 00:14:52,970
+che il che purtroppo non c'era più e
+
+360
+00:14:51,620 --> 00:14:55,640
+avevo solamente uno qui dove andare ad
+
+361
+00:14:52,970 --> 00:14:58,160
+ammazzare il nuovo render dragon però il
+
+362
+00:14:55,640 --> 00:14:59,180
+crux lo impariamo subito dice l'abbiamo
+
+363
+00:14:58,160 --> 00:15:01,010
+bra
+
+364
+00:14:59,180 --> 00:15:03,560
+apriamo il mio auto crafting vediamo
+
+365
+00:15:01,010 --> 00:15:06,800
+quanto insegniamo
+
+366
+00:15:03,560 --> 00:15:08,870
+me ne basta uno crafting delle insegne
+
+367
+00:15:06,800 --> 00:15:09,590
+vediamo quanto ci vuole umiltà 30
+
+368
+00:15:08,870 --> 00:15:14,360
+secondi
+
+369
+00:15:09,590 --> 00:15:17,240
+easy tissimo nel frattempo io prendo il
+
+370
+00:15:14,360 --> 00:15:21,350
+kun ho detto quando un ovetto dovrei
+
+371
+00:15:17,240 --> 00:15:24,440
+averlo ed andiamo un paio piaceva fare
+
+372
+00:15:21,350 --> 00:15:28,220
+un buco verso l'alto è molto più comodo
+
+373
+00:15:24,440 --> 00:15:29,990
+per andare avanti indietro
+
+374
+00:15:28,220 --> 00:15:32,650
+facciamo comunque verso l'alto andiamo a
+
+375
+00:15:29,990 --> 00:15:35,810
+sconfiggere lander dragon anno aspetta
+
+376
+00:15:32,650 --> 00:15:38,600
+una cosa importantissima il chicken
+
+377
+00:15:35,810 --> 00:15:40,400
+stick altrimenti non posso le varie lo
+
+378
+00:15:38,600 --> 00:15:42,860
+scudo e poi so che abbiamo una torcino
+
+379
+00:15:40,400 --> 00:15:47,960
+ogni tanto sono qua davvero abbiamo
+
+380
+00:15:42,860 --> 00:15:50,990
+generato una nuova nuova zona e non ero
+
+381
+00:15:47,960 --> 00:15:53,089
+così lontano ovviamente prima emittente
+
+382
+00:15:50,990 --> 00:15:54,200
+schermo sempre verso l'alto
+
+383
+00:15:53,089 --> 00:15:56,029
+questa la mani di mesh quindi magari
+
+384
+00:15:54,200 --> 00:15:57,950
+trovo anche delle caverne ma non ci
+
+385
+00:15:56,029 --> 00:16:00,440
+interessa è che abbiamo ha superato la
+
+386
+00:15:57,950 --> 00:16:02,839
+prematura e carica si ok puledra fonica
+
+387
+00:16:00,440 --> 00:16:05,990
+nel senso che lo scialle dovevo charlie
+
+388
+00:16:02,839 --> 00:16:08,920
+stiamo quando hai un super piccone ma la
+
+389
+00:16:05,990 --> 00:16:11,780
+terra non spacca e neanche la grave
+
+390
+00:16:08,920 --> 00:16:15,209
+anche la granata però in basso poi ok
+
+391
+00:16:11,780 --> 00:16:16,819
+roma esserci quasi 220
+
+392
+00:16:15,209 --> 00:16:18,529
+ap andare su
+
+393
+00:16:16,819 --> 00:16:20,509
+e successo
+
+394
+00:16:18,529 --> 00:16:24,579
+c'è un blocco strano eccoci qua alla
+
+395
+00:16:20,509 --> 00:16:24,579
+band rock e dovremmo essere nella zona
+
+396
+00:16:24,590 --> 00:16:31,040
+io speravo un po più vicino o cacchio
+
+397
+00:16:28,510 --> 00:16:32,540
+del mo chi lo trova
+
+398
+00:16:31,040 --> 00:16:34,240
+devo provare a viaggiare in una
+
+399
+00:16:32,540 --> 00:16:37,970
+direzione o nell'altra
+
+400
+00:16:34,240 --> 00:16:40,760
+speriamo di trovare la struttura in cui
+
+401
+00:16:37,970 --> 00:16:41,240
+ho bisogno io sono meno né di qua poco
+
+402
+00:16:40,760 --> 00:16:43,460
+ma sicuro
+
+403
+00:16:41,240 --> 00:16:45,560
+ok sono a torino il vecchio video con
+
+404
+00:16:43,460 --> 00:16:48,380
+cui uscito lander chicken così vedo le
+
+405
+00:16:45,560 --> 00:16:49,520
+coordinate e possono andare le fortunate
+
+406
+00:16:48,380 --> 00:16:51,470
+da mini mappa destra ci sono
+
+407
+00:16:49,520 --> 00:16:52,190
+costantemente le coordinate così è molto
+
+408
+00:16:51,470 --> 00:16:55,600
+più semplice
+
+409
+00:16:52,190 --> 00:16:59,480
+ok devo andare a destra e dice io
+
+410
+00:16:55,600 --> 00:17:03,890
+bellissimo è semplicissimo video quindi
+
+411
+00:16:59,480 --> 00:17:07,880
+spalmiamo domani ok sono 400 blocchi di
+
+412
+00:17:03,890 --> 00:17:11,480
+qua normale cento brocchi non sono pochi
+
+413
+00:17:07,880 --> 00:17:16,670
+ma così va andiamo andiamo andiamo da
+
+414
+00:17:11,480 --> 00:17:18,530
+lander ci campava papà papà 400 blocchi
+
+415
+00:17:16,670 --> 00:17:22,040
+davanti cacchio
+
+416
+00:17:18,530 --> 00:17:24,470
+eccoci qua vedo la struttura e siamo
+
+417
+00:17:22,040 --> 00:17:26,780
+atterrati sono anche degli under ma non
+
+418
+00:17:24,470 --> 00:17:28,490
+ci interessa proviamoci che la nostra
+
+419
+00:17:26,780 --> 00:17:31,820
+struttura eco in fondo mettiamo delle
+
+420
+00:17:28,490 --> 00:17:33,830
+torce grazie ancora esplode tutto allora
+
+421
+00:17:31,820 --> 00:17:35,090
+e siamo delle torce anche se tanto
+
+422
+00:17:33,830 --> 00:17:37,370
+andranno tutti a quel paese tra un
+
+423
+00:17:35,090 --> 00:17:40,460
+secondo qualcuno di ender man ma non ci
+
+424
+00:17:37,370 --> 00:17:42,650
+interessa più o meno facciamo sponda
+
+425
+00:17:40,460 --> 00:17:44,510
+renderci che anche di te let's go quel
+
+426
+00:17:42,650 --> 00:17:46,640
+raggio del lander chicken e potente lo
+
+427
+00:17:44,510 --> 00:17:48,720
+abbiamo constatato nella volta che in
+
+428
+00:17:46,640 --> 00:17:52,500
+cui abbiamo abbattuto
+
+429
+00:17:48,720 --> 00:18:00,120
+fa male fa male diciamo così donato e
+
+430
+00:17:52,500 --> 00:18:01,280
+non fa dando ancora ancora lì mazza non
+
+431
+00:18:00,120 --> 00:18:10,520
+è ancora esploso
+
+432
+00:18:01,280 --> 00:18:10,520
+eccolo eccolo missione dello scudo
+
+433
+00:18:11,130 --> 00:18:14,720
+niente scudo ok vuole morire
+
+434
+00:18:17,340 --> 00:18:24,390
+levate lo scudo ok ora sì che ragioniamo
+
+435
+00:18:20,390 --> 00:18:26,880
+quando un po comunque avete detto che fa
+
+436
+00:18:24,390 --> 00:18:30,620
+un botto di robe fighetto pollo però noi
+
+437
+00:18:26,880 --> 00:18:30,620
+siamo qui madonna ma che esclusione
+
+438
+00:18:31,520 --> 00:18:38,430
+morto morto da mille cose per cui sono
+
+439
+00:18:36,540 --> 00:18:40,200
+venuto ok possiamo tornare a casa
+
+440
+00:18:38,430 --> 00:18:42,240
+signore e signori perché il dragonheart
+
+441
+00:18:40,200 --> 00:18:44,430
+lo impariamo il dragone che lo impariamo
+
+442
+00:18:42,240 --> 00:18:46,290
+dal boss che lo impariamo possiamo farne
+
+443
+00:18:44,430 --> 00:18:48,660
+quanti ne vogliamo ora viaggiamo super
+
+444
+00:18:46,290 --> 00:18:50,130
+veloci qui ma mia o di istituto tutto o
+
+445
+00:18:48,660 --> 00:18:51,900
+cava a cavare quanti oggetti sun per
+
+446
+00:18:50,130 --> 00:18:53,730
+terra ma è un miracolo che il mio
+
+447
+00:18:51,900 --> 00:18:54,900
+computer riesca a reggere certe cose
+
+448
+00:18:53,730 --> 00:18:57,720
+cioè non è vero perché mio computer è
+
+449
+00:18:54,900 --> 00:19:00,190
+molto potente però un computer normale
+
+450
+00:18:57,720 --> 00:19:01,639
+non ce la farebbe mai signori
+
+451
+00:19:00,190 --> 00:19:05,509
+[Musica]
+
+452
+00:19:01,639 --> 00:19:08,329
+è costoso giocare sto gioco ok ci siamo
+
+453
+00:19:05,509 --> 00:19:12,499
+finalmente andiamo subito a imparare le
+
+454
+00:19:08,329 --> 00:19:13,929
+cose belle il fail e lo vediamo ci
+
+455
+00:19:12,499 --> 00:19:17,129
+avevamo già
+
+456
+00:19:13,929 --> 00:19:19,539
+dragonheart e basta tutta sta roba da
+
+457
+00:19:17,129 --> 00:19:22,350
+distruggiamo non avrei mai potuto
+
+458
+00:19:19,539 --> 00:19:23,940
+impalato ha però siamo qua
+
+459
+00:19:22,350 --> 00:19:27,720
+ecco forse per evitare di impararla è
+
+460
+00:19:23,940 --> 00:19:29,160
+per quello se per quello che ci dà la
+
+461
+00:19:27,720 --> 00:19:30,840
+possibilità di usare tanti mettere lei
+
+462
+00:19:29,160 --> 00:19:31,350
+per tutta sta roba che un po inutile in
+
+463
+00:19:30,840 --> 00:19:33,260
+realtà
+
+464
+00:19:31,350 --> 00:19:35,160
+bene allora mettiamo la nostra stellina
+
+465
+00:19:33,260 --> 00:19:37,590
+l'energia facciamo quelli della con
+
+466
+00:19:35,160 --> 00:19:39,870
+scales almeno altre quattro
+
+467
+00:19:37,590 --> 00:19:41,880
+mi sembra giusto prendiamo linssen youm
+
+468
+00:19:39,870 --> 00:19:45,120
+che dovrebbe essere qui dovrebbe
+
+469
+00:19:41,880 --> 00:19:47,789
+definito di farlo 8.000 è lievemente di
+
+470
+00:19:45,120 --> 00:19:51,720
+un diamante poi era tarata se siamo
+
+471
+00:19:47,789 --> 00:19:54,840
+ricchi poi ha poi allora dicevamo in sé
+
+472
+00:19:51,720 --> 00:19:58,559
+new ma è il senso e amo la vediamo un
+
+473
+00:19:54,840 --> 00:20:00,320
+paio di stack 134 star bene perché no
+
+474
+00:19:58,559 --> 00:20:02,750
+mamma mia
+
+475
+00:20:00,320 --> 00:20:04,460
+mamma mia un mio team ora voi posso
+
+476
+00:20:02,750 --> 00:20:05,830
+prendere fare fatti di uno stato di
+
+477
+00:20:04,460 --> 00:20:07,590
+questo
+
+478
+00:20:05,830 --> 00:20:11,490
+e nello stacco mida
+
+479
+00:20:07,590 --> 00:20:13,020
+4 stack di su premium ok uno stack di
+
+480
+00:20:11,490 --> 00:20:15,510
+questo
+
+481
+00:20:13,020 --> 00:20:17,580
+lo trasformo in quello prima per uno
+
+482
+00:20:15,510 --> 00:20:19,730
+staff di questo trasforma e ora guarda
+
+483
+00:20:17,580 --> 00:20:25,020
+cosa posso fare proprio tranquillamente
+
+484
+00:20:19,730 --> 00:20:26,340
+vendo il mio crafting tir e base pasto
+
+485
+00:20:25,020 --> 00:20:29,340
+completo qua dentro
+
+486
+00:20:26,340 --> 00:20:34,230
+e andiamo uno alla volta trattiamo nome
+
+487
+00:20:29,340 --> 00:20:35,730
+one e lo impariamo perché no number two
+
+488
+00:20:34,230 --> 00:20:38,220
+ecco lui non mi fa fare mancando amber
+
+489
+00:20:35,730 --> 00:20:40,650
+cercando prove lo facciamo subito un bel
+
+490
+00:20:38,220 --> 00:20:43,740
+tu e lo impariamo e che non si sa mai ma
+
+491
+00:20:40,650 --> 00:20:46,650
+avete capito qual è il senso di questa
+
+492
+00:20:43,740 --> 00:20:48,780
+cosa la potenzialità di questa cosa
+
+493
+00:20:46,650 --> 00:20:50,910
+piacerebbe dire anche ecco il nostro
+
+494
+00:20:48,780 --> 00:20:52,320
+team six che è il livello massimo tra
+
+495
+00:20:50,910 --> 00:20:54,600
+l'altro se non sbaglio si dovrebbe
+
+496
+00:20:52,320 --> 00:20:57,630
+essere livello massimo cioè nelle stragi
+
+497
+00:20:54,600 --> 00:21:01,570
+e il dragone gcil se fare tutte queste
+
+498
+00:20:57,630 --> 00:21:03,700
+cose posso prendere con la mia stellina
+
+499
+00:21:01,570 --> 00:21:08,550
+e ora posso craftare un altro dragon
+
+500
+00:21:03,700 --> 00:21:11,320
+knight sid easy ok il cluj cielo già
+
+501
+00:21:08,550 --> 00:21:14,410
+avevo già cantato proprio di un problema
+
+502
+00:21:11,320 --> 00:21:17,020
+da prendere da qua e neanche cosa posso
+
+503
+00:21:14,410 --> 00:21:19,390
+fare riprendiamo tutta l'energia costa
+
+504
+00:21:17,020 --> 00:21:21,270
+strettina le cose mettiamo e non ci
+
+505
+00:21:19,390 --> 00:21:25,690
+interessa andiamo di qua sostituiamo
+
+506
+00:21:21,270 --> 00:21:29,800
+ovviamente la ned airstar crux con la
+
+507
+00:21:25,690 --> 00:21:34,050
+dragone groups però abbiamo due amici
+
+508
+00:21:29,800 --> 00:21:35,610
+che generano uova di drago
+
+509
+00:21:34,050 --> 00:21:38,070
+posso capire la potenzialità di questa
+
+510
+00:21:35,610 --> 00:21:40,650
+cosa e potrei farne molti di più potrei
+
+511
+00:21:38,070 --> 00:21:41,790
+farne davvero molti di più ma mi piace
+
+512
+00:21:40,650 --> 00:21:43,890
+anche il fatto che me li metta in ordine
+
+513
+00:21:41,790 --> 00:21:46,740
+di yen si cioè alla fine trovo le cose
+
+514
+00:21:43,890 --> 00:21:47,910
+più scarse ha senso perché cioè se uno
+
+515
+00:21:46,740 --> 00:21:49,710
+vuole spendere tanto
+
+516
+00:21:47,910 --> 00:21:50,910
+ma signori per questo video è tutto io
+
+517
+00:21:49,710 --> 00:21:52,890
+venga su tantissimo per la visione ci
+
+518
+00:21:50,910 --> 00:21:54,780
+vediamo domani alle 7 con il prossimo
+
+519
+00:21:52,890 --> 00:21:56,560
+episodio della serie delle sette io vi
+
+520
+00:21:54,780 --> 00:22:16,029
+saluto ciao a tutti
+
+521
+00:21:56,560 --> 00:22:16,029
+[Musica]

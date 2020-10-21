@@ -1,0 +1,2955 @@
+1
+00:00:00,000 --> 00:00:03,600
+cloud bonjour et bienvenue pas du tout
+
+2
+00:00:02,159 --> 00:00:04,950
+dans mon studio on est bien d'accord je
+
+3
+00:00:03,600 --> 00:00:06,720
+suis dans un autre endroit très
+
+4
+00:00:04,950 --> 00:00:09,300
+intéressant je vous ai demandé sur
+
+5
+00:00:06,720 --> 00:00:10,590
+twitter de m'envoyer vos pays objet mais
+
+6
+00:00:09,300 --> 00:00:12,179
+pas n'importe quel objet des objets qui
+
+7
+00:00:10,590 --> 00:00:13,349
+sont réparables des objets que vous
+
+8
+00:00:12,179 --> 00:00:15,360
+regardez tous les jours et vous vous
+
+9
+00:00:13,349 --> 00:00:16,650
+dites chez parages de brûle je jette je
+
+10
+00:00:15,360 --> 00:00:17,850
+leur parle qu'est-ce que j'en fume pas
+
+11
+00:00:16,650 --> 00:00:18,990
+je vais l'envoyer à mx m il va faire
+
+12
+00:00:17,850 --> 00:00:20,250
+quelque chose avec peut-être on ne sait
+
+13
+00:00:18,990 --> 00:00:21,300
+pas mais aujourd'hui je vais aller
+
+14
+00:00:20,250 --> 00:00:22,500
+découvrir parce que je ne les connais
+
+15
+00:00:21,300 --> 00:00:23,699
+pas c'est la prod qui a sélectionné les
+
+16
+00:00:22,500 --> 00:00:24,960
+objets j'ai donc tout de suite découvrir
+
+17
+00:00:23,699 --> 00:00:26,340
+vos objets et ensuite on va aller
+
+18
+00:00:24,960 --> 00:00:27,630
+réparer avec l'aide de philippe et
+
+19
+00:00:26,340 --> 00:00:29,460
+michel puisque je suis dans un endroit
+
+20
+00:00:27,630 --> 00:00:31,650
+incroyable qui s'appelle l'établi haute
+
+21
+00:00:29,460 --> 00:00:34,469
+on s'est arrangé nos conseils ps je le
+
+22
+00:00:31,650 --> 00:00:37,170
+savais avant de commencer oui c'est vrai
+
+23
+00:00:34,469 --> 00:00:38,610
+depuis le début il y a plusieurs caméras
+
+24
+00:00:37,170 --> 00:00:40,140
+c'est sur cette vanne feuilleton n'est
+
+25
+00:00:38,610 --> 00:00:41,820
+d'accord ça vous fait chier vous ça fait
+
+26
+00:00:40,140 --> 00:00:43,170
+chier le monteur personne n'aime ok donc
+
+27
+00:00:41,820 --> 00:00:44,280
+j'arrête dont je vais continuer avant de
+
+28
+00:00:43,170 --> 00:00:45,329
+commencer je tiens à vous informer que
+
+29
+00:00:44,280 --> 00:00:46,890
+je fais cette vidéo en partenariat avec
+
+30
+00:00:45,329 --> 00:00:47,969
+l'ademe l'ademe c'est un organisme qui
+
+31
+00:00:46,890 --> 00:00:49,590
+est chargée de lutter contre la
+
+32
+00:00:47,969 --> 00:00:51,360
+surconsommation notamment et encourager
+
+33
+00:00:49,590 --> 00:00:52,860
+les gens à consommer de manière durable
+
+34
+00:00:51,360 --> 00:00:54,149
+et responsable je vous expliquais ça un
+
+35
+00:00:52,860 --> 00:00:55,350
+petit peu tout au long de la vidéo mais
+
+36
+00:00:54,149 --> 00:00:56,910
+c'est un sujet vraiment super important
+
+37
+00:00:55,350 --> 00:00:58,770
+moi le premier je fais n'importe quoi
+
+38
+00:00:56,910 --> 00:01:00,420
+j'achète des trucs je ne suis pas sûr
+
+39
+00:00:58,770 --> 00:01:01,680
+vraiment de leur utilité en fait il ya
+
+40
+00:01:00,420 --> 00:01:03,329
+des trucs qui tombe en panne
+
+41
+00:01:01,680 --> 00:01:04,799
+plutôt que de les réparer on en rachète
+
+42
+00:01:03,329 --> 00:01:05,760
+un nouveau ne mentait pas on le fait
+
+43
+00:01:04,799 --> 00:01:07,110
+tous les je vous raconte une petite
+
+44
+00:01:05,760 --> 00:01:08,430
+anecdote l'autre jour je conduisais
+
+45
+00:01:07,110 --> 00:01:10,020
+j'avais un impact sur mon pare-brise
+
+46
+00:01:08,430 --> 00:01:11,430
+voyez comme dans la pub et varna pas que
+
+47
+00:01:10,020 --> 00:01:12,630
+sur mon pare-brise je le regarde il me
+
+48
+00:01:11,430 --> 00:01:14,040
+regarde je le regarde il me regarde
+
+49
+00:01:12,630 --> 00:01:15,060
+voilà on se regarde pouvez vous dis
+
+50
+00:01:14,040 --> 00:01:16,500
+qu'est ce que je fais avec ce truc là
+
+51
+00:01:15,060 --> 00:01:17,759
+j'aurais pu aller au machin de
+
+52
+00:01:16,500 --> 00:01:19,290
+réparation comme dans la pub j'aurais pu
+
+53
+00:01:17,759 --> 00:01:21,090
+ballon j'ai changé la voiture ça ça nous
+
+54
+00:01:19,290 --> 00:01:22,380
+arrive tous ça ne c'est nelson dont
+
+55
+00:01:21,090 --> 00:01:23,759
+peut-être pas quand même nom c'est une
+
+56
+00:01:22,380 --> 00:01:24,840
+vanne mais dans l'idée c'est ça c'est
+
+57
+00:01:23,759 --> 00:01:26,610
+qu'il ya des trucs qui sont réparables
+
+58
+00:01:24,840 --> 00:01:28,380
+et on les laisse mourir chez nous je
+
+59
+00:01:26,610 --> 00:01:29,640
+jette jamais rien donc ma maison est une
+
+60
+00:01:28,380 --> 00:01:30,689
+poubelle et j'accumule des trucs qui
+
+61
+00:01:29,640 --> 00:01:32,130
+sont réparables et c'est dommage donc
+
+62
+00:01:30,689 --> 00:01:33,390
+vraiment très important on va s'amuser
+
+63
+00:01:32,130 --> 00:01:34,619
+dans cette vidéo on va réparer des
+
+64
+00:01:33,390 --> 00:01:36,090
+objets ici à la fin de cette vidéo et
+
+65
+00:01:34,619 --> 00:01:37,110
+bien vous pouvez réfléchir avant
+
+66
+00:01:36,090 --> 00:01:38,159
+d'acheter ce que vous achetez si c'est
+
+67
+00:01:37,110 --> 00:01:39,540
+vraiment utile ou pas ou quand vous
+
+68
+00:01:38,159 --> 00:01:40,829
+jetez quelque chose va réfléchir à deux
+
+69
+00:01:39,540 --> 00:01:42,450
+fois avant de le jeter savoir s'il est
+
+70
+00:01:40,829 --> 00:01:43,560
+réparable et c est ben c'est mission
+
+71
+00:01:42,450 --> 00:01:44,850
+accomplie et tout le monde est content
+
+72
+00:01:43,560 --> 00:01:48,020
+je fais partie pour une vidéo les pires
+
+73
+00:01:44,850 --> 00:01:52,010
+objets à réparer envoyés par les abonnés
+
+74
+00:01:48,020 --> 00:01:52,010
+[Musique]
+
+75
+00:01:55,810 --> 00:02:00,770
+pour ben tu m'amènes une chaise un peu
+
+76
+00:01:59,390 --> 00:02:02,690
+de soudure mais là déjà c'est plus c'est
+
+77
+00:02:00,770 --> 00:02:03,980
+plutôt rassurant typiquement l'objet que
+
+78
+00:02:02,690 --> 00:02:05,480
+malheureusement tu ne prends pas le
+
+79
+00:02:03,980 --> 00:02:07,220
+temps de réparer tu vas chez ton magasin
+
+80
+00:02:05,480 --> 00:02:08,720
+favori et tu en rachetant et ça c'est
+
+81
+00:02:07,220 --> 00:02:11,330
+dommage si ça ça t'arrive à la maison
+
+82
+00:02:08,720 --> 00:02:12,530
+qui a le temps de réparer ça moi je n'ai
+
+83
+00:02:11,330 --> 00:02:13,490
+pas le temps je rachète une chaise et
+
+84
+00:02:12,530 --> 00:02:14,300
+ben je suis un connard prochaine fois
+
+85
+00:02:13,490 --> 00:02:16,040
+que vous avez un truc comme ça
+
+86
+00:02:14,300 --> 00:02:17,270
+pensez à la machine à souder il ya tout
+
+87
+00:02:16,040 --> 00:02:18,650
+ce qu'il faut ici on va pouvoir réparer
+
+88
+00:02:17,270 --> 00:02:20,150
+ça je serais content ça lui maxime je
+
+89
+00:02:18,650 --> 00:02:23,060
+suis étudiant et c'est la seule chose
+
+90
+00:02:20,150 --> 00:02:24,260
+que j'ai je comprends l'importance de ce
+
+91
+00:02:23,060 --> 00:02:25,730
+à dire qu'actuellement là pendant
+
+92
+00:02:24,260 --> 00:02:26,990
+longtemps cette vidéo le gars assis chez
+
+93
+00:02:25,730 --> 00:02:28,190
+lui par terre quand j'étais étudiant
+
+94
+00:02:26,990 --> 00:02:29,150
+c'était le cas c'est à dire qu'un tout
+
+95
+00:02:28,190 --> 00:02:29,840
+petit problème peut devenir une
+
+96
+00:02:29,150 --> 00:02:31,430
+catastrophe
+
+97
+00:02:29,840 --> 00:02:33,650
+j'ai aussi cassé mon propos de douch
+
+98
+00:02:31,430 --> 00:02:35,000
+quand même imaginer un mec chez lui
+
+99
+00:02:33,650 --> 00:02:36,980
+assis par terre qui ne sera pas je
+
+100
+00:02:35,000 --> 00:02:38,090
+compte sur toi sullivan le pommeau de
+
+101
+00:02:36,980 --> 00:02:39,170
+douche ça devrait aller aussi je pense
+
+102
+00:02:38,090 --> 00:02:41,530
+moi c'est pas grand chose quand même
+
+103
+00:02:39,170 --> 00:02:41,530
+objets suivants
+
+104
+00:02:42,070 --> 00:02:46,970
+coucou voici une bouilloire de type
+
+105
+00:02:44,510 --> 00:02:48,290
+normal que j'ai bêtement fait tomber je
+
+106
+00:02:46,970 --> 00:02:49,460
+pense que c'est pas si bête que ça tu
+
+107
+00:02:48,290 --> 00:02:50,930
+vois ce que je veux dire le socle est un
+
+108
+00:02:49,460 --> 00:02:53,410
+peu cassé mais je pense que c'est
+
+109
+00:02:50,930 --> 00:02:53,410
+réparable
+
+110
+00:02:56,530 --> 00:03:00,410
+tu l'as laissé tombé bêtement
+
+111
+00:02:58,700 --> 00:03:02,000
+s'il a laissé tombé bêtement est ta
+
+112
+00:03:00,410 --> 00:03:03,890
+maison a bêtement briffault c'est du
+
+113
+00:03:02,000 --> 00:03:05,210
+foutage de gueule ça se répare sa se
+
+114
+00:03:03,890 --> 00:03:06,320
+nettoie et roulez jeunesse comme on dira
+
+115
+00:03:05,210 --> 00:03:09,710
+c'est un peu ringarde comme expression
+
+116
+00:03:06,320 --> 00:03:11,780
+mais à à oui c'est super dangereux
+
+117
+00:03:09,710 --> 00:03:13,280
+putain regardait les deux connaissent et
+
+118
+00:03:11,780 --> 00:03:15,230
+hyper dangereux wardell bon on va
+
+119
+00:03:13,280 --> 00:03:17,500
+falloir réparer et sécurisé et ça ça
+
+120
+00:03:15,230 --> 00:03:17,500
+peut se faire
+
+121
+00:03:17,610 --> 00:03:21,540
+donc là mois maxime youtuber je vais
+
+122
+00:03:20,040 --> 00:03:23,970
+réparer un tourne-disque cessa obligé
+
+123
+00:03:21,540 --> 00:03:25,800
+quand même des années 70-80 salut j'ai
+
+124
+00:03:23,970 --> 00:03:27,210
+une mission si tu l'osés accepter même
+
+125
+00:03:25,800 --> 00:03:28,860
+où le fabricant n'arrive pas à l'arrêt
+
+126
+00:03:27,210 --> 00:03:30,840
+par est super c'est une vieille platine
+
+127
+00:03:28,860 --> 00:03:33,600
+qui ne tourne plus il doit y avoir un
+
+128
+00:03:30,840 --> 00:03:36,210
+faux contact au niveau du bouton 33 et
+
+129
+00:03:33,600 --> 00:03:37,230
+45 tours on va la branche ea oui elle
+
+130
+00:03:36,210 --> 00:03:38,430
+s'allume déjà ça s'allume
+
+131
+00:03:37,230 --> 00:03:40,230
+est ce que le diamant est en bon état
+
+132
+00:03:38,430 --> 00:03:41,850
+ferrari c'est comme si le diamant
+
+133
+00:03:40,230 --> 00:03:43,080
+fonctionne on a nos chances
+
+134
+00:03:41,850 --> 00:03:43,980
+et là vous savez quoi je suis confiant
+
+135
+00:03:43,080 --> 00:03:46,340
+je pense c'est juste un petit problème
+
+136
+00:03:43,980 --> 00:03:47,750
+de moteur
+
+137
+00:03:46,340 --> 00:03:50,730
+[Musique]
+
+138
+00:03:47,750 --> 00:03:52,050
+ça va voilà autant faire une pièce de
+
+139
+00:03:50,730 --> 00:03:54,360
+collection salua mix m je m'appelle
+
+140
+00:03:52,050 --> 00:03:56,370
+thomas et je t'envoie ce pot à réparer
+
+141
+00:03:54,360 --> 00:03:58,860
+il fait partie d'un servait super moche
+
+142
+00:03:56,370 --> 00:04:00,209
+que ma copine a hérité d'une tante elle
+
+143
+00:03:58,860 --> 00:04:02,069
+n'a pas encore vu que je les casser
+
+144
+00:04:00,209 --> 00:04:03,660
+j'espère que tu pourras la réparer tu
+
+145
+00:04:02,069 --> 00:04:05,489
+sauverait mon couple ça peut paraître
+
+146
+00:04:03,660 --> 00:04:06,690
+anodin on ne peut pas le jeter c'est pas
+
+147
+00:04:05,489 --> 00:04:08,220
+possible donc on va essayer de ne pas le
+
+148
+00:04:06,690 --> 00:04:10,290
+cas c'est plus et le but c'est de le
+
+149
+00:04:08,220 --> 00:04:11,790
+réparer un point tellement important que
+
+150
+00:04:10,290 --> 00:04:13,230
+la copine de tomates se rendent même pas
+
+151
+00:04:11,790 --> 00:04:14,590
+compte thomas ça va le faire on va
+
+152
+00:04:13,230 --> 00:04:16,329
+réussir
+
+153
+00:04:14,590 --> 00:04:17,739
+alors déjà c'est le genre de casques
+
+154
+00:04:16,329 --> 00:04:19,480
+exactement quand on utilise à la red box
+
+155
+00:04:17,739 --> 00:04:20,859
+pour faire les montages lots maxime je
+
+156
+00:04:19,480 --> 00:04:22,419
+te laisse en garde mon super qu'est-ce
+
+157
+00:04:20,859 --> 00:04:24,340
+qu'il fait un super son mais
+
+158
+00:04:22,419 --> 00:04:25,750
+malheureusement les connectiques au
+
+159
+00:04:24,340 --> 00:04:27,639
+dessus des oreilles ont un
+
+160
+00:04:25,750 --> 00:04:28,990
+dysfonctionnement je te propose donc cet
+
+161
+00:04:27,639 --> 00:04:30,850
+objet précieux pour faire un miracle
+
+162
+00:04:28,990 --> 00:04:32,919
+merci à toi continue comme ça ça lorsque
+
+163
+00:04:30,850 --> 00:04:35,050
+tu fais johan c'est toi c'est mon
+
+164
+00:04:32,919 --> 00:04:36,280
+cadreur demandé c'est pour ça que le son
+
+165
+00:04:35,050 --> 00:04:41,500
+sur mes vidéos c'est de la merde c'est à
+
+166
+00:04:36,280 --> 00:04:42,520
+cause de ça à ça la sas et péter ça par
+
+167
+00:04:41,500 --> 00:04:43,510
+contre ça fait flipper 6 et les deux
+
+168
+00:04:42,520 --> 00:04:44,830
+oreilles qui marchent pas ok on va
+
+169
+00:04:43,510 --> 00:04:45,729
+essayer de réparer sa petite parenthèse
+
+170
+00:04:44,830 --> 00:04:46,780
+tous les objets que je vais recevoir
+
+171
+00:04:45,729 --> 00:04:48,010
+dans cette vidéo soit je vais les
+
+172
+00:04:46,780 --> 00:04:48,940
+restituer à leurs propriétaires pour
+
+173
+00:04:48,010 --> 00:04:49,930
+qu'ils continuent de fonctionner ou
+
+174
+00:04:48,940 --> 00:04:51,340
+alors on va les donner à une association
+
+175
+00:04:49,930 --> 00:04:52,570
+pour qu'ils aient une nouvelle vie voilà
+
+176
+00:04:51,340 --> 00:04:53,889
+on va pas juste les réparer et les
+
+177
+00:04:52,570 --> 00:04:54,160
+laisser mourir sinon ça n'a aucun
+
+178
+00:04:53,889 --> 00:04:56,550
+intérêt
+
+179
+00:04:54,160 --> 00:04:56,550
+voilà c'est dit
+
+180
+00:04:56,979 --> 00:05:04,759
+vous avez des objets pas des pas des
+
+181
+00:04:59,509 --> 00:05:06,289
+immeubles kouam xm je vous présente mon
+
+182
+00:05:04,759 --> 00:05:08,180
+piano il fait partie de ma famille
+
+183
+00:05:06,289 --> 00:05:10,400
+depuis des années va serait moi l'aimons
+
+184
+00:05:08,180 --> 00:05:12,860
+beaucoup malgré le sont nulles et les
+
+185
+00:05:10,400 --> 00:05:14,479
+touches qui marque je n'ai pas encore
+
+186
+00:05:12,860 --> 00:05:16,610
+ouverte ça me fait déjà peur quand on
+
+187
+00:05:14,479 --> 00:05:17,900
+l'a acheté il était désaccordé il
+
+188
+00:05:16,610 --> 00:05:20,470
+manquait quelques touches voilà voilà
+
+189
+00:05:17,900 --> 00:05:20,470
+bon courage
+
+190
+00:05:20,660 --> 00:05:23,889
+[Musique]
+
+191
+00:05:28,750 --> 00:05:32,449
+mais ils manquent pas que des touches il
+
+192
+00:05:30,830 --> 00:05:37,520
+manque des morceaux entiers du piano 500
+
+193
+00:05:32,449 --> 00:05:37,910
+l'église quoi alors là c'est la bonne
+
+194
+00:05:37,520 --> 00:05:38,240
+surprise
+
+195
+00:05:37,910 --> 00:05:44,300
+franchement
+
+196
+00:05:38,240 --> 00:05:46,200
+[Musique]
+
+197
+00:05:44,300 --> 00:05:47,850
+en amour
+
+198
+00:05:46,200 --> 00:05:50,670
+très très important avec les pianos
+
+199
+00:05:47,850 --> 00:05:52,350
+c'est que si la table de résonance et
+
+200
+00:05:50,670 --> 00:05:53,910
+fendue on peut plus rien faire c'est
+
+201
+00:05:52,350 --> 00:05:55,770
+impossible il sonnera toujours faut
+
+202
+00:05:53,910 --> 00:05:56,760
+hélas la table elle est en bon état je
+
+203
+00:05:55,770 --> 00:05:57,720
+fais genre le mec qui me connaît mais
+
+204
+00:05:56,760 --> 00:05:58,890
+c'est parce que ma grand mère elle avait
+
+205
+00:05:57,720 --> 00:06:00,060
+un piano comme ça et la table était
+
+206
+00:05:58,890 --> 00:06:01,830
+fendue il y avait plein en affirmant
+
+207
+00:06:00,060 --> 00:06:02,850
+qu'un fait bon bah c'est juste qu'il
+
+208
+00:06:01,830 --> 00:06:06,300
+faut pas jouer avec des morceaux en
+
+209
+00:06:02,850 --> 00:06:07,350
+farsi j'appuie là ça fait et ba rien du
+
+210
+00:06:06,300 --> 00:06:09,030
+tout puisqu'il n'y a pas de note en tout
+
+211
+00:06:07,350 --> 00:06:10,170
+cas j'ai retrouvé le phare qui vous
+
+212
+00:06:09,030 --> 00:06:11,790
+savez pas à quoi ça ressemble en fait
+
+213
+00:06:10,170 --> 00:06:13,320
+c'est ça enfin camille je vais essayer
+
+214
+00:06:11,790 --> 00:06:14,640
+de réparer ton piano mais quand même
+
+215
+00:06:13,320 --> 00:06:16,230
+quand même y'a du boulot hein mais au
+
+216
+00:06:14,640 --> 00:06:16,710
+moins le joint de culasse et st donc ça
+
+217
+00:06:16,230 --> 00:06:18,060
+c'est important
+
+218
+00:06:16,710 --> 00:06:19,380
+c'est parti pour la phase 2 de cette
+
+219
+00:06:18,060 --> 00:06:20,520
+vidéo c'est à dire la réparation des
+
+220
+00:06:19,380 --> 00:06:22,260
+objets n'oubliez pas vraiment de
+
+221
+00:06:20,520 --> 00:06:23,520
+réfléchir avant d'acheter des objets est
+
+222
+00:06:22,260 --> 00:06:24,300
+ce qu'il n'ya pas trop d'emballage sur
+
+223
+00:06:23,520 --> 00:06:25,710
+l'objet qui est en train d'acheter est
+
+224
+00:06:24,300 --> 00:06:26,640
+ce que c'est vraiment utile
+
+225
+00:06:25,710 --> 00:06:28,140
+est ce que je pourrais pas l'acheter
+
+226
+00:06:26,640 --> 00:06:29,220
+d'occasions quand vous ôtez les objets
+
+227
+00:06:28,140 --> 00:06:30,420
+est ce que je le jette au bon endroit
+
+228
+00:06:29,220 --> 00:06:31,350
+parce que c'est un truc électronique
+
+229
+00:06:30,420 --> 00:06:32,670
+fort ya vraiment plein de choses à
+
+230
+00:06:31,350 --> 00:06:33,810
+penser et toutes les informations de ce
+
+231
+00:06:32,670 --> 00:06:35,880
+que je dis là sont dans la description
+
+232
+00:06:33,810 --> 00:06:37,110
+l'ademe ils ont un lien qu'ils ont mis
+
+233
+00:06:35,880 --> 00:06:38,700
+dans la description qui explique tout ce
+
+234
+00:06:37,110 --> 00:06:40,110
+qu'il faut faire pour pas faire de la
+
+235
+00:06:38,700 --> 00:06:41,700
+merde au niveau consommation c'est
+
+236
+00:06:40,110 --> 00:06:42,870
+vraiment très très important on va bien
+
+237
+00:06:41,700 --> 00:06:44,190
+rigoler mais ce que j'y connais rien à
+
+238
+00:06:42,870 --> 00:06:45,580
+part le piano je suis quand même pas mal
+
+239
+00:06:44,190 --> 00:06:49,320
+dans la merde michel py
+
+240
+00:06:45,580 --> 00:06:49,320
+[Musique]
+
+241
+00:06:49,620 --> 00:06:53,190
+c'est parti on va faire un petit peu de
+
+242
+00:06:51,270 --> 00:06:55,650
+soudure on va souder la chaise jamais
+
+243
+00:06:53,190 --> 00:06:57,210
+c'est tout dire à table sullivan tu m'as
+
+244
+00:06:55,650 --> 00:06:58,740
+envoyé deux chaises et ton pommeau de
+
+245
+00:06:57,210 --> 00:07:00,270
+douche je vais commencer par réparer ces
+
+246
+00:06:58,740 --> 00:07:01,500
+objets on commence avec la chaise je me
+
+247
+00:07:00,270 --> 00:07:03,570
+suis formée en quelques minutes à la
+
+248
+00:07:01,500 --> 00:07:04,889
+soudure où je vais te souder ou picking
+
+249
+00:07:03,570 --> 00:07:06,360
+pied de chaise d'accord donc je suis
+
+250
+00:07:04,889 --> 00:07:08,280
+parti pour la première vraie soudure de
+
+251
+00:07:06,360 --> 00:07:09,990
+ma vie ces partis sullivan tremble avec
+
+252
+00:07:08,280 --> 00:07:11,220
+moi il est possible peut-être que
+
+253
+00:07:09,990 --> 00:07:13,110
+j'arrive à souder le pied mais de
+
+254
+00:07:11,220 --> 00:07:14,880
+manière du latéral de manière peut-être
+
+255
+00:07:13,110 --> 00:07:16,919
+isocèle qui fait que la chaise est un
+
+256
+00:07:14,880 --> 00:07:18,220
+peu voilà un c'est possible on essaye de
+
+257
+00:07:16,919 --> 00:07:24,749
+faire le maximum let's go
+
+258
+00:07:18,220 --> 00:07:24,749
+[Musique]
+
+259
+00:07:28,050 --> 00:07:33,319
+donc c'est parfait sullivan on regarde
+
+260
+00:07:29,849 --> 00:07:33,319
+moi ça va bientôt pouvoir t'assois
+
+261
+00:07:34,610 --> 00:07:42,050
+boulot donc soit tu reprends directement
+
+262
+00:07:37,139 --> 00:07:42,050
+ta soudure soit tu fais le tour ici ok
+
+263
+00:07:42,199 --> 00:07:45,539
+ça l'heure du très bien tenir salaires
+
+264
+00:07:44,460 --> 00:07:46,560
+détenir marcquois je me rends pas compte
+
+265
+00:07:45,539 --> 00:07:47,730
+on va s'asseoir dessus
+
+266
+00:07:46,560 --> 00:07:54,549
+mais bon on va s'asseoir des fripes
+
+267
+00:07:47,730 --> 00:07:54,549
+[Musique]
+
+268
+00:07:55,400 --> 00:08:03,629
+suivent hannetons objets réparé deuxième
+
+269
+00:08:02,219 --> 00:08:05,069
+objet de sullivan le pommeau de douche
+
+270
+00:08:03,629 --> 00:08:06,330
+comment l'at-il casse et c'est ce que
+
+271
+00:08:05,069 --> 00:08:09,469
+nous allons découvrir dans les tutos
+
+272
+00:08:06,330 --> 00:08:09,469
+bricolage dame xm jingle
+
+273
+00:08:11,090 --> 00:08:16,740
+jeudi connaissent pas du tout vu de la
+
+274
+00:08:13,020 --> 00:08:18,270
+vidéo ok je pense que c'est juste sont
+
+275
+00:08:16,740 --> 00:08:20,300
+flexibles n'arrive plus à la tâche et
+
+276
+00:08:18,270 --> 00:08:22,410
+sont flexibles en fait ah oui c'est ça
+
+277
+00:08:20,300 --> 00:08:25,320
+là je suis bien avant c'est parfait
+
+278
+00:08:22,410 --> 00:08:28,350
+écoute mais franchement regardez cette
+
+279
+00:08:25,320 --> 00:08:29,940
+confiance mexique terrible michel dix
+
+280
+00:08:28,350 --> 00:08:31,500
+mois sur le papier c'est beau oui un peu
+
+281
+00:08:29,940 --> 00:08:35,850
+plus loin dans leur forêt je cherchais
+
+282
+00:08:31,500 --> 00:08:37,770
+une panse si ça fuit pas déjà sullivan
+
+283
+00:08:35,850 --> 00:08:40,890
+j'ai réparé ton deuxième objet marche
+
+284
+00:08:37,770 --> 00:08:42,150
+bien l'objet suivante nous allons
+
+285
+00:08:40,890 --> 00:08:43,290
+réparer c'est l'objet de benjamin il
+
+286
+00:08:42,150 --> 00:08:44,610
+s'agit d'une bouilloire alors pas la
+
+287
+00:08:43,290 --> 00:08:46,110
+première qu'à brûler avec sa maison la
+
+288
+00:08:44,610 --> 00:08:47,640
+deuxième qui paraît tout à fait
+
+289
+00:08:46,110 --> 00:08:51,030
+réparable elle est en bon état
+
+290
+00:08:47,640 --> 00:08:52,530
+ouais arias a aussi oublié et il ya le
+
+291
+00:08:51,030 --> 00:08:53,970
+fond finalement de la bouilloire qui
+
+292
+00:08:52,530 --> 00:08:55,770
+n'existe plus ce qui fait que la
+
+293
+00:08:53,970 --> 00:08:57,030
+résistance est à par an ce qui ne
+
+294
+00:08:55,770 --> 00:08:58,380
+m'étonne pas du tout de benjamin quand
+
+295
+00:08:57,030 --> 00:08:59,640
+on voit les tableaux de bee ware et donc
+
+296
+00:08:58,380 --> 00:09:01,440
+on va essayer de recoller ce plastique
+
+297
+00:08:59,640 --> 00:09:01,920
+là là dessus on va déjà testé si elle
+
+298
+00:09:01,440 --> 00:09:03,990
+marche
+
+299
+00:09:01,920 --> 00:09:05,340
+ma mère avait la même en 2004 je sais
+
+300
+00:09:03,990 --> 00:09:10,950
+comment elle fonctionne si ça s'allume
+
+301
+00:09:05,340 --> 00:09:12,780
+c'est que ça marche ou ça chauffe juste
+
+302
+00:09:10,950 --> 00:09:14,100
+benjamin elle fonctionne très bien quand
+
+303
+00:09:12,780 --> 00:09:15,090
+elle est on va aller à lui mais quand l
+
+304
+00:09:14,100 --> 00:09:19,020
+heure où l ai pas lu mais c'est tout
+
+305
+00:09:15,090 --> 00:09:19,530
+avant normalement ça on a entendu un
+
+306
+00:09:19,020 --> 00:09:20,850
+truc
+
+307
+00:09:19,530 --> 00:09:22,380
+bon alors ce qu'on va faire c'est qu'on
+
+308
+00:09:20,850 --> 00:09:22,680
+va utiliser une colle s'appelle de la
+
+309
+00:09:22,380 --> 00:09:25,080
+colle
+
+310
+00:09:22,680 --> 00:09:26,400
+hays it en anglais forte chaleur donc
+
+311
+00:09:25,080 --> 00:09:28,380
+c'est une colle on va en prendre un
+
+312
+00:09:26,400 --> 00:09:31,110
+petit morceau on va la malaxer et on va
+
+313
+00:09:28,380 --> 00:09:32,430
+l'appliquer sous la bouilloire afin de
+
+314
+00:09:31,110 --> 00:09:33,870
+remettre ce bout de plastique ici et
+
+315
+00:09:32,430 --> 00:09:35,250
+lacolle tiendra les fortes chaleurs
+
+316
+00:09:33,870 --> 00:09:36,570
+c'est ça qui est intéressant je me la
+
+317
+00:09:35,250 --> 00:09:37,620
+pète je fais le malin alors que c'est
+
+318
+00:09:36,570 --> 00:09:40,100
+michel qui vient d'expliquer tout ça
+
+319
+00:09:37,620 --> 00:09:40,100
+merci mechri
+
+320
+00:09:40,110 --> 00:09:44,790
+une apparition devant un bon centimètre
+
+321
+00:09:42,990 --> 00:09:47,130
+une bonne tranche de dépôt xi et on
+
+322
+00:09:44,790 --> 00:09:48,660
+n'hésite pas à malaxer pour lui donner
+
+323
+00:09:47,130 --> 00:09:49,589
+la forme qu'on veut j'aimerais quand
+
+324
+00:09:48,660 --> 00:09:51,209
+même essayer de comprendre les
+
+325
+00:09:49,589 --> 00:09:52,410
+circonstances qui ont fait chuter cette
+
+326
+00:09:51,209 --> 00:09:53,670
+théière parce que ça m'a l'air quand
+
+327
+00:09:52,410 --> 00:09:55,260
+même d'être plutôt une bagarre familiale
+
+328
+00:09:53,670 --> 00:09:56,850
+un truc assez violent à quelqu'un qui se
+
+329
+00:09:55,260 --> 00:09:59,250
+les prix sur la gueule michel inspection
+
+330
+00:09:56,850 --> 00:10:00,839
+écoute ça m'a l'air pas mal même écoute
+
+331
+00:09:59,250 --> 00:10:03,060
+ça va tenir sa barge à main sa
+
+332
+00:10:00,839 --> 00:10:04,410
+bouilloire numéro 2 et réparer alors bon
+
+333
+00:10:03,060 --> 00:10:07,769
+tu et à toi et à bientôt pour un
+
+334
+00:10:04,410 --> 00:10:09,120
+prochain tuto bricolage de mm oui
+
+335
+00:10:07,769 --> 00:10:10,320
+mesdames et messieurs cette vidéo sert à
+
+336
+00:10:09,120 --> 00:10:11,820
+ce que le monde aille mieux à ce que
+
+337
+00:10:10,320 --> 00:10:13,500
+nous consommons mieux mais cette vidéo
+
+338
+00:10:11,820 --> 00:10:15,000
+ne sert pas qu'à sauver des objets non
+
+339
+00:10:13,500 --> 00:10:16,620
+elle sert aussi à sauver des couples
+
+340
+00:10:15,000 --> 00:10:18,089
+grâce à l'objet de thomas qui nous a
+
+341
+00:10:16,620 --> 00:10:19,620
+envoyé cette tasse absolument
+
+342
+00:10:18,089 --> 00:10:21,149
+dégueulasse elle est moche elle est
+
+343
+00:10:19,620 --> 00:10:22,589
+dégueulasse j'ai acheté de la colle les
+
+344
+00:10:21,149 --> 00:10:23,880
+bords sont bien épais donc on va essayer
+
+345
+00:10:22,589 --> 00:10:26,760
+de pas mettre de colle à l'intérieur du
+
+346
+00:10:23,880 --> 00:10:28,680
+truc mais ça va se voir ce que tu feras
+
+347
+00:10:26,760 --> 00:10:30,269
+sais que tu lui diras ta copine org il a
+
+348
+00:10:28,680 --> 00:10:32,220
+dû ce fait les dents lave vaisselle oui
+
+349
+00:10:30,269 --> 00:10:33,959
+il a dû se fendit un petit peu oui oui
+
+350
+00:10:32,220 --> 00:10:35,700
+c'est pas ma faute commence avec les
+
+351
+00:10:33,959 --> 00:10:39,180
+premiers veut dire que les gentiment et
+
+352
+00:10:35,700 --> 00:10:41,519
+ça ne se verra pas je dérape à mais qui
+
+353
+00:10:39,180 --> 00:10:42,570
+ce qu'on vend tous pétain surconsommer
+
+354
+00:10:41,519 --> 00:10:44,070
+c'est pas bien parce qu'il ya des choses
+
+355
+00:10:42,570 --> 00:10:45,660
+qui sont réparables mais il ya des
+
+356
+00:10:44,070 --> 00:10:46,949
+choses c'est tellement moche vont
+
+357
+00:10:45,660 --> 00:10:48,870
+gueuler changé non mais quand c'est
+
+358
+00:10:46,949 --> 00:10:49,980
+vraiment trop laid surconsommer pas fait
+
+359
+00:10:48,870 --> 00:10:51,300
+attention à ce que vous achetez à ce que
+
+360
+00:10:49,980 --> 00:10:52,649
+vous jetez là le problème dans ce
+
+361
+00:10:51,300 --> 00:10:54,540
+produit c'était au tout début le
+
+362
+00:10:52,649 --> 00:10:56,070
+problème il ya mieux acheter mieux jeter
+
+363
+00:10:54,540 --> 00:10:57,810
+mais il ya aussi mieux juste concevoir
+
+364
+00:10:56,070 --> 00:10:59,850
+les gens qui font des objets temps c'est
+
+365
+00:10:57,810 --> 00:11:01,560
+de l'art manga s'est dotée du feu qui ne
+
+366
+00:10:59,850 --> 00:11:03,420
+garde qu'un train de dire que tu en vélo
+
+367
+00:11:01,560 --> 00:11:05,329
+je suis moitié en train de dire que s'il
+
+368
+00:11:03,420 --> 00:11:07,260
+est plus beau qu'avant
+
+369
+00:11:05,329 --> 00:11:09,180
+est-ce que je peux avoir ton avis michel
+
+370
+00:11:07,260 --> 00:11:11,519
+thomas c'est pas mal c'est pas mal
+
+371
+00:11:09,180 --> 00:11:13,199
+regarde ça reste un contenant moche mais
+
+372
+00:11:11,519 --> 00:11:14,579
+qui peut contenir du coup du liquide
+
+373
+00:11:13,199 --> 00:11:16,140
+thomas j'ai le plaisir d'annoncer que
+
+374
+00:11:14,579 --> 00:11:17,699
+son objet réparé et que ton couple va
+
+375
+00:11:16,140 --> 00:11:20,220
+survivre parce que ça ne se voit pas du
+
+376
+00:11:17,699 --> 00:11:21,329
+tout suivi à ta copine est regarde n'est
+
+377
+00:11:20,220 --> 00:11:23,620
+pas cassé donc c'est génial
+
+378
+00:11:21,329 --> 00:11:25,790
+allons au parc faire une promenade
+
+379
+00:11:23,620 --> 00:11:27,589
+l'objet suivant que nous devons réparer
+
+380
+00:11:25,790 --> 00:11:29,209
+et le tourne-disque de gens mais le
+
+381
+00:11:27,589 --> 00:11:30,230
+moteur ne tourne pas donc on va le
+
+382
+00:11:29,209 --> 00:11:31,670
+démontrer on va bien voir ce qui se
+
+383
+00:11:30,230 --> 00:11:32,779
+passe ça va être la surprise je sais pas
+
+384
+00:11:31,670 --> 00:11:33,980
+ce qu'il ya dedans j'ai jamais démonter
+
+385
+00:11:32,779 --> 00:11:35,629
+ce genre de truc ainsi je découvre que
+
+386
+00:11:33,980 --> 00:11:37,100
+l'intérieur est dans le même état que la
+
+387
+00:11:35,629 --> 00:11:41,089
+bouilloire cramer et bien on fera pas
+
+388
+00:11:37,100 --> 00:11:42,740
+grand chose rien ne me paraît incohérent
+
+389
+00:11:41,089 --> 00:11:44,329
+dans cette installation toi si tu as
+
+390
+00:11:42,740 --> 00:11:45,620
+fait le test à lever le bras quand tu
+
+391
+00:11:44,329 --> 00:11:46,879
+l'a poussé la diode s'allume et le
+
+392
+00:11:45,620 --> 00:11:47,839
+moteur ne se met pas en route ça veut
+
+393
+00:11:46,879 --> 00:11:49,430
+dire que le bras passe bien
+
+394
+00:11:47,839 --> 00:11:51,379
+l'information qu'il faut tourner contre
+
+395
+00:11:49,430 --> 00:11:53,480
+la formation se perd quelque part le
+
+396
+00:11:51,379 --> 00:11:54,800
+moteur il est volontairement michel m'a
+
+397
+00:11:53,480 --> 00:11:56,300
+demandé de trouver sur internet le
+
+398
+00:11:54,800 --> 00:11:57,350
+manuel du truc et je les trouvais je
+
+399
+00:11:56,300 --> 00:11:58,579
+suis trop content j'ai servi qu'à ça
+
+400
+00:11:57,350 --> 00:12:00,620
+mais je suis content et du coup on a le
+
+401
+00:11:58,579 --> 00:12:02,180
+diagramme exactement finalement la baie
+
+402
+00:12:00,620 --> 00:12:03,829
+le plan de la carte mère du
+
+403
+00:12:02,180 --> 00:12:05,329
+tourne-disque on essaye de voir ce qui
+
+404
+00:12:03,829 --> 00:12:06,800
+bloque à quel moment l'information ne
+
+405
+00:12:05,329 --> 00:12:09,259
+passe pas entre le bouton et le moteur
+
+406
+00:12:06,800 --> 00:12:11,089
+pourquoi ça marche pas on avance petit à
+
+407
+00:12:09,259 --> 00:12:13,040
+petit j'en use a indiqué sur son mot
+
+408
+00:12:11,089 --> 00:12:15,259
+qu'il y avait un problème avec le bouton
+
+409
+00:12:13,040 --> 00:12:16,879
+qui sélectionne le 45 et 33 tours donc
+
+410
+00:12:15,259 --> 00:12:18,559
+pour voir si ça vient du bouton on va
+
+411
+00:12:16,879 --> 00:12:19,970
+les relier est comme ça ça va forcer
+
+412
+00:12:18,559 --> 00:12:21,319
+l'information est comme ça si ça
+
+413
+00:12:19,970 --> 00:12:22,759
+fonctionne ça veut dire que ça vient
+
+414
+00:12:21,319 --> 00:12:23,779
+vraiment du bouton si c'est pas le
+
+415
+00:12:22,759 --> 00:12:26,149
+bouton c'est probablement le
+
+416
+00:12:23,779 --> 00:12:27,470
+microprocesseur qui ici et si c'est ça
+
+417
+00:12:26,149 --> 00:12:28,819
+on est dans la merde
+
+418
+00:12:27,470 --> 00:12:30,709
+vraiment je rappelle qu'il a écrit dans
+
+419
+00:12:28,819 --> 00:12:31,579
+son beau que le fabricant n'a même pas
+
+420
+00:12:30,709 --> 00:12:33,050
+réussi à le réparer
+
+421
+00:12:31,579 --> 00:12:34,399
+c'est à dire que l'entreprise qui a
+
+422
+00:12:33,050 --> 00:12:35,959
+conçu ce truc n'a pas réussi à la
+
+423
+00:12:34,399 --> 00:12:37,309
+réparer donc si on y arrive on est des
+
+424
+00:12:35,959 --> 00:12:39,709
+héros que tu saches que vous voyez ici
+
+425
+00:12:37,309 --> 00:12:41,870
+ses quatre petites têtes des temps je
+
+426
+00:12:39,709 --> 00:12:43,730
+vais chanter ici ici donc je vais faire
+
+427
+00:12:41,870 --> 00:12:46,399
+un raccord d'issia à base de soudure
+
+428
+00:12:43,730 --> 00:12:48,410
+qu'on a tous fait en technologie en 3e b
+
+429
+00:12:46,399 --> 00:12:49,759
+en tout cas on a tous fait des cours de
+
+430
+00:12:48,410 --> 00:12:51,139
+techno on a tous fait des soudures de
+
+431
+00:12:49,759 --> 00:12:53,530
+merde à l'état moi c'était pour
+
+432
+00:12:51,139 --> 00:12:55,300
+fabriquer un porte-clés lumineux whaou
+
+433
+00:12:53,530 --> 00:12:59,050
+[Musique]
+
+434
+00:12:55,300 --> 00:13:01,579
+ça touche pas ça tiens ça tient à lui
+
+435
+00:12:59,050 --> 00:13:03,440
+fier de moi nous avons chanté nous avons
+
+436
+00:13:01,579 --> 00:13:05,720
+forcé finalement électriquement la
+
+437
+00:13:03,440 --> 00:13:07,639
+position 33 tours donc je la positionne
+
+438
+00:13:05,720 --> 00:13:08,959
+en 33 tours que ça vient du mouton est
+
+439
+00:13:07,639 --> 00:13:10,850
+ce que ça ne vient pas du bouton si ça
+
+440
+00:13:08,959 --> 00:13:11,209
+tourne ça venait du bouton et j'en avais
+
+441
+00:13:10,850 --> 00:13:13,040
+raison
+
+442
+00:13:11,209 --> 00:13:14,209
+et le monde entier s'en portera mieux et
+
+443
+00:13:13,040 --> 00:13:15,379
+le black friday c'est de la merde c'est
+
+444
+00:13:14,209 --> 00:13:16,310
+la surconsommation alors arrêtez
+
+445
+00:13:15,379 --> 00:13:21,139
+maintenant d'où la phrase c'est fini
+
+446
+00:13:16,310 --> 00:13:22,939
+c'est parti vous avez pas vu la réaction
+
+447
+00:13:21,139 --> 00:13:25,399
+de philippe et michel derrière mais quoi
+
+448
+00:13:22,939 --> 00:13:26,750
+alors là vraiment je crée pas du tout à
+
+449
+00:13:25,399 --> 00:13:28,129
+fait trop plaisir plus tard et que
+
+450
+00:13:26,750 --> 00:13:30,170
+j'imagine la réaction de gens chez lui
+
+451
+00:13:28,129 --> 00:13:31,639
+tout seul c'est incroyable le fabricant
+
+452
+00:13:30,170 --> 00:13:35,990
+n'a pas réussi tu peux le redire ce
+
+453
+00:13:31,639 --> 00:13:36,920
+blais fabrique 1 n'a pas réussi moi ça
+
+454
+00:13:35,990 --> 00:13:37,459
+va beaucoup trop vite de ce qu'on est en
+
+455
+00:13:36,920 --> 00:13:38,689
+train de croître
+
+456
+00:13:37,459 --> 00:13:40,430
+franchement j'y croyais pas du tout je
+
+457
+00:13:38,689 --> 00:13:41,870
+me suis dit c'est un problème de
+
+458
+00:13:40,430 --> 00:13:45,949
+processeurs match en sont mortes
+
+459
+00:13:41,870 --> 00:13:47,990
+jean cet objet est réparé casque audio
+
+460
+00:13:45,949 --> 00:13:49,670
+ces les casques audio qu'on utilise à la
+
+461
+00:13:47,990 --> 00:13:51,920
+prod pour faire des montages donc dans
+
+462
+00:13:49,670 --> 00:13:53,990
+ce cas ce qu a été monté les meilleures
+
+463
+00:13:51,920 --> 00:13:56,060
+vidéos d'internet à savoir les pires
+
+464
+00:13:53,990 --> 00:13:58,189
+annonces leboncoin épisode 5 les pires
+
+465
+00:13:56,060 --> 00:14:00,380
+mot dans le carnet épisode 8 la crème de
+
+466
+00:13:58,189 --> 00:14:01,100
+la crème a été monté avec ce casque est
+
+467
+00:14:00,380 --> 00:14:02,360
+ce qu'on va leur jeter à la poubelle
+
+468
+00:14:01,100 --> 00:14:05,149
+parce qu'il a un faux contact
+
+469
+00:14:02,360 --> 00:14:06,290
+non effectivement bien vu michel on va
+
+470
+00:14:05,149 --> 00:14:07,880
+déjà testé ce que je ne sais pas
+
+471
+00:14:06,290 --> 00:14:09,019
+exactement le problème qu'il a ok alors
+
+472
+00:14:07,880 --> 00:14:10,759
+là j'ai juste l'oreille gauche qui
+
+473
+00:14:09,019 --> 00:14:12,110
+fonctionne je disais j'ai juste
+
+474
+00:14:10,759 --> 00:14:14,600
+l'oreille de gaulle ce qui fonctionne
+
+475
+00:14:12,110 --> 00:14:16,130
+l'autre nom et je parle trop fort ou pas
+
+476
+00:14:14,600 --> 00:14:18,170
+donc là le rigolo fonctionne aurait
+
+477
+00:14:16,130 --> 00:14:19,130
+droitement vraiment pas du tout ah mais
+
+478
+00:14:18,170 --> 00:14:20,420
+qui marche très bien ce qu'est ce qu'il
+
+479
+00:14:19,130 --> 00:14:21,410
+est juste à le tenir je suis pas tu peux
+
+480
+00:14:20,420 --> 00:14:22,819
+très bien faire ton de montage avec la
+
+481
+00:14:21,410 --> 00:14:23,600
+main gauche et c'est bon très important
+
+482
+00:14:22,819 --> 00:14:24,829
+quand vous êtes un casque audio
+
+483
+00:14:23,600 --> 00:14:25,910
+réfléchissez à quelle marque vous
+
+484
+00:14:24,829 --> 00:14:27,620
+acheter parce qu'il ya des marques si un
+
+485
+00:14:25,910 --> 00:14:29,300
+seul petit faut contacter je change tout
+
+486
+00:14:27,620 --> 00:14:30,800
+le casque et ses mules et ça c'est de la
+
+487
+00:14:29,300 --> 00:14:34,550
+surconsommation tout pourri ça est-ce
+
+488
+00:14:30,800 --> 00:14:35,930
+que ça s'enlève ou pas oui j'ai aux
+
+489
+00:14:34,550 --> 00:14:36,350
+critiques commencent à se démonter des
+
+490
+00:14:35,930 --> 00:14:37,730
+petites idées
+
+491
+00:14:36,350 --> 00:14:39,559
+est ce que je vous ai présenté michel et
+
+492
+00:14:37,730 --> 00:14:41,480
+philippe au final michel qui m'aide
+
+493
+00:14:39,559 --> 00:14:42,920
+énormément depuis le début philippe qui
+
+494
+00:14:41,480 --> 00:14:44,269
+m'aide énormément depuis le début mais
+
+495
+00:14:42,920 --> 00:14:45,470
+compétence s'arrête très vite ils
+
+496
+00:14:44,269 --> 00:14:48,110
+prennent le relais pour pouvoir réparer
+
+497
+00:14:45,470 --> 00:14:49,550
+les objets comme ça vous savez oui c'est
+
+498
+00:14:48,110 --> 00:14:51,319
+vrai ok bon courir soit par là on va
+
+499
+00:14:49,550 --> 00:14:52,959
+faire levier ici michel qui m'a dit ça
+
+500
+00:14:51,319 --> 00:14:54,860
+me sourit
+
+501
+00:14:52,959 --> 00:14:55,879
+c'est juste une fois dans ma vie jouer
+
+502
+00:14:54,860 --> 00:14:57,350
+le dire qu'on a réussi à démonter le
+
+503
+00:14:55,879 --> 00:14:58,309
+casque tout simplement débrancher le cap
+
+504
+00:14:57,350 --> 00:15:00,139
+des haut parleurs qui ne se fait presque
+
+505
+00:14:58,309 --> 00:15:01,399
+jamais ton les autres casques audio et
+
+506
+00:15:00,139 --> 00:15:02,600
+du coup on sait pas si un faux contact
+
+507
+00:15:01,399 --> 00:15:04,370
+dans le haut parleur ou dans le calme
+
+508
+00:15:02,600 --> 00:15:06,300
+donc pour essayer johan faut que tu me
+
+509
+00:15:04,370 --> 00:15:07,530
+files le casque avec lequel tangram tour
+
+510
+00:15:06,300 --> 00:15:09,330
+et pour ton retour sont puisque c'est le
+
+511
+00:15:07,530 --> 00:15:11,010
+même et on va prendre tes haut parleurs
+
+512
+00:15:09,330 --> 00:15:12,450
+brancher le câble pour voir d'où le
+
+513
+00:15:11,010 --> 00:15:14,160
+problème via que tu me files et on casse
+
+514
+00:15:12,450 --> 00:15:15,870
+que s'il te plait merci le test c'est
+
+515
+00:15:14,160 --> 00:15:19,110
+maintenant je lance plastic bertrand et
+
+516
+00:15:15,870 --> 00:15:19,920
+ça ne fonctionne du tout à temps qu'est
+
+517
+00:15:19,110 --> 00:15:21,840
+ce que j'ai fait de mal
+
+518
+00:15:19,920 --> 00:15:24,030
+et oui alors là tiens je t'ai réparer
+
+519
+00:15:21,840 --> 00:15:25,980
+ton casque non merci bon courage
+
+520
+00:15:24,030 --> 00:15:28,110
+on va déjà testé les haut parleurs dont
+
+521
+00:15:25,980 --> 00:15:29,760
+tu coûtes là on est avec le bon câble et
+
+522
+00:15:28,110 --> 00:15:32,190
+les mauvais haut parleurs les haut
+
+523
+00:15:29,760 --> 00:15:36,720
+parleurs suspicieux attention ça plane
+
+524
+00:15:32,190 --> 00:15:37,860
+pour toi joël le coupable était le câble
+
+525
+00:15:36,720 --> 00:15:43,980
+est numéro 2
+
+526
+00:15:37,860 --> 00:15:46,320
+bové câble bons écouteurs ça marche
+
+527
+00:15:43,980 --> 00:15:47,850
+la pièce qui était responsable de toute
+
+528
+00:15:46,320 --> 00:15:48,270
+cette merde c'est là cette petite pièce
+
+529
+00:15:47,850 --> 00:15:49,950
+blanche
+
+530
+00:15:48,270 --> 00:15:51,240
+elle vient écraser les fils qui sont en
+
+531
+00:15:49,950 --> 00:15:52,740
+dessous et du coup elle fait que le
+
+532
+00:15:51,240 --> 00:15:54,960
+contact se passe bien sauf que si elle
+
+533
+00:15:52,740 --> 00:15:56,670
+n'est pas bien miser basse et la teste
+
+534
+00:15:54,960 --> 00:16:02,040
+finale après identification du problème
+
+535
+00:15:56,670 --> 00:16:03,540
+et réparation pas trop contactez johanne
+
+536
+00:16:02,040 --> 00:16:04,800
+jégo forcé j'ai beau faire n'importe
+
+537
+00:16:03,540 --> 00:16:06,030
+quoi que je ne retrouve pas le faux
+
+538
+00:16:04,800 --> 00:16:09,250
+contact de tout à l'heure c'est un
+
+539
+00:16:06,030 --> 00:16:11,500
+nouvel objet réparer
+
+540
+00:16:09,250 --> 00:16:13,600
+la pièce maîtresse de cette vidéo le
+
+541
+00:16:11,500 --> 00:16:14,710
+piano guillet dans un état d'asie alors
+
+542
+00:16:13,600 --> 00:16:16,450
+on va pas se mentir
+
+543
+00:16:14,710 --> 00:16:18,010
+le gros problème sur ce piano c'est
+
+544
+00:16:16,450 --> 00:16:19,720
+qu'il manque une touche va geler dans la
+
+545
+00:16:18,010 --> 00:16:23,140
+main sac et bien et on va essayer de la
+
+546
+00:16:19,720 --> 00:16:25,510
+remettre paf on découvre le piano un
+
+547
+00:16:23,140 --> 00:16:27,250
+petit coup d'un cordage et c'est très
+
+548
+00:16:25,510 --> 00:16:28,540
+bien mais ça me fait trop plaisir de
+
+549
+00:16:27,250 --> 00:16:30,430
+voir un internaute sous cet angle là le
+
+550
+00:16:28,540 --> 00:16:31,690
+marteau en lui même de cette touche là
+
+551
+00:16:30,430 --> 00:16:32,890
+il marche très bien parce qu'il est là
+
+552
+00:16:31,690 --> 00:16:33,850
+et d'ailleurs on va la faire sonner
+
+553
+00:16:32,890 --> 00:16:36,460
+cette note
+
+554
+00:16:33,850 --> 00:16:37,780
+safa ça marche en là le fallait ça c'est
+
+555
+00:16:36,460 --> 00:16:39,310
+plus importants ceux ci avaient pas les
+
+556
+00:16:37,780 --> 00:16:39,610
+cordes c'était baiser on rentre à la
+
+557
+00:16:39,310 --> 00:16:42,910
+maison
+
+558
+00:16:39,610 --> 00:16:44,320
+d'accord ou alors là par contre je dis
+
+559
+00:16:42,910 --> 00:16:46,630
+ça les mains dans les poches du wat
+
+560
+00:16:44,320 --> 00:16:49,380
+robien le bricolage je vais vous jouez
+
+561
+00:16:46,630 --> 00:16:49,380
+la mort de chopin
+
+562
+00:16:51,510 --> 00:16:54,730
+après voilà je fais aussi des écoles de
+
+563
+00:16:53,860 --> 00:16:56,200
+musique et le conservatoire
+
+564
+00:16:54,730 --> 00:16:58,090
+donc on a sorti la table du piano
+
+565
+00:16:56,200 --> 00:17:01,120
+d'accord il a on voit bien et la hat a
+
+566
+00:16:58,090 --> 00:17:02,800
+bossé dur donc tu vois la pareille à
+
+567
+00:17:01,120 --> 00:17:05,130
+côté donc bien celle là donc on va en
+
+568
+00:17:02,800 --> 00:17:05,130
+prendre une
+
+569
+00:17:05,370 --> 00:17:09,220
+voilà le coupable tout un piano et
+
+570
+00:17:07,660 --> 00:17:10,400
+foires et juste pour une petite pièce de
+
+571
+00:17:09,220 --> 00:17:11,640
+merde comme ça en fumée à l'intérieur
+
+572
+00:17:10,400 --> 00:17:13,690
+[Musique]
+
+573
+00:17:11,640 --> 00:17:17,130
+[Applaudissements]
+
+574
+00:17:13,690 --> 00:17:18,430
+[Musique]
+
+575
+00:17:17,130 --> 00:17:25,110
+[Applaudissements]
+
+576
+00:17:18,430 --> 00:17:25,110
+au clair de la lune ne mon ami pierrot
+
+577
+00:17:25,680 --> 00:17:29,620
+pourquoi tu commenceras h quand ça va
+
+578
+00:17:27,910 --> 00:17:30,700
+faire un rectangle de la dague de sang
+
+579
+00:17:29,620 --> 00:17:31,900
+alors moi je suis pas d'accord j'ai
+
+580
+00:17:30,700 --> 00:17:34,120
+commencé par faire la reynière parce
+
+581
+00:17:31,900 --> 00:17:35,980
+qu'une fois que ton petit pièce la feta
+
+582
+00:17:34,120 --> 00:17:36,550
+petit commerçant me défoncer je vois ce
+
+583
+00:17:35,980 --> 00:17:37,780
+que tu veux dire
+
+584
+00:17:36,550 --> 00:17:39,310
+là vous voulez me laisser utiliser une
+
+585
+00:17:37,780 --> 00:17:40,660
+défonceuse césar la petite rue qu'elle
+
+586
+00:17:39,310 --> 00:17:42,520
+tombe vite elle va manger dans le born
+
+587
+00:17:40,660 --> 00:17:51,060
+swinguer et donc on va passer tout le
+
+588
+00:17:42,520 --> 00:17:53,450
+mois jusqu'à la côte est a à
+
+589
+00:17:51,060 --> 00:17:55,070
+[Applaudissements]
+
+590
+00:17:53,450 --> 00:17:57,289
+ce que j'ai fait là après j'ai fait
+
+591
+00:17:55,070 --> 00:17:59,090
+droit après jc whaou donc on va garder
+
+592
+00:17:57,289 --> 00:18:00,529
+juste le truc du milieu ça va donner des
+
+593
+00:17:59,090 --> 00:18:01,820
+coups de scie et au fur et à mesure que
+
+594
+00:18:00,529 --> 00:18:02,809
+tu donnes un outil que tu avances qu'il
+
+595
+00:18:01,820 --> 00:18:05,690
+ait un coût de 6 pour enlever de la
+
+596
+00:18:02,809 --> 00:18:06,840
+matière soient ses doigts oui
+
+597
+00:18:05,690 --> 00:18:08,360
+[Musique]
+
+598
+00:18:06,840 --> 00:18:10,930
+[Applaudissements]
+
+599
+00:18:08,360 --> 00:18:12,730
+[Musique]
+
+600
+00:18:10,930 --> 00:18:14,680
+je suis assez fier de moi on va pas se
+
+601
+00:18:12,730 --> 00:18:18,429
+mentir
+
+602
+00:18:14,680 --> 00:18:21,039
+[Applaudissements]
+
+603
+00:18:18,429 --> 00:18:22,210
+six excellents je suis super content
+
+604
+00:18:21,039 --> 00:18:23,529
+qu'ils avaient la faisait messieurs là
+
+605
+00:18:22,210 --> 00:18:25,149
+c'est vraiment compliqué on en train de
+
+606
+00:18:23,529 --> 00:18:26,980
+faire exactement cette pièce là dans ce
+
+607
+00:18:25,149 --> 00:18:28,389
+morceau de bois donc là si on la met là
+
+608
+00:18:26,980 --> 00:18:34,179
+eh ben on commence à boire
+
+609
+00:18:28,389 --> 00:18:35,350
+ça ressemble un petit peu on est
+
+610
+00:18:34,179 --> 00:18:37,869
+d'accord que c'est quand même le moment
+
+611
+00:18:35,350 --> 00:18:39,470
+dont on peut tout niquer la wii je ferai
+
+612
+00:18:37,869 --> 00:18:44,540
+pas michel mees
+
+613
+00:18:39,470 --> 00:18:46,850
+[Musique]
+
+614
+00:18:44,540 --> 00:18:48,380
+alors est ce que j'ai fait c'est bon
+
+615
+00:18:46,850 --> 00:18:50,290
+c'est bon je crois qu'on va le finir en
+
+616
+00:18:48,380 --> 00:18:53,000
+ponçage
+
+617
+00:18:50,290 --> 00:18:54,890
+non mais sérieusement j'ai rejoint enfin
+
+618
+00:18:53,000 --> 00:18:56,540
+de la sculpture je le dis ça c'est la
+
+619
+00:18:54,890 --> 00:18:58,130
+pièce de base la pièce qui est coupable
+
+620
+00:18:56,540 --> 00:18:59,780
+du fait que ce feu kim canaux de marche
+
+621
+00:18:58,130 --> 00:19:01,100
+pas et ça c'est la pièce qu'on a usiné à
+
+622
+00:18:59,780 --> 00:19:02,630
+partir d'un bout de bois qui étaient à
+
+623
+00:19:01,100 --> 00:19:03,320
+peu près trois fois plus gros que ça je
+
+624
+00:19:02,630 --> 00:19:07,280
+trouve ça incroyable
+
+625
+00:19:03,320 --> 00:19:08,840
+donc ça passe du tonnerre quelle
+
+626
+00:19:07,280 --> 00:19:10,460
+satisfaction c'est la même satisfaction
+
+627
+00:19:08,840 --> 00:19:11,570
+pour quand on a réparé l'oeuf le king
+
+628
+00:19:10,460 --> 00:19:13,430
+torresi c'est en fait tu te rends compte
+
+629
+00:19:11,570 --> 00:19:15,050
+à quel point juste ça c'est c'est
+
+630
+00:19:13,430 --> 00:19:17,210
+tellement de travail ce truc de merde
+
+631
+00:19:15,050 --> 00:19:19,220
+imagine ce putain de piano de a à z
+
+632
+00:19:17,210 --> 00:19:20,660
+quand l'artisan il a fini de le
+
+633
+00:19:19,220 --> 00:19:21,650
+construire et qu'ils le vent me l'a même
+
+634
+00:19:20,660 --> 00:19:23,300
+pas envie de le vendre en fait qu
+
+635
+00:19:21,650 --> 00:19:24,520
+importe le prix c'est beaucoup trop de
+
+636
+00:19:23,300 --> 00:19:28,300
+travail
+
+637
+00:19:24,520 --> 00:19:28,300
+merci beaucoup et j'espère que ça passe
+
+638
+00:19:29,460 --> 00:19:32,809
+[Musique]
+
+639
+00:19:33,810 --> 00:19:37,330
+tu te rappelles quand je te disais que
+
+640
+00:19:35,740 --> 00:19:38,890
+j'avais passé d'une journée à faire ça
+
+641
+00:19:37,330 --> 00:19:40,390
+s'imagine finalement ma journée c'est
+
+642
+00:19:38,890 --> 00:19:42,190
+maxime qu'est ce que tu as fait j'ai vu
+
+643
+00:19:40,390 --> 00:19:43,840
+ces deux pièces en bois cassé ça
+
+644
+00:19:42,190 --> 00:19:44,860
+constitue ma journée en fait je suis
+
+645
+00:19:43,840 --> 00:19:46,360
+dégoûté laisse pas grave on va pouvoir
+
+646
+00:19:44,860 --> 00:19:47,950
+la recoller c'est pas le haut de la
+
+647
+00:19:46,360 --> 00:19:49,420
+pièce qui nous intéresse c'est le bas de
+
+648
+00:19:47,950 --> 00:19:50,860
+la pièce il faut juste que tu sembles
+
+649
+00:19:49,420 --> 00:19:54,430
+trou de celui là une fois qui semble
+
+650
+00:19:50,860 --> 00:19:56,590
+trop de celui-là c'est donc très bon à
+
+651
+00:19:54,430 --> 00:19:58,330
+l'intérieur je le regarde comme si beau
+
+652
+00:19:56,590 --> 00:19:59,800
+regarder ce mouvement de bascule qui
+
+653
+00:19:58,330 --> 00:20:02,220
+n'avait pas eu lieu depuis sûrement des
+
+654
+00:19:59,800 --> 00:20:07,240
+dizaines d'années dans ce piano
+
+655
+00:20:02,220 --> 00:20:09,710
+[Musique]
+
+656
+00:20:07,240 --> 00:20:10,970
+nous sommes quelques jours après ce que
+
+657
+00:20:09,710 --> 00:20:12,140
+vous venez de voir la colle qui a été
+
+658
+00:20:10,970 --> 00:20:13,669
+posé sur la pièce du piano qu'on a
+
+659
+00:20:12,140 --> 00:20:15,020
+réparé a eu le temps de sécher on n'a
+
+660
+00:20:13,669 --> 00:20:17,120
+pas essayé du tout le piano sophie
+
+661
+00:20:15,020 --> 00:20:18,559
+jordan jordan je vais pas prévenu qu on
+
+662
+00:20:17,120 --> 00:20:19,970
+avait ramené le piano la red box et il
+
+663
+00:20:18,559 --> 00:20:21,169
+fallait surtout pas en jouer car la
+
+664
+00:20:19,970 --> 00:20:22,340
+colle est en train de sécher et qu'est
+
+665
+00:20:21,169 --> 00:20:24,559
+ce que j'ai entendu j'entends quelqu'un
+
+666
+00:20:22,340 --> 00:20:25,820
+qui fait lalalalala sur le piano je me
+
+667
+00:20:24,559 --> 00:20:27,110
+sent honteux qu'il a joué toutes les
+
+668
+00:20:25,820 --> 00:20:29,059
+notes peut-être qu'il a caché la fameuse
+
+669
+00:20:27,110 --> 00:20:30,679
+note incriminé le fameux femme si c'est
+
+670
+00:20:29,059 --> 00:20:32,450
+ma faute je leur ai paraît pas je peux
+
+671
+00:20:30,679 --> 00:20:34,040
+rappeler les faits mercredi 16h temps
+
+672
+00:20:32,450 --> 00:20:35,330
+nuageux à météo un peu d'influencé sur
+
+673
+00:20:34,040 --> 00:20:36,410
+le sco va c'est pour poser le cadre pas
+
+674
+00:20:35,330 --> 00:20:37,309
+besoin d'être posée ce que c'est johan
+
+675
+00:20:36,410 --> 00:20:38,929
+qu'il tient le cap horn
+
+676
+00:20:37,309 --> 00:20:40,880
+ces excellents sa loi je rappelle les
+
+677
+00:20:38,929 --> 00:20:42,320
+faits c'était tout à tout à tout à tout
+
+678
+00:20:40,880 --> 00:20:44,120
+à tout atteindrait doc est bien le
+
+679
+00:20:42,320 --> 00:20:46,250
+fandom vraiment appuyé sur le fasse chez
+
+680
+00:20:44,120 --> 00:20:47,660
+joué que trois trucs pour est heureuse
+
+681
+00:20:46,250 --> 00:20:49,040
+tu vas jouer la même chose et moi allons
+
+682
+00:20:47,660 --> 00:20:50,170
+voir ensemble si t'as qu'à s'il va ou
+
+683
+00:20:49,040 --> 00:20:52,330
+pas allez c'est parti
+
+684
+00:20:50,170 --> 00:20:54,169
+[Musique]
+
+685
+00:20:52,330 --> 00:20:55,669
+oui il est pas cassé
+
+686
+00:20:54,169 --> 00:20:57,080
+n'ont ils pas casser le piano remarche
+
+687
+00:20:55,669 --> 00:20:59,000
+il est réparée c'est un nouvel objet
+
+688
+00:20:57,080 --> 00:21:01,510
+réparer morceaux pour célébrer la
+
+689
+00:20:59,000 --> 00:21:01,510
+réparation
+
+690
+00:21:05,510 --> 00:21:11,340
+trait au bout de la nuit
+
+691
+00:21:08,100 --> 00:21:11,340
+[Musique]
+
+692
+00:21:12,080 --> 00:21:17,040
+à bientôt dams et messieurs c'est la fin
+
+693
+00:21:14,610 --> 00:21:18,300
+de cette vidéo on a réparé la majorité
+
+694
+00:21:17,040 --> 00:21:19,650
+des objets c'est vraiment plaisir c'est
+
+695
+00:21:18,300 --> 00:21:21,210
+une façon de vous parler du coût de la
+
+696
+00:21:19,650 --> 00:21:22,560
+surconsommation de tous les sujets qu'on
+
+697
+00:21:21,210 --> 00:21:24,600
+a abordé dans la vidéo comme c'est un
+
+698
+00:21:22,560 --> 00:21:26,130
+petit peu long à expliquer moi je vous
+
+699
+00:21:24,600 --> 00:21:27,810
+ai fait une petite voix off on va vous
+
+700
+00:21:26,130 --> 00:21:29,280
+la diffuser maintenant à l'aide d'un
+
+701
+00:21:27,810 --> 00:21:30,600
+montage de type vidéo
+
+702
+00:21:29,280 --> 00:21:32,580
+j'espère que cette vidéo vous a plu
+
+703
+00:21:30,600 --> 00:21:34,290
+petite voix off de faim de retour à la
+
+704
+00:21:32,580 --> 00:21:36,270
+red box avec une petite tisane et voix
+
+705
+00:21:34,290 --> 00:21:37,470
+suave ou simplement vous encourager
+
+706
+00:21:36,270 --> 00:21:38,970
+vraiment à donner une seconde vie à vos
+
+707
+00:21:37,470 --> 00:21:40,110
+objets c'est super important avant de
+
+708
+00:21:38,970 --> 00:21:41,100
+les jeter réfléchissez ce qu'il est
+
+709
+00:21:40,110 --> 00:21:42,390
+réparable et ce qui peut avoir une
+
+710
+00:21:41,100 --> 00:21:42,780
+seconde vie avant que qu'ils finissent à
+
+711
+00:21:42,390 --> 00:21:43,710
+la poubelle
+
+712
+00:21:42,780 --> 00:21:45,360
+et comme vous l'avez vu dans la vidéo
+
+713
+00:21:43,710 --> 00:21:46,470
+finale ya plein d'objets sont facilement
+
+714
+00:21:45,360 --> 00:21:48,480
+réparable il n'y a pas besoin d'être un
+
+715
+00:21:46,470 --> 00:21:50,550
+ingénieur de la nasa donc si vous êtes
+
+716
+00:21:48,480 --> 00:21:51,810
+le père bricoleur comme moi n'hésitez
+
+717
+00:21:50,550 --> 00:21:53,070
+pas à aller dans des ressourceries oui
+
+718
+00:21:51,810 --> 00:21:54,420
+ça s'appelle comme ça et vous réparez
+
+719
+00:21:53,070 --> 00:21:56,310
+vous même vos objets vous avez du
+
+720
+00:21:54,420 --> 00:21:57,840
+matériel à disposition des conseils des
+
+721
+00:21:56,310 --> 00:21:58,920
+gens sympas une bonne ambiance après
+
+722
+00:21:57,840 --> 00:22:00,270
+c'est pas toujours philippe et michel
+
+723
+00:21:58,920 --> 00:22:01,650
+qui sont là pour s'occuper de vous
+
+724
+00:22:00,270 --> 00:22:03,090
+partout en france et bahia le même
+
+725
+00:22:01,650 --> 00:22:04,350
+système et c'est vraiment super stylé
+
+726
+00:22:03,090 --> 00:22:05,730
+même si vous n'arrivez pas à réparer un
+
+727
+00:22:04,350 --> 00:22:07,140
+objet depuis toujours le transformer
+
+728
+00:22:05,730 --> 00:22:08,760
+vous pouvez toujours le customiser vous
+
+729
+00:22:07,140 --> 00:22:10,080
+pouvez faire une bouilloire tuning avec
+
+730
+00:22:08,760 --> 00:22:11,430
+des flammes sur les côtés votre
+
+731
+00:22:10,080 --> 00:22:12,780
+imagination et la seule limite ya
+
+732
+00:22:11,430 --> 00:22:14,190
+toujours possibilité de donner une
+
+733
+00:22:12,780 --> 00:22:16,260
+seconde vie à un objet avant de le jeter
+
+734
+00:22:14,190 --> 00:22:16,620
+sera facile et pas chère de sauver tout
+
+735
+00:22:16,260 --> 00:22:18,780
+simplement
+
+736
+00:22:16,620 --> 00:22:19,860
+soyez des super-héros sauver vos objets
+
+737
+00:22:18,780 --> 00:22:21,120
+je vous dis à bientôt une prochaine
+
+738
+00:22:19,860 --> 00:22:25,190
+vidéo merci d'avoir gardé jusqu'au bout
+
+739
+00:22:21,120 --> 00:22:25,190
+c'était amy c'est bouscat vida

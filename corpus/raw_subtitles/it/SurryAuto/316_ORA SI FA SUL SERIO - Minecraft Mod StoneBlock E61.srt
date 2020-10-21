@@ -1,0 +1,2023 @@
+1
+00:00:00,000 --> 00:00:03,360
+siamo tutti caciotti avvenuti in questo
+
+2
+00:00:01,439 --> 00:00:04,920
+nuovissimo video della stone block della
+
+3
+00:00:03,360 --> 00:00:06,210
+serie delle sette siamo qui nel mega
+
+4
+00:00:04,920 --> 00:00:08,340
+pollaio che ancora un work in progress
+
+5
+00:00:06,210 --> 00:00:10,980
+come ti ho completato da parete e da
+
+6
+00:00:08,340 --> 00:00:12,840
+colucci che però voglio mettere un
+
+7
+00:00:10,980 --> 00:00:15,599
+attimo da parte il tutto perchè ho paura
+
+8
+00:00:12,840 --> 00:00:18,390
+di non avere abbastanza memoria nei miei
+
+9
+00:00:15,599 --> 00:00:20,850
+i drive per gestire tutte le cose che
+
+10
+00:00:18,390 --> 00:00:22,020
+verranno generate quindi ho messo un
+
+11
+00:00:20,850 --> 00:00:25,109
+attimo in pausa per appunto questa
+
+12
+00:00:22,020 --> 00:00:27,300
+stanza perché voglio andare a creare dei
+
+13
+00:00:25,109 --> 00:00:30,510
+super dry poi metterci dentro le cose
+
+14
+00:00:27,300 --> 00:00:31,500
+quelle cattive nulla 256k di più allora
+
+15
+00:00:30,510 --> 00:00:33,300
+se io da vedere
+
+16
+00:00:31,500 --> 00:00:35,880
+lo storage avevo già cercato lo storage
+
+17
+00:00:33,300 --> 00:00:38,040
+components il massimo che si può
+
+18
+00:00:35,880 --> 00:00:41,910
+ottenere è il 4 mil
+
+19
+00:00:38,040 --> 00:00:45,930
+il 16 mila se vi sono 16 milioni in una
+
+20
+00:00:41,910 --> 00:00:47,340
+storia sel però è un po costosa diciamo
+
+21
+00:00:45,930 --> 00:00:50,309
+16 milioni non sono pochi
+
+22
+00:00:47,340 --> 00:00:51,960
+tra l'altro bisogna capire se in questi
+
+23
+00:00:50,309 --> 00:00:53,820
+sedici milioni storage con ponte nella
+
+24
+00:00:51,960 --> 00:00:58,020
+scuola io posso fare questo venissero
+
+25
+00:00:53,820 --> 00:00:59,789
+sempre comunque 63 item times usati
+
+26
+00:00:58,020 --> 00:01:02,460
+quindi bisogna vedere forse non conviene
+
+27
+00:00:59,789 --> 00:01:05,760
+neanche fare questo qua da 16 milioni
+
+28
+00:01:02,460 --> 00:01:08,640
+perché se ci mette un botto di roba ma
+
+29
+00:01:05,760 --> 00:01:10,049
+massimo 60 tre tipi di oggetto
+
+30
+00:01:08,640 --> 00:01:12,960
+quindi è comunque limitato forse
+
+31
+00:01:10,049 --> 00:01:16,259
+conviene farne diversi da 250 forse da
+
+32
+00:01:12,960 --> 00:01:18,650
+276 a casa il flusso l'ideale o forse lo
+
+33
+00:01:16,259 --> 00:01:21,420
+stress successivo che su quelli da 1.024
+
+34
+00:01:18,650 --> 00:01:23,040
+simile 24 ci serve 41 davanti a sé ma
+
+35
+00:01:21,420 --> 00:01:24,960
+vedete il problema è sempre quello che
+
+36
+00:01:23,040 --> 00:01:27,240
+il tipo i tipi di oggetti che può
+
+37
+00:01:24,960 --> 00:01:29,700
+inserire sono sempre massimo 63 per
+
+38
+00:01:27,240 --> 00:01:31,710
+storage componente e il problema vero è
+
+39
+00:01:29,700 --> 00:01:35,189
+che se tipo inserisco il termine a
+
+40
+00:01:31,710 --> 00:01:38,310
+bottle occupa un tipo quindi funziona
+
+41
+00:01:35,189 --> 00:01:40,500
+tanto bene con le quantità grosse degli
+
+42
+00:01:38,310 --> 00:01:43,710
+stessi tipi di oggetti ma per metterci
+
+43
+00:01:40,500 --> 00:01:46,560
+tutta la roba che hai a un po complicato
+
+44
+00:01:43,710 --> 00:01:49,950
+allora a questo punto io ho creato i
+
+45
+00:01:46,560 --> 00:01:55,500
+pattern per generare tutti ma proprio
+
+46
+00:01:49,950 --> 00:01:57,180
+tutti tutti questo caso cioè il lo
+
+47
+00:01:55,500 --> 00:02:00,030
+storage sel quando in realtà non serviva
+
+48
+00:01:57,180 --> 00:02:03,240
+però va bene sono tutti i tipi di
+
+49
+00:02:00,030 --> 00:02:06,000
+storage arrivando a questo qua di 496 ma
+
+50
+00:02:03,240 --> 00:02:10,379
+non solo sopra ho inserito anche quello
+
+51
+00:02:06,000 --> 00:02:12,120
+da 16 16 mila k ciò è da 16 milioni
+
+52
+00:02:10,379 --> 00:02:13,470
+non lo faremo probabilmente mai però mi
+
+53
+00:02:12,120 --> 00:02:17,760
+piaceva l'idea di poter venire
+
+54
+00:02:13,470 --> 00:02:20,400
+qui cercare crown crafting ma storage e
+
+55
+00:02:17,760 --> 00:02:22,020
+vedere disponibile questo qui vedere
+
+56
+00:02:20,400 --> 00:02:25,380
+cosa serviva per captarle mi servono
+
+57
+00:02:22,020 --> 00:02:28,020
+2000 logic processor 6.000 certus
+
+58
+00:02:25,380 --> 00:02:30,900
+crystal che non so dove trovare
+
+59
+00:02:28,020 --> 00:02:34,650
+sinceramente l'unica e automatizzare di
+
+60
+00:02:30,900 --> 00:02:37,410
+nuovo un suv con la dust chef mettono
+
+61
+00:02:34,650 --> 00:02:41,940
+generatore di dust che poi aveva a dare
+
+62
+00:02:37,410 --> 00:02:44,040
+il quartz crystal qui lachance è 10 per
+
+63
+00:02:41,940 --> 00:02:45,180
+cento circa quindi uno ogni dieci mi da
+
+64
+00:02:44,040 --> 00:02:46,650
+un pezzo
+
+65
+00:02:45,180 --> 00:02:48,720
+a quel punto forse si può fare una cosa
+
+66
+00:02:46,650 --> 00:02:51,209
+superfiga con le visive
+
+67
+00:02:48,720 --> 00:02:52,620
+però insomma capite che comunque si
+
+68
+00:02:51,209 --> 00:02:54,660
+parla comunque di avere tantissime
+
+69
+00:02:52,620 --> 00:02:56,490
+tantissime robe l'alternativa visto che
+
+70
+00:02:54,660 --> 00:02:58,080
+le lim si è molto basso in realtà e ad
+
+71
+00:02:56,490 --> 00:02:59,610
+usare a tradurre shaun table ma quello
+
+72
+00:02:58,080 --> 00:03:02,130
+un attimino è messo da parte perché
+
+73
+00:02:59,610 --> 00:03:04,650
+vibrate la station table serve della
+
+74
+00:03:02,130 --> 00:03:06,600
+roba che io potenzialmente al momento
+
+75
+00:03:04,650 --> 00:03:09,750
+non era abbastanza mio di non poter fare
+
+76
+00:03:06,600 --> 00:03:11,700
+tutto è abbastanza prima c'è anzi perché
+
+77
+00:03:09,750 --> 00:03:14,250
+poi bisogna fare anche il superbollo
+
+78
+00:03:11,700 --> 00:03:15,390
+della morte va a fan galastro pollo
+
+79
+00:03:14,250 --> 00:03:19,530
+allora io direi che possiamo iniziare
+
+80
+00:03:15,390 --> 00:03:22,200
+dal creare il presupposto per cui io
+
+81
+00:03:19,530 --> 00:03:25,290
+posso automatizzare il crafting di
+
+82
+00:03:22,200 --> 00:03:27,269
+perlomeno ingegneri un processo logic
+
+83
+00:03:25,290 --> 00:03:30,269
+processor e falco nation processor ok
+
+84
+00:03:27,269 --> 00:03:32,370
+sono cose semplici ma ne abbiamo bisogno
+
+85
+00:03:30,269 --> 00:03:34,590
+perché non posso mettermi io a mano ogni
+
+86
+00:03:32,370 --> 00:03:35,850
+volta a farlo quindi io mi sono
+
+87
+00:03:34,590 --> 00:03:38,670
+svegliato un po nel mio mondo in
+
+88
+00:03:35,850 --> 00:03:41,580
+creative che ho creato per sperimentare
+
+89
+00:03:38,670 --> 00:03:43,290
+con un po di strumenti macchinari mi
+
+90
+00:03:41,580 --> 00:03:45,810
+sono messo lì e ho provato a vedere un
+
+91
+00:03:43,290 --> 00:03:47,700
+po di cose quando tu inserisci le cose
+
+92
+00:03:45,810 --> 00:03:49,590
+va bene nel senso che mette un interface
+
+93
+00:03:47,700 --> 00:03:51,299
+e collego con le auto crafting non alla
+
+94
+00:03:49,590 --> 00:03:53,880
+grande e mette tutto mette anche le
+
+95
+00:03:51,299 --> 00:03:56,910
+presse e funziona alla grande il vero
+
+96
+00:03:53,880 --> 00:03:58,470
+problema è quando finisce perché io per
+
+97
+00:03:56,910 --> 00:04:00,840
+rimuovere le cose bisogno di un import
+
+98
+00:03:58,470 --> 00:04:03,540
+basse che quindi prende da qui e importa
+
+99
+00:04:00,840 --> 00:04:05,040
+nel sistema però non mi rimuove poi le
+
+100
+00:04:03,540 --> 00:04:08,370
+cose sono presente qui quindi devo
+
+101
+00:04:05,040 --> 00:04:11,010
+creare cinque advanced iss khyber 4 ad
+
+102
+00:04:08,370 --> 00:04:13,769
+usare con le presse che sono fisse e e
+
+103
+00:04:11,010 --> 00:04:15,970
+uno da usare libero che che fa le cose
+
+104
+00:04:13,769 --> 00:04:19,420
+sperando che non si incastri nulla
+
+105
+00:04:15,970 --> 00:04:22,900
+qui dobbiamo creare cinque in schriver
+
+106
+00:04:19,420 --> 00:04:24,130
+che poi diventeranno advances khyber lo
+
+107
+00:04:22,900 --> 00:04:27,640
+bisogna anche di dieci ingerire il
+
+108
+00:04:24,130 --> 00:04:29,440
+processo cielo a 24 di lusso
+
+109
+00:04:27,640 --> 00:04:31,750
+allora facciamo prima questi devo anche
+
+110
+00:04:29,440 --> 00:04:33,910
+caratteristiche piston giustamente siamo
+
+111
+00:04:31,750 --> 00:04:36,930
+in un po li mettiamo dentro abbiamo due
+
+112
+00:04:33,910 --> 00:04:40,330
+in scavi me ne servono 5 abbiamo detto
+
+113
+00:04:36,930 --> 00:04:42,670
+345 effetto li mettiamo dentro abbiamo
+
+114
+00:04:40,330 --> 00:04:43,510
+farli advanced così è più facile da
+
+115
+00:04:42,670 --> 00:04:45,610
+gestire il tutto
+
+116
+00:04:43,510 --> 00:04:48,990
+cosa che mi mancano anche noi o per
+
+117
+00:04:45,610 --> 00:04:51,160
+kraft mogli o per e devono avere tuttora
+
+118
+00:04:48,990 --> 00:04:53,110
+12345 perfetto
+
+119
+00:04:51,160 --> 00:04:56,700
+ora con i cinque bansi scribe erli
+
+120
+00:04:53,110 --> 00:04:59,160
+possono piazzare tipo qui
+
+121
+00:04:56,700 --> 00:05:00,870
+e direi di si sono leggermente curioso
+
+122
+00:04:59,160 --> 00:05:02,910
+vedere se posso mettere tutti i vicini
+
+123
+00:05:00,870 --> 00:05:05,790
+oppure no sono solo con il pur sergio
+
+124
+00:05:02,910 --> 00:05:07,740
+scorso è ok e compreso tra solamente con
+
+125
+00:05:05,790 --> 00:05:09,780
+silicio
+
+126
+00:05:07,740 --> 00:05:12,660
+questo solo con i diamanti e quindi o
+
+127
+00:05:09,780 --> 00:05:15,900
+creare anche dei filtri pensi di queste
+
+128
+00:05:12,660 --> 00:05:19,250
+cose allora piazziamo un burro un globo
+
+129
+00:05:15,900 --> 00:05:24,319
+tv sono cinque giusto siamo così
+
+130
+00:05:19,250 --> 00:05:26,370
+1234 litighiamo questo europea siamo qui
+
+131
+00:05:24,319 --> 00:05:27,120
+potenzialmente avrò bisogno di un
+
+132
+00:05:26,370 --> 00:05:28,710
+interface
+
+133
+00:05:27,120 --> 00:05:31,020
+in cima ad ognuno di questi quindi
+
+134
+00:05:28,710 --> 00:05:36,630
+prendiamo l'inter face ne ho non è un
+
+135
+00:05:31,020 --> 00:05:40,050
+problema 12345 colleghiamo tutto con i
+
+136
+00:05:36,630 --> 00:05:42,030
+cable dobbiamo far sì che intanto qua
+
+137
+00:05:40,050 --> 00:05:43,470
+funzione di tutto e quindi per far sì
+
+138
+00:05:42,030 --> 00:05:45,659
+che ricevano corrente mi sa che devo
+
+139
+00:05:43,470 --> 00:05:47,250
+collegarli separatamente perché per
+
+140
+00:05:45,659 --> 00:05:51,389
+l'inter dall'interfaccia non riceve
+
+141
+00:05:47,250 --> 00:05:53,310
+energia ei se faccio così in realtà per
+
+142
+00:05:51,389 --> 00:05:55,949
+funzionare poi magari sottometto
+
+143
+00:05:53,310 --> 00:05:58,979
+l'output che deve rientrare il sistema
+
+144
+00:05:55,949 --> 00:06:00,630
+tra l'altro se faccio così a spalle
+
+145
+00:05:58,979 --> 00:06:03,479
+abbiamo questo lo mettiamo tipo da
+
+146
+00:06:00,630 --> 00:06:05,520
+quassù tosi fa più frigo ok
+
+147
+00:06:03,479 --> 00:06:09,090
+in teoria così ricevono energia qua c'è
+
+148
+00:06:05,520 --> 00:06:11,370
+l'interfaccia ok para sia premio parte
+
+149
+00:06:09,090 --> 00:06:14,009
+il terminal e vado in modalità
+
+150
+00:06:11,370 --> 00:06:16,610
+processing pattern posso prendere ad
+
+151
+00:06:14,009 --> 00:06:19,759
+esempio inter silicon
+
+152
+00:06:16,610 --> 00:06:21,560
+e creare un pattern per questo ok ora
+
+153
+00:06:19,759 --> 00:06:22,699
+che un pattern posso mettere anche a
+
+154
+00:06:21,560 --> 00:06:25,460
+direttamente qua dentro
+
+155
+00:06:22,699 --> 00:06:27,169
+vediamo unico del pattern aspetta o
+
+156
+00:06:25,460 --> 00:06:30,800
+abbastanza canali perché ho aggiunto 5
+
+157
+00:06:27,169 --> 00:06:32,419
+interfacce 27 su tenuta 2 di lusso
+
+158
+00:06:30,800 --> 00:06:34,099
+forse potrei metterne una singola in
+
+159
+00:06:32,419 --> 00:06:36,199
+versione di blocco
+
+160
+00:06:34,099 --> 00:06:37,909
+non mettete tutto all'interno ma perché
+
+161
+00:06:36,199 --> 00:06:39,169
+complicarci il china type così più
+
+162
+00:06:37,909 --> 00:06:41,210
+complicata ma è anche più bello da
+
+163
+00:06:39,169 --> 00:06:44,260
+vedere secondo me l'inter silicon quindi
+
+164
+00:06:41,210 --> 00:06:46,470
+qui ci vedremo ci metteremo la pressa
+
+165
+00:06:44,260 --> 00:06:50,040
+sì li compressa
+
+166
+00:06:46,470 --> 00:06:52,260
+anzi prendiamo anche un iron bloc se
+
+167
+00:06:50,040 --> 00:06:53,640
+prendiamo quattro li hai un blog perché
+
+168
+00:06:52,260 --> 00:06:56,620
+voglio moltiplicare ognuno di questi
+
+169
+00:06:53,640 --> 00:06:58,270
+devono fare così e così
+
+170
+00:06:56,620 --> 00:07:00,639
+è lento perché non ho ancora messo l'ex
+
+171
+00:06:58,270 --> 00:07:02,320
+edition carambole kraft tutte abbiamo
+
+172
+00:07:00,639 --> 00:07:04,080
+unisca per sé le compresse viene questo
+
+173
+00:07:02,320 --> 00:07:06,020
+lo blocchiamo
+
+174
+00:07:04,080 --> 00:07:07,430
+anche se
+
+175
+00:07:06,020 --> 00:07:09,490
+con curioso voglio vedere se riesce a
+
+176
+00:07:07,430 --> 00:07:11,590
+funzionare
+
+177
+00:07:09,490 --> 00:07:13,539
+troppi problemi prendiamo import basse
+
+178
+00:07:11,590 --> 00:07:16,210
+dovrei averlo da qualche parte non ce
+
+179
+00:07:13,539 --> 00:07:19,060
+l'ho forse sì
+
+180
+00:07:16,210 --> 00:07:22,840
+ce l'abbiamo e appende un import basse
+
+181
+00:07:19,060 --> 00:07:24,479
+mettercelo per inciso perché non riesco
+
+182
+00:07:22,840 --> 00:07:26,560
+davvero a fare tutto con un solo caso
+
+183
+00:07:24,479 --> 00:07:27,069
+potrebbe essere complicato me magari ce
+
+184
+00:07:26,560 --> 00:07:29,919
+la facciamo
+
+185
+00:07:27,069 --> 00:07:33,729
+ma se io lo sblocco riesce a prenderlo
+
+186
+00:07:29,919 --> 00:07:37,380
+questo import passa ad esempio se io
+
+187
+00:07:33,729 --> 00:07:41,100
+approvo a captare un file compresso
+
+188
+00:07:37,380 --> 00:07:43,680
+uno mi manca il silicon manca anche il
+
+189
+00:07:41,100 --> 00:07:46,050
+sì compresso e che non la trova
+
+190
+00:07:43,680 --> 00:07:48,360
+apriamo rimuovere questo ok la inseriamo
+
+191
+00:07:46,050 --> 00:07:50,070
+ne siamo una qua dentro non trova il
+
+192
+00:07:48,360 --> 00:07:51,990
+silicone dice che non o silicone ma
+
+193
+00:07:50,070 --> 00:07:54,600
+inoltre silicone ce lo può dire che qui
+
+194
+00:07:51,990 --> 00:07:56,130
+ho creato un pattern sbagliato giusto
+
+195
+00:07:54,600 --> 00:07:59,520
+no perchè lui vuole lo può fare solo con
+
+196
+00:07:56,130 --> 00:08:02,130
+quel tipo di silicone male no non va
+
+197
+00:07:59,520 --> 00:08:04,320
+bene non va bene perché io ho anche
+
+198
+00:08:02,130 --> 00:08:06,990
+questo tipo in silicone e dove aver
+
+199
+00:08:04,320 --> 00:08:09,780
+modificato il tutto ora posso captarne 1
+
+200
+00:08:06,990 --> 00:08:12,270
+ok io faccio start lui manda a cui il
+
+201
+00:08:09,780 --> 00:08:14,370
+tutto sta kraft andò e ora l'ha ripreso
+
+202
+00:08:12,270 --> 00:08:16,740
+l'import basse quindi ora funzionano se
+
+203
+00:08:14,370 --> 00:08:18,550
+funziona così potremo farlo addirittura
+
+204
+00:08:16,740 --> 00:08:20,200
+tutto con uno
+
+205
+00:08:18,550 --> 00:08:22,240
+facciamo un test c'è un ulteriore test
+
+206
+00:08:20,200 --> 00:08:24,700
+quindi abbiamo provato a portare questo
+
+207
+00:08:22,240 --> 00:08:30,370
+abbiamo craftare quello lì che invece si
+
+208
+00:08:24,700 --> 00:08:34,570
+fa con loro quindi calculation press
+
+209
+00:08:30,370 --> 00:08:36,700
+cosa cerchiamo presso intanto e vediamo
+
+210
+00:08:34,570 --> 00:08:38,830
+diciamo proseguì con i diamanti e non
+
+211
+00:08:36,700 --> 00:08:41,530
+captarne 1 con questo vediamo se fa lo
+
+212
+00:08:38,830 --> 00:08:43,170
+stesso principio ok
+
+213
+00:08:41,530 --> 00:08:47,110
+anzi prima carta n'è più di uno
+
+214
+00:08:43,170 --> 00:08:49,360
+professor 14 abbiamo questi 14 da qua a
+
+215
+00:08:47,110 --> 00:08:51,130
+non spendo nel processo scherzavo perché
+
+216
+00:08:49,360 --> 00:08:53,770
+questo è il circuit
+
+217
+00:08:51,130 --> 00:08:55,590
+poi bisogna fare il processo è però
+
+218
+00:08:53,770 --> 00:08:57,279
+capitale
+
+219
+00:08:55,590 --> 00:08:59,250
+non lo so
+
+220
+00:08:57,279 --> 00:09:02,330
+10 questi
+
+221
+00:08:59,250 --> 00:09:06,030
+però secondo lui io avrei bisogno di
+
+222
+00:09:02,330 --> 00:09:08,970
+nove di questi per farlo se invece io
+
+223
+00:09:06,030 --> 00:09:11,670
+vengo qui gli do così e dico che non può
+
+224
+00:09:08,970 --> 00:09:14,160
+allevarlo come pattern a questo punto
+
+225
+00:09:11,670 --> 00:09:15,510
+provo a faye craftare il circuito mi
+
+226
+00:09:14,160 --> 00:09:19,170
+dovrebbe comunque dare errore perché lui
+
+227
+00:09:15,510 --> 00:09:21,690
+non trova questo ok ma non mi interessa
+
+228
+00:09:19,170 --> 00:09:23,130
+perché posso fare un altro pattern di
+
+229
+00:09:21,690 --> 00:09:25,500
+processing levando questo tenendo
+
+230
+00:09:23,130 --> 00:09:28,470
+solamente questo parla di esserlo qua
+
+231
+00:09:25,500 --> 00:09:31,050
+dentro al posto di questo e quindi ora
+
+232
+00:09:28,470 --> 00:09:32,790
+se io vado a creare un circuito lui me
+
+233
+00:09:31,050 --> 00:09:34,200
+lo fa fare
+
+234
+00:09:32,790 --> 00:09:36,870
+perché viene tutto cui in automatico
+
+235
+00:09:34,200 --> 00:09:38,760
+questo non si può più muovere e o un
+
+236
+00:09:36,870 --> 00:09:40,950
+advance di scala in skype per fare
+
+237
+00:09:38,760 --> 00:09:41,850
+solamente con eagle diamante così
+
+238
+00:09:40,950 --> 00:09:45,690
+dovrebbe funzionare
+
+239
+00:09:41,850 --> 00:09:48,090
+altrimenti c'è un problema ad esempio se
+
+240
+00:09:45,690 --> 00:09:50,670
+proprio cult è di nuovo un print silicon
+
+241
+00:09:48,090 --> 00:09:53,190
+levo questo provoca starne una red
+
+242
+00:09:50,670 --> 00:09:55,440
+farmelo ma non qui dove far meno in un
+
+243
+00:09:53,190 --> 00:09:56,940
+altro di questi giusto oppure numero fa
+
+244
+00:09:55,440 --> 00:09:59,700
+non me lo fa perché non riesce a levare
+
+245
+00:09:56,940 --> 00:10:01,950
+la roba però devo per forza fare così
+
+246
+00:09:59,700 --> 00:10:04,620
+perché altrimenti non mi trova dovrei
+
+247
+00:10:01,950 --> 00:10:07,170
+avere tipo un botto di sili compressa
+
+248
+00:10:04,620 --> 00:10:09,839
+per fare sta roba altrimenti ok abbiamo
+
+249
+00:10:07,170 --> 00:10:11,810
+capito qual è il problema è quindi ne
+
+250
+00:10:09,839 --> 00:10:15,170
+siamo davvero 5
+
+251
+00:10:11,810 --> 00:10:16,940
+va bene va bene così penserete assumiamo
+
+252
+00:10:15,170 --> 00:10:20,210
+i pattern vuoti non ci servono
+
+253
+00:10:16,940 --> 00:10:22,370
+andiamo qui rimuoviamo questo vediamo il
+
+254
+00:10:20,210 --> 00:10:24,860
+prin tensivi con riprendiamo il pattern
+
+255
+00:10:22,370 --> 00:10:27,510
+leviamo questo troviamo il pattern però
+
+256
+00:10:24,860 --> 00:10:29,590
+senza bisogno di nulla
+
+257
+00:10:27,510 --> 00:10:30,790
+e qua dentro
+
+258
+00:10:29,590 --> 00:10:33,220
+questo è bloccato quindi non ci sono
+
+259
+00:10:30,790 --> 00:10:35,740
+problemi allora abbiamo le génie impress
+
+260
+00:10:33,220 --> 00:10:38,730
+abbiamo il silicon press
+
+261
+00:10:35,740 --> 00:10:42,280
+prendiamo logic e calculation
+
+262
+00:10:38,730 --> 00:10:44,110
+calculation come si fa il tour circus
+
+263
+00:10:42,280 --> 00:10:46,420
+cosa che noi non abbiamo per inciso
+
+264
+00:10:44,110 --> 00:10:48,220
+questo qua con loro o che commettiamo il
+
+265
+00:10:46,420 --> 00:10:50,170
+calculation press e facciamo l'ultimo
+
+266
+00:10:48,220 --> 00:10:51,210
+patten conta l'appunto il calcolo e
+
+267
+00:10:50,170 --> 00:10:53,450
+shawn press
+
+268
+00:10:51,210 --> 00:10:54,890
+questo qui
+
+269
+00:10:53,450 --> 00:10:56,900
+ma così si rimuove questo col tasto
+
+270
+00:10:54,890 --> 00:10:58,520
+sinistro e abbiamo anche questo pattern
+
+271
+00:10:56,900 --> 00:10:58,910
+cioè una mezza età di provare a fare una
+
+272
+00:10:58,520 --> 00:11:02,090
+cosa
+
+273
+00:10:58,910 --> 00:11:05,390
+rimuoviamo tutti questi ne sono quattro
+
+274
+00:11:02,090 --> 00:11:08,570
+precisi e spacchiamo prendiamo anche
+
+275
+00:11:05,390 --> 00:11:11,390
+questi qua li mettiamo sotto forma di
+
+276
+00:11:08,570 --> 00:11:14,180
+un'interfaccia in blocco e si collega
+
+277
+00:11:11,390 --> 00:11:16,480
+tutti gli altri quattro quindi una cosa
+
+278
+00:11:14,180 --> 00:11:19,670
+tipo dall'alto che si potrebbe diventare
+
+279
+00:11:16,480 --> 00:11:21,830
+così leviamo basse
+
+280
+00:11:19,670 --> 00:11:23,570
+facciamo finta che per il momento serve
+
+281
+00:11:21,830 --> 00:11:26,090
+una cosa di questo tipo che arriva
+
+282
+00:11:23,570 --> 00:11:29,030
+dall'alto perso di qua attorno ci
+
+283
+00:11:26,090 --> 00:11:33,820
+mettiamo tutti questi e vediamo se
+
+284
+00:11:29,030 --> 00:11:36,260
+funziona cioè il velo al 6 e 1 2 3 e 4
+
+285
+00:11:33,820 --> 00:11:41,120
+tutte le cose inserite primo a captare
+
+286
+00:11:36,260 --> 00:11:42,560
+qualcosa tipo uno di questi next art
+
+287
+00:11:41,120 --> 00:11:44,510
+qualcuno di questi si muove questo si
+
+288
+00:11:42,560 --> 00:11:46,460
+muove non può arrivare perché non ha il
+
+289
+00:11:44,510 --> 00:11:49,070
+bass di esporto ma così usando solamente
+
+290
+00:11:46,460 --> 00:11:51,730
+un interfaccia al posto di 12.000 se
+
+291
+00:11:49,070 --> 00:11:54,880
+faccio così dove anche rimuovere
+
+292
+00:11:51,730 --> 00:11:56,290
+questo da qui a fare passa anche
+
+293
+00:11:54,880 --> 00:11:58,089
+l'energia insomma è molto molto più
+
+294
+00:11:56,290 --> 00:12:00,070
+comodo visto che sono quattro potrebbe
+
+295
+00:11:58,089 --> 00:12:01,839
+andare bene ed è fatto la della
+
+296
+00:12:00,070 --> 00:12:03,430
+nell'estetica quest invece lasciamo
+
+297
+00:12:01,839 --> 00:12:04,000
+singolo perchè quello che fa il resto
+
+298
+00:12:03,430 --> 00:12:08,079
+del lavoro
+
+299
+00:12:04,000 --> 00:12:09,940
+tace è questo cavetto è collegato a
+
+300
+00:12:08,079 --> 00:12:13,029
+tutto e non mi piace per niente quindi
+
+301
+00:12:09,940 --> 00:12:14,800
+facciamo così rimuoviamo questi ok che
+
+302
+00:12:13,029 --> 00:12:19,310
+stiamo un po di import basse me ne
+
+303
+00:12:14,800 --> 00:12:23,630
+servono 4 consegnando quando già 1
+
+304
+00:12:19,310 --> 00:12:27,440
+e veniamo in siria e qua sotto 2 3 4 e 5
+
+305
+00:12:23,630 --> 00:12:28,720
+è tutto collegato a 16 milioni ricavi a
+
+306
+00:12:27,440 --> 00:12:32,140
+che goduria
+
+307
+00:12:28,720 --> 00:12:34,450
+che bello mi piace
+
+308
+00:12:32,140 --> 00:12:37,000
+ora di qui invece in questa interfaccia
+
+309
+00:12:34,450 --> 00:12:39,580
+questi vanno tutti sbloccati qua non
+
+310
+00:12:37,000 --> 00:12:42,280
+avremo nessun press bavagli inseriti
+
+311
+00:12:39,580 --> 00:12:45,340
+tutti poi i circuiti non i circuiti i
+
+312
+00:12:42,280 --> 00:12:49,060
+processori bisogna vedere i pattern per
+
+313
+00:12:45,340 --> 00:12:50,730
+chiamo processor io qua devo poter fare
+
+314
+00:12:49,060 --> 00:12:53,770
+il calcolo e shawn processor
+
+315
+00:12:50,730 --> 00:12:57,490
+l'engineering processor anche logic
+
+316
+00:12:53,770 --> 00:12:58,410
+processor ok siamo a cavallo li mettiamo
+
+317
+00:12:57,490 --> 00:13:02,000
+tutti qua sopra
+
+318
+00:12:58,410 --> 00:13:03,470
+giusto giusto
+
+319
+00:13:02,000 --> 00:13:05,960
+ora se io gli chiedo di farmi un
+
+320
+00:13:03,470 --> 00:13:09,110
+processo considerato quindi ho già un
+
+321
+00:13:05,960 --> 00:13:12,530
+bot però mi chiedo di farmene uno di
+
+322
+00:13:09,110 --> 00:13:14,570
+diamante ok dice manca sempre silicone
+
+323
+00:13:12,530 --> 00:13:16,820
+mannaggia a lui perché ciò solo una
+
+324
+00:13:14,570 --> 00:13:18,920
+ricetta per fare silicone come se ne va
+
+325
+00:13:16,820 --> 00:13:21,320
+solamente uno va bene però a fare anche
+
+326
+00:13:18,920 --> 00:13:24,310
+con l'altra quindi facciamo un altro di
+
+327
+00:13:21,320 --> 00:13:24,310
+print silicon
+
+328
+00:13:25,250 --> 00:13:29,000
+ci sono due ricette a quanto pare si sia
+
+329
+00:13:27,380 --> 00:13:31,820
+quindi silicone e così è quello con i sì
+
+330
+00:13:29,000 --> 00:13:34,580
+con è così aspettiamo questo qua ok
+
+331
+00:13:31,820 --> 00:13:35,900
+non voglio questo si dice lo so che non
+
+332
+00:13:34,580 --> 00:13:38,300
+si chiama siliconi stiamo si dice però
+
+333
+00:13:35,900 --> 00:13:40,220
+vediamo se è così funziona aggiungiamo
+
+334
+00:13:38,300 --> 00:13:41,300
+anche questo qua puoi fare uno di
+
+335
+00:13:40,220 --> 00:13:43,660
+diamante me lo fa fare
+
+336
+00:13:41,300 --> 00:13:43,660
+non me lo fa fare
+
+337
+00:13:43,820 --> 00:13:49,860
+poi per forza questo tipo di silicio qua
+
+338
+00:13:46,410 --> 00:13:52,089
+a me non è un problema è posso farlo
+
+339
+00:13:49,860 --> 00:13:55,540
+falsone infinito però
+
+340
+00:13:52,089 --> 00:13:57,500
+e facciamo in un botto va 123 primo 3
+
+341
+00:13:55,540 --> 00:14:00,460
+sacchettini
+
+342
+00:13:57,500 --> 00:14:02,870
+mettiamo dei macerato ri qui a grindare
+
+343
+00:14:00,460 --> 00:14:04,700
+così poi la polvere viene messa di qua è
+
+344
+00:14:02,870 --> 00:14:06,260
+trasformato in silicio e siamo tutti
+
+345
+00:14:04,700 --> 00:14:08,120
+contenti
+
+346
+00:14:06,260 --> 00:14:10,700
+poi ovviamente una certa automatizzare
+
+347
+00:14:08,120 --> 00:14:12,520
+mo anche quella roba lì se io però vado
+
+348
+00:14:10,700 --> 00:14:15,050
+inserire questi qua dentro e cerco
+
+349
+00:14:12,520 --> 00:14:16,220
+processor ora se vogliono fare dieci di
+
+350
+00:14:15,050 --> 00:14:19,130
+questi me lo fa fare
+
+351
+00:14:16,220 --> 00:14:21,320
+start e vedremo che dovrebbe partire uno
+
+352
+00:14:19,130 --> 00:14:24,830
+di questi questo qui che sta generando i
+
+353
+00:14:21,320 --> 00:14:26,630
+circuiti i circuiti vengono rimossi e
+
+354
+00:14:24,830 --> 00:14:28,160
+dovrebbero venire inseriti qua dentro e
+
+355
+00:14:26,630 --> 00:14:31,220
+infatti come vedete funziona tutto alla
+
+356
+00:14:28,160 --> 00:14:34,520
+grande però mi trovo con i circuiti di
+
+357
+00:14:31,220 --> 00:14:36,650
+lusso di lusso con i processori anzi
+
+358
+00:14:34,520 --> 00:14:39,740
+scusate ma sta facendo quelli di
+
+359
+00:14:36,650 --> 00:14:42,130
+silicone in silicio da qui mamma mia si
+
+360
+00:14:39,740 --> 00:14:45,250
+vola si vola
+
+361
+00:14:42,130 --> 00:14:47,560
+ami da anche il taglio il timer dice
+
+362
+00:14:45,250 --> 00:14:50,740
+mancano trenta secondi è ficcata questo
+
+363
+00:14:47,560 --> 00:14:52,300
+avevo letto il crafting status da per
+
+364
+00:14:50,740 --> 00:14:58,060
+inciso se io gli chiedessi di kraft
+
+365
+00:14:52,300 --> 00:15:00,880
+armi.il 1024 che ripeto non so se a
+
+366
+00:14:58,060 --> 00:15:05,260
+questo punto ha senso se ne fai tanti da
+
+367
+00:15:00,880 --> 00:15:07,110
+250 da 264 se 256k poi se volessi fare
+
+368
+00:15:05,260 --> 00:15:08,910
+dieci di questi
+
+369
+00:15:07,110 --> 00:15:10,950
+mi dice tutto quello che manca ma tutto
+
+370
+00:15:08,910 --> 00:15:13,589
+il resto ve lo fa craftare capito mi
+
+371
+00:15:10,950 --> 00:15:15,870
+manca molta meno roba mi manca un botto
+
+372
+00:15:13,589 --> 00:15:19,070
+di silicio un botto di sé tusquets
+
+373
+00:15:15,870 --> 00:15:21,320
+crystal ma non è un problema
+
+374
+00:15:19,070 --> 00:15:23,090
+e il quartz class nel signore e signori
+
+375
+00:15:21,320 --> 00:15:26,390
+io prima del domani fino al prossimo
+
+376
+00:15:23,090 --> 00:15:30,140
+episodio mi metterò a captare penso i
+
+377
+00:15:26,390 --> 00:15:32,390
+cosi a 256k nel caso non servissero poi
+
+378
+00:15:30,140 --> 00:15:34,700
+leggere commenti potrei kraft aquila
+
+379
+00:15:32,390 --> 00:15:36,290
+successivi oppure anche solo per sfizio
+
+380
+00:15:34,700 --> 00:15:40,400
+farle nuova 10 milioni però il problema
+
+381
+00:15:36,290 --> 00:15:43,610
+è sempre roba massimo 63k capito che c'è
+
+382
+00:15:40,400 --> 00:15:45,980
+ma massimo 60 tre tipi di oggetti che
+
+383
+00:15:43,610 --> 00:15:47,030
+non ha molto senso secondo è anche
+
+384
+00:15:45,980 --> 00:15:49,400
+perché i tipi di oggetti
+
+385
+00:15:47,030 --> 00:15:51,830
+meno male sono quelli non possono b n 16
+
+386
+00:15:49,400 --> 00:15:54,530
+milioni sempre ogni volta dovrà vedere
+
+387
+00:15:51,830 --> 00:15:57,720
+quella da 1.024 potrebbe avere senso se
+
+388
+00:15:54,530 --> 00:16:01,110
+volessi farne tipo 1 2024
+
+389
+00:15:57,720 --> 00:16:03,480
+1 iniziale lo può fare
+
+390
+00:16:01,110 --> 00:16:04,470
+manca ancora del silicio ok ho fatto poi
+
+391
+00:16:03,480 --> 00:16:06,019
+di questa classe ho fatto un po di
+
+392
+00:16:04,470 --> 00:16:07,860
+silicio devono essere a cavallo
+
+393
+00:16:06,019 --> 00:16:11,139
+potenzialmente possono fare quello da
+
+394
+00:16:07,860 --> 00:16:12,489
+1.024 se tutto va bene
+
+395
+00:16:11,139 --> 00:16:14,769
+no manca ancora il quartz class
+
+396
+00:16:12,489 --> 00:16:17,290
+mannaggia a me facciamo altro quasi
+
+397
+00:16:14,769 --> 00:16:19,799
+classiche tir udine a per inciso possano
+
+398
+00:16:17,290 --> 00:16:24,249
+muovere tutti steve cropper brutti ora
+
+399
+00:16:19,799 --> 00:16:26,350
+ok dovrebbe bastare ora 1024 mi fai
+
+400
+00:16:24,249 --> 00:16:29,410
+craftare per favore dai
+
+401
+00:16:26,350 --> 00:16:31,020
+non ci credo ancora 33 è che ci siamo
+
+402
+00:16:29,410 --> 00:16:34,060
+quasi
+
+403
+00:16:31,020 --> 00:16:36,190
+oddio forse ci siamo
+
+404
+00:16:34,060 --> 00:16:37,870
+mai visto che stando ad automatizzare
+
+405
+00:16:36,190 --> 00:16:38,980
+anche questo e a dirla tutta però che il
+
+406
+00:16:37,870 --> 00:16:43,420
+vetro ma sì dai
+
+407
+00:16:38,980 --> 00:16:46,330
+andrà bene basteranno cit 7.000 baite
+
+408
+00:16:43,420 --> 00:16:49,300
+usati crafting più automatic simulation
+
+409
+00:16:46,330 --> 00:16:51,280
+perché non parte da vacca
+
+410
+00:16:49,300 --> 00:16:53,650
+c'è sempre qualcosa a tricastin storici
+
+411
+00:16:51,280 --> 00:16:58,050
+cose vai dovrebbero bastare allora
+
+412
+00:16:53,650 --> 00:17:01,240
+proviamo a fare un altro 64k ora giocoso
+
+413
+00:16:58,050 --> 00:17:01,630
+rafting storage per me è quello il
+
+414
+00:17:01,240 --> 00:17:04,420
+problema
+
+415
+00:17:01,630 --> 00:17:04,840
+chi l'ha craftare start quanto tempo ci
+
+416
+00:17:04,420 --> 00:17:07,930
+vuole
+
+417
+00:17:04,840 --> 00:17:11,140
+venti secondi easy che figata comunque
+
+418
+00:17:07,930 --> 00:17:16,540
+bellissimo punto molto bello papa che
+
+419
+00:17:11,140 --> 00:17:19,270
+kraft le cose carissimo 21 e tutto kraft
+
+420
+00:17:16,540 --> 00:17:21,690
+ato perfetto ora posso craftare uno di
+
+421
+00:17:19,270 --> 00:17:25,000
+questi che metterò al posto di questo
+
+422
+00:17:21,690 --> 00:17:28,329
+vediamo sulla basta non ne faccio ancora
+
+423
+00:17:25,000 --> 00:17:30,870
+un altro tra me lo fai craftare
+
+424
+00:17:28,329 --> 00:17:32,860
+no perché ora manca il quart classe
+
+425
+00:17:30,870 --> 00:17:35,010
+madonna
+
+426
+00:17:32,860 --> 00:17:38,230
+questa autorizzazione vano lungo anche
+
+427
+00:17:35,010 --> 00:17:41,470
+grazie perché manca qualcosa manca il
+
+428
+00:17:38,230 --> 00:17:45,730
+pear circus quartz crystal scusa io
+
+429
+00:17:41,470 --> 00:17:49,170
+pensavo fosse un piano di memoria io
+
+430
+00:17:45,730 --> 00:17:52,179
+link chambal ce lo mettiamo 91 fa cose
+
+431
+00:17:49,170 --> 00:17:56,260
+ok 11 dovremmo esserci signore signori
+
+432
+00:17:52,179 --> 00:17:58,680
+possiamo craftare il 1024 k c'è un
+
+433
+00:17:56,260 --> 00:18:01,950
+milione di oggetti
+
+434
+00:17:58,680 --> 00:18:04,770
+no è andato ancora due scherzavo temo
+
+435
+00:18:01,950 --> 00:18:06,630
+esserci vediamo anche quanto tempo mi
+
+436
+00:18:04,770 --> 00:18:08,970
+richiede perché lui fa il calcolo di
+
+437
+00:18:06,630 --> 00:18:11,370
+tutti gli oggetti e mi dice quindi
+
+438
+00:18:08,970 --> 00:18:14,340
+attenzione possiamo partire siamo
+
+439
+00:18:11,370 --> 00:18:17,580
+partiti crafting status non lo sa manco
+
+440
+00:18:14,340 --> 00:18:20,260
+lui per il momento sta kraft andò i 300
+
+441
+00:18:17,580 --> 00:18:22,990
+due ore
+
+442
+00:18:20,260 --> 00:18:24,940
+c'è scritto due ore al ok stage si sta
+
+443
+00:18:22,990 --> 00:18:27,450
+aggiornando piano piano
+
+444
+00:18:24,940 --> 00:18:30,059
+comunque è ancora intorno alle 2 ore
+
+445
+00:18:27,450 --> 00:18:34,429
+diavolo ok direi che possiamo rendere
+
+446
+00:18:30,059 --> 00:18:34,429
+tutto molto più veloce creando delle
+
+447
+00:18:35,539 --> 00:18:38,629
+hard come si chiamano questi qua perché
+
+448
+00:18:37,729 --> 00:18:40,100
+avrò bisogno di calcolo e shawn
+
+449
+00:18:38,629 --> 00:18:43,059
+processor quindi se le vado alle varie
+
+450
+00:18:40,100 --> 00:18:43,059
+al sistema non un casino
+
+451
+00:18:44,190 --> 00:18:48,120
+storia del neo 25 facciamo così
+
+452
+00:18:46,289 --> 00:18:50,039
+cancelliamo tutto ho cancellato il
+
+453
+00:18:48,120 --> 00:18:52,409
+crafting quelli continuerà a farle rob e
+
+454
+00:18:50,039 --> 00:18:53,429
+quindi va bene non è un problema tanto
+
+455
+00:18:52,409 --> 00:18:56,159
+dunque ma nel sistema
+
+456
+00:18:53,429 --> 00:18:57,269
+perciò mayak selecion card perché non
+
+457
+00:18:56,159 --> 00:19:00,260
+posso tra il quadro di cianni
+
+458
+00:18:57,269 --> 00:19:02,500
+onestamente quanti hanno bisogno
+
+459
+00:19:00,260 --> 00:19:02,500
+tu no
+
+460
+00:19:02,550 --> 00:19:05,840
+uno per ogni tipo in realtà
+
+461
+00:19:06,860 --> 00:19:12,659
+per ogni tipo
+
+462
+00:19:09,100 --> 00:19:14,950
+lodi 25 di questi manco a farlo apposta
+
+463
+00:19:12,659 --> 00:19:18,780
+alla sono
+
+464
+00:19:14,950 --> 00:19:18,780
+blade 26 ok
+
+465
+00:19:18,940 --> 00:19:24,100
+carne si riusciva a fare subito 26 25 25
+
+466
+00:19:22,270 --> 00:19:28,160
+perfetto
+
+467
+00:19:24,100 --> 00:19:30,390
+mettiamo 5 qui dunque qui
+
+468
+00:19:28,160 --> 00:19:31,890
+55 qui
+
+469
+00:19:30,390 --> 00:19:34,830
+e 5 qui
+
+470
+00:19:31,890 --> 00:19:36,630
+ora li diamo l'input per questo mancano
+
+471
+00:19:34,830 --> 00:19:38,460
+cose mi dice che mancano cose perché
+
+472
+00:19:36,630 --> 00:19:41,100
+sono già all'interno delle strutture
+
+473
+00:19:38,460 --> 00:19:43,650
+quindi lasciamo prima a fare tutto
+
+474
+00:19:41,100 --> 00:19:46,110
+dovremmo esserci tutti i processi
+
+475
+00:19:43,650 --> 00:19:47,850
+dovrebbe assolutamente nel sistema e o
+
+476
+00:19:46,110 --> 00:19:49,860
+clicco dovrebbe essere fattibile no
+
+477
+00:19:47,850 --> 00:19:51,450
+comunque in qualche modo mancano cose
+
+478
+00:19:49,860 --> 00:19:53,820
+come è possibile
+
+479
+00:19:51,450 --> 00:19:55,710
+ah ok c'è da dire che ho utilizzato il
+
+480
+00:19:53,820 --> 00:20:00,360
+calcolo è un processo ero provare
+
+481
+00:19:55,710 --> 00:20:02,490
+attenzione cos'è che mi manca altri pur
+
+482
+00:20:00,360 --> 00:20:04,650
+se tu scorza è un po di silicio aver
+
+483
+00:20:02,490 --> 00:20:09,120
+silicio non è un problema e facciamo un
+
+484
+00:20:04,650 --> 00:20:09,870
+botto ora no manca il silicio ancora dai
+
+485
+00:20:09,120 --> 00:20:15,030
+dai dai
+
+486
+00:20:09,870 --> 00:20:18,269
+ci siamo parti grazie è partito vediamo
+
+487
+00:20:15,030 --> 00:20:20,999
+quanto tempo ci vuole ora
+
+488
+00:20:18,269 --> 00:20:24,089
+fa comunque senza va a fare cose ora ci
+
+489
+00:20:20,999 --> 00:20:25,589
+vuole mezz'ora gang allora tutto il
+
+490
+00:20:24,089 --> 00:20:27,500
+resto ce l'ha da craftare deve fare
+
+491
+00:20:25,589 --> 00:20:30,669
+solamente questi
+
+492
+00:20:27,500 --> 00:20:34,470
+e poi deve fare il resto
+
+493
+00:20:30,669 --> 00:20:34,470
+e figata ragazzi che figata
+
+494
+00:20:34,630 --> 00:20:39,220
+10 minuti magicamente
+
+495
+00:20:37,600 --> 00:20:41,779
+e fare tutto quel lavora all'unisono è
+
+496
+00:20:39,220 --> 00:20:43,729
+una bellezza unica
+
+497
+00:20:41,779 --> 00:20:45,080
+mi piaceva tantissimo farne altre allora
+
+498
+00:20:43,729 --> 00:20:48,229
+io aspetterò qualche finisca questo
+
+499
+00:20:45,080 --> 00:20:50,659
+crafting poi mi ci metto e ne faccio
+
+500
+00:20:48,229 --> 00:20:52,580
+altri cioè non so se ne farò altri devo
+
+501
+00:20:50,659 --> 00:20:54,019
+capire un attimino però poi metterò a
+
+502
+00:20:52,580 --> 00:20:55,729
+fare invece il pollaio ho fatto sta che
+
+503
+00:20:54,019 --> 00:20:57,619
+decidiamo domani alle 7 signore signori
+
+504
+00:20:55,729 --> 00:20:59,820
+con il prossimo bisogna versare 7 e un
+
+505
+00:20:57,619 --> 00:21:20,019
+saluto venga ciao a tutti
+
+506
+00:20:59,820 --> 00:21:20,019
+[Musica]

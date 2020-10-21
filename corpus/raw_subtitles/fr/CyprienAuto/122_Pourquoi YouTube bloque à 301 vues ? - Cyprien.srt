@@ -1,0 +1,339 @@
+1
+00:00:00,000 --> 00:00:04,319
+pourquoi est ce que les vidéos qui
+
+2
+00:00:02,939 --> 00:00:06,660
+viennent d'être postée sur youtube ce
+
+3
+00:00:04,319 --> 00:00:08,940
+bloc à 300 une vue pendant une journée
+
+4
+00:00:06,660 --> 00:00:10,590
+hier je suis tombé sur une vidéo en
+
+5
+00:00:08,940 --> 00:00:13,530
+anglais d'un mec qui a posé la question
+
+6
+00:00:10,590 --> 00:00:16,350
+au chef de produit du service analytique
+
+7
+00:00:13,530 --> 00:00:18,359
+de youtube qui explique tout et comme je
+
+8
+00:00:16,350 --> 00:00:19,680
+sais que ça peut intéresser ceux qui
+
+9
+00:00:18,359 --> 00:00:21,840
+regardent pas mal de vidéos sur youtube
+
+10
+00:00:19,680 --> 00:00:23,519
+ou même ceux qui postent des vidéos sur
+
+11
+00:00:21,840 --> 00:00:30,390
+youtube alors à fait combien tu as vu de
+
+12
+00:00:23,519 --> 00:00:32,640
+pire 300 une vue 300 une vue 320
+
+13
+00:00:30,390 --> 00:00:41,820
+enfin ça ça bloque un seppois sur le
+
+14
+00:00:32,640 --> 00:00:44,520
+poste de fou malade j'ai décidé de vous
+
+15
+00:00:41,820 --> 00:00:47,010
+résumer cette explication comme ça tout
+
+16
+00:00:44,520 --> 00:00:49,079
+le monde saura 1 il ya plus de excusez
+
+17
+00:00:47,010 --> 00:00:50,370
+moi je ne savais pas je n'avais pas
+
+18
+00:00:49,079 --> 00:00:52,920
+compris la vidéo je parle pas anglais
+
+19
+00:00:50,370 --> 00:00:54,270
+désolé je suis désolé vraiment il faut
+
+20
+00:00:52,920 --> 00:00:56,640
+savoir que lorsqu'une vidéo est postée
+
+21
+00:00:54,270 --> 00:00:59,250
+sur youtube en fait cette vidéo est
+
+22
+00:00:56,640 --> 00:01:01,680
+dupliquée sur différents serveurs au
+
+23
+00:00:59,250 --> 00:01:04,170
+tour du monde comme ça si vous regardez
+
+24
+00:01:01,680 --> 00:01:05,250
+cette vidéo par exemple depuis paris eh
+
+25
+00:01:04,170 --> 00:01:06,869
+bien vous regardez une vidéo qui
+
+26
+00:01:05,250 --> 00:01:08,310
+présente sur des serveurs en france ou
+
+27
+00:01:06,869 --> 00:01:11,250
+en europe 1 pas besoin d'aller à
+
+28
+00:01:08,310 --> 00:01:12,900
+chercher aux etats-unis au japon et
+
+29
+00:01:11,250 --> 00:01:14,280
+ensuite les serveurs présents un petit
+
+30
+00:01:12,900 --> 00:01:15,780
+peu partout sur la planète envoient
+
+31
+00:01:14,280 --> 00:01:18,600
+l'information à youtube
+
+32
+00:01:15,780 --> 00:01:21,360
+ils me disent voilà cette vidéo a été
+
+33
+00:01:18,600 --> 00:01:23,790
+vue une fois sur mes serveurs vas-y amis
+
+34
+00:01:21,360 --> 00:01:25,680
+youtube tu notes aller l'autre chose à
+
+35
+00:01:23,790 --> 00:01:28,590
+savoir est que youtube différencie deux
+
+36
+00:01:25,680 --> 00:01:32,009
+types de vidéos celles qui font 300 vues
+
+37
+00:01:28,590 --> 00:01:34,890
+ou moins et celles qui font plus de 300
+
+38
+00:01:32,009 --> 00:01:37,950
+vues donc si une vidéo fait dit vu 20 30
+
+39
+00:01:34,890 --> 00:01:40,350
+cents 200 jusqu'à 300 youtube laisse le
+
+40
+00:01:37,950 --> 00:01:42,150
+compteur augmenté normalement et si une
+
+41
+00:01:40,350 --> 00:01:44,670
+vidéo fait plus de 300 vues alors
+
+42
+00:01:42,150 --> 00:01:47,579
+youtube estime qu'il faut vérifier les
+
+43
+00:01:44,670 --> 00:01:49,200
+vues alors le compteur ce bloc à 301 et
+
+44
+00:01:47,579 --> 00:01:50,850
+youtube vérifie s'il n'y a pas des
+
+45
+00:01:49,200 --> 00:01:52,619
+robots qui s'amusent à cliquer des
+
+46
+00:01:50,850 --> 00:01:55,020
+milliers de fois pour faire gonfler le
+
+47
+00:01:52,619 --> 00:01:56,729
+compteur c'est de la triche ville un
+
+48
+00:01:55,020 --> 00:01:59,100
+robot jeter à l'oeil
+
+49
+00:01:56,729 --> 00:02:01,170
+youtube enlève alors ces fausses vue et
+
+50
+00:01:59,100 --> 00:02:03,780
+après un peu moins d'une journée affiche
+
+51
+00:02:01,170 --> 00:02:04,800
+le vrai nombre au compteur et là vous me
+
+52
+00:02:03,780 --> 00:02:08,460
+dites oui mais
+
+53
+00:02:04,800 --> 00:02:10,950
+attend parfois le compteur ce bloc 1 300
+
+54
+00:02:08,460 --> 00:02:12,930
+de vue ou même plus
+
+55
+00:02:10,950 --> 00:02:14,910
+et en plus d'avoir la même voie que le
+
+56
+00:02:12,930 --> 00:02:15,330
+grand père dans les simpson vous avez
+
+57
+00:02:14,910 --> 00:02:17,820
+raison
+
+58
+00:02:15,330 --> 00:02:19,950
+l'explication la voici au moment de
+
+59
+00:02:17,820 --> 00:02:21,750
+dépasser les 300 vue c'est à dire de
+
+60
+00:02:19,950 --> 00:02:23,550
+passer d'une vidéo youtube ne vérifient
+
+61
+00:02:21,750 --> 00:02:25,290
+pas les vues à une vidéo où ils
+
+62
+00:02:23,550 --> 00:02:27,450
+vérifient il se peut que youtube
+
+63
+00:02:25,290 --> 00:02:30,210
+comptabilise plusieurs vues qui arrivent
+
+64
+00:02:27,450 --> 00:02:31,980
+en même temps de différents serveurs et
+
+65
+00:02:30,210 --> 00:02:34,590
+comme elles sont arrivées en même temps
+
+66
+00:02:31,980 --> 00:02:36,120
+youtube les additionne avant de bloquer
+
+67
+00:02:34,590 --> 00:02:37,500
+le compteur pendant une journée ce qui
+
+68
+00:02:36,120 --> 00:02:41,010
+fait qu'on peut voir des nombres allant
+
+69
+00:02:37,500 --> 00:02:43,830
+jusqu'à 320 comme 300 2 303 fin vous les
+
+70
+00:02:41,010 --> 00:02:46,050
+connaissez les chiffres entre 300 et 320
+
+71
+00:02:43,830 --> 00:02:48,150
+normalement si vous êtes allé à l'école
+
+72
+00:02:46,050 --> 00:02:50,340
+maintenant dès que vous verrez quelqu'un
+
+73
+00:02:48,150 --> 00:02:53,820
+poster un commentaire du genre si toi
+
+74
+00:02:50,340 --> 00:03:00,830
+aussi tu le 301e pouces verts ou alors
+
+75
+00:02:53,820 --> 00:03:04,950
+300 une vue et 1340 de commentaire wtf
+
+76
+00:03:00,830 --> 00:03:05,490
+montrez-lui cette vidéo si votre devoir
+
+77
+00:03:04,950 --> 00:03:08,220
+civique
+
+78
+00:03:05,490 --> 00:03:09,270
+merci à nos martyrs ou number five c'est
+
+79
+00:03:08,220 --> 00:03:11,850
+pas comme il faut dire pour sa vidéo
+
+80
+00:03:09,270 --> 00:03:15,050
+d'explication c'est une chaîne youtube
+
+81
+00:03:11,850 --> 00:03:17,970
+qui parlent de chiffres
+
+82
+00:03:15,050 --> 00:03:21,209
+grosse grosse ambiance dans la vie du
+
+83
+00:03:17,970 --> 00:03:22,630
+mec des chiffres et je vous dis à très
+
+84
+00:03:21,209 --> 00:03:28,619
+vite
+
+85
+00:03:22,630 --> 00:03:28,619
+[Musique]

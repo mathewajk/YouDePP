@@ -1,0 +1,1419 @@
+1
+00:00:00,000 --> 00:00:04,680
+ciao a tutti caciotti e benvenuti in
+
+2
+00:00:01,350 --> 00:00:07,230
+questo nuovissimo video siamo tornati su
+
+3
+00:00:04,680 --> 00:00:10,050
+minecraft sono trovato a milano come
+
+4
+00:00:07,230 --> 00:00:12,570
+potete vedere è oggi andremo a vedere
+
+5
+00:00:10,050 --> 00:00:15,809
+insieme gli aggiornamenti che ci sono
+
+6
+00:00:12,570 --> 00:00:17,789
+stati in questo periodo di inattività
+
+7
+00:00:15,809 --> 00:00:19,439
+sono canale di due settimane uno diceva
+
+8
+00:00:17,789 --> 00:00:21,270
+due settimane cosa vuoi che sia qui
+
+9
+00:00:19,439 --> 00:00:23,519
+comunque sono riusciti tipo 20 video ad
+
+10
+00:00:21,270 --> 00:00:25,590
+agosto non è che proprio in archivi no è
+
+11
+00:00:23,519 --> 00:00:27,960
+uscito lo snapshot di minecraft va bene
+
+12
+00:00:25,590 --> 00:00:30,990
+va bene e tempi lo e direct su install
+
+13
+00:00:27,960 --> 00:00:33,270
+risorse su riuscito snapshot hanno messo
+
+14
+00:00:30,990 --> 00:00:36,180
+le api le api o di tipo what the fuck
+
+15
+00:00:33,270 --> 00:00:38,399
+che minecraft mondatora metterle assieme
+
+16
+00:00:36,180 --> 00:00:40,890
+fare le cose non ne ho la piu minima
+
+17
+00:00:38,399 --> 00:00:42,930
+idea fatto sta che ho installato lo
+
+18
+00:00:40,890 --> 00:00:45,660
+snapshot ora sto per andare a creare uno
+
+19
+00:00:42,930 --> 00:00:47,399
+mondo come vedete richiamato snapshot e
+
+20
+00:00:45,660 --> 00:00:49,620
+direi che possiamo procedere vediamo
+
+21
+00:00:47,399 --> 00:00:51,570
+insieme che cosa hanno inserito o qui
+
+22
+00:00:49,620 --> 00:00:54,570
+accanto a me comunque il changelog di
+
+23
+00:00:51,570 --> 00:00:58,410
+questa versione di minecraft che bene o
+
+24
+00:00:54,570 --> 00:01:01,859
+male ora è l'inizio della 1.15
+
+25
+00:00:58,410 --> 00:01:04,019
+teoricamente che uscirà bene o male
+
+26
+00:01:01,859 --> 00:01:05,880
+l'anno prossimo come succede sempre ho
+
+27
+00:01:04,019 --> 00:01:07,920
+quindi o a fine anno
+
+28
+00:01:05,880 --> 00:01:10,409
+l'anno prossimo ce n'è sempre così
+
+29
+00:01:07,920 --> 00:01:11,939
+comunque una bella sensazione di tornare
+
+30
+00:01:10,409 --> 00:01:15,210
+in minecraft signori
+
+31
+00:01:11,939 --> 00:01:19,080
+dobbiamo trovare delle api allora io ho
+
+32
+00:01:15,210 --> 00:01:21,960
+letto un po il centro come vi dicevo e
+
+33
+00:01:19,080 --> 00:01:25,380
+ho percepito un attimino le
+
+34
+00:01:21,960 --> 00:01:27,659
+caratteristiche di queste api mi pare
+
+35
+00:01:25,380 --> 00:01:30,420
+sia anche un modo per sensibilizzare le
+
+36
+00:01:27,659 --> 00:01:31,439
+persone all'ambiente tutto ciò che mi
+
+37
+00:01:30,420 --> 00:01:34,170
+riguarda
+
+38
+00:01:31,439 --> 00:01:37,290
+fatto sta che le api hanno degli alveari
+
+39
+00:01:34,170 --> 00:01:39,390
+e in teoria vanno a cercare il nettare
+
+40
+00:01:37,290 --> 00:01:39,990
+dei fiori quando lo trovano poi tornano
+
+41
+00:01:39,390 --> 00:01:42,720
+indietro
+
+42
+00:01:39,990 --> 00:01:44,130
+insomma il comportamento è molto simile
+
+43
+00:01:42,720 --> 00:01:46,920
+a quello di una x
+
+44
+00:01:44,130 --> 00:01:50,100
+inoltre quando un ape e infastidì tra
+
+45
+00:01:46,920 --> 00:01:52,710
+tetti attaccherà non solo ti attaccherà
+
+46
+00:01:50,100 --> 00:01:55,520
+però attaccando tibis che è un'app e non
+
+47
+00:01:52,710 --> 00:01:58,320
+è una vespa e c'è una grande differenza
+
+48
+00:01:55,520 --> 00:02:01,409
+perderà il suo pungiglione eccole passo
+
+49
+00:01:58,320 --> 00:02:02,579
+giganti perderà il suo pungiglione e
+
+50
+00:02:01,409 --> 00:02:05,040
+morirà
+
+51
+00:02:02,579 --> 00:02:06,450
+non trovando niente quindi non trovo
+
+52
+00:02:05,040 --> 00:02:08,729
+assolutamente niente
+
+53
+00:02:06,450 --> 00:02:11,370
+porca vacca ma queste api sono giganti
+
+54
+00:02:08,729 --> 00:02:12,530
+cioè non sono dei delle api sono dei
+
+55
+00:02:11,370 --> 00:02:15,770
+chihuahua con lei
+
+56
+00:02:12,530 --> 00:02:19,310
+ali parliamone cosa sono dice sono dei
+
+57
+00:02:15,770 --> 00:02:21,040
+fagottini non sono api cercava caso più
+
+58
+00:02:19,310 --> 00:02:24,050
+grandi le api dei pipistrelli
+
+59
+00:02:21,040 --> 00:02:28,250
+allora ti ho vista un'altra di qua
+
+60
+00:02:24,050 --> 00:02:33,290
+cerchiamo un attimino ne ho viste ii
+
+61
+00:02:28,250 --> 00:02:34,880
+ok ok questa è un alveare immagino ce ne
+
+62
+00:02:33,290 --> 00:02:38,150
+sono un paio di alveari qualche bioma
+
+63
+00:02:34,880 --> 00:02:40,250
+siamo siamo del bioma dove me lo dice
+
+64
+00:02:38,150 --> 00:02:42,350
+sotto foresta
+
+65
+00:02:40,250 --> 00:02:45,140
+ok nella foresta abbiamo trovato due
+
+66
+00:02:42,350 --> 00:02:48,650
+alveari uno accanto all'altro
+
+67
+00:02:45,140 --> 00:02:51,530
+eccolo pure rotto non volevo scusatemi
+
+68
+00:02:48,650 --> 00:02:54,739
+in teoria tra l'altro in est spo nano
+
+69
+00:02:51,530 --> 00:02:56,870
+anche se non ci sono api dentro e le api
+
+70
+00:02:54,739 --> 00:02:59,209
+quando non hanno un est d'altro non c'è
+
+71
+00:02:56,870 --> 00:03:01,519
+in cui stare in cui dormire
+
+72
+00:02:59,209 --> 00:03:03,830
+prendono e vanno finché non ne trovano
+
+73
+00:03:01,519 --> 00:03:07,340
+uno quindi che hanno anche tutta una
+
+74
+00:03:03,830 --> 00:03:11,569
+meccanica particolare per mandare in
+
+75
+00:03:07,340 --> 00:03:12,890
+survival game mode survival perché
+
+76
+00:03:11,569 --> 00:03:16,250
+voglio analizzare un attimino la
+
+77
+00:03:12,890 --> 00:03:18,709
+situazione e capire se queste api sono
+
+78
+00:03:16,250 --> 00:03:21,170
+pericolose come dicevo hanno simulato un
+
+79
+00:03:18,709 --> 00:03:21,799
+po le caratteristiche delle api nella
+
+80
+00:03:21,170 --> 00:03:24,829
+vita reale
+
+81
+00:03:21,799 --> 00:03:27,590
+quindi in teoria non dovrebbero fare un
+
+82
+00:03:24,829 --> 00:03:29,690
+paio novista a ok non spesso ma venne
+
+83
+00:03:27,590 --> 00:03:31,549
+vista una di un colore diverso pensavamo
+
+84
+00:03:29,690 --> 00:03:32,060
+avesse raggiunto anche tipo calabroni e
+
+85
+00:03:31,549 --> 00:03:34,010
+robe così
+
+86
+00:03:32,060 --> 00:03:35,989
+quelli fanno paura quelli fanno paura i
+
+87
+00:03:34,010 --> 00:03:37,040
+calabroni le vespe quelli scappate come
+
+88
+00:03:35,989 --> 00:03:39,799
+sono ci fosse un domani
+
+89
+00:03:37,040 --> 00:03:41,329
+guarda quante ap ci sono allora ok
+
+90
+00:03:39,799 --> 00:03:42,590
+proviamo attaccarla
+
+91
+00:03:41,329 --> 00:03:45,829
+quanto a caso la p e gli occhi sono
+
+92
+00:03:42,590 --> 00:03:49,209
+diventati rossi e no che succede mi ha
+
+93
+00:03:45,829 --> 00:03:51,829
+attaccato mi ha avvelenato in teoria
+
+94
+00:03:49,209 --> 00:03:54,260
+dovrebbe dovrei avere il suo pungiglione
+
+95
+00:03:51,829 --> 00:03:55,730
+da qualche parte sbaglio non ho il
+
+96
+00:03:54,260 --> 00:03:59,420
+pungiglione da nessuna parte
+
+97
+00:03:55,730 --> 00:04:02,570
+e lui è ancora vivo se mi avvicino mi
+
+98
+00:03:59,420 --> 00:04:05,299
+attacca di nuovo no no semplicemente no
+
+99
+00:04:02,570 --> 00:04:07,220
+fatto sta che c'era scritto che avrebbe
+
+100
+00:04:05,299 --> 00:04:10,430
+perso il light un giro nella perso però
+
+101
+00:04:07,220 --> 00:04:12,560
+o sbaglio e infatti a me sta morendo
+
+102
+00:04:10,430 --> 00:04:15,190
+piano piano ha gli occhi rossi cioè dopo
+
+103
+00:04:12,560 --> 00:04:18,019
+che ti attacca 1 ore cioè teoricamente
+
+104
+00:04:15,190 --> 00:04:22,340
+in teoria dovrebbe morire anzi vi dirò
+
+105
+00:04:18,019 --> 00:04:24,050
+una cosa quando vi punge un'ape intanto
+
+106
+00:04:22,340 --> 00:04:26,120
+imparato a riconoscere un ape da una
+
+107
+00:04:24,050 --> 00:04:27,919
+vespa consiglio pratico della vita
+
+108
+00:04:26,120 --> 00:04:30,290
+perché bene o male qualcuno in un prato
+
+109
+00:04:27,919 --> 00:04:31,430
+a fare un picnic passeggiata la vostra
+
+110
+00:04:30,290 --> 00:04:33,830
+ragazza qualcosa
+
+111
+00:04:31,430 --> 00:04:35,630
+chiamateci finite sempre ok non è morta
+
+112
+00:04:33,830 --> 00:04:37,550
+è ritornata normale ho imparato la
+
+113
+00:04:35,630 --> 00:04:40,610
+differenza tra un ape e una vespa e
+
+114
+00:04:37,550 --> 00:04:42,889
+qualsiasi altro tipo di insetto con
+
+115
+00:04:40,610 --> 00:04:45,260
+pungiglione però trap e vespa dovrebbe
+
+116
+00:04:42,889 --> 00:04:47,720
+stare darvi la vita abbastanza imparate
+
+117
+00:04:45,260 --> 00:04:49,280
+questa differenza se un ape per un
+
+118
+00:04:47,720 --> 00:04:51,889
+qualche motivo ma è davvero difficile
+
+119
+00:04:49,280 --> 00:04:54,199
+davvero dargli fastidio perché vi ponga
+
+120
+00:04:51,889 --> 00:04:56,060
+se una pv punge ha comunque l'ha perso
+
+121
+00:04:54,199 --> 00:04:58,639
+il pungiglione perché guarda se io
+
+122
+00:04:56,060 --> 00:05:01,490
+faccio così lui era mi attaccano mi
+
+123
+00:04:58,639 --> 00:05:03,169
+attaccano tutte porca merda ok ha perso
+
+124
+00:05:01,490 --> 00:05:06,080
+il pungiglione ama fa la capriola per
+
+125
+00:05:03,169 --> 00:05:08,419
+pungervi ok cielo un girone davanti però
+
+126
+00:05:06,080 --> 00:05:10,340
+è nella gamba e nella gamba guarda cielo
+
+127
+00:05:08,419 --> 00:05:12,830
+lì in basso pungiglione
+
+128
+00:05:10,340 --> 00:05:15,470
+ok c'è non sono palesemente morton è
+
+129
+00:05:12,830 --> 00:05:16,970
+appena nato un altro dall est dove
+
+130
+00:05:15,470 --> 00:05:18,620
+capire se questi muoiono non muoiono c'è
+
+131
+00:05:16,970 --> 00:05:20,120
+scritto che morivano teoricamente
+
+132
+00:05:18,620 --> 00:05:21,740
+dovrebbero morire a vi spiego la
+
+133
+00:05:20,120 --> 00:05:25,100
+differenza la via esp e attaccano un po
+
+134
+00:05:21,740 --> 00:05:26,120
+a caso sono bastardi pungola manetta
+
+135
+00:05:25,100 --> 00:05:29,090
+senza nessun problema
+
+136
+00:05:26,120 --> 00:05:32,440
+non perdono il pungiglione invece le api
+
+137
+00:05:29,090 --> 00:05:36,860
+a è morta e morte non ha dato nulla
+
+138
+00:05:32,440 --> 00:05:39,289
+peccato invece dicevo le api quando
+
+139
+00:05:36,860 --> 00:05:41,419
+pungono perdono la parte il perdono il
+
+140
+00:05:39,289 --> 00:05:42,680
+pungiglione e insieme a pungiglione
+
+141
+00:05:41,419 --> 00:05:45,380
+perdono la parte finale dell'addome
+
+142
+00:05:42,680 --> 00:05:49,039
+quindi poi muoiono
+
+143
+00:05:45,380 --> 00:05:51,710
+ora se volete un suggerimento se siete a
+
+144
+00:05:49,039 --> 00:05:54,919
+favore degli insetti viva le api che ci
+
+145
+00:05:51,710 --> 00:05:58,000
+salvano il mondo quando se per un
+
+146
+00:05:54,919 --> 00:06:00,889
+qualche motivo un'ape dovesse spingervi
+
+147
+00:05:58,000 --> 00:06:02,990
+non tirate la via con la mano tanto la
+
+148
+00:06:00,889 --> 00:06:05,360
+diciamo che la puntura di ape perché voi
+
+149
+00:06:02,990 --> 00:06:07,940
+non siete led c non fa male è poi
+
+150
+00:06:05,360 --> 00:06:10,639
+davvero un pizzichino aspettate non
+
+151
+00:06:07,940 --> 00:06:12,910
+toccate latte vedete vedrete che la
+
+152
+00:06:10,639 --> 00:06:16,039
+penserà il girare su se stessa per
+
+153
+00:06:12,910 --> 00:06:18,020
+cercare di recuperare il pungiglione
+
+154
+00:06:16,039 --> 00:06:20,030
+perché se voi la tirate via si stacca il
+
+155
+00:06:18,020 --> 00:06:22,190
+pungiglione se voi state fermi vedrete
+
+156
+00:06:20,030 --> 00:06:24,380
+che sarà a muoversi in tondo
+
+157
+00:06:22,190 --> 00:06:26,270
+finché il punto e non si stacca dalla
+
+158
+00:06:24,380 --> 00:06:28,729
+pelle ea quel punto volerà via
+
+159
+00:06:26,270 --> 00:06:30,560
+tranquillissima a meno che non vi ponga
+
+160
+00:06:28,729 --> 00:06:32,300
+il nuovo a quel punto a poco stronzo
+
+161
+00:06:30,560 --> 00:06:35,150
+no sto scherzando però insomma avete
+
+162
+00:06:32,300 --> 00:06:37,219
+capito il senso se vi capita ecco sapete
+
+163
+00:06:35,150 --> 00:06:39,169
+come fare e se siete con una ragazza
+
+164
+00:06:37,219 --> 00:06:42,050
+potete anche fare bella figura e dire
+
+165
+00:06:39,169 --> 00:06:43,159
+ma guarda io so queste cose che essere
+
+166
+00:06:42,050 --> 00:06:46,069
+pro punto a favore
+
+167
+00:06:43,159 --> 00:06:47,779
+fidatevi ad ogni modo parliamo del
+
+168
+00:06:46,069 --> 00:06:49,909
+changelog perché noi stiamo passando di
+
+169
+00:06:47,779 --> 00:06:52,129
+api di ambiente e di proprio altro
+
+170
+00:06:49,909 --> 00:06:55,159
+allora apriamo il centro che vediamo
+
+171
+00:06:52,129 --> 00:06:57,740
+insieme all'aggiunto le api le api con i
+
+172
+00:06:55,159 --> 00:07:00,919
+nidi d'ape ovviamente honey comb
+
+173
+00:06:57,740 --> 00:07:01,999
+ok allora honey comb in teoria andiamo
+
+174
+00:07:00,919 --> 00:07:04,550
+in game mode
+
+175
+00:07:01,999 --> 00:07:06,830
+anzi no entry a non serve non serve
+
+176
+00:07:04,550 --> 00:07:08,840
+andare in game mode gaudio android
+
+177
+00:07:06,830 --> 00:07:11,029
+gaming più che altro che sto morendo
+
+178
+00:07:08,840 --> 00:07:14,629
+andrò in game mode e andrò a trovare un
+
+179
+00:07:11,029 --> 00:07:15,830
+est che era qui nella foresta
+
+180
+00:07:14,629 --> 00:07:20,469
+se non sbaglio da queste parti
+
+181
+00:07:15,830 --> 00:07:23,719
+addirittura ok prenderemo questo qui
+
+182
+00:07:20,469 --> 00:07:25,969
+guarda lui è sporco di nettare dovete
+
+183
+00:07:23,719 --> 00:07:29,749
+chiarito tutto biancastro lui ora arriva
+
+184
+00:07:25,969 --> 00:07:32,830
+qui ed esce che è pulito figata figata
+
+185
+00:07:29,749 --> 00:07:35,150
+lui va dai fiori prende il nettare
+
+186
+00:07:32,830 --> 00:07:38,389
+da notare che anche molto più lento
+
+187
+00:07:35,150 --> 00:07:39,560
+perché più pesante aveva sopra boom e si
+
+188
+00:07:38,389 --> 00:07:43,599
+scarica
+
+189
+00:07:39,560 --> 00:07:46,490
+allora a questo punto io posso andare in
+
+190
+00:07:43,599 --> 00:07:48,589
+sull'inventario prendere tipo non era il
+
+191
+00:07:46,490 --> 00:07:51,889
+secchio era la botola prendere una
+
+192
+00:07:48,589 --> 00:07:56,000
+bottiglia vuota andare in survival mode
+
+193
+00:07:51,889 --> 00:07:59,000
+e cliccare col destro sbaglio sbaglio
+
+194
+00:07:56,000 --> 00:08:02,149
+palesemente a meno che non debba clicca
+
+195
+00:07:59,000 --> 00:08:04,849
+nessuna app e carica di nettare potrebbe
+
+196
+00:08:02,149 --> 00:08:07,250
+essere la sua cover e tela penn non mi
+
+197
+00:08:04,849 --> 00:08:08,990
+fa assolutamente nulla non è veritiera
+
+198
+00:08:07,250 --> 00:08:10,460
+questa cosa se mi avvicinassi così tanto
+
+199
+00:08:08,990 --> 00:08:13,879
+all'alveare probabilmente inizierebbero
+
+200
+00:08:10,460 --> 00:08:15,589
+aggiungermi però non funziona è pieno di
+
+201
+00:08:13,879 --> 00:08:18,289
+miele deve essere pieno per poter
+
+202
+00:08:15,589 --> 00:08:20,060
+prendere una porzione di miele e poterla
+
+203
+00:08:18,289 --> 00:08:22,339
+bere tra 2000 e si può anche trasformare
+
+204
+00:08:20,060 --> 00:08:24,080
+in zucchero poi ci sono un botto di
+
+205
+00:08:22,339 --> 00:08:28,479
+altre cose che possiamo vedere allora
+
+206
+00:08:24,080 --> 00:08:34,219
+game mode se ce la faccio creatives
+
+207
+00:08:28,479 --> 00:08:37,819
+andiamo a vedere intanto il nest giusto
+
+208
+00:08:34,219 --> 00:08:40,519
+no non il nes live scusate perchè live è
+
+209
+00:08:37,819 --> 00:08:44,810
+quello artificiale il nes è quello fatto
+
+210
+00:08:40,519 --> 00:08:47,750
+da loro in teoria sono identiche per le
+
+211
+00:08:44,810 --> 00:08:49,370
+api cioè uno si trova nell'ambiente e
+
+212
+00:08:47,750 --> 00:08:52,010
+può essere accolto con sweet touch tra
+
+213
+00:08:49,370 --> 00:08:52,760
+l'altro l'altro lo cantiamo noi vedere
+
+214
+00:08:52,010 --> 00:08:54,890
+crafting
+
+215
+00:08:52,760 --> 00:08:58,100
+tra l'altro di questo bee hive prendiamo
+
+216
+00:08:54,890 --> 00:09:04,010
+una casting table e ne ho vedere insieme
+
+217
+00:08:58,100 --> 00:09:04,370
+allora b non melo non me lo trova numero
+
+218
+00:09:04,010 --> 00:09:09,080
+troppo
+
+219
+00:09:04,370 --> 00:09:11,870
+ecco questo è crafting servono delle the
+
+220
+00:09:09,080 --> 00:09:14,030
+plex praticamente normalissime e degli
+
+221
+00:09:11,870 --> 00:09:17,930
+honey comb iole com non so come si
+
+222
+00:09:14,030 --> 00:09:20,030
+ottengono ancora è ok per ottenere la
+
+223
+00:09:17,930 --> 00:09:22,520
+unicom bisogno di qualcosa pieno di
+
+224
+00:09:20,030 --> 00:09:26,780
+miele tipo questo mi sembra abbastanza
+
+225
+00:09:22,520 --> 00:09:29,510
+pieno di miele e con delle shears quindi
+
+226
+00:09:26,780 --> 00:09:31,160
+delle cesoie cliccando col destro
+
+227
+00:09:29,510 --> 00:09:32,600
+ora questo non è pieno di miele ma non
+
+228
+00:09:31,160 --> 00:09:35,390
+so cosa voglia dire più di miele a
+
+229
+00:09:32,600 --> 00:09:37,400
+questo punto perché non vedo una
+
+230
+00:09:35,390 --> 00:09:39,550
+differenza nella texture vedi mi sembra
+
+231
+00:09:37,400 --> 00:09:41,570
+abbastanza simile asino mi sembra uguale
+
+232
+00:09:39,550 --> 00:09:44,270
+quindi non riesco a capire quando
+
+233
+00:09:41,570 --> 00:09:47,930
+effettivamente è pieno o meno però a
+
+234
+00:09:44,270 --> 00:09:50,990
+riempire ad esempio di fiori lo so tipo
+
+235
+00:09:47,930 --> 00:09:53,420
+col flower è un botto di con flowers po
+
+236
+00:09:50,990 --> 00:09:55,520
+in giro le facciamo sfogare un botto di
+
+237
+00:09:53,420 --> 00:09:57,700
+pisa
+
+238
+00:09:55,520 --> 00:10:02,600
+ok ora o ci sono anche le apette
+
+239
+00:09:57,700 --> 00:10:06,050
+piccoline cucciole allora tanto facciamo
+
+240
+00:10:02,600 --> 00:10:08,300
+times 70 e andiamo di giorno per un
+
+241
+00:10:06,050 --> 00:10:10,610
+semplice motivo parte quanto kaki ce ne
+
+242
+00:10:08,300 --> 00:10:15,500
+sono però come nella vita reale
+
+243
+00:10:10,610 --> 00:10:18,320
+le api di notte dormono dormono perché
+
+244
+00:10:15,500 --> 00:10:20,690
+non ci vedono e quindi devono dormire
+
+245
+00:10:18,320 --> 00:10:23,510
+sarebbero anche di notte probabilmente a
+
+246
+00:10:20,690 --> 00:10:26,450
+ok ora è pieno di miele
+
+247
+00:10:23,510 --> 00:10:28,580
+quando i buchetti diventano gialli vuol
+
+248
+00:10:26,450 --> 00:10:31,580
+dire che è pieno di miele
+
+249
+00:10:28,580 --> 00:10:34,360
+a questo punto con le she has click col
+
+250
+00:10:31,580 --> 00:10:39,280
+destro a e diventano cattivissimi
+
+251
+00:10:34,360 --> 00:10:41,900
+diventano tutti estremamente cattivi wow
+
+252
+00:10:39,280 --> 00:10:44,030
+ok qui per terra ci sono delle
+
+253
+00:10:41,900 --> 00:10:48,140
+particelle mi ha dato uno honey comb
+
+254
+00:10:44,030 --> 00:10:49,790
+va bene e prima di fare qualsiasi cosa
+
+255
+00:10:48,140 --> 00:10:51,140
+quindi a questo punto un suggerimento
+
+256
+00:10:49,790 --> 00:10:53,120
+che posso darvi che c'è scritto nel
+
+257
+00:10:51,140 --> 00:10:55,520
+changelog è il seguente
+
+258
+00:10:53,120 --> 00:11:00,950
+prendete costruite un cam fire lo
+
+259
+00:10:55,520 --> 00:11:02,900
+mettete sotto il l'alveare oil nest
+
+260
+00:11:00,950 --> 00:11:06,290
+quello che avete a disposizione live
+
+261
+00:11:02,900 --> 00:11:09,829
+nest e questo fa andare
+
+262
+00:11:06,290 --> 00:11:11,540
+le api in modalità ci vuol dire sempre
+
+263
+00:11:09,829 --> 00:11:14,029
+se non passano sopra il fuoco stamane
+
+264
+00:11:11,540 --> 00:11:17,360
+dette così non muoiono tutte vuol dire
+
+265
+00:11:14,029 --> 00:11:19,699
+che non togliamo dovrebbero attaccarli
+
+266
+00:11:17,360 --> 00:11:22,880
+ecco ecco lì dove sono io né combinato
+
+267
+00:11:19,699 --> 00:11:24,110
+più di un'ora dati 2 ottimo e curate
+
+268
+00:11:22,880 --> 00:11:25,970
+questo un pin ed inetta e la sto
+
+269
+00:11:24,110 --> 00:11:28,910
+tornando alla base
+
+270
+00:11:25,970 --> 00:11:30,380
+beh per loro cosa mi aspetto nei
+
+271
+00:11:28,910 --> 00:11:34,459
+prossimi aggiornamenti
+
+272
+00:11:30,380 --> 00:11:36,500
+quasi sicuramente una tuta da apicoltore
+
+273
+00:11:34,459 --> 00:11:39,230
+la voglio assolutamente perché serve
+
+274
+00:11:36,500 --> 00:11:42,199
+fighissima una roba tipo la chaine armor
+
+275
+00:11:39,230 --> 00:11:44,680
+pro kraft abile magari con con la seta
+
+276
+00:11:42,199 --> 00:11:47,959
+no quel con le stringhe in modo da avere
+
+277
+00:11:44,680 --> 00:11:49,850
+una bella protezione questo magari
+
+278
+00:11:47,959 --> 00:11:51,680
+veniamo da quale siamo qua in basso così
+
+279
+00:11:49,850 --> 00:11:52,790
+non muoiono queste api che serve un
+
+280
+00:11:51,680 --> 00:11:56,060
+peccato
+
+281
+00:11:52,790 --> 00:12:00,319
+e cos'altro mi aspetto un utilizzo più
+
+282
+00:11:56,060 --> 00:12:01,940
+vasto del miele e dei leoni combo magari
+
+283
+00:12:00,319 --> 00:12:02,990
+per qualche pozione qualche posizione
+
+284
+00:12:01,940 --> 00:12:04,880
+utile
+
+285
+00:12:02,990 --> 00:12:06,529
+non lo so che potrei potrebbe esserci
+
+286
+00:12:04,880 --> 00:12:08,209
+che utilizza il miele scrive temono che
+
+287
+00:12:06,529 --> 00:12:09,800
+sotto nei commenti e magari c'è qualche
+
+288
+00:12:08,209 --> 00:12:11,660
+suggerimento utile poi lo scriviamo su
+
+289
+00:12:09,800 --> 00:12:13,639
+twitter a quelli dell'amore young e
+
+290
+00:12:11,660 --> 00:12:17,449
+raggiungeranno non si sa mai
+
+291
+00:12:13,639 --> 00:12:18,860
+un'altra cosa molto importante è un
+
+292
+00:12:17,449 --> 00:12:19,730
+avanzamento dal punto di vista
+
+293
+00:12:18,860 --> 00:12:21,649
+dell'automazione
+
+294
+00:12:19,730 --> 00:12:25,399
+per quanto riguarda i dispenser ora i
+
+295
+00:12:21,649 --> 00:12:29,120
+dispenser dispense prende un dispenser
+
+296
+00:12:25,399 --> 00:12:32,980
+ci metto dentro o una share
+
+297
+00:12:29,120 --> 00:12:37,600
+oppure una una bottiglia di vetro vuota
+
+298
+00:12:32,980 --> 00:12:40,430
+cosa fa praticamente è come se riuscisse
+
+299
+00:12:37,600 --> 00:12:42,110
+come perle comunque per le pecore
+
+300
+00:12:40,430 --> 00:12:44,120
+quando c'è una chance là dentro
+
+301
+00:12:42,110 --> 00:12:45,769
+praticamente automatizzato se io mando
+
+302
+00:12:44,120 --> 00:12:48,139
+un impulso di ed stone e con una
+
+303
+00:12:45,769 --> 00:12:52,670
+bottiglietta dentro la riempie di miele
+
+304
+00:12:48,139 --> 00:12:54,649
+oppure se ci sono le shares cliccherà
+
+305
+00:12:52,670 --> 00:12:56,689
+col destro e usciranno gli honey comb
+
+306
+00:12:54,649 --> 00:12:59,930
+quindi nel senso stiamo sempre più
+
+307
+00:12:56,689 --> 00:13:01,310
+avvicinandoci a una mini automazione
+
+308
+00:12:59,930 --> 00:13:03,350
+certo non sanno livelli di manca fumo
+
+309
+00:13:01,310 --> 00:13:04,519
+dato ma per fortuna aggiungerei
+
+310
+00:13:03,350 --> 00:13:06,670
+altrimenti sarebbe completamente un
+
+311
+00:13:04,519 --> 00:13:09,580
+altro gioco e
+
+312
+00:13:06,670 --> 00:13:12,550
+è però interessante ecco questo è il
+
+313
+00:13:09,580 --> 00:13:15,820
+miele vita tre pezzi di sugar è questo
+
+314
+00:13:12,550 --> 00:13:18,970
+questo no ok quindi l'unico serve solo
+
+315
+00:13:15,820 --> 00:13:20,860
+per captare di aive sembrerebbe di sì a
+
+316
+00:13:18,970 --> 00:13:22,570
+meno che non possa essere mangiato se
+
+317
+00:13:20,860 --> 00:13:24,840
+non può essere mangiato non può essere
+
+318
+00:13:22,570 --> 00:13:27,970
+mangiato gli uomi e le quanta
+
+319
+00:13:24,840 --> 00:13:31,150
+saturazione mida mancano 5 cosciotti
+
+320
+00:13:27,970 --> 00:13:32,530
+vede a 3 ora purtroppo non penso possa
+
+321
+00:13:31,150 --> 00:13:35,080
+essere staccato quindi questo è un
+
+322
+00:13:32,530 --> 00:13:39,490
+problema altrimenti potrebbe essere
+
+323
+00:13:35,080 --> 00:13:41,980
+anche una bella farm di cibo nel senso o
+
+324
+00:13:39,490 --> 00:13:44,860
+nei se faccio così ecco sono
+
+325
+00:13:41,980 --> 00:13:47,560
+semplicemente uno alla volta diventa
+
+326
+00:13:44,860 --> 00:13:49,510
+davvero scomodo quindi il miele più una
+
+327
+00:13:47,560 --> 00:13:51,490
+roba così for fun per averlo come se
+
+328
+00:13:49,510 --> 00:13:54,010
+avete un server con degli amici ci può
+
+329
+00:13:51,490 --> 00:13:55,660
+stare però per il momento siamo qui uno
+
+330
+00:13:54,010 --> 00:13:57,370
+snapshot quindi sono curioso di vedere
+
+331
+00:13:55,660 --> 00:13:58,960
+quali altri aggiornamenti ci saranno
+
+332
+00:13:57,370 --> 00:14:00,190
+cosa faranno e di qua di là
+
+333
+00:13:58,960 --> 00:14:03,550
+l'ultima cosa mi stavo quasi per
+
+334
+00:14:00,190 --> 00:14:06,370
+scordare se prete dei fiori e andate da
+
+335
+00:14:03,550 --> 00:14:07,840
+delle api potete farle accoppiare ora
+
+336
+00:14:06,370 --> 00:14:10,600
+queste sono piccoline se ne prende due
+
+337
+00:14:07,840 --> 00:14:11,440
+grandi ce ne sono ancora due grandi nel
+
+338
+00:14:10,600 --> 00:14:14,440
+mio mondo
+
+339
+00:14:11,440 --> 00:14:16,660
+no sul 3 piccolina alla grande se ne
+
+340
+00:14:14,440 --> 00:14:18,970
+prende due grandi e clicco con dei fiori
+
+341
+00:14:16,660 --> 00:14:21,430
+si accoppiano quindi potete fare delle
+
+342
+00:14:18,970 --> 00:14:23,140
+fan di api non sono ancora qua gli utili
+
+343
+00:14:21,430 --> 00:14:25,960
+saranno in futuro ma come dicevo sono
+
+344
+00:14:23,140 --> 00:14:27,820
+fiducioso comunque per il momento è
+
+345
+00:14:25,960 --> 00:14:28,930
+tutto io mica so tantissimo per la
+
+346
+00:14:27,820 --> 00:14:31,420
+visione ci vediamo
+
+347
+00:14:28,930 --> 00:14:33,730
+prossimamente su canale con altri video
+
+348
+00:14:31,420 --> 00:14:35,440
+e ora capisco cosa fai passare delle
+
+349
+00:14:33,730 --> 00:14:37,840
+sette tranquilli non mi sono
+
+350
+00:14:35,440 --> 00:14:40,630
+completamente dimenticato di nulla però
+
+351
+00:14:37,840 --> 00:14:42,520
+devo ancora pensarci un attimino magari
+
+352
+00:14:40,630 --> 00:14:44,560
+c'era un video in cui vi chiedo
+
+353
+00:14:42,520 --> 00:14:46,890
+consiglio non lo so prima di tutto io vi
+
+354
+00:14:44,560 --> 00:15:05,390
+saluto ciao tutti
+
+355
+00:14:46,890 --> 00:15:05,390
+[Musica]

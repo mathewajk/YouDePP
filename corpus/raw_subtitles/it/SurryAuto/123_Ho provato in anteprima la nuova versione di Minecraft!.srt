@@ -1,0 +1,1047 @@
+1
+00:00:00,000 --> 00:00:05,549
+siamo già al 1 dove stiamo andando
+
+2
+00:00:02,360 --> 00:00:06,870
+nessuno lo sa come si temette di andare
+
+3
+00:00:05,549 --> 00:00:08,610
+in questo posto qua abbiamo c'è un
+
+4
+00:00:06,870 --> 00:00:11,190
+ufficio figo dove dobbiamo andare a fare
+
+5
+00:00:08,610 --> 00:00:13,639
+le cose e non mi vuoi dire dove andiamo
+
+6
+00:00:11,190 --> 00:00:16,109
+no sorpresa forte da dire che stefano
+
+7
+00:00:13,639 --> 00:00:19,760
+non lo so serio tu sei li vendiamo
+
+8
+00:00:16,109 --> 00:00:19,760
+aperto perché io non so dove andiamo
+
+9
+00:00:24,840 --> 00:00:29,700
+se non distrugge perche i ragazzi siamo
+
+10
+00:00:28,080 --> 00:00:33,150
+arrivati questo è uno spazio che è stato
+
+11
+00:00:29,700 --> 00:00:35,640
+allestito da nvidia per farmi provare la
+
+12
+00:00:33,150 --> 00:00:37,680
+versione raytracing di minecraft è una
+
+13
+00:00:35,640 --> 00:00:39,270
+beta non so ancora quando uscirà quindi
+
+14
+00:00:37,680 --> 00:00:42,120
+sono abbastanza fortunato ad essere qui
+
+15
+00:00:39,270 --> 00:00:44,699
+e vediamo insieme di che cosa si tratta
+
+16
+00:00:42,120 --> 00:00:46,590
+mio cugino ce l'ha già in cantina per
+
+17
+00:00:44,699 --> 00:00:49,710
+che tuo zio lavora alla cia
+
+18
+00:00:46,590 --> 00:00:51,960
+certo una scusa allora signore e signori
+
+19
+00:00:49,710 --> 00:00:55,040
+mi trovo all'interno di minecraft dicevo
+
+20
+00:00:51,960 --> 00:00:57,000
+è una beta ed è la beta del ray tracing
+
+21
+00:00:55,040 --> 00:01:00,660
+praticamente grazie alle schede nvidia
+
+22
+00:00:57,000 --> 00:01:03,660
+c'è la possibilità di simulare il raggio
+
+23
+00:01:00,660 --> 00:01:05,070
+di luce in maniera abbastanza realistica
+
+24
+00:01:03,660 --> 00:01:07,350
+rispetto a quello che abbiamo visto
+
+25
+00:01:05,070 --> 00:01:09,509
+finora e minecraft cioè l shaders in cui
+
+26
+00:01:07,350 --> 00:01:11,490
+non c'era un vero calcolo della
+
+27
+00:01:09,509 --> 00:01:14,280
+proiezione della luce tutto quello che
+
+28
+00:01:11,490 --> 00:01:15,000
+rappresenta il blocco su cui sbatte cose
+
+29
+00:01:14,280 --> 00:01:17,130
+di questo tipo
+
+30
+00:01:15,000 --> 00:01:18,300
+ora vorrei crisi invece c'è come
+
+31
+00:01:17,130 --> 00:01:20,130
+dicevano ancora una beta quindi
+
+32
+00:01:18,300 --> 00:01:22,140
+potenzialmente in futuro dovrebbero
+
+33
+00:01:20,130 --> 00:01:24,119
+essere alcuna dei miglioramenti e niente
+
+34
+00:01:22,140 --> 00:01:26,460
+vediamo un po in giro però fare un tour
+
+35
+00:01:24,119 --> 00:01:27,840
+di questo mondo praticamente a poiché
+
+36
+00:01:26,460 --> 00:01:29,640
+sono in capi quindi posso muovermi
+
+37
+00:01:27,840 --> 00:01:31,830
+liberamente posso anche distruggere
+
+38
+00:01:29,640 --> 00:01:33,030
+tutto dovete con i quali ha passato
+
+39
+00:01:31,830 --> 00:01:35,520
+qualcuno per distrutto un po tutti i
+
+40
+00:01:33,030 --> 00:01:38,130
+blocchi stato gianluca spoiler comunque
+
+41
+00:01:35,520 --> 00:01:40,860
+allora come te te vedere l'effetto di
+
+42
+00:01:38,130 --> 00:01:43,259
+luce che viene generato da questo da
+
+43
+00:01:40,860 --> 00:01:45,479
+questo motore grafico è una bomba
+
+44
+00:01:43,259 --> 00:01:47,340
+abbiamo già visto cose molto fighe con
+
+45
+00:01:45,479 --> 00:01:49,080
+le shaders nel corso degli anni
+
+46
+00:01:47,340 --> 00:01:51,630
+qual è la differenza come dicevo prima
+
+47
+00:01:49,080 --> 00:01:54,869
+il ray tracing è un motore che consente
+
+48
+00:01:51,630 --> 00:01:58,170
+di calcolare la direzione del raggio ma
+
+49
+00:01:54,869 --> 00:02:00,630
+non solo di simulare anche come sarebbe
+
+50
+00:01:58,170 --> 00:02:02,940
+quel raggio di luce si sbattesse contro
+
+51
+00:02:00,630 --> 00:02:04,709
+un certo tipo di blocco con alcuni
+
+52
+00:02:02,940 --> 00:02:06,539
+blocchi che sono più opachi di altri
+
+53
+00:02:04,709 --> 00:02:08,250
+quindi riflettono bene una luce ad
+
+54
+00:02:06,539 --> 00:02:09,780
+esempio qui sono all'interno di quella
+
+55
+00:02:08,250 --> 00:02:11,130
+che sembrerebbe essere un'arena di
+
+56
+00:02:09,780 --> 00:02:12,960
+gladiatori
+
+57
+00:02:11,130 --> 00:02:15,420
+una versione un po strana un colosseo
+
+58
+00:02:12,960 --> 00:02:17,400
+perché è quadrata non è non è tornata
+
+59
+00:02:15,420 --> 00:02:20,550
+ormai carte e quindi va bene ricordate
+
+60
+00:02:17,400 --> 00:02:22,970
+il pavimento sembra cioè sembra che ci
+
+61
+00:02:20,550 --> 00:02:25,680
+hanno passato ad acquistare acqua
+
+62
+00:02:22,970 --> 00:02:29,790
+fantastico c'è uno strato d'acqua
+
+63
+00:02:25,680 --> 00:02:32,970
+mi sembra sempre vedere la straniera in
+
+64
+00:02:29,790 --> 00:02:33,630
+aria quanto conta stessa sta roba per un
+
+65
+00:02:32,970 --> 00:02:35,490
+blocco
+
+66
+00:02:33,630 --> 00:02:37,500
+vediamo se acqua davvero non può essere
+
+67
+00:02:35,490 --> 00:02:39,930
+acqua invece acqua ci sono gli slam
+
+68
+00:02:37,500 --> 00:02:41,220
+sopra l'acqua fantastico ma sono nella
+
+69
+00:02:39,930 --> 00:02:43,590
+versione di windows tel
+
+70
+00:02:41,220 --> 00:02:46,710
+quindi ora verso le java se prendiamo un
+
+71
+00:02:43,590 --> 00:02:50,310
+secchiello d'acqua e lo caccio ad
+
+72
+00:02:46,710 --> 00:02:52,650
+esempio qua sopra vedete l'acqua è
+
+73
+00:02:50,310 --> 00:02:54,720
+trasparente è pulitissima nell east
+
+74
+00:02:52,650 --> 00:02:57,930
+acqua così indicano che forse solo tipo
+
+75
+00:02:54,720 --> 00:02:59,970
+incerte calette in sardegna un'acqua
+
+76
+00:02:57,930 --> 00:03:02,430
+così pulita allora il sole è lì in alto
+
+77
+00:02:59,970 --> 00:03:06,120
+dietro le nuvole è da notare che mi
+
+78
+00:03:02,430 --> 00:03:08,400
+irradia tantissimo e se mi metto in
+
+79
+00:03:06,120 --> 00:03:10,230
+contrasto con l'acqua vede tutti i
+
+80
+00:03:08,400 --> 00:03:12,300
+riflessi vicenda sembra che io stia
+
+81
+00:03:10,230 --> 00:03:13,650
+registrando con la giacca 59 the present
+
+82
+00:03:12,300 --> 00:03:15,870
+bio che madagascar di cielo con
+
+83
+00:03:13,650 --> 00:03:18,210
+inquadrature con di apple stessa roba
+
+84
+00:03:15,870 --> 00:03:21,930
+solo l'esame minecraft addirittura passa
+
+85
+00:03:18,210 --> 00:03:23,400
+attraverso le foglie che sia ma posso
+
+86
+00:03:21,930 --> 00:03:25,530
+passare dalla destra del raggio alla
+
+87
+00:03:23,400 --> 00:03:29,880
+sinistra del raggio e sembri fare nella
+
+88
+00:03:25,530 --> 00:03:32,100
+giungla ma non ho capito che se becchi
+
+89
+00:03:29,880 --> 00:03:34,290
+uno zombie e celle rpx te lo trovi anche
+
+90
+00:03:32,100 --> 00:03:37,370
+in cambiano pure no no quelle con tre di
+
+91
+00:03:34,290 --> 00:03:37,370
+cui via lanzi
+
+92
+00:03:37,910 --> 00:03:42,480
+intanto compare stefano non si capisce
+
+93
+00:03:40,260 --> 00:03:45,900
+bene perché trovo bene provo a cambiare
+
+94
+00:03:42,480 --> 00:03:47,310
+idioma vediamo come la luce in altre
+
+95
+00:03:45,900 --> 00:03:49,440
+situazioni ecco ad esempio che abbiamo
+
+96
+00:03:47,310 --> 00:03:50,910
+un castello il ghiaccio howard affaccia
+
+97
+00:03:49,440 --> 00:03:53,370
+anche luce artificiale questo così
+
+98
+00:03:50,910 --> 00:03:55,260
+lantern immagine esatto lanterna marina
+
+99
+00:03:53,370 --> 00:03:56,930
+potuto il ghiaccio questo ghiaccio
+
+100
+00:03:55,260 --> 00:03:59,030
+texture particolare
+
+101
+00:03:56,930 --> 00:04:00,879
+anzi gli avevano avvertito questa mappa
+
+102
+00:03:59,030 --> 00:04:04,310
+a delle texture in alta risoluzione
+
+103
+00:04:00,879 --> 00:04:06,530
+fatte apposta per godersi al meglio
+
+104
+00:04:04,310 --> 00:04:09,349
+l'esperienza del raytracing guarda il
+
+105
+00:04:06,530 --> 00:04:10,909
+blocco di diamante che figata
+
+106
+00:04:09,349 --> 00:04:12,409
+poi ad hoc diamante non è trasparente
+
+107
+00:04:10,909 --> 00:04:15,290
+infatti queste non posso dire attraverso
+
+108
+00:04:12,409 --> 00:04:17,900
+ma sembra trasparenti perché riflette
+
+109
+00:04:15,290 --> 00:04:19,009
+perfettamente i blocchi di fianco
+
+110
+00:04:17,900 --> 00:04:21,709
+quindi come se fosse perfettamente
+
+111
+00:04:19,009 --> 00:04:24,169
+lucido c'è guarda che figata
+
+112
+00:04:21,709 --> 00:04:26,780
+se viene a vedere e senza smontarli il
+
+113
+00:04:24,169 --> 00:04:30,740
+treppiedi magari solenne una zona
+
+114
+00:04:26,780 --> 00:04:34,759
+abbastanza cupa android i soldi è la mia
+
+115
+00:04:30,740 --> 00:04:37,070
+il mio capo personale no che figata
+
+116
+00:04:34,759 --> 00:04:39,440
+ci sono le vice sulla finestra e quindi
+
+117
+00:04:37,070 --> 00:04:42,669
+la luce passa ma solo a sprazzi un
+
+118
+00:04:39,440 --> 00:04:45,380
+tempio se così è che sta volando
+
+119
+00:04:42,669 --> 00:04:48,169
+sincretico pausa ici tra gasquet da nei
+
+120
+00:04:45,380 --> 00:04:49,849
+commenti piacere usa una creativa quella
+
+121
+00:04:48,169 --> 00:04:53,330
+rivelazione poi l'ha però son curioso di
+
+122
+00:04:49,849 --> 00:04:55,250
+cambiare di nuovo bio ma queste sono le
+
+123
+00:04:53,330 --> 00:04:57,919
+zone che hanno costruito loro per
+
+124
+00:04:55,250 --> 00:05:00,020
+mostrare le differenze rispetto ad esso
+
+125
+00:04:57,919 --> 00:05:01,699
+normale tanto posso far vedere anche io
+
+126
+00:05:00,020 --> 00:05:05,419
+la differenza poi versione normale
+
+127
+00:05:01,699 --> 00:05:07,030
+perché c'è un tastino che premuto mi
+
+128
+00:05:05,419 --> 00:05:11,710
+permette di disattivare il ray tracing
+
+129
+00:05:07,030 --> 00:05:15,590
+che era questo qua allora di mamma mia
+
+130
+00:05:11,710 --> 00:05:17,110
+tornavo a causa dei pali giro della
+
+131
+00:05:15,590 --> 00:05:20,150
+morte ogni volta però lo figata
+
+132
+00:05:17,110 --> 00:05:25,669
+minecraft normale amia quello a cui
+
+133
+00:05:20,150 --> 00:05:30,610
+siamo abituati ogni giorno arbitri non
+
+134
+00:05:25,669 --> 00:05:30,610
+hai altro da anni anima ingegneria c'è
+
+135
+00:05:31,419 --> 00:05:40,529
+l'europa nove film è un altro c'è la
+
+136
+00:05:35,419 --> 00:05:43,169
+lama e un altro gioco ha tempo sei capi
+
+137
+00:05:40,529 --> 00:05:45,149
+allora vai continuo di milioni c'è anche
+
+138
+00:05:43,169 --> 00:05:47,609
+questo qui vediamo questo dall'interno
+
+139
+00:05:45,149 --> 00:05:51,449
+5 disattivare si è tipo una finta
+
+140
+00:05:47,609 --> 00:05:53,219
+magione ormai tutto buio
+
+141
+00:05:51,449 --> 00:05:57,239
+poi quando c'è questa di su tutto giallo
+
+142
+00:05:53,219 --> 00:05:58,619
+a seguirla con raytracing dobbiamo avere
+
+143
+00:05:57,239 --> 00:06:00,899
+un po più torre c'è in giro è
+
+144
+00:05:58,619 --> 00:06:02,429
+sicuramente perché ai privatisti che un
+
+145
+00:06:00,899 --> 00:06:05,159
+figlio quello quanto appena riceve del
+
+146
+00:06:02,429 --> 00:06:08,759
+villaggio dietro lui sto qua c'è anche
+
+147
+00:06:05,159 --> 00:06:11,999
+si scende con la cina che rientra in una
+
+148
+00:06:08,759 --> 00:06:14,519
+grotta in realtà come sosteneva la
+
+149
+00:06:11,999 --> 00:06:17,309
+glossa un effetto rende film c'è guarda
+
+150
+00:06:14,519 --> 00:06:18,469
+come aumenta la luminosità quando ti
+
+151
+00:06:17,309 --> 00:06:22,259
+avvicini
+
+152
+00:06:18,469 --> 00:06:27,209
+ok davvero figo nome dai uso di luce sui
+
+153
+00:06:22,259 --> 00:06:29,069
+diamanti ricordi che figata però solo
+
+154
+00:06:27,209 --> 00:06:32,039
+quando il sole da questa parte mazzone
+
+155
+00:06:29,069 --> 00:06:33,989
+fisso hanno fatto fixato il sole per far
+
+156
+00:06:32,039 --> 00:06:37,199
+sì che questo fosse possibile
+
+157
+00:06:33,989 --> 00:06:39,209
+comunque se non fosse pieno dessì
+
+158
+00:06:37,199 --> 00:06:40,919
+l'annotazione con il sole c'è mi sento
+
+159
+00:06:39,209 --> 00:06:43,109
+in vena jones spese devono scegliere
+
+160
+00:06:40,919 --> 00:06:45,059
+jones che intreccia il raggio di luce un
+
+161
+00:06:43,109 --> 00:06:47,279
+tesoro non ci andava in creativa
+
+162
+00:06:45,059 --> 00:06:49,829
+appendere diamante ho capito dove c'è da
+
+163
+00:06:47,279 --> 00:06:52,589
+chi lo sa in un bello slash osservato un
+
+164
+00:06:49,829 --> 00:06:53,999
+po donna voi perché mi muove con tra c'è
+
+165
+00:06:52,589 --> 00:06:55,390
+ora però mi fanno male gli occhi ha
+
+166
+00:06:53,999 --> 00:06:59,170
+guardato normale
+
+167
+00:06:55,390 --> 00:07:02,050
+è un altro gioco c'è un wow che figata
+
+168
+00:06:59,170 --> 00:07:03,850
+che questa mappa l'abbiamo vista al
+
+169
+00:07:02,050 --> 00:07:06,040
+dovere possiamo controllare anche
+
+170
+00:07:03,850 --> 00:07:07,420
+l'altra perché c'è una seconda mappa che
+
+171
+00:07:06,040 --> 00:07:08,380
+c'è la texture in quel mondo era davvero
+
+172
+00:07:07,420 --> 00:07:11,080
+una bomba
+
+173
+00:07:08,380 --> 00:07:13,240
+qui abbiamo addirittura un altissima
+
+174
+00:07:11,080 --> 00:07:13,930
+risoluzione perché ci abbiamo anche una
+
+175
+00:07:13,240 --> 00:07:16,090
+casa
+
+176
+00:07:13,930 --> 00:07:19,510
+abbiamo tutta una casa con attorno un
+
+177
+00:07:16,090 --> 00:07:22,240
+fiumiciattolo primo a volare è una cosa
+
+178
+00:07:19,510 --> 00:07:25,030
+molto moderna successe in brasile per me
+
+179
+00:07:22,240 --> 00:07:27,190
+f1 sembra un rendering 3d che ha fatto
+
+180
+00:07:25,030 --> 00:07:29,350
+un architetto per costruire una casa
+
+181
+00:07:27,190 --> 00:07:31,570
+andiamo a vedere facciamo tour della
+
+182
+00:07:29,350 --> 00:07:34,960
+casa da quanto costerà wanda del genere
+
+183
+00:07:31,570 --> 00:07:37,510
+ma secondo me 45 milioni dollari almeno
+
+184
+00:07:34,960 --> 00:07:42,370
+mangerà sulle colline di hollywood per
+
+185
+00:07:37,510 --> 00:07:44,590
+forza della sera si parlerà più belli di
+
+186
+00:07:42,370 --> 00:07:47,740
+pannelli di vetro raga lastra di vetro
+
+187
+00:07:44,590 --> 00:07:52,240
+ma è una figata sembra un costo
+
+188
+00:07:47,740 --> 00:07:54,070
+sembrasse legamento di altissimo livello
+
+189
+00:07:52,240 --> 00:07:57,450
+invece un pannello di vetro per questo
+
+190
+00:07:54,070 --> 00:07:58,620
+tutte le dodici colorate globe locke hd
+
+191
+00:07:57,450 --> 00:08:00,820
+[Musica]
+
+192
+00:07:58,620 --> 00:08:03,400
+ma questo non esiste nella mia
+
+193
+00:08:00,820 --> 00:08:06,220
+professione di minecraft perciò anche
+
+194
+00:08:03,400 --> 00:08:08,560
+blocchi spoiler nuova versione di
+
+195
+00:08:06,220 --> 00:08:12,100
+minecraft questo che cos'è il rainbow
+
+196
+00:08:08,560 --> 00:08:13,750
+bloc che figata cioè da discoteca per
+
+197
+00:08:12,100 --> 00:08:16,180
+saperlo ci fossero queste cose in questa
+
+198
+00:08:13,750 --> 00:08:16,840
+versione di minecraft c'è una leva cosa
+
+199
+00:08:16,180 --> 00:08:22,360
+succederà mai
+
+200
+00:08:16,840 --> 00:08:25,240
+sono mai spente le luci a ok si è acceso
+
+201
+00:08:22,360 --> 00:08:28,770
+tutto rpx inorming verde o è amico da
+
+202
+00:08:25,240 --> 00:08:30,630
+ridge di scendere quindi scendiamo
+
+203
+00:08:28,770 --> 00:08:34,050
+scegliamo scegliamo
+
+204
+00:08:30,630 --> 00:08:37,550
+la scaletta c'è una stretta minuscola in
+
+205
+00:08:34,050 --> 00:08:39,450
+questo garage e ora c'è qua sotto
+
+206
+00:08:37,550 --> 00:08:43,680
+allora ma tanto su quella superficie
+
+207
+00:08:39,450 --> 00:08:46,760
+quando si vede mammamia corridoi
+
+208
+00:08:43,680 --> 00:08:51,420
+luminosi dove siamo dentro blade runner
+
+209
+00:08:46,760 --> 00:08:53,370
+credibile mango tipo marmo mi sembra
+
+210
+00:08:51,420 --> 00:08:55,470
+giusto il marmo e così dice volume
+
+211
+00:08:53,370 --> 00:08:59,910
+l'italia le quali è una differenza
+
+212
+00:08:55,470 --> 00:09:03,600
+mancate normale ma in cartelle tips nate
+
+213
+00:08:59,910 --> 00:09:05,130
+raising fondò un altra cosa propria
+
+214
+00:09:03,600 --> 00:09:09,810
+faccia anche nell'acqua l'ho vista
+
+215
+00:09:05,130 --> 00:09:11,670
+quella differenza tra un altro gioco
+
+216
+00:09:09,810 --> 00:09:13,350
+ecco qua c'è non lo speciale invece come
+
+217
+00:09:11,670 --> 00:09:15,180
+nome anche reso conto di ciò che come
+
+218
+00:09:13,350 --> 00:09:18,090
+avrete arcobaleno che si riblocca solo
+
+219
+00:09:15,180 --> 00:09:20,300
+sbarre di ferro queste sembra quale le
+
+220
+00:09:18,090 --> 00:09:23,010
+porte che figata
+
+221
+00:09:20,300 --> 00:09:27,510
+ancora una volta rivedere come essenza e
+
+222
+00:09:23,010 --> 00:09:31,260
+come con fighissimo si scende ancora c'è
+
+223
+00:09:27,510 --> 00:09:34,530
+altra luce alle cup bloccano la luce qua
+
+224
+00:09:31,260 --> 00:09:35,430
+ultima cosa c'è crisi in reader sono
+
+225
+00:09:34,530 --> 00:09:37,740
+navicella spaziale
+
+226
+00:09:35,430 --> 00:09:41,700
+ragazzi questo è il ray tracing di
+
+227
+00:09:37,740 --> 00:09:43,320
+nvidia su minecraft direi che è bella
+
+228
+00:09:41,700 --> 00:09:45,600
+figata era solo una beta quindi c'è
+
+229
+00:09:43,320 --> 00:09:47,160
+ancora margine di miglioramento e sono
+
+230
+00:09:45,600 --> 00:09:48,960
+davvero curioso di provarlo quando
+
+231
+00:09:47,160 --> 00:09:51,360
+uscirà e ora sono in ufficio signore che
+
+232
+00:09:48,960 --> 00:09:53,070
+devo fare un paio di cose con gianlu e
+
+233
+00:09:51,360 --> 00:09:55,530
+ho visto che c'è un pacco qui che è
+
+234
+00:09:53,070 --> 00:09:57,840
+arrivato a questo indirizzo se avete
+
+235
+00:09:55,530 --> 00:10:00,510
+scrivere qualcosa potete scrivere anche
+
+236
+00:09:57,840 --> 00:10:01,830
+semplicemente nate senza scrivere anima
+
+237
+00:10:00,510 --> 00:10:04,290
+slash maze e mail
+
+238
+00:10:01,830 --> 00:10:08,640
+questo è l'indirizzo e ho visto che c'è
+
+239
+00:10:04,290 --> 00:10:11,690
+scritto per suse quindi siamo onlive mia
+
+240
+00:10:08,640 --> 00:10:14,910
+ipotesi è che si tratti di un quadro di
+
+241
+00:10:11,690 --> 00:10:17,190
+ma la domanda e io da esperto dei paggi
+
+242
+00:10:14,910 --> 00:10:19,560
+sala già conseguito lo speedy fini spero
+
+243
+00:10:17,190 --> 00:10:21,120
+sarà per anima o persone
+
+244
+00:10:19,560 --> 00:10:22,610
+no semmai ha messo in edizioni ma perché
+
+245
+00:10:21,120 --> 00:10:25,290
+sa schalke ha in descrizione l'indirizzo
+
+246
+00:10:22,610 --> 00:10:27,210
+per dire spedite nei pacchi trova sopra
+
+247
+00:10:25,290 --> 00:10:29,250
+c'è scritto per suri quasi tutto per
+
+248
+00:10:27,210 --> 00:10:31,110
+surre c'è anche un foglio leggiamo un
+
+249
+00:10:29,250 --> 00:10:32,300
+foglio c'è lo studio volevo dirti buon
+
+250
+00:10:31,110 --> 00:10:34,830
+compleanno
+
+251
+00:10:32,300 --> 00:10:37,890
+grazie e di mettere il tasto abbonati su
+
+252
+00:10:34,830 --> 00:10:40,440
+youtube storcks
+
+253
+00:10:37,890 --> 00:10:42,360
+vediamo come il quadro a deve essere
+
+254
+00:10:40,440 --> 00:10:43,620
+onesto con voi ragazzi
+
+255
+00:10:42,360 --> 00:10:46,860
+i legali che ci fate però spesso
+
+256
+00:10:43,620 --> 00:10:48,300
+arrivano e disegni che sono belli però
+
+257
+00:10:46,860 --> 00:10:51,329
+sono un po kringe vediamo se questo è
+
+258
+00:10:48,300 --> 00:10:53,250
+kringe oppure no è no logo
+
+259
+00:10:51,329 --> 00:10:57,350
+forse un po per kill averlo messo nella
+
+260
+00:10:53,250 --> 00:10:57,350
+nel quadro però grazie mille
+
+261
+00:11:05,820 --> 00:11:08,919
+[Musica]
+
+262
+00:11:12,110 --> 00:11:29,159
+[Musica]

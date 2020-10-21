@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:06,900
+*Musique d'intro*
+
+2
+00:00:06,900 --> 00:00:09,140
+oh ! quelle superbe coup contre toi-même Kévin !
+
+3
+00:00:09,140 --> 00:00:10,840
+-Et mec tu trouve pas qu'il y a trop d'unités ?
+
+4
+00:00:10,840 --> 00:00:11,360
+-Comment ça ?
+
+5
+00:00:11,360 --> 00:00:14,240
+-Bah le litre, le gramme, le mètre, c'est une galère de ouf !
+
+6
+00:00:14,240 --> 00:00:15,060
+-heuu... pourquoi ?
+
+7
+00:00:15,060 --> 00:00:16,480
+-Regarde. L'eau, par exemple.
+
+8
+00:00:16,480 --> 00:00:18,840
+1litre d'eau, c'est 1 kg d'eau.
+
+9
+00:00:18,840 --> 00:00:20,820
+Mais c'est aussi 1dm3 d'eau !
+
+10
+00:00:20,820 --> 00:00:22,280
+Tu trouves pas que c'est grave embrouillant ?
+
+11
+00:00:22,280 --> 00:00:22,920
+-Bah non.
+
+12
+00:00:22,920 --> 00:00:26,120
+-Genre faudrait inventer une seule unique unité qui rassemble tout.
+
+13
+00:00:26,120 --> 00:00:27,180
+Une unité spéciale !
+
+14
+00:00:27,180 --> 00:00:29,700
+-Nan mais mec j'tarrête tout de suite. C'est pas possible. Tu peux pas avoir un truc qui mesure
+
+15
+00:00:29,700 --> 00:00:31,820
+à la fois une taille, un volume, un poids,...
+
+16
+00:00:31,820 --> 00:00:34,640
+-ça c'est parce que t'y connais rien ! T'as aucune vision !
+
+17
+00:00:34,640 --> 00:00:36,640
+Déjà faut commencer par trouver un nom à cette unité.
+
+18
+00:00:36,640 --> 00:00:38,560
+-Mais mec je te le dis: on peut pas faire ça !
+
+19
+00:00:38,560 --> 00:00:39,740
+-Attends ! T'as dit quoi ?
+
+20
+00:00:39,740 --> 00:00:40,540
+-On peut pas faire ça ?
+
+21
+00:00:40,540 --> 00:00:41,660
+-ON !!! OUI !! ON !!!
+
+22
+00:00:41,660 --> 00:00:42,240
+-hein ?
+
+23
+00:00:42,240 --> 00:00:43,660
+-On va appeler notre unité le on !
+
+24
+00:00:43,660 --> 00:00:44,560
+-Pourquoi le on ?
+
+25
+00:00:44,560 --> 00:00:47,340
+-Parce que on, ça réunit, c'est on ! On est ensemble !
+
+26
+00:00:47,340 --> 00:00:48,920
+-Mais pourquoi tu l'appelles pas le nous, alors ?
+
+27
+00:00:48,920 --> 00:00:51,260
+-Nous ? Quand tu vas le mesurer en plus petit ça va donner quoi ?
+
+28
+00:00:51,260 --> 00:00:53,800
+des nano-nous ?! et en suite ? C'est ridicule !
+
+29
+00:00:53,800 --> 00:00:56,820
+-ah oui c'est claire que des kilos on, ça sonne vachement mieux ?
+
+30
+00:00:56,820 --> 00:00:59,800
+Pfff ! De toute manière, à chaque fois qu'un génie a eu une nouvelle idée
+
+31
+00:00:59,860 --> 00:01:02,000
+ya toujours eu un hater derrière-lui pour lui dire qu'il disait de la merde !
+
+32
+00:01:02,000 --> 00:01:03,800
+T'sais quoi ? Je vais le faire sans toi.
+
+33
+00:01:03,800 --> 00:01:06,000
+A partir d'aujourd'hui, j'ai décidé: j'invente le on !
+
+34
+00:01:06,000 --> 00:01:09,040
+Et 1 on vaudra exactement comme pour de l'eau !
+
+35
+00:01:09,040 --> 00:01:12,980
+1 on vaudra à la fois 1l, 1dm3 et 1 kg.
+
+36
+00:01:12,980 --> 00:01:16,340
+-haha. Ok. Tu veux faire le malin ? Tiens. ça ça vaut combien de on ?
+
+37
+00:01:16,340 --> 00:01:20,720
+Bah. C'est un pion. pi-on. ça vaut 3,1415926535 et quelques on !
+
+38
+00:01:20,720 --> 00:01:23,060
+HEIN ? heu et ton jean-là ?
+
+39
+00:01:23,060 --> 00:01:27,740
+Mon jean ? C'est un pantalon. Pantal, panta, penta ! 5 on !
+
+40
+00:01:27,740 --> 00:01:28,640
+heu... Et les DVD ?
+
+41
+00:01:28,640 --> 00:01:29,320
+C'est quoi ? C'est friends ?
+
+42
+00:01:29,320 --> 00:01:29,820
+ouais.
+
+43
+00:01:29,820 --> 00:01:30,320
+le coffret complet ?
+
+44
+00:01:30,320 --> 00:01:30,820
+ouais.
+
+45
+00:01:30,820 --> 00:01:33,760
+Bah ça regroupe 10 saisons ! 10Xseize (sais)= 160 ons
+
+46
+00:01:33,760 --> 00:01:35,300
+Mais tu dis que de la merde !!!
+
+47
+00:01:35,300 --> 00:01:38,480
+Ah ! si tu veux parler des trois caca là-bas, ça s'appelle des etrons !
+
+48
+00:01:38,480 --> 00:01:41,600
+et etrons remi dans l'ordre, ça fait tres on ! trois en espagnol !
+
+49
+00:01:41,600 --> 00:01:42,660
+soit 1 on chaque caca !
+
+50
+00:01:42,660 --> 00:01:44,280
+1 caca vaut donc 1 on !
+
+51
+00:01:45,680 --> 00:01:47,980
+Ah ça c'est ce qu'on appelle un tesson de bouteille !
+
+52
+00:01:47,980 --> 00:01:50,560
+1 tesson tess, tess à l'envers ça fait sset
+
+53
+00:01:50,560 --> 00:01:51,940
+une bouteille vaut donc 7 on !
+
+54
+00:01:51,940 --> 00:01:52,880
+Ok. Et lui alors ?
+
+55
+00:01:52,880 --> 00:01:53,560
+C'est qui ?
+
+56
+00:01:53,560 --> 00:01:54,560
+Philippe Tesson.
+
+57
+00:01:54,560 --> 00:01:56,620
+Ah ! Tesson ! Le mec qui dit que des conneries sur les musulmans ?
+
+58
+00:01:56,620 --> 00:01:59,520
+Ouais. Tu vas me dire que parce qu'il s'appelle Tesson, ce mec-là il vaut aussi 7 on ?
+
+59
+00:01:59,520 --> 00:02:01,840
+Mais non, lui il vaut pire qu'un etron, alors il en vaut même pas un.
+
+60
+00:02:01,840 --> 00:02:03,100
+Ah ! Tu m'as fait peur !
+
+61
+00:02:03,100 --> 00:02:03,860
+et eu ?!
+
+62
+00:02:03,860 --> 00:02:05,820
+ça dépend. Le fiston ou le daron ?
+
+63
+00:02:06,700 --> 00:02:08,480
+ça c'est un thon, ça a rien à voir.
+
+64
+00:02:08,480 --> 00:02:11,160
+Ok. Et ça alors c'est quoi ? Un ball-on ?
+
+65
+00:02:11,160 --> 00:02:14,860
+J'ai hâte de voir comment tu vas déformer B-A-L-L pour que ça aille dans ton sens !
+
+66
+00:02:14,860 --> 00:02:15,900
+Tu l'as acheté où ton ballon ?
+
+67
+00:02:15,900 --> 00:02:17,120
+Heu.... Decathlon.
+
+68
+00:02:17,120 --> 00:02:17,960
+Oh merde !
+
+69
+00:02:17,960 --> 00:02:19,020
+Voilà ! Decathlon !
+
+70
+00:02:19,020 --> 00:02:20,640
+deca-t-h-l-on.
+
+71
+00:02:20,640 --> 00:02:24,760
+Sauf que deca désigne 10, t tonne, h hecto et l litre.
+
+72
+00:02:24,760 --> 00:02:27,980
+or on sait déjà que hecto désigne 100 et que tonne désigne 1000 kg.
+
+73
+00:02:27,980 --> 00:02:31,420
+Mais n'oublions pas que 1 on vaut à la fois 1kg et 1 litre.
+
+74
+00:02:31,420 --> 00:02:34,780
+On a donc 10X1000X100X1
+
+75
+00:02:34,780 --> 00:02:36,020
+Ce qui nous donne:
+
+76
+00:02:37,080 --> 00:02:38,180
+1 mega on !
+
+77
+00:02:38,180 --> 00:02:39,880
+Je te l'ai dit: je suis un prodige !
+
+78
+00:02:39,880 --> 00:02:42,940
+J'ai inventé une unité qui peut tout mesurer sur Terre ! Tu peux pas me test !
+
+79
+00:02:42,940 --> 00:02:43,640
+ça suffit !
+
+80
+00:02:43,640 --> 00:02:47,340
+Très bien ! Tu l'auras chercher ! Je vais te donner un truc impossible à mesurer !
+
+81
+00:02:47,340 --> 00:02:47,840
+Quoi ?
+
+82
+00:02:47,840 --> 00:02:50,360
+j'ai trouvé un truc qui n'a pas de volume, pas de poids ni même de forme.
+
+83
+00:02:50,360 --> 00:02:52,640
+Non ! Comment est-ce possible ?!
+
+84
+00:02:52,640 --> 00:02:54,280
+Combien de on vaut:
+
+85
+00:02:54,280 --> 00:02:55,800
+Le rire jaune !
+
+86
+00:03:04,040 --> 00:03:05,640
+oh non ! t'as pas osé ?!
+
+87
+00:03:05,640 --> 00:03:06,260
+Si !
+
+88
+00:03:06,960 --> 00:03:07,580
+3
+
+89
+00:03:08,240 --> 00:03:08,820
+MILI
+
+90
+00:03:09,480 --> 00:03:10,280
+ON !!!
+
+91
+00:03:10,280 --> 00:03:17,560
+*Musique de fête*
+
+92
+00:03:17,640 --> 00:03:18,940
+Merciiiiiii !!!
+
+93
+00:03:18,940 --> 00:03:19,980
+T'ES SERIEUX ??!!
+
+94
+00:03:19,980 --> 00:03:23,700
+TU M'AS FAIT TOURNER EN BOURIQUE JUSTE POUR SORTIR UN VIEUX JEU DE MOTS POURRI A NOS ABONNES ??!!!
+
+95
+00:03:23,700 --> 00:03:25,360
+T'SAIS QUOI TOI ET MOI C'EST FINI !!!
+
+96
+00:03:25,360 --> 00:03:26,720
+J'ANNONCE MA DEMISSION !!
+
+97
+00:03:26,720 --> 00:03:32,760
+oh ! demission ! demi-six-on, six-demi on 3 on ! ah oui oui oui !
+
+98
+00:03:34,280 --> 00:03:45,640
+*musique*

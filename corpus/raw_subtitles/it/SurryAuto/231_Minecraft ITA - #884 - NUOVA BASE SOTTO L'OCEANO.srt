@@ -1,0 +1,1747 @@
+1
+00:00:00,000 --> 00:00:04,230
+ciao a tutti che ciotti e benvenuti in
+
+2
+00:00:01,260 --> 00:00:05,069
+questo nuovissimo video di minecraft ita
+
+3
+00:00:04,230 --> 00:00:06,660
+per iniziare ovviamente voglio
+
+4
+00:00:05,069 --> 00:00:08,189
+ricordarvi in descrizione il link per il
+
+5
+00:00:06,660 --> 00:00:10,950
+mezzo influenza l'evento fino qui a
+
+6
+00:00:08,189 --> 00:00:12,840
+miano al fabric nate musica mitch schock
+
+7
+00:00:10,950 --> 00:00:14,460
+tutto quello che potete immaginare
+
+8
+00:00:12,840 --> 00:00:16,949
+veloce tutte le informazioni qua in
+
+9
+00:00:14,460 --> 00:00:17,970
+descrizione detto questo prima di fare
+
+10
+00:00:16,949 --> 00:00:21,359
+quello che vuoi fare in questo episodio
+
+11
+00:00:17,970 --> 00:00:23,430
+volevo un attimino parlare della
+
+12
+00:00:21,359 --> 00:00:25,920
+posizione dello scorso video cioè della
+
+13
+00:00:23,430 --> 00:00:27,599
+fand i tridenti perché sotto i commenti
+
+14
+00:00:25,920 --> 00:00:28,680
+tutti i video ho visto un botto di
+
+15
+00:00:27,599 --> 00:00:31,669
+disinformazione
+
+16
+00:00:28,680 --> 00:00:34,710
+un botto di gente mi diceva è mani biomi
+
+17
+00:00:31,669 --> 00:00:37,200
+in cui ha costruito non funziona perché
+
+18
+00:00:34,710 --> 00:00:39,149
+il tridente esce solo solo a mazze to
+
+19
+00:00:37,200 --> 00:00:41,160
+button informazioni che non sono vere
+
+20
+00:00:39,149 --> 00:00:43,079
+perché andando sulla wiki di minecraft
+
+21
+00:00:41,160 --> 00:00:45,360
+semplicemente ci sono tutte le pagine
+
+22
+00:00:43,079 --> 00:00:47,670
+del manuale vero e proprio di minecraft
+
+23
+00:00:45,360 --> 00:00:49,200
+che spiegano un botto di cose ad esempio
+
+24
+00:00:47,670 --> 00:00:52,710
+potremmo detto eh no dovevi farlo né i
+
+25
+00:00:49,200 --> 00:00:55,890
+biomi nevi obi dell'oceano rai acquisto
+
+26
+00:00:52,710 --> 00:00:59,010
+e cazzo è e oceano ansia ed ipsia di
+
+27
+00:00:55,890 --> 00:01:01,079
+tanti del tutto quindi cioè qualsiasi
+
+28
+00:00:59,010 --> 00:01:02,309
+tipo di oceano va bene ma è che se di
+
+29
+00:01:01,079 --> 00:01:04,650
+pose allora non va bene
+
+30
+00:01:02,309 --> 00:01:06,299
+stessa roba anzi a dire il vero leggendo
+
+31
+00:01:04,650 --> 00:01:08,520
+il manuale mi sarebbe convenuto
+
+32
+00:01:06,299 --> 00:01:12,000
+potenzialmente farlo qui che qui è un
+
+33
+00:01:08,520 --> 00:01:15,590
+river non qui ma più qui non qui dove
+
+34
+00:01:12,000 --> 00:01:17,700
+ossia beach c'erano deaver cui ecco qui
+
+35
+00:01:15,590 --> 00:01:19,380
+potenzialmente in questo più amati di
+
+36
+00:01:17,700 --> 00:01:21,270
+vera se io scavo tutto lo facevo qui
+
+37
+00:01:19,380 --> 00:01:23,220
+avevo molti più drowned per che
+
+38
+00:01:21,270 --> 00:01:25,530
+espongono più drowned del river che non
+
+39
+00:01:23,220 --> 00:01:26,790
+nell'oceano però dell'oceano spongano e
+
+40
+00:01:25,530 --> 00:01:28,259
+per un'altra cosa che ho visto e che
+
+41
+00:01:26,790 --> 00:01:28,950
+hanno devi uccidere le toux se non non
+
+42
+00:01:28,259 --> 00:01:31,140
+esce il drop
+
+43
+00:01:28,950 --> 00:01:34,530
+non è vero c'è scritto sulla wiki quindi
+
+44
+00:01:31,140 --> 00:01:35,549
+c'è boh ma tantissima gente che ha
+
+45
+00:01:34,530 --> 00:01:37,619
+scritto
+
+46
+00:01:35,549 --> 00:01:40,140
+vabbè comunque non è ancora uscito
+
+47
+00:01:37,619 --> 00:01:41,790
+nessun presidente ma perché non sono
+
+48
+00:01:40,140 --> 00:01:45,509
+state efficaci con la zona quindi cioè
+
+49
+00:01:41,790 --> 00:01:47,549
+sospendi q22 drowned è noto sono un po
+
+50
+00:01:45,509 --> 00:01:50,479
+di lotte flash comunque quest'oggi
+
+51
+00:01:47,549 --> 00:01:53,909
+voglio andare a realizzare una base
+
+52
+00:01:50,479 --> 00:01:57,689
+subacquea come vi dicevo in realtà in
+
+53
+00:01:53,909 --> 00:01:59,850
+passato ho fatto una serie delle 7 in
+
+54
+00:01:57,689 --> 00:02:01,439
+cui ero proprio all'interno di un
+
+55
+00:01:59,850 --> 00:02:03,750
+di una base su bacco ed è stata una
+
+56
+00:02:01,439 --> 00:02:04,860
+figata pazzesca e voglio provare a
+
+57
+00:02:03,750 --> 00:02:08,610
+rifarlo qua dentro
+
+58
+00:02:04,860 --> 00:02:10,350
+ora già pensato a diverse cose e la
+
+59
+00:02:08,610 --> 00:02:13,319
+prima cosa è che non voglio farla
+
+60
+00:02:10,350 --> 00:02:15,870
+adiacente diciamo allo scoglio così
+
+61
+00:02:13,319 --> 00:02:17,489
+perde insomma alla terra proprio in
+
+62
+00:02:15,870 --> 00:02:20,819
+mezzo al mare in mezzo all'oceano
+
+63
+00:02:17,489 --> 00:02:23,970
+in questo modo poi potrò collegare con
+
+64
+00:02:20,819 --> 00:02:25,920
+dei tunnel tutte le cose interessanti
+
+65
+00:02:23,970 --> 00:02:27,989
+che ci son dell'oceano perché magari non
+
+66
+00:02:25,920 --> 00:02:29,160
+vorrò fare solamente questa base magari
+
+67
+00:02:27,989 --> 00:02:31,410
+farò qualche altra struttura sul
+
+68
+00:02:29,160 --> 00:02:34,170
+subacquea e verrà fuori un villaggio
+
+69
+00:02:31,410 --> 00:02:37,470
+subacquee finissimo in cui tu entri e
+
+70
+00:02:34,170 --> 00:02:40,980
+poi vedi tutti i pesci attorno metteremo
+
+71
+00:02:37,470 --> 00:02:43,620
+noi manualmente delle foglie delle alghe
+
+72
+00:02:40,980 --> 00:02:45,540
+perché col bioma non sono sposate
+
+73
+00:02:43,620 --> 00:02:48,720
+naturalmente perché sono i biomi nella
+
+74
+00:02:45,540 --> 00:02:50,280
+scorsa versione anche questo anno a sui
+
+75
+00:02:48,720 --> 00:02:51,780
+massimi biomi la scorsa versione quindi
+
+76
+00:02:50,280 --> 00:02:55,380
+sponda meno gente ma che cacchio sta
+
+77
+00:02:51,780 --> 00:02:57,060
+vincendo è un bioma lo spongano c'è un
+
+78
+00:02:55,380 --> 00:02:58,590
+conto di cio che una struttura una
+
+79
+00:02:57,060 --> 00:03:01,019
+struttura nella roba vecchia non può
+
+80
+00:02:58,590 --> 00:03:04,560
+spronare perché è già è già generata
+
+81
+00:03:01,019 --> 00:03:06,600
+però i mob cazzo cioè se c'è scritto
+
+82
+00:03:04,560 --> 00:03:08,340
+oceano questi sposano ma addirittura
+
+83
+00:03:06,600 --> 00:03:10,590
+nello scorso episodio cioè abbiamo visto
+
+84
+00:03:08,340 --> 00:03:12,630
+lo sconfitto un drone mentre stavo
+
+85
+00:03:10,590 --> 00:03:15,420
+costruendo una roba ormai a un passo con
+
+86
+00:03:12,630 --> 00:03:18,540
+spugne aria e cazzo di te comunque detto
+
+87
+00:03:15,420 --> 00:03:20,840
+questo vorrei fare un po più di vetro lo
+
+88
+00:03:18,540 --> 00:03:24,489
+stesso ciò che mi servirà altro vetro
+
+89
+00:03:20,840 --> 00:03:26,750
+ho quasi finito la mia sabbia cioè
+
+90
+00:03:24,489 --> 00:03:28,519
+sicuramente posso andare a prendere al
+
+91
+00:03:26,750 --> 00:03:31,250
+31 è un problema però mettiamo poi c'era
+
+92
+00:03:28,519 --> 00:03:33,860
+questa per il momento così poi possiamo
+
+93
+00:03:31,250 --> 00:03:36,129
+fare la costruzione senza problemi ma pò
+
+94
+00:03:33,860 --> 00:03:39,260
+lento nella super festa della morte
+
+95
+00:03:36,129 --> 00:03:39,530
+super festa della morte ok non volevo
+
+96
+00:03:39,260 --> 00:03:43,069
+bene
+
+97
+00:03:39,530 --> 00:03:46,849
+e voilà va bene e noi invece si viaggia
+
+98
+00:03:43,069 --> 00:03:49,040
+verso l'oceano con tanta tanta
+
+99
+00:03:46,849 --> 00:03:50,420
+cattiveria persona anche dei blocchi il
+
+100
+00:03:49,040 --> 00:03:53,630
+proprio blog perché può usare queste
+
+101
+00:03:50,420 --> 00:03:57,560
+come diciamo frame della base e ci
+
+102
+00:03:53,630 --> 00:03:59,030
+butteremo in mezzo qui in mezzo qui non
+
+103
+00:03:57,560 --> 00:04:02,930
+so di preciso dove voi una roba
+
+104
+00:03:59,030 --> 00:04:05,110
+abbastanza bassa e alta tipo vabbè
+
+105
+00:04:02,930 --> 00:04:08,000
+potevo farla anche tipo qua proprio
+
+106
+00:04:05,110 --> 00:04:09,440
+cattivissimo o di qua no è più bello il
+
+107
+00:04:08,000 --> 00:04:14,470
+proprio in mezzo al mare
+
+108
+00:04:09,440 --> 00:04:18,410
+buttiamoci qui così non lo so buttiamoci
+
+109
+00:04:14,470 --> 00:04:19,789
+questo potrebbe essere una buona zona
+
+110
+00:04:18,410 --> 00:04:21,530
+in realtà volevo una zona ancora più
+
+111
+00:04:19,789 --> 00:04:23,510
+profonda se possibile
+
+112
+00:04:21,530 --> 00:04:26,990
+purtroppo ho solo potrebbe come oggi non
+
+113
+00:04:23,510 --> 00:04:30,260
+ho fatto la porzione della net vision a
+
+114
+00:04:26,990 --> 00:04:32,870
+e me ne sto già pentendo a dirla tutta
+
+115
+00:04:30,260 --> 00:04:34,250
+comunque ora capiamo un attimo qua
+
+116
+00:04:32,870 --> 00:04:37,010
+abbiamo la fanno quindi non voglio se è
+
+117
+00:04:34,250 --> 00:04:39,620
+troppo vicino la farma va bene vicino ma
+
+118
+00:04:37,010 --> 00:04:42,590
+non vicinissimo qua abbiamo detto è
+
+119
+00:04:39,620 --> 00:04:44,139
+troppo troppo alta per il momento per
+
+120
+00:04:42,590 --> 00:04:46,130
+non dare di qui se c'è una più bassa
+
+121
+00:04:44,139 --> 00:04:48,680
+perché non ha senso fare una base
+
+122
+00:04:46,130 --> 00:04:52,070
+subacquea se poi sei proprio capito
+
+123
+00:04:48,680 --> 00:04:53,570
+attaccato a terra considerato che poi
+
+124
+00:04:52,070 --> 00:04:55,940
+voglio collegarmi a tutto il resto del
+
+125
+00:04:53,570 --> 00:04:56,750
+mondo forse qui potrebbe essere
+
+126
+00:04:55,940 --> 00:04:59,870
+addirittura troppo
+
+127
+00:04:56,750 --> 00:05:01,300
+facciamola qui facciamo qui liberiamo la
+
+128
+00:04:59,870 --> 00:05:04,520
+nostra posizione del water breathing
+
+129
+00:05:01,300 --> 00:05:06,169
+eleviamo c questo il nostro omino non so
+
+130
+00:05:04,520 --> 00:05:09,080
+perché è un po strano che sta mutando
+
+131
+00:05:06,169 --> 00:05:11,419
+sta in piedi ce la fai
+
+132
+00:05:09,080 --> 00:05:14,180
+non ce la fa stare in piedi purtroppo va
+
+133
+00:05:11,419 --> 00:05:17,090
+bene allora non deve essere inizialmente
+
+134
+00:05:14,180 --> 00:05:19,400
+troppo grande perché una base subacquea
+
+135
+00:05:17,090 --> 00:05:21,710
+si può tranquillamente sviluppare i
+
+136
+00:05:19,400 --> 00:05:23,980
+moduli è una cosa che poi vedremo
+
+137
+00:05:21,710 --> 00:05:26,680
+è una cosa che faccio spesso
+
+138
+00:05:23,980 --> 00:05:27,880
+nelle serie mondate cioè crei un modulo
+
+139
+00:05:26,680 --> 00:05:31,810
+che magari può essere anche abbastanza
+
+140
+00:05:27,880 --> 00:05:34,450
+piccolino ad esempio il classico 9x9
+
+141
+00:05:31,810 --> 00:05:38,950
+chiusi fan e le mode è nato da dai wolf
+
+142
+00:05:34,450 --> 00:05:40,540
+che sono ricorda e e direi che da lì
+
+143
+00:05:38,950 --> 00:05:41,860
+possiamo partire fare altre stanze
+
+144
+00:05:40,540 --> 00:05:43,750
+quindi che è proprio una vera e propria
+
+145
+00:05:41,860 --> 00:05:47,230
+base con specie una base spaziale però
+
+146
+00:05:43,750 --> 00:05:49,750
+sotterranea quindi detto questo io direi
+
+147
+00:05:47,230 --> 00:05:52,390
+facciamo quindi creiamo magari qua
+
+148
+00:05:49,750 --> 00:05:52,830
+vicino alla montagna un nuovo di questo
+
+149
+00:05:52,390 --> 00:05:57,670
+tipo
+
+150
+00:05:52,830 --> 00:06:04,420
+iniziamo primo blocco contiamo 2 3 4 5 6
+
+151
+00:05:57,670 --> 00:06:08,260
+7 8 9 2 3 4 5 6 7 8 e 9
+
+152
+00:06:04,420 --> 00:06:11,020
+ok in realtà è molto piccolino forse
+
+153
+00:06:08,260 --> 00:06:14,320
+troppo iniziare potrebbe andare bene
+
+154
+00:06:11,020 --> 00:06:18,250
+quanto alto io direi abbastanza alto
+
+155
+00:06:14,320 --> 00:06:19,720
+1234 quattro blocchi almeno direi
+
+156
+00:06:18,250 --> 00:06:22,030
+quattro blocchi almeno così poi c'è lo
+
+157
+00:06:19,720 --> 00:06:24,790
+spazio per fare no ma anche il tour non
+
+158
+00:06:22,030 --> 00:06:28,390
+lo vorrei abbastanza tino alto 5 signore
+
+159
+00:06:24,790 --> 00:06:30,010
+signori sarà alto 5 quindi una buona
+
+160
+00:06:28,390 --> 00:06:32,620
+quantità di blocchi per fare tutto il
+
+161
+00:06:30,010 --> 00:06:36,460
+frame e ovviamente tutti i lati saranno
+
+162
+00:06:32,620 --> 00:06:39,490
+fatti di vetro solo solo solo solo vetro
+
+163
+00:06:36,460 --> 00:06:41,560
+che non so se o in quantità sufficiente
+
+164
+00:06:39,490 --> 00:06:44,020
+al momento ma qualche modo ce la faremo
+
+165
+00:06:41,560 --> 00:06:46,320
+et voilà ora abbiamo il nostro bello a
+
+166
+00:06:44,020 --> 00:06:50,080
+parallelepipedo che bisognerà riempire
+
+167
+00:06:46,320 --> 00:06:52,900
+per prima cosa riempiamo soffitto con
+
+168
+00:06:50,080 --> 00:06:55,240
+del vetro poi adempiremo i lati e il suo
+
+169
+00:06:52,900 --> 00:06:56,800
+proprio dietro della terra così posso
+
+170
+00:06:55,240 --> 00:07:00,250
+riempire tutti i blocchi
+
+171
+00:06:56,800 --> 00:07:02,200
+purtroppo non ho delle spugne e e le
+
+172
+00:07:00,250 --> 00:07:05,710
+varie l'acqua che fa un dio
+
+173
+00:07:02,200 --> 00:07:07,720
+mannaggia a me che domani blocchi non ho
+
+174
+00:07:05,710 --> 00:07:12,280
+così tanto vetro da poter permettermi di
+
+175
+00:07:07,720 --> 00:07:17,530
+sbagliare a piazzarlo ok stessa roba ai
+
+176
+00:07:12,280 --> 00:07:19,150
+lati quindi iniziamo a riempire poi
+
+177
+00:07:17,530 --> 00:07:21,760
+doveva portarmi anche la possibilità c'è
+
+178
+00:07:19,150 --> 00:07:23,770
+sicuramente perché non ho tutto questo
+
+179
+00:07:21,760 --> 00:07:26,950
+vetro dire a vela e rompiamo i blocchi
+
+180
+00:07:23,770 --> 00:07:29,590
+poi per fare altre stanze e no non posso
+
+181
+00:07:26,950 --> 00:07:33,280
+permettermelo andrè ma avrò abbastanza
+
+182
+00:07:29,590 --> 00:07:35,500
+vetro per fare per lo meno il range
+
+183
+00:07:33,280 --> 00:07:36,810
+esterno di questo primo blocco sai che
+
+184
+00:07:35,500 --> 00:07:39,810
+potenzialmente no
+
+185
+00:07:36,810 --> 00:07:41,570
+mannaggia va bene una cosa posso fare
+
+186
+00:07:39,810 --> 00:07:43,889
+però è rimuovere intanto tutti i blocchi
+
+187
+00:07:41,570 --> 00:07:45,540
+d'acqua che ci sono qua dentro perché se
+
+188
+00:07:43,889 --> 00:07:47,730
+esco a chiuderlo per lo meno qui
+
+189
+00:07:45,540 --> 00:07:48,840
+dovremmo essere a cavallo
+
+190
+00:07:47,730 --> 00:07:52,050
+ora posso fare anche una cosa di questo
+
+191
+00:07:48,840 --> 00:07:55,260
+tipo quindi riempire un attimino i lati
+
+192
+00:07:52,050 --> 00:07:59,610
+dopo un minimo così al mezzo abbiamo la
+
+193
+00:07:55,260 --> 00:08:01,740
+porta 3x3 che voglio fare e poi vedremo
+
+194
+00:07:59,610 --> 00:08:03,450
+come in pila per bene poi anche
+
+195
+00:08:01,740 --> 00:08:05,400
+pavimento non sa tutto ristrutturato
+
+196
+00:08:03,450 --> 00:08:09,330
+insomma potete capire per il momento ci
+
+197
+00:08:05,400 --> 00:08:12,389
+concentriamo sulla chiudere questo e
+
+198
+00:08:09,330 --> 00:08:13,710
+iniziare a levare blocchi d'acqua se io
+
+199
+00:08:12,389 --> 00:08:15,720
+li avrebbe offida acqua poi posso
+
+200
+00:08:13,710 --> 00:08:17,190
+mettere delle torce così vediamo tutti
+
+201
+00:08:15,720 --> 00:08:19,560
+meglio mentalmente non si vede
+
+202
+00:08:17,190 --> 00:08:22,020
+assolutamente però non è che devo prima
+
+203
+00:08:19,560 --> 00:08:26,550
+di tutto un livello se non devo tutto il
+
+204
+00:08:22,020 --> 00:08:30,660
+primo livello non è fattibile la cosa
+
+205
+00:08:26,550 --> 00:08:32,279
+stavamo le varie tutto se ci sono altre
+
+206
+00:08:30,660 --> 00:08:35,640
+sorgenti d'acqua poi si rigenera
+
+207
+00:08:32,279 --> 00:08:39,659
+all'infinito e io perdo solamente tempo
+
+208
+00:08:35,640 --> 00:08:41,219
+ok tanto finché la mia pozione del monte
+
+209
+00:08:39,659 --> 00:08:43,710
+politiche siamo tutti a cavallo possono
+
+210
+00:08:41,219 --> 00:08:45,900
+fare quello che vogliamo senza soffrire
+
+211
+00:08:43,710 --> 00:08:47,220
+però volevo mettere una torcia per lo
+
+212
+00:08:45,900 --> 00:08:49,110
+meno così si vede qualcosa che non sto
+
+213
+00:08:47,220 --> 00:08:52,400
+vedendo niente tutto nero tutto
+
+214
+00:08:49,110 --> 00:08:57,839
+assolutamente non si vede nulla
+
+215
+00:08:52,400 --> 00:08:59,990
+ok già fare così mi permette di avere un
+
+216
+00:08:57,839 --> 00:09:03,740
+minimo errore
+
+217
+00:08:59,990 --> 00:09:06,480
+ecco vedi queste cose non vanno fatte
+
+218
+00:09:03,740 --> 00:09:08,460
+luce che bello che sono male gli occhi
+
+219
+00:09:06,480 --> 00:09:10,650
+ti giuro
+
+220
+00:09:08,460 --> 00:09:12,270
+ovviamente la luce qui ci sarà solamente
+
+221
+00:09:10,650 --> 00:09:13,920
+etico sul pavimento
+
+222
+00:09:12,270 --> 00:09:15,810
+perché sul vetro non si possono piazzare
+
+223
+00:09:13,920 --> 00:09:17,610
+cose dove sostituire alcuni pezzi di
+
+224
+00:09:15,810 --> 00:09:20,970
+vetro con tipo della blue stone o meglio
+
+225
+00:09:17,610 --> 00:09:24,510
+del 6 lantern che al momento però non ho
+
+226
+00:09:20,970 --> 00:09:26,940
+che bello facciamo la stessa cosa per
+
+227
+00:09:24,510 --> 00:09:28,320
+questi ultimi due livelli che mancano e
+
+228
+00:09:26,940 --> 00:09:30,930
+questo avrà fatto ogni volta vorrò fare
+
+229
+00:09:28,320 --> 00:09:32,700
+un in questi moduli tra l'altro quindi
+
+230
+00:09:30,930 --> 00:09:34,590
+come potete capire è leggermente
+
+231
+00:09:32,700 --> 00:09:38,800
+impegnativa
+
+232
+00:09:34,590 --> 00:09:41,500
+come come casa con base ma è anche
+
+233
+00:09:38,800 --> 00:09:45,670
+altrettanto figlia ok è un altro pezzo
+
+234
+00:09:41,500 --> 00:09:49,720
+di torce che chiusura quando puoi vedere
+
+235
+00:09:45,670 --> 00:09:51,640
+quello che fai proprio bello il
+
+236
+00:09:49,720 --> 00:09:55,330
+pavimento in minima idea di cosa
+
+237
+00:09:51,640 --> 00:09:57,070
+metterci penso non lo so sto quarzo se
+
+238
+00:09:55,330 --> 00:10:00,910
+ce la faccio ma non vi garantisco nulla
+
+239
+00:09:57,070 --> 00:10:04,810
+perché su questo quarto mannaggia tesino
+
+240
+00:10:00,910 --> 00:10:07,390
+prenderlo ok ok già che ci siamo
+
+241
+00:10:04,810 --> 00:10:09,730
+rimuoviamo anche la parte sotto che se
+
+242
+00:10:07,390 --> 00:10:11,530
+poi sarà più facile andare a fare il
+
+243
+00:10:09,730 --> 00:10:13,510
+resto e riempirlo che gli blocchi che
+
+244
+00:10:11,530 --> 00:10:15,870
+non sono quella quali saranno però o con
+
+245
+00:10:13,510 --> 00:10:18,040
+calma et voilà
+
+246
+00:10:15,870 --> 00:10:20,500
+già questo è un inizio
+
+247
+00:10:18,040 --> 00:10:22,660
+abbiamo un primo modulo non male
+
+248
+00:10:20,500 --> 00:10:25,090
+bisognerebbe kraft è tipo una porta la
+
+249
+00:10:22,660 --> 00:10:27,610
+mettere lì per il momento così possiamo
+
+250
+00:10:25,090 --> 00:10:30,610
+entrare uscire senza problemi anche se a
+
+251
+00:10:27,610 --> 00:10:33,340
+casa c'erano le porte anzi sarebbe
+
+252
+00:10:30,610 --> 00:10:35,920
+bellissimo metterci qui della terra
+
+253
+00:10:33,340 --> 00:10:38,440
+dell'erbetta anzi wow sarebbe bellissimo
+
+254
+00:10:35,920 --> 00:10:41,140
+facciamolo voglio d'erbetta proprio del
+
+255
+00:10:38,440 --> 00:10:43,350
+betta devo aprire un attimino qui ora
+
+256
+00:10:41,140 --> 00:10:46,360
+entra dell'acqua ma non è un problema
+
+257
+00:10:43,350 --> 00:10:49,420
+devo uscire anche però se ti piacerebbe
+
+258
+00:10:46,360 --> 00:10:51,400
+uscire dalla mia piacerebbe riuscire
+
+259
+00:10:49,420 --> 00:10:54,550
+dalla mia base grazie mille
+
+260
+00:10:51,400 --> 00:10:56,950
+alleluia ok direi che è un inizio
+
+261
+00:10:54,550 --> 00:11:00,070
+sicuramente allora al momento non ho
+
+262
+00:10:56,950 --> 00:11:01,870
+abbastanza vetro per fare un'altra base
+
+263
+00:11:00,070 --> 00:11:03,550
+quindi ci concentreremo sul decorare
+
+264
+00:11:01,870 --> 00:11:06,610
+questa fa quindi ho appreso della terra
+
+265
+00:11:03,550 --> 00:11:08,680
+della graf la porta una porta un po di
+
+266
+00:11:06,610 --> 00:11:10,780
+bown mia per quando la classe c sì
+
+267
+00:11:08,680 --> 00:11:13,120
+diciamo diffonderà ma potrebbe vederci
+
+268
+00:11:10,780 --> 00:11:15,250
+un po lasciamo i blocchi che non ci
+
+269
+00:11:13,120 --> 00:11:17,040
+servono tipo di questi questo granito
+
+270
+00:11:15,250 --> 00:11:19,810
+brutto non lo vogliamo
+
+271
+00:11:17,040 --> 00:11:22,990
+quello che farò poi e prende una bella
+
+272
+00:11:19,810 --> 00:11:25,570
+manciata di far fare una shivers e
+
+273
+00:11:22,990 --> 00:11:28,480
+andare a prendere una notte e andare a
+
+274
+00:11:25,570 --> 00:11:30,280
+prendere delle risorse in giro per
+
+275
+00:11:28,480 --> 00:11:32,230
+l'oceano perché voglio anche che il
+
+276
+00:11:30,280 --> 00:11:35,170
+contorno sia carino se ascoltare dei
+
+277
+00:11:32,230 --> 00:11:36,730
+coralli sarebbe ancora più bello però lì
+
+278
+00:11:35,170 --> 00:11:39,580
+non lo so succede perché quando era poi
+
+279
+00:11:36,730 --> 00:11:44,470
+ancora lo diventò un corallo morto non
+
+280
+00:11:39,580 --> 00:11:46,610
+so come spostare un corallo dove cercare
+
+281
+00:11:44,470 --> 00:11:50,959
+aspetta prima di andare prendiamo altro
+
+282
+00:11:46,610 --> 00:11:52,670
+vetro perché potrebbe servirci promesso
+
+283
+00:11:50,959 --> 00:11:54,619
+cuocere prima quindi sì abbiamo finito
+
+284
+00:11:52,670 --> 00:11:58,429
+praticamente la sabbia dove andare a
+
+285
+00:11:54,619 --> 00:12:00,259
+prenderne altre nel deserto ma magari
+
+286
+00:11:58,429 --> 00:12:02,569
+non riesco a fare tutta un'altra un
+
+287
+00:12:00,259 --> 00:12:04,220
+altro modulo della base invece potrebbe
+
+288
+00:12:02,569 --> 00:12:06,980
+servire che ne sai magari voglio fare un
+
+289
+00:12:04,220 --> 00:12:07,459
+pezzo di un tunnel oppure qualcosa del
+
+290
+00:12:06,980 --> 00:12:10,519
+genere
+
+291
+00:12:07,459 --> 00:12:12,980
+lo so allora più che altro a casa siamo
+
+292
+00:12:10,519 --> 00:12:14,929
+siamo lì perché siamo un po lontani
+
+293
+00:12:12,980 --> 00:12:17,990
+affetti dalla nostra base quindi
+
+294
+00:12:14,929 --> 00:12:20,869
+bisognerebbe fare un tunnel che arriva
+
+295
+00:12:17,990 --> 00:12:23,089
+non so dove però un bel tunnel al
+
+296
+00:12:20,869 --> 00:12:26,990
+momento buttiamoci qua sotto
+
+297
+00:12:23,089 --> 00:12:29,629
+non abbiamo più la nostra fonte di vita
+
+298
+00:12:26,990 --> 00:12:31,850
+di respiro però per il momento possono
+
+299
+00:12:29,629 --> 00:12:34,809
+fare questo iniziare a piazza ma gli
+
+300
+00:12:31,850 --> 00:12:37,009
+entrava acqua sembrava entrare acqua
+
+301
+00:12:34,809 --> 00:12:38,929
+apprezziamo intanto tutta la terra
+
+302
+00:12:37,009 --> 00:12:41,269
+finché metto la think al momento la
+
+303
+00:12:38,929 --> 00:12:42,949
+porta ovviamente non piazzerò invece gli
+
+304
+00:12:41,269 --> 00:12:45,769
+altri blocchi sono poi ci arriva l'acqua
+
+305
+00:12:42,949 --> 00:12:47,269
+sopra a casini
+
+306
+00:12:45,769 --> 00:12:49,819
+mettiamo subito la porta va così abbiamo
+
+307
+00:12:47,269 --> 00:12:52,309
+un problema in meno anche se questa
+
+308
+00:12:49,819 --> 00:12:55,249
+porta vorrei riempirla cioè ti può
+
+309
+00:12:52,309 --> 00:12:57,799
+mettere la porta qui è attorno
+
+310
+00:12:55,249 --> 00:12:59,839
+il gruppo bloc che è più carino rispetto
+
+311
+00:12:57,799 --> 00:13:03,049
+al blocco di terra inizialmente avevamo
+
+312
+00:12:59,839 --> 00:13:04,490
+una mezza di tenere il vetro però anche
+
+313
+00:13:03,049 --> 00:13:06,619
+se poi ci farò non lo sono infatti tipo
+
+314
+00:13:04,490 --> 00:13:08,480
+di tutto no qualcosa ecco la porta ha
+
+315
+00:13:06,619 --> 00:13:11,629
+più senso ti dirò di più la voglia
+
+316
+00:13:08,480 --> 00:13:13,759
+mettere al contrario la porta così grave
+
+317
+00:13:11,629 --> 00:13:16,040
+bucarsi di meno l'acqua e fare un
+
+318
+00:13:13,759 --> 00:13:18,439
+effetto più carino rispetto al momento
+
+319
+00:13:16,040 --> 00:13:20,749
+tipo se faccio così da fuori
+
+320
+00:13:18,439 --> 00:13:23,959
+ecco sembravano bucato e c'è uno spazio
+
+321
+00:13:20,749 --> 00:13:27,429
+d'aria subito senza entrare a che bello
+
+322
+00:13:23,959 --> 00:13:31,249
+che bello abbiamo una bolla d'aria
+
+323
+00:13:27,429 --> 00:13:33,649
+sotterranea in cui salvo problemi salvo
+
+324
+00:13:31,249 --> 00:13:35,480
+clipper subaquei di cui non so nulla per
+
+325
+00:13:33,649 --> 00:13:37,970
+il momento dovremmo essere a posto
+
+326
+00:13:35,480 --> 00:13:40,160
+allora piazzano subito un po di questi
+
+327
+00:13:37,970 --> 00:13:41,570
+per diffondersi le aveva bisogno di
+
+328
+00:13:40,160 --> 00:13:44,000
+molta luce quindi
+
+329
+00:13:41,570 --> 00:13:47,720
+devo mettere un po di luce in giro
+
+330
+00:13:44,000 --> 00:13:50,000
+ovviamente ok quindi mettiamo delle
+
+331
+00:13:47,720 --> 00:13:56,210
+torce prima cosa li nell'angolino e ne
+
+332
+00:13:50,000 --> 00:13:58,610
+mettiamo altri tipo qui e qui deve
+
+333
+00:13:56,210 --> 00:14:00,920
+essere livello 9 o superiore ora siamo
+
+334
+00:13:58,610 --> 00:14:03,470
+10 10 10 10 10
+
+335
+00:14:00,920 --> 00:14:05,030
+ok è che ci siamo nel piano che questi
+
+336
+00:14:03,470 --> 00:14:08,320
+tutti i pezzettini potrebbe vederci un
+
+337
+00:14:05,030 --> 00:14:10,460
+po ma la luce c'è e quindi siamo a posto
+
+338
+00:14:08,320 --> 00:14:14,440
+ripensandoci sarebbe carino avere anche
+
+339
+00:14:10,460 --> 00:14:18,950
+del pool block qui messo a mo di
+
+340
+00:14:14,440 --> 00:14:20,750
+quadratino è centrale e centrale se ve
+
+341
+00:14:18,950 --> 00:14:22,490
+lo sto aspettando del vetro poi faremo
+
+342
+00:14:20,750 --> 00:14:24,380
+altro di un problema questo modo se vuoi
+
+343
+00:14:22,490 --> 00:14:27,140
+fare un tubo anche rivas dall'alto poi
+
+344
+00:14:24,380 --> 00:14:28,780
+posso farlo senza troppi problemi
+
+345
+00:14:27,140 --> 00:14:32,360
+mentre aspettiamo che qui cresca tutto
+
+346
+00:14:28,780 --> 00:14:35,960
+andiamo a fare il nostro lavoretto delle
+
+347
+00:14:32,360 --> 00:14:38,480
+chance perché di qua ci sono dei blocchi
+
+348
+00:14:35,960 --> 00:14:40,220
+li ho visti prima in lontananza
+
+349
+00:14:38,480 --> 00:14:41,450
+anche se quella zona è molto più
+
+350
+00:14:40,220 --> 00:14:43,310
+profonda che sa più quali ebbero molto
+
+351
+00:14:41,450 --> 00:14:46,900
+che per fondare voluto farlo qua
+
+352
+00:14:43,310 --> 00:14:49,370
+cazzola così vicino non l'ho visto berta
+
+353
+00:14:46,900 --> 00:14:51,440
+notiamo notiamo notiamo né o prendere un
+
+354
+00:14:49,370 --> 00:14:54,350
+po di questa queste alghe non ce ne
+
+355
+00:14:51,440 --> 00:14:58,310
+servono tantissime ovviamente toglie il
+
+356
+00:14:54,350 --> 00:15:01,550
+goethe un po di kemp ultimo mi sta
+
+357
+00:14:58,310 --> 00:15:03,710
+sparando con il tridente sarebbe fisso
+
+358
+00:15:01,550 --> 00:15:08,450
+sul me lo disse lui il papello ho
+
+359
+00:15:03,710 --> 00:15:10,370
+ricavato ha preso 1 il 2 e 3
+
+360
+00:15:08,450 --> 00:15:13,970
+niente tridente purtroppo tenente ad
+
+361
+00:15:10,370 --> 00:15:16,280
+avere un drop reit molto basso e troppa
+
+362
+00:15:13,970 --> 00:15:19,250
+anche senza che lo uccida io di base
+
+363
+00:15:16,280 --> 00:15:20,990
+però se hai una spada con looting cd un
+
+364
+00:15:19,250 --> 00:15:23,240
+tipo con il tridente hai più possibilità
+
+365
+00:15:20,990 --> 00:15:26,440
+di ottenerlo ma tipo 2 3 per cento in
+
+366
+00:15:23,240 --> 00:15:28,040
+più che è tanto è però non è tantissimo
+
+367
+00:15:26,440 --> 00:15:30,170
+all'erbetta piano piano si sta
+
+368
+00:15:28,040 --> 00:15:32,270
+diffondendo ottimo
+
+369
+00:15:30,170 --> 00:15:35,710
+intanto iniziamo a piazzare un po di
+
+370
+00:15:32,270 --> 00:15:38,900
+kelp ce l'avete alzare davvero tanto
+
+371
+00:15:35,710 --> 00:15:40,880
+come se fosse un bioma nuovo ma quasi
+
+372
+00:15:38,900 --> 00:15:42,830
+quindi facciamo tutto intorno per il
+
+373
+00:15:40,880 --> 00:15:45,190
+momento anche se poi tendenzialmente
+
+374
+00:15:42,830 --> 00:15:48,340
+andremo a costruire
+
+375
+00:15:45,190 --> 00:15:48,820
+altri un pugno e che collegano altri
+
+376
+00:15:48,340 --> 00:15:51,910
+moduli
+
+377
+00:15:48,820 --> 00:15:54,130
+non lo so intanto piazziamo in questi su
+
+378
+00:15:51,910 --> 00:15:58,870
+lenti ma crescono una certa qual è già
+
+379
+00:15:54,130 --> 00:16:00,280
+cresciuto addirittura base di protezione
+
+380
+00:15:58,870 --> 00:16:03,700
+come se fosse una protezione naturale
+
+381
+00:16:00,280 --> 00:16:06,340
+per questa base ok questo è il mio posto
+
+382
+00:16:03,700 --> 00:16:09,670
+sicuro nell'oceano tutto attorno a
+
+383
+00:16:06,340 --> 00:16:11,760
+piazzare che se non ci fosse un domani e
+
+384
+00:16:09,670 --> 00:16:15,460
+poi lasciano cresca e faccia le sue cose
+
+385
+00:16:11,760 --> 00:16:17,080
+a un bel cerchio della natura che poi
+
+386
+00:16:15,460 --> 00:16:19,540
+crescerà diventerà più figo ma poi
+
+387
+00:16:17,080 --> 00:16:20,950
+ovviamente ampie rho nuovamente poi
+
+388
+00:16:19,540 --> 00:16:22,750
+faremo un manico un altro giro ancora
+
+389
+00:16:20,950 --> 00:16:25,110
+più grosso così viene davvero davvero
+
+390
+00:16:22,750 --> 00:16:25,110
+figo
+
+391
+00:16:26,890 --> 00:16:32,410
+qui nel frattempo l'erbetta come te si
+
+392
+00:16:28,780 --> 00:16:34,570
+sta facendo i suoi giri ci mette un po
+
+393
+00:16:32,410 --> 00:16:36,370
+di tempo e poi l'impiego di erbetta
+
+394
+00:16:34,570 --> 00:16:40,870
+anche qua dentro presenta tipo un'oasi
+
+395
+00:16:36,370 --> 00:16:45,760
+di terra dell'oceano che suona strano ma
+
+396
+00:16:40,870 --> 00:16:49,150
+è figo capito con un po in mi.fi parata
+
+397
+00:16:45,760 --> 00:16:52,870
+che ti ritrovi con il fiorellino e un po
+
+398
+00:16:49,150 --> 00:16:54,580
+di erbetta è molto molto caruccio
+
+399
+00:16:52,870 --> 00:16:58,060
+forse una barchetta avrebbe fatto comodo
+
+400
+00:16:54,580 --> 00:16:59,680
+e una situazione come questa ma inutile
+
+401
+00:16:58,060 --> 00:17:02,860
+piangere sul latte versato
+
+402
+00:16:59,680 --> 00:17:05,350
+che bello il mio primo delfino vicino o
+
+403
+00:17:02,860 --> 00:17:08,410
+di odio odio e vero che fini fa notare
+
+404
+00:17:05,350 --> 00:17:11,680
+velocissimi allora iniziamo a piazzare
+
+405
+00:17:08,410 --> 00:17:13,600
+cos'è a caso tantissime e poi devo fare
+
+406
+00:17:11,680 --> 00:17:15,970
+davvero un lavoro né e piace davvero
+
+407
+00:17:13,600 --> 00:17:22,030
+tanti di questi malati quale continua a
+
+408
+00:17:15,970 --> 00:17:25,540
+crescere bravi anche un po di alberta ad
+
+409
+00:17:22,030 --> 00:17:28,240
+essere il cerchio della morte del tempo
+
+410
+00:17:25,540 --> 00:17:32,710
+e della sea gas per essere un botto di
+
+411
+00:17:28,240 --> 00:17:35,200
+roba di quanti di fini che ci sono atti
+
+412
+00:17:32,710 --> 00:17:40,360
+pesciolini che caruccio quasi vede anche
+
+413
+00:17:35,200 --> 00:17:44,620
+il tramonto bel posto bel posto
+
+414
+00:17:40,360 --> 00:17:46,240
+quanti delfini un botto il fini ok
+
+415
+00:17:44,620 --> 00:17:49,270
+finito nuovamente i blocchi che ho
+
+416
+00:17:46,240 --> 00:17:50,740
+raccolto qui ancora più erbetta ma ci
+
+417
+00:17:49,270 --> 00:17:52,870
+vorrà un po per averla davvero tutta
+
+418
+00:17:50,740 --> 00:17:54,490
+tutta tutta e anche qui ci vorrà un po
+
+419
+00:17:52,870 --> 00:17:56,740
+per far crescere tutta questa roba bella
+
+420
+00:17:54,490 --> 00:17:58,420
+però se noi abbiamo i nostri amici
+
+421
+00:17:56,740 --> 00:18:01,380
+delfini la vicino
+
+422
+00:17:58,420 --> 00:18:03,610
+siamo contenti i nostri del finotti
+
+423
+00:18:01,380 --> 00:18:05,740
+potrei passare cui la notte tra l'altro
+
+424
+00:18:03,610 --> 00:18:08,320
+sono sicuro che ci sono the drowned che
+
+425
+00:18:05,740 --> 00:18:10,240
+mi verranno dal fastidio ma tanto sono
+
+426
+00:18:08,320 --> 00:18:12,520
+qui assicuro il drowned non possono
+
+427
+00:18:10,240 --> 00:18:14,650
+battere sulle porte per fortuna
+
+428
+00:18:12,520 --> 00:18:16,390
+da quello che so e siamo a cavallo
+
+429
+00:18:14,650 --> 00:18:18,130
+signore e signori per questo video è
+
+430
+00:18:16,390 --> 00:18:19,150
+tutto io mica so tantissimo per la
+
+431
+00:18:18,130 --> 00:18:21,250
+bisogno ci vediamo
+
+432
+00:18:19,150 --> 00:18:24,340
+prossimamente sul canale con altri video
+
+433
+00:18:21,250 --> 00:18:26,919
+tra cui minecraft ita 6 delle 7 e altre
+
+434
+00:18:24,340 --> 00:18:28,890
+cose e niente per momento è tutto vi
+
+435
+00:18:26,919 --> 00:18:41,579
+saluto ciao futuro tutti
+
+436
+00:18:28,890 --> 00:18:41,579
+[Musica]
+
+437
+00:18:44,290 --> 00:18:47,380
+[Musica]

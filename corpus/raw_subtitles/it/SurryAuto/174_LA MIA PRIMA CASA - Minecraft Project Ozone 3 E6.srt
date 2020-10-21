@@ -1,0 +1,2003 @@
+1
+00:00:00,000 --> 00:00:03,810
+ciao a tutti che ciotti avvenuti in
+
+2
+00:00:01,110 --> 00:00:06,000
+questo nuovissimo video del progetto son
+
+3
+00:00:03,810 --> 00:00:07,319
+tre prima d'iniziare voglio indirizzare
+
+4
+00:00:06,000 --> 00:00:08,880
+alcuni commenti che ho letto sotto gli
+
+5
+00:00:07,319 --> 00:00:10,320
+ultimi episodi purtroppo che sto
+
+6
+00:00:08,880 --> 00:00:12,179
+portando un po avanti quindi non sempre
+
+7
+00:00:10,320 --> 00:00:15,030
+riesco a rispondere commenti il giorno
+
+8
+00:00:12,179 --> 00:00:17,880
+esattamente il giorno dopo che mi
+
+9
+00:00:15,030 --> 00:00:20,820
+lasciate commenti riguardo il fatto che
+
+10
+00:00:17,880 --> 00:00:25,080
+ti spiego troppo o che vi porto troppo
+
+11
+00:00:20,820 --> 00:00:26,670
+avanti rispetto all'episodio stesso
+
+12
+00:00:25,080 --> 00:00:28,710
+leggendo i commenti effettivamente
+
+13
+00:00:26,670 --> 00:00:30,119
+potreste aver ragione perché è un
+
+14
+00:00:28,710 --> 00:00:31,800
+ragionamento che ho iniziato a fare
+
+15
+00:00:30,119 --> 00:00:34,320
+pensando a tutto il lavoro che bisogna
+
+16
+00:00:31,800 --> 00:00:36,540
+fare per questa per questa serie
+
+17
+00:00:34,320 --> 00:00:39,120
+però effettivamente all'inizio potrebbe
+
+18
+00:00:36,540 --> 00:00:41,850
+diventare anche un po noiosetto vedere
+
+19
+00:00:39,120 --> 00:00:46,489
+solamente spiegazione su spiegazione su
+
+20
+00:00:41,850 --> 00:00:50,550
+spiegazione è per questo che uno gang
+
+21
+00:00:46,489 --> 00:00:52,199
+cresciuto per questo che è per lo meno
+
+22
+00:00:50,550 --> 00:00:56,100
+ora all'inizio finché non diventerà
+
+23
+00:00:52,199 --> 00:00:58,260
+davvero difficile gestire le emissioni
+
+24
+00:00:56,100 --> 00:00:59,430
+cambieremo format nel senso torneremo a
+
+25
+00:00:58,260 --> 00:01:00,989
+fare come abbiamo sempre fatto come ho
+
+26
+00:00:59,430 --> 00:01:03,989
+fatto un nastro block e sarà un episodio
+
+27
+00:01:00,989 --> 00:01:06,360
+e vediamo che succede di bello allora in
+
+28
+00:01:03,989 --> 00:01:09,090
+questo momento sto prendendo dei blocchi
+
+29
+00:01:06,360 --> 00:01:13,680
+di eucalipto in questo caso perché
+
+30
+00:01:09,090 --> 00:01:14,820
+voglio utilizzarlo come blocco per una
+
+31
+00:01:13,680 --> 00:01:19,770
+struttura
+
+32
+00:01:14,820 --> 00:01:21,869
+ora ho deciso di creare un villaggio non
+
+33
+00:01:19,770 --> 00:01:24,930
+voglio fare come mio solito che creano
+
+34
+00:01:21,869 --> 00:01:27,479
+le solite stanzette 9x9 o del rettangolo
+
+35
+00:01:24,930 --> 00:01:29,729
+delle cose in cui inserire i macchinari
+
+36
+00:01:27,479 --> 00:01:31,110
+tutte le strutture perché altrimenti
+
+37
+00:01:29,729 --> 00:01:32,579
+diventa davvero sempre sempre la stessa
+
+38
+00:01:31,110 --> 00:01:34,320
+roba è vero questo è un pacchetto super
+
+39
+00:01:32,579 --> 00:01:35,729
+difficile è detto in tantissimi che
+
+40
+00:01:34,320 --> 00:01:38,520
+sarebbero complicato arrivare alla fine
+
+41
+00:01:35,729 --> 00:01:39,960
+in sé non ne sono consapevole cioè non
+
+42
+00:01:38,520 --> 00:01:41,640
+nessuno mai nella vita consapevole però
+
+43
+00:01:39,960 --> 00:01:43,049
+un punto quindi rocchio ma davvero fare
+
+44
+00:01:41,640 --> 00:01:45,390
+tutto questo perfetto questo questo
+
+45
+00:01:43,049 --> 00:01:47,100
+questo e vi verrà da deprimermi però per
+
+46
+00:01:45,390 --> 00:01:49,799
+il resto sembrerebbe comunque a dare
+
+47
+00:01:47,100 --> 00:01:52,560
+tutto a posto come te ho smontato tutta
+
+48
+00:01:49,799 --> 00:01:55,020
+la parte dei setacci e ho rimosso
+
+49
+00:01:52,560 --> 00:01:57,149
+l'acqua tutto quanto ora vedrò anche
+
+50
+00:01:55,020 --> 00:01:59,520
+ovviamente tutta sta roba perché ho
+
+51
+00:01:57,149 --> 00:02:03,030
+deciso di iniziare a costruire allora
+
+52
+00:01:59,520 --> 00:02:05,219
+sicuramente c'è una cosa da dire è ed è
+
+53
+00:02:03,030 --> 00:02:07,409
+la seguente non voglio come vi ho appena
+
+54
+00:02:05,219 --> 00:02:09,599
+detto fare un super costruiti con un
+
+55
+00:02:07,409 --> 00:02:11,069
+capannone giocato e metto tutto perché
+
+56
+00:02:09,599 --> 00:02:12,209
+non mi interessa mi piacerebbe creare
+
+57
+00:02:11,069 --> 00:02:13,319
+una specie di villaggio
+
+58
+00:02:12,209 --> 00:02:15,799
+approfittiamo
+
+59
+00:02:13,319 --> 00:02:18,180
+questo che abbiamo un mondo bello intero
+
+60
+00:02:15,799 --> 00:02:19,769
+grossissimo sarebbe figgis riuscire a
+
+61
+00:02:18,180 --> 00:02:21,629
+sfruttarla per mettere qualcosa anche lì
+
+62
+00:02:19,769 --> 00:02:23,790
+perché io sto in mezzo all'acqua cioè
+
+63
+00:02:21,629 --> 00:02:25,139
+trattare un po di più come se fosse vero
+
+64
+00:02:23,790 --> 00:02:27,180
+e proprio mondo rimane carte non per
+
+65
+00:02:25,139 --> 00:02:28,430
+forza solo un pacchetto mo dato che
+
+66
+00:02:27,180 --> 00:02:29,939
+sembra tutto un laboratorio scientifico
+
+67
+00:02:28,430 --> 00:02:32,040
+asettico
+
+68
+00:02:29,939 --> 00:02:33,959
+detto questo allora io direi che potremo
+
+69
+00:02:32,040 --> 00:02:35,939
+iniziare intanto prendo della terra
+
+70
+00:02:33,959 --> 00:02:38,040
+perché non so se ne ho per non
+
+71
+00:02:35,939 --> 00:02:40,079
+sembrerebbe che non abbia tantissima
+
+72
+00:02:38,040 --> 00:02:42,299
+però oltre alla terra voglio fare
+
+73
+00:02:40,079 --> 00:02:45,180
+un'altra cosa per prendere un pezzo di
+
+74
+00:02:42,299 --> 00:02:46,560
+ferro andare qui e provare a craftare se
+
+75
+00:02:45,180 --> 00:02:49,620
+non erro si faceva così
+
+76
+00:02:46,560 --> 00:02:51,030
+esatto una bacchetta magica la bacchetta
+
+77
+00:02:49,620 --> 00:02:53,669
+magica è una figata
+
+78
+00:02:51,030 --> 00:02:56,099
+perché ti permette di piazzare molto più
+
+79
+00:02:53,669 --> 00:02:57,659
+velocemente i blocchi è una cosa che ci
+
+80
+00:02:56,099 --> 00:02:59,370
+tornerà molto utile
+
+81
+00:02:57,659 --> 00:03:00,900
+ce ne sono di diversi tipi ce n'è alcuna
+
+82
+00:02:59,370 --> 00:03:02,250
+tipo super indistruttibile che si fa
+
+83
+00:03:00,900 --> 00:03:03,689
+come nell'east armandone restando ce
+
+84
+00:03:02,250 --> 00:03:06,319
+l'abbiamo quindi per il momento lasciamo
+
+85
+00:03:03,689 --> 00:03:10,680
+stare peggio tutti i blocchi tipo se io
+
+86
+00:03:06,319 --> 00:03:13,349
+questo posso piazzare un pezzo di legno
+
+87
+00:03:10,680 --> 00:03:15,389
+accanto e molto fico tende l'oggetto da
+
+88
+00:03:13,349 --> 00:03:17,040
+un inventario e lo piazza comunque un
+
+89
+00:03:15,389 --> 00:03:18,840
+nome troppo interessante per il momento
+
+90
+00:03:17,040 --> 00:03:20,489
+perché dobbiamo prender della terra
+
+91
+00:03:18,840 --> 00:03:22,560
+abbiamo riempire sub dentro mi sembra un
+
+92
+00:03:20,489 --> 00:03:24,209
+ottimo inizio sinceramente a vada in
+
+93
+00:03:22,560 --> 00:03:26,389
+quaranta pezzi di terra
+
+94
+00:03:24,209 --> 00:03:28,530
+prendo la mia one e facciamo così
+
+95
+00:03:26,389 --> 00:03:30,750
+vediamo che l'estensione che non le
+
+96
+00:03:28,530 --> 00:03:32,699
+vogliamo siamo così così e tutto molto
+
+97
+00:03:30,750 --> 00:03:33,569
+automatico non c'è molto da decidere non
+
+98
+00:03:32,699 --> 00:03:36,269
+so neanche se è configurabile
+
+99
+00:03:33,569 --> 00:03:38,150
+sinceramente però lasciamo stare
+
+100
+00:03:36,269 --> 00:03:39,989
+allora ora che abbiamo bello spazietto
+
+101
+00:03:38,150 --> 00:03:41,879
+elettro lasciamo finché non ho una
+
+102
+00:03:39,989 --> 00:03:44,220
+struttura degna di essere chiamata tale
+
+103
+00:03:41,879 --> 00:03:45,419
+in cui metterle robe però possono
+
+104
+00:03:44,220 --> 00:03:47,370
+trasferire le cose qua dentro
+
+105
+00:03:45,419 --> 00:03:49,470
+al contrario no non me lo fa fare mi
+
+106
+00:03:47,370 --> 00:03:52,650
+piacerebbe creare come prima cosa una
+
+107
+00:03:49,470 --> 00:03:54,359
+piccola casetta maicon mini tetto a
+
+108
+00:03:52,650 --> 00:03:57,900
+spiovente sarebbe anche una cosa carina
+
+109
+00:03:54,359 --> 00:03:59,359
+che tipo di novità un tetto rosa dynamo
+
+110
+00:03:57,900 --> 00:04:04,019
+che questo non avevo messo in conto
+
+111
+00:03:59,359 --> 00:04:06,269
+questo tutto rosa e poi magari abbiamo
+
+112
+00:04:04,019 --> 00:04:08,099
+meglio cosa usare per il ter la cima
+
+113
+00:04:06,269 --> 00:04:09,780
+però come struttura di base in piacere
+
+114
+00:04:08,099 --> 00:04:11,549
+bisogno delle quali pto quindi visto che
+
+115
+00:04:09,780 --> 00:04:13,530
+sarà un villaggio il mio piano è quello
+
+116
+00:04:11,549 --> 00:04:15,030
+di fare tante casette piccole alcune più
+
+117
+00:04:13,530 --> 00:04:17,280
+grandi alcuni più piccole che per forza
+
+118
+00:04:15,030 --> 00:04:18,870
+di cose serviranno più piccole e metter
+
+119
+00:04:17,280 --> 00:04:21,060
+centro della roba per poi collegare
+
+120
+00:04:18,870 --> 00:04:23,159
+tutto con delle stradine magari con un
+
+121
+00:04:21,060 --> 00:04:25,710
+teletrasporto non lo so potrebbe aver
+
+122
+00:04:23,159 --> 00:04:26,880
+senso anche quello in realtà ad esempio
+
+123
+00:04:25,710 --> 00:04:28,290
+per il mio lettino
+
+124
+00:04:26,880 --> 00:04:29,850
+vino e le prime cesse che stiamo
+
+125
+00:04:28,290 --> 00:04:31,980
+realizzando potremo fare una piccola
+
+126
+00:04:29,850 --> 00:04:34,460
+casetta sensata
+
+127
+00:04:31,980 --> 00:04:37,440
+intanto qui voglio assolutamente
+
+128
+00:04:34,460 --> 00:04:39,870
+distruggere sta roba e metterci della
+
+129
+00:04:37,440 --> 00:04:41,820
+terra doveva piazzare nulla perché c'è
+
+130
+00:04:39,870 --> 00:04:45,060
+l'acqua giustamente giustamente non lo
+
+131
+00:04:41,820 --> 00:04:46,830
+sapremo i grow va bene intanto ridendo e
+
+132
+00:04:45,060 --> 00:04:48,960
+scherzando siamo già tipo a un mese di
+
+133
+00:04:46,830 --> 00:04:52,980
+gioco c'è in gioco ne sono passati 31
+
+134
+00:04:48,960 --> 00:04:54,420
+giorni per dire allora equa l'ictus come
+
+135
+00:04:52,980 --> 00:04:55,740
+lo piazziamo ed è perciò fai una cosa
+
+136
+00:04:54,420 --> 00:04:57,720
+leggermente allungata perché dobbiamo
+
+137
+00:04:55,740 --> 00:05:01,140
+piazzare comunque tutte quelle feste
+
+138
+00:04:57,720 --> 00:05:02,820
+è una cosa di questo tipo ovviamente la
+
+139
+00:05:01,140 --> 00:05:04,440
+facciamo dispari perché voglio poter
+
+140
+00:05:02,820 --> 00:05:06,240
+mettere una porta poi in questo progetto
+
+141
+00:05:04,440 --> 00:05:08,580
+sono un botto di porte fighe sul sicuro
+
+142
+00:05:06,240 --> 00:05:10,620
+quindi potremmo anche utilizzare quelle
+
+143
+00:05:08,580 --> 00:05:11,760
+una certa quattro blocchi mi sono più
+
+144
+00:05:10,620 --> 00:05:14,370
+che sufficienti di questo questo
+
+145
+00:05:11,760 --> 00:05:16,170
+romperlo ok come prima casetta ti dirò
+
+146
+00:05:14,370 --> 00:05:18,090
+anche più grande del previsto perché non
+
+147
+00:05:16,170 --> 00:05:19,980
+contavo di farla così grande
+
+148
+00:05:18,090 --> 00:05:21,630
+queste saranno i bordini che sono
+
+149
+00:05:19,980 --> 00:05:23,490
+eucalipto vediamo se posso piazzarlo
+
+150
+00:05:21,630 --> 00:05:24,240
+così ma che abbiano fatti alzare è
+
+151
+00:05:23,490 --> 00:05:27,150
+un'ottima cosa
+
+152
+00:05:24,240 --> 00:05:28,710
+quel momento lì piazzeremo dappertutto e
+
+153
+00:05:27,150 --> 00:05:31,560
+poi andiamo a vedere che tipo di blocco
+
+154
+00:05:28,710 --> 00:05:33,990
+utilizzare ero mezzo mezzo convinto di
+
+155
+00:05:31,560 --> 00:05:35,550
+utilizzare il board perché è un blocco
+
+156
+00:05:33,990 --> 00:05:37,140
+chiaro se invece potrebbe stare bene con
+
+157
+00:05:35,550 --> 00:05:39,420
+questa struttura le abbiamo letto tanto
+
+158
+00:05:37,140 --> 00:05:43,560
+il rito rimpiazziamo intromettiamo di
+
+159
+00:05:39,420 --> 00:05:44,940
+qua mi sento lo spawn point diciamo così
+
+160
+00:05:43,560 --> 00:05:47,010
+allora dobbiamo mettere l'ingresso
+
+161
+00:05:44,940 --> 00:05:49,860
+potrebbe avere senso mettevo di qua
+
+162
+00:05:47,010 --> 00:05:52,230
+verso la struttura che adesso la
+
+163
+00:05:49,860 --> 00:05:55,500
+struttura del mondo più carina quindi
+
+164
+00:05:52,230 --> 00:05:57,600
+quel centro c'è un buchetto ho bisogno
+
+165
+00:05:55,500 --> 00:06:00,690
+di un alberello nessun abbastanza credo
+
+166
+00:05:57,600 --> 00:06:05,700
+di averne qualcuno va dicendo non di
+
+167
+00:06:00,690 --> 00:06:07,890
+quercia lo volevo di birch ma come un
+
+168
+00:06:05,700 --> 00:06:10,320
+impressione qui non ci sia quindi
+
+169
+00:06:07,890 --> 00:06:12,870
+buttiamoci con tanta cattiveria cercare
+
+170
+00:06:10,320 --> 00:06:16,320
+con la betulla quale betulla alla grande
+
+171
+00:06:12,870 --> 00:06:17,220
+speriamo ci dia subito ciò che stiamo
+
+172
+00:06:16,320 --> 00:06:19,970
+cercando
+
+173
+00:06:17,220 --> 00:06:19,970
+così siamo tutti contenti
+
+174
+00:06:21,030 --> 00:06:23,700
+mi servirà assolutamente anche della
+
+175
+00:06:22,260 --> 00:06:25,590
+sabbia proviamo a rilevare questo
+
+176
+00:06:23,700 --> 00:06:28,650
+sapendo che succede potrei poter
+
+177
+00:06:25,590 --> 00:06:30,510
+pentirmene ma ci provo comunque è un
+
+178
+00:06:28,650 --> 00:06:34,560
+proprio mood 1 rec save shsh skavysh on
+
+179
+00:06:30,510 --> 00:06:35,600
+ok ho appena devastato una una zona sono
+
+180
+00:06:34,560 --> 00:06:37,220
+un deficiente
+
+181
+00:06:35,600 --> 00:06:42,770
+completamente un deficiente sembra che
+
+182
+00:06:37,220 --> 00:06:45,680
+tipo esploso un team creeper un po di
+
+183
+00:06:42,770 --> 00:06:47,840
+questo legno superfast super furious
+
+184
+00:06:45,680 --> 00:06:50,450
+prendiamo anche gli alberelli dati mina
+
+185
+00:06:47,840 --> 00:06:52,820
+dati e risparmiamo in un attimo gli
+
+186
+00:06:50,450 --> 00:06:55,250
+alberelli poco mamma mia che goduria
+
+187
+00:06:52,820 --> 00:06:59,150
+cioè a che goduria
+
+188
+00:06:55,250 --> 00:07:02,270
+ok abbiamo un po di legno ottimo questo
+
+189
+00:06:59,150 --> 00:07:04,310
+degno lo useremo per creare i contrasti
+
+190
+00:07:02,270 --> 00:07:06,050
+e poi saremo la sabbia per fare il vetro
+
+191
+00:07:04,310 --> 00:07:07,070
+voglio delle belle vetrate grosse voglio
+
+192
+00:07:06,050 --> 00:07:08,690
+che in tela luce
+
+193
+00:07:07,070 --> 00:07:10,850
+se riusciamo vediamo anche se tipo
+
+194
+00:07:08,690 --> 00:07:14,120
+qualche vetro mondato più figo che
+
+195
+00:07:10,850 --> 00:07:15,860
+pannello super fico che non lo so i
+
+196
+00:07:14,120 --> 00:07:18,170
+diamanti di diamanti non ne ho
+
+197
+00:07:15,860 --> 00:07:22,610
+però insomma hai capito cosa intendo
+
+198
+00:07:18,170 --> 00:07:26,720
+spero ha detto qua davanti voglio delle
+
+199
+00:07:22,610 --> 00:07:31,760
+belle vetrate grosse qui invece vogliono
+
+200
+00:07:26,720 --> 00:07:32,750
+va di questo tipo cioè non capisco più
+
+201
+00:07:31,760 --> 00:07:36,500
+niente ragazzi di tutto provano
+
+202
+00:07:32,750 --> 00:07:38,780
+inventario potrebbe avere senso fare una
+
+203
+00:07:36,500 --> 00:07:40,910
+cosa di questo tipo
+
+204
+00:07:38,780 --> 00:07:43,100
+sto sperimentando ragazzi poi vediamo
+
+205
+00:07:40,910 --> 00:07:46,520
+come si deve se ha senso mentre delle
+
+206
+00:07:43,100 --> 00:07:49,160
+vetrate supertop qua sopra oppure no se
+
+207
+00:07:46,520 --> 00:07:50,540
+ha senso tenere questi bosch food e come
+
+208
+00:07:49,160 --> 00:07:53,480
+fare il tetto perché anche il tetto sarà
+
+209
+00:07:50,540 --> 00:07:54,440
+importante e così già non mi piace
+
+210
+00:07:53,480 --> 00:07:56,180
+troppo grande
+
+211
+00:07:54,440 --> 00:07:57,980
+voglio qui nel mezzo alla bella vetrata
+
+212
+00:07:56,180 --> 00:08:02,930
+equa la copertura
+
+213
+00:07:57,980 --> 00:08:05,030
+ok ora la guarda solo proprio qua dei
+
+214
+00:08:02,930 --> 00:08:07,250
+pannelli però sono quelli classici sun
+
+215
+00:08:05,030 --> 00:08:11,930
+vanilla cerchiamo glass
+
+216
+00:08:07,250 --> 00:08:14,840
+vediamo cosa ci esce fuori oddio starò
+
+217
+00:08:11,930 --> 00:08:15,680
+male tacchio è bo tania vabbè per il
+
+218
+00:08:14,840 --> 00:08:19,070
+momento lasciamo stare
+
+219
+00:08:15,680 --> 00:08:21,440
+potremmo cesellare potremmo cesellare
+
+220
+00:08:19,070 --> 00:08:25,120
+non è una brutta idea facciamo del bel
+
+221
+00:08:21,440 --> 00:08:25,120
+vetro figo
+
+222
+00:08:26,030 --> 00:08:32,419
+ci sediamo signori si gisella prendiamo
+
+223
+00:08:29,960 --> 00:08:34,849
+beh intanto del vetro che potrebbe avere
+
+224
+00:08:32,419 --> 00:08:35,960
+senso vetro che io non ho quindi noi
+
+225
+00:08:34,849 --> 00:08:38,570
+stiamo qua dentro
+
+226
+00:08:35,960 --> 00:08:40,690
+siamo quasi la nostra sabbia e andiamo a
+
+227
+00:08:38,570 --> 00:08:44,420
+creare del vetrino prendiamo il vetrino
+
+228
+00:08:40,690 --> 00:08:46,850
+prendiamo uno spicchietto è un pezzo di
+
+229
+00:08:44,420 --> 00:08:48,900
+ferro per andare alzare un altro
+
+230
+00:08:46,850 --> 00:08:51,450
+strumento molto utile che il cise la
+
+231
+00:08:48,900 --> 00:08:55,440
+è un blog è uno strumento molto bello
+
+232
+00:08:51,450 --> 00:08:57,480
+che serve per modificare altri blocchi
+
+233
+00:08:55,440 --> 00:09:00,410
+ora ci metto dentro un pezzo di vetro
+
+234
+00:08:57,480 --> 00:09:02,640
+posso scegliere uno di questi per
+
+235
+00:09:00,410 --> 00:09:07,940
+permetterlo dove voglio cambiare la sua
+
+236
+00:09:02,640 --> 00:09:10,650
+grafica molto molto fico gray boardslide
+
+237
+00:09:07,940 --> 00:09:14,430
+ora non ha più mi magari quale scegliere
+
+238
+00:09:10,650 --> 00:09:15,960
+sinceramente però potremmo scegliere qua
+
+239
+00:09:14,430 --> 00:09:18,840
+siglato perché non vedo assolutamente
+
+240
+00:09:15,960 --> 00:09:20,370
+nulla sembra un vetro super chiaro
+
+241
+00:09:18,840 --> 00:09:22,760
+direi che una figata pazzesca è un vetro
+
+242
+00:09:20,370 --> 00:09:27,480
+che c'è ma non si vede
+
+243
+00:09:22,760 --> 00:09:29,310
+ti dirò al super che sembra vetro vero
+
+244
+00:09:27,480 --> 00:09:31,830
+nella vita reale il vetro non ci a bordi
+
+245
+00:09:29,310 --> 00:09:32,190
+ok tanto abbiamo tutta la copertura di
+
+246
+00:09:31,830 --> 00:09:33,630
+vetro
+
+247
+00:09:32,190 --> 00:09:36,260
+vuol dire che siamo comunque al sicuro
+
+248
+00:09:33,630 --> 00:09:40,770
+non ce la faccio qualche bella porta
+
+249
+00:09:36,260 --> 00:09:43,410
+cazzuta mo data la porta rosa
+
+250
+00:09:40,770 --> 00:09:46,200
+non lo so non ci sta bene se avevo
+
+251
+00:09:43,410 --> 00:09:49,020
+qualcosa di un po più forestale tipo
+
+252
+00:09:46,200 --> 00:09:52,140
+questa e promos barking calcio ce l'ha
+
+253
+00:09:49,020 --> 00:09:53,790
+io no di sicuro baobab e purtroppo sti
+
+254
+00:09:52,140 --> 00:09:55,770
+alberi non ce li ho ragazzi non so che
+
+255
+00:09:53,790 --> 00:09:57,870
+dirvi se sono solo queste tra l'altro
+
+256
+00:09:55,770 --> 00:10:00,210
+non c'è mai con air force d'or tacchio
+
+257
+00:09:57,870 --> 00:10:01,860
+molto diverso rispetto alla stone block
+
+258
+00:10:00,210 --> 00:10:04,220
+pensavo ci fossero tipo tutte le mode
+
+259
+00:10:01,860 --> 00:10:06,690
+più altri invece ne mancano altre
+
+260
+00:10:04,220 --> 00:10:09,240
+abbiamo subito qualche albero strano
+
+261
+00:10:06,690 --> 00:10:12,030
+quell'albero gambero è mi sembra un no
+
+262
+00:10:09,240 --> 00:10:14,100
+food molto particolare però sembra
+
+263
+00:10:12,030 --> 00:10:18,210
+comunque che hanno quercia in realtà
+
+264
+00:10:14,100 --> 00:10:21,480
+questo mi sa vediamo quello crociera che
+
+265
+00:10:18,210 --> 00:10:22,350
+è certo è il tuo arancione non ancora
+
+266
+00:10:21,480 --> 00:10:25,620
+ancione cos'è
+
+267
+00:10:22,350 --> 00:10:27,780
+per luigi nito molto tecnico sempre sta
+
+268
+00:10:25,620 --> 00:10:29,280
+diventando notte
+
+269
+00:10:27,780 --> 00:10:31,980
+dimmi che un blocco particolare tiger
+
+270
+00:10:29,280 --> 00:10:34,200
+wood vai a fare una porta di tiger wood
+
+271
+00:10:31,980 --> 00:10:37,530
+vediamo che cosa succede immagino possa
+
+272
+00:10:34,200 --> 00:10:40,620
+essere una cosa interessante giusto ma
+
+273
+00:10:37,530 --> 00:10:44,310
+non vedo porte però spero ci sia una
+
+274
+00:10:40,620 --> 00:10:46,830
+porta di tiger wood onestamente e notte
+
+275
+00:10:44,310 --> 00:10:49,710
+a meno della dormire qui vediamo se il
+
+276
+00:10:46,830 --> 00:10:50,820
+tiger wood può fare una porta oppure no
+
+277
+00:10:49,710 --> 00:10:54,230
+boom
+
+278
+00:10:50,820 --> 00:10:58,080
+oddio tiger d'or
+
+279
+00:10:54,230 --> 00:11:01,020
+non mi sembra porta molto bella vediamo
+
+280
+00:10:58,080 --> 00:11:02,019
+e invece c'è solo che non me la mostra
+
+281
+00:11:01,020 --> 00:11:03,939
+va beh
+
+282
+00:11:02,019 --> 00:11:05,769
+tutti che ho troppa roba dell'inventario
+
+283
+00:11:03,939 --> 00:11:09,579
+porca vacca non si capisce più nulla di
+
+284
+00:11:05,769 --> 00:11:12,910
+già tutta la mia domanda è sensata posso
+
+285
+00:11:09,579 --> 00:11:16,209
+fare delle scalette di tiger woods tiger
+
+286
+00:11:12,910 --> 00:11:17,410
+wood tra l'altro è il giocatore di direi
+
+287
+00:11:16,209 --> 00:11:20,679
+di gol
+
+288
+00:11:17,410 --> 00:11:22,299
+di sicuro è particolare però è vero
+
+289
+00:11:20,679 --> 00:11:24,519
+quello che stanno cercando qualcosa di
+
+290
+00:11:22,299 --> 00:11:24,879
+particolare quindi vediamo cosa viene
+
+291
+00:11:24,519 --> 00:11:27,309
+fuori
+
+292
+00:11:24,879 --> 00:11:29,019
+la positiva delle mode è che ti danno
+
+293
+00:11:27,309 --> 00:11:29,529
+una mano quando devi fare cose di questo
+
+294
+00:11:29,019 --> 00:11:31,480
+tipo
+
+295
+00:11:29,529 --> 00:11:35,860
+quindi se ora vado a prendere il mio
+
+296
+00:11:31,480 --> 00:11:39,790
+tiger cacchio l'ho messo il mio tiger
+
+297
+00:11:35,860 --> 00:11:43,239
+woods e pling lo piazzo qui premo shift
+
+298
+00:11:39,790 --> 00:11:45,189
+mi cresce io raccolgo gli alberelli lo
+
+299
+00:11:43,239 --> 00:11:49,149
+faccio ricrescere lo raccolgo mila su
+
+300
+00:11:45,189 --> 00:11:50,230
+una barella ogni volta animaletto solo
+
+301
+00:11:49,149 --> 00:11:53,559
+speravo in qualcosa di più
+
+302
+00:11:50,230 --> 00:11:56,290
+cambiavano di più sono 12 ok 3
+
+303
+00:11:53,559 --> 00:12:00,309
+alleluia mi posso farli crescere un po
+
+304
+00:11:56,290 --> 00:12:02,949
+faccio così faccio crescere tutto e poi
+
+305
+00:12:00,309 --> 00:12:04,480
+all excavation a gogò perfetto così c'è
+
+306
+00:12:02,949 --> 00:12:06,279
+un botto di alberelli c'è un porto di
+
+307
+00:12:04,480 --> 00:12:08,170
+legno sono tutti scalette che voglio
+
+308
+00:12:06,279 --> 00:12:08,819
+fare un bel tetto a spiovente come piace
+
+309
+00:12:08,170 --> 00:12:11,670
+a noi
+
+310
+00:12:08,819 --> 00:12:15,119
+al che bello funziona anche quale world
+
+311
+00:12:11,670 --> 00:12:19,389
+no scherzavo non funziona benissimo e
+
+312
+00:12:15,119 --> 00:12:21,519
+poi affidare a tutto anche che con tutte
+
+313
+00:12:19,389 --> 00:12:24,549
+le maul che ci sono non tutte funzionano
+
+314
+00:12:21,519 --> 00:12:26,559
+benissimo con tutto il resto è quindi
+
+315
+00:12:24,549 --> 00:12:28,929
+bene o male spesso bisogna arrangiarsi
+
+316
+00:12:26,559 --> 00:12:29,589
+di me ci sono anche le isla abdì sta
+
+317
+00:12:28,929 --> 00:12:33,759
+roba
+
+318
+00:12:29,589 --> 00:12:37,799
+ottimo così si fa ora andiamo a creare
+
+319
+00:12:33,759 --> 00:12:37,799
+una situazione di questo tipo
+
+320
+00:12:38,230 --> 00:12:44,709
+anzi non fa più divertente tipo tipo
+
+321
+00:12:42,429 --> 00:12:47,649
+tipo tipo una scala messa al contrario
+
+322
+00:12:44,709 --> 00:12:51,339
+subito qualche anto sta ipotizzando è
+
+323
+00:12:47,649 --> 00:12:53,699
+soprattutto degli esperimenti le strette
+
+324
+00:12:51,339 --> 00:12:56,290
+una scala così potrebbe avere senso
+
+325
+00:12:53,699 --> 00:12:58,689
+poi ci mettiamo tutti sla bettini
+
+326
+00:12:56,290 --> 00:13:01,509
+quattor no c'è la stessa roba di qua
+
+327
+00:12:58,689 --> 00:13:03,069
+completa vi sla bettini spiovente con un
+
+328
+00:13:01,509 --> 00:13:04,899
+blocco particolare mai utilizzato prima
+
+329
+00:13:03,069 --> 00:13:07,029
+perché semplicemente non c'è in maniera
+
+330
+00:13:04,899 --> 00:13:09,699
+sto blocco e dovrebbe essere una mezza
+
+331
+00:13:07,029 --> 00:13:12,160
+figata ok ora manca ovviamente tempi e
+
+332
+00:13:09,699 --> 00:13:13,929
+tutta sta zona all'interno c'è da
+
+333
+00:13:12,160 --> 00:13:15,209
+mettere torce dappertutto anzi poi
+
+334
+00:13:13,929 --> 00:13:16,589
+troveremo
+
+335
+00:13:15,209 --> 00:13:18,959
+un metodo di illuminazione che ci
+
+336
+00:13:16,589 --> 00:13:20,429
+permetta di evitare casini bisogna anche
+
+337
+00:13:18,959 --> 00:13:22,980
+pensare al pavimento tra l'altro che non
+
+338
+00:13:20,429 --> 00:13:24,749
+ci ho pensato cosa potremmo metterci la
+
+339
+00:13:22,980 --> 00:13:26,490
+sopra e in questa scritta al contrario
+
+340
+00:13:24,749 --> 00:13:30,800
+mi fa abbastanza schifo
+
+341
+00:13:26,490 --> 00:13:35,639
+leviamo la possiamo metterla con radio
+
+342
+00:13:30,800 --> 00:13:38,100
+dritta tv così è qua sotto c mente una
+
+343
+00:13:35,639 --> 00:13:39,240
+lanterna se la trovo ma non vi assicuro
+
+344
+00:13:38,100 --> 00:13:40,139
+niente questo che quello sarà il
+
+345
+00:13:39,240 --> 00:13:42,990
+risultato finale
+
+346
+00:13:40,139 --> 00:13:46,069
+mi manca solo da aggiungere un qualcosa
+
+347
+00:13:42,990 --> 00:13:50,339
+li sta questo tipo una lanterna però
+
+348
+00:13:46,069 --> 00:13:52,470
+cosa vediamo qui eber lantern servono e
+
+349
+00:13:50,339 --> 00:13:54,839
+brescia che al momento non c'è una cosa
+
+350
+00:13:52,470 --> 00:13:57,329
+di kraft abile gloss tona rom plate
+
+351
+00:13:54,839 --> 00:14:00,059
+belgio a questo avrebbe più senso
+
+352
+00:13:57,329 --> 00:14:02,040
+solo che al momento non posso farle
+
+353
+00:14:00,059 --> 00:14:03,899
+anche queste sarebbero davvero figli 16
+
+354
+00:14:02,040 --> 00:14:06,720
+alcune cose davvero davvero belle
+
+355
+00:14:03,899 --> 00:14:08,699
+ecco ad esempio già una fancy lantern
+
+356
+00:14:06,720 --> 00:14:10,740
+potrebbe essere una soluzione da
+
+357
+00:14:08,699 --> 00:14:12,869
+piazzare le prove non far luce
+
+358
+00:14:10,740 --> 00:14:14,220
+comunque sono nato qui sotto nella
+
+359
+00:14:12,869 --> 00:14:17,189
+foresta trovato un altro albero
+
+360
+00:14:14,220 --> 00:14:20,069
+come vedete lì con le foglie rosa che è
+
+361
+00:14:17,189 --> 00:14:22,649
+il sakura il sakura cioè foglio il ladro
+
+362
+00:14:20,069 --> 00:14:24,660
+di ciliegio e a questo video qui che è
+
+363
+00:14:22,649 --> 00:14:26,220
+molto bello e me lo ricordavo da
+
+364
+00:14:24,660 --> 00:14:29,189
+un'altra serie che ho fatto qualche
+
+365
+00:14:26,220 --> 00:14:31,799
+annetto fa quindi perché non provare a
+
+366
+00:14:29,189 --> 00:14:32,999
+metterlo qui il mezzo messo culo rosa
+
+367
+00:14:31,799 --> 00:14:34,679
+perché volevo provarlo
+
+368
+00:14:32,999 --> 00:14:38,009
+a sto punto potremmo anche lasciarlo
+
+369
+00:14:34,679 --> 00:14:40,379
+tanto fastidio non è che ce ne dà al che
+
+370
+00:14:38,009 --> 00:14:43,170
+bello sotto colore un colore chiaro
+
+371
+00:14:40,379 --> 00:14:45,329
+riprende bene a tutto il resto della
+
+372
+00:14:43,170 --> 00:14:47,189
+palette qui ho messo un blocco più scuro
+
+373
+00:14:45,329 --> 00:14:48,689
+per fare un po di contrasto non lo so
+
+374
+00:14:47,189 --> 00:14:50,819
+potrei anche cambiare ma nel prossimo
+
+375
+00:14:48,689 --> 00:14:54,329
+episodio inizio video che questo è di un
+
+376
+00:14:50,819 --> 00:14:57,119
+altro colore magari del sakura aspetta
+
+377
+00:14:54,329 --> 00:14:59,369
+il colera il sakura woods è chiusa con
+
+378
+00:14:57,119 --> 00:15:01,259
+la wood non era male andiamo a vedere un
+
+379
+00:14:59,369 --> 00:15:04,110
+attimino facciamo cresce un attimino sta
+
+380
+00:15:01,259 --> 00:15:06,839
+roba che non è mai il sakura wood è
+
+381
+00:15:04,110 --> 00:15:08,309
+molto sicura al tiger wood potrebbe
+
+382
+00:15:06,839 --> 00:15:09,199
+avere senso questo non crescerà male che
+
+383
+00:15:08,309 --> 00:15:12,119
+c'è roba brutta
+
+384
+00:15:09,199 --> 00:15:14,009
+ok è purtroppo sakura vdc altro non è
+
+385
+00:15:12,119 --> 00:15:17,369
+che c'è un botto di rametti rametti nam
+
+386
+00:15:14,009 --> 00:15:20,179
+chol in un casinò ecco ad esempio qua
+
+387
+00:15:17,369 --> 00:15:23,220
+come cacchio facciamo farlo andare via
+
+388
+00:15:20,179 --> 00:15:25,559
+l'asino facciamo un ascia poi risolviamo
+
+389
+00:15:23,220 --> 00:15:26,850
+per il momento andiamo a dormire poi
+
+390
+00:15:25,559 --> 00:15:27,880
+pensiamo a come le vale sta roba
+
+391
+00:15:26,850 --> 00:15:31,140
+anche se potete fare
+
+392
+00:15:27,880 --> 00:15:34,330
+così vedere cosa mi rimane dormiamo
+
+393
+00:15:31,140 --> 00:15:36,640
+importante poi andiamo a fare un'altra
+
+394
+00:15:34,330 --> 00:15:38,650
+cosa andiamo a spostare le ceste per
+
+395
+00:15:36,640 --> 00:15:41,290
+spostare le ceste utilizzeremo la
+
+396
+00:15:38,650 --> 00:15:42,940
+meccanismo che è questa ma bellina che
+
+397
+00:15:41,290 --> 00:15:45,610
+ciambotto di robe utili
+
+398
+00:15:42,940 --> 00:15:48,220
+alcune cose sono utili sulla loro stesse
+
+399
+00:15:45,610 --> 00:15:49,930
+nel senso alla moda in sé però altre
+
+400
+00:15:48,220 --> 00:15:52,570
+sono invece molto interessanti ad
+
+401
+00:15:49,930 --> 00:15:55,060
+esempio ho cercato su internet un modo
+
+402
+00:15:52,570 --> 00:15:57,730
+per spostare le ceste visto che mi
+
+403
+00:15:55,060 --> 00:15:59,590
+piacerebbe evitare di trasferire tutto a
+
+404
+00:15:57,730 --> 00:16:03,010
+mano che è un casino boia e ho trovato
+
+405
+00:15:59,590 --> 00:16:06,490
+una cosa interessante se io prendo dei
+
+406
+00:16:03,010 --> 00:16:08,680
+food e il mio hai non hammer vi piaccio
+
+407
+00:16:06,490 --> 00:16:11,290
+qui è profusa nella mera su sti cosi
+
+408
+00:16:08,680 --> 00:16:14,290
+ottengo del sud ast
+
+409
+00:16:11,290 --> 00:16:18,100
+ok prendo sti cosi mi metto a quattro
+
+410
+00:16:14,290 --> 00:16:19,150
+per qua 2x2 e ottengo day card board box
+
+411
+00:16:18,100 --> 00:16:21,480
+degli scatoloni
+
+412
+00:16:19,150 --> 00:16:24,220
+se io faccio così signore e signori
+
+413
+00:16:21,480 --> 00:16:26,410
+posso mettere negli scatoloni le ceste
+
+414
+00:16:24,220 --> 00:16:29,290
+che è una figata pazzesca
+
+415
+00:16:26,410 --> 00:16:32,080
+cioè non so se avete capito questo è
+
+416
+00:16:29,290 --> 00:16:34,900
+vero trasloco della vita era ciò il mio
+
+417
+00:16:32,080 --> 00:16:36,610
+card box che prendo e piazza dove voglio
+
+418
+00:16:34,900 --> 00:16:39,370
+ad esempio qui
+
+419
+00:16:36,610 --> 00:16:42,700
+no aspetta questi sono vuoti interessa
+
+420
+00:16:39,370 --> 00:16:45,670
+vuoti e per svuotarlo shift tasto destro
+
+421
+00:16:42,700 --> 00:16:49,330
+e ho la mia perché a colomba ha cambiato
+
+422
+00:16:45,670 --> 00:16:50,830
+con nella cesta what's up piatto cosa
+
+423
+00:16:49,330 --> 00:16:53,230
+nella cesta
+
+424
+00:16:50,830 --> 00:16:54,250
+ok non ci lamenteremo troppo ha cambiato
+
+425
+00:16:53,230 --> 00:16:55,510
+come la cesta
+
+426
+00:16:54,250 --> 00:16:57,610
+noi non siamo qui per lamentarci siamo
+
+427
+00:16:55,510 --> 00:16:59,920
+qui per fare le cose come si deve qui e
+
+428
+00:16:57,610 --> 00:17:02,470
+ne open air i nostri carbox li prendiamo
+
+429
+00:16:59,920 --> 00:17:04,180
+tutti tutti quelli che non sono
+
+430
+00:17:02,470 --> 00:17:07,600
+staccabili e roba da prendere e
+
+431
+00:17:04,180 --> 00:17:08,890
+trasportare con sta roba potete spostare
+
+432
+00:17:07,600 --> 00:17:10,510
+tutto quello che volete ma quasi
+
+433
+00:17:08,890 --> 00:17:12,780
+sono è vero poche cose che non vanno
+
+434
+00:17:10,510 --> 00:17:16,569
+bene facciamo così
+
+435
+00:17:12,780 --> 00:17:18,040
+così abbiamo due nostre arance stati
+
+436
+00:17:16,569 --> 00:17:19,750
+tutti in affaccia chest ma a noi va
+
+437
+00:17:18,040 --> 00:17:21,640
+anche bene non ci cambia la vita
+
+438
+00:17:19,750 --> 00:17:23,770
+no guarda un colore diverso di qua
+
+439
+00:17:21,640 --> 00:17:28,120
+perché tutti i colori diversi
+
+440
+00:17:23,770 --> 00:17:29,530
+oh mio dio non lamentiamoci e non si è
+
+441
+00:17:28,120 --> 00:17:32,710
+svuotato
+
+442
+00:17:29,530 --> 00:17:34,270
+ok state attenti come utilizzate ste
+
+443
+00:17:32,710 --> 00:17:36,310
+cose poco ma sicuro
+
+444
+00:17:34,270 --> 00:17:38,770
+se avessi usato su barile pieno di
+
+445
+00:17:36,310 --> 00:17:40,770
+diamanti mi6 alterato non poco
+
+446
+00:17:38,770 --> 00:17:42,180
+ecco questo posso dirlo con certezza
+
+447
+00:17:40,770 --> 00:17:44,580
+per oggi al fatto aver spostato tutto
+
+448
+00:17:42,180 --> 00:17:46,290
+con neanche troppo fastidio tv o vi
+
+449
+00:17:44,580 --> 00:17:47,520
+siete una cosa molto positiva
+
+450
+00:17:46,290 --> 00:17:49,370
+direi che possiamo portare dentro anche
+
+451
+00:17:47,520 --> 00:17:53,010
+altre cose e poi studiare un modo per
+
+452
+00:17:49,370 --> 00:17:54,750
+organizzare meglio questi non sono gli
+
+453
+00:17:53,010 --> 00:17:56,940
+spostamenti per organizzare meglio tutto
+
+454
+00:17:54,750 --> 00:17:59,580
+un inventario perché non è che posso
+
+455
+00:17:56,940 --> 00:18:02,100
+stare qui a scervellarmi su dove ho
+
+456
+00:17:59,580 --> 00:18:04,260
+messo le cose dove su questo dove posso
+
+457
+00:18:02,100 --> 00:18:05,520
+mettere quest'altro è un po un casino se
+
+458
+00:18:04,260 --> 00:18:07,380
+vanno anche la polizia di internet
+
+459
+00:18:05,520 --> 00:18:09,870
+sentite questa la polizia di internet
+
+460
+00:18:07,380 --> 00:18:10,530
+perché dice non puoi mettere tutto in
+
+461
+00:18:09,870 --> 00:18:12,930
+disordine
+
+462
+00:18:10,530 --> 00:18:16,350
+quando avanti e non guarda che
+
+463
+00:18:12,930 --> 00:18:20,160
+cattiveria allora mettiamo magari questo
+
+464
+00:18:16,350 --> 00:18:22,680
+qui mettiamo drop sua fornace scatola
+
+465
+00:18:20,160 --> 00:18:24,750
+formato serve più per fortuna alzeremo
+
+466
+00:18:22,680 --> 00:18:26,060
+comunque perché per ricordarci da dove
+
+467
+00:18:24,750 --> 00:18:29,640
+veniamo
+
+468
+00:18:26,060 --> 00:18:31,860
+non scordarti le tue radici piccolo
+
+469
+00:18:29,640 --> 00:18:33,030
+hobbit figlio che per non saper né
+
+470
+00:18:31,860 --> 00:18:35,160
+leggere né scrivere
+
+471
+00:18:33,030 --> 00:18:36,990
+mi sembra una bella casa e 7 posso
+
+472
+00:18:35,160 --> 00:18:38,340
+vedere dove posso sposare mob qua
+
+473
+00:18:36,990 --> 00:18:40,740
+possono sfondare mob
+
+474
+00:18:38,340 --> 00:18:44,700
+non bene dove posso piazzare a qualcosa
+
+475
+00:18:40,740 --> 00:18:48,150
+pensiamo l'acqua e 4 comunque spronano
+
+476
+00:18:44,700 --> 00:18:50,580
+mannaggia è un'acqua in mezzo che ti
+
+477
+00:18:48,150 --> 00:18:51,060
+devo dire ok così non può sponda a
+
+478
+00:18:50,580 --> 00:18:53,280
+nessuno
+
+479
+00:18:51,060 --> 00:18:56,820
+ottimo segno di questa nostra prima
+
+480
+00:18:53,280 --> 00:19:00,000
+casetta ovviamente è temporanea e vi
+
+481
+00:18:56,820 --> 00:19:02,100
+dico già piuttosto che smontare quello
+
+482
+00:19:00,000 --> 00:19:03,470
+che ciò qua dentro e mettere le cose
+
+483
+00:19:02,100 --> 00:19:06,480
+nuove piante allo che aggiorneremo
+
+484
+00:19:03,470 --> 00:19:08,850
+piuttosto faccio un'altra casa altre
+
+485
+00:19:06,480 --> 00:19:10,290
+stanze altre non lo so espandiamo il
+
+486
+00:19:08,850 --> 00:19:11,900
+villaggio voglio che alla fine di questa
+
+487
+00:19:10,290 --> 00:19:15,510
+serie anche perché dura da 12 anni
+
+488
+00:19:11,900 --> 00:19:18,720
+assicurare ci sia un mondo incredibile
+
+489
+00:19:15,510 --> 00:19:20,880
+da visitare è davvero bello quindi per
+
+490
+00:19:18,720 --> 00:19:22,920
+questo video è tutto
+
+491
+00:19:20,880 --> 00:19:25,140
+riuscirò a fare le lanterne nel prossimo
+
+492
+00:19:22,920 --> 00:19:26,820
+episodio lo spero devo dire se quella
+
+493
+00:19:25,140 --> 00:19:28,530
+che si fanno con loro son belle perché
+
+494
+00:19:26,820 --> 00:19:30,780
+mi sono un po tamarra ci sono altre più
+
+495
+00:19:28,530 --> 00:19:32,130
+carine e così via tutto cio domani alle
+
+496
+00:19:30,780 --> 00:19:33,690
+7 colpaccio bisogno di essere 7 di
+
+497
+00:19:32,130 --> 00:19:36,750
+questo progetto sono tre che ci terrà
+
+498
+00:19:33,690 --> 00:19:37,140
+occupati per generazioni chat un utero
+
+499
+00:19:36,750 --> 00:19:55,230
+tutti
+
+500
+00:19:37,140 --> 00:19:57,830
+[Musica]
+
+501
+00:19:55,230 --> 00:19:57,830
+respiri

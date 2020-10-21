@@ -1,0 +1,1887 @@
+1
+00:00:00,000 --> 00:00:03,270
+ciao a tutti caciotti e benvenuti in
+
+2
+00:00:01,439 --> 00:00:05,310
+questo nuovissimo video della project
+
+3
+00:00:03,270 --> 00:00:07,140
+con tre della serie delle sette signori
+
+4
+00:00:05,310 --> 00:00:09,030
+continuiamo con strass tal sourcery
+
+5
+00:00:07,140 --> 00:00:11,759
+perché finalmente dopo i primi episodi
+
+6
+00:00:09,030 --> 00:00:13,590
+diciamo di rodaggio
+
+7
+00:00:11,759 --> 00:00:17,220
+siamo arrivati alle prime cose
+
+8
+00:00:13,590 --> 00:00:20,279
+effettivamente utili cioè utili
+
+9
+00:00:17,220 --> 00:00:21,840
+ora vediamo con calma prima cosa da fare
+
+10
+00:00:20,279 --> 00:00:24,180
+devo creare un nuovo strumento uno
+
+11
+00:00:21,840 --> 00:00:26,939
+strumento che si chiama linking tool che
+
+12
+00:00:24,180 --> 00:00:28,859
+serve a diverse cose per lo più a
+
+13
+00:00:26,939 --> 00:00:30,929
+collegare tra l'altro alcune di queste
+
+14
+00:00:28,859 --> 00:00:33,300
+lenti al sistema modo che arrivi più
+
+15
+00:00:30,929 --> 00:00:35,190
+starlight una cosa che per il momento
+
+16
+00:00:33,300 --> 00:00:38,030
+non ci interessa perché come vedete
+
+17
+00:00:35,190 --> 00:00:40,980
+comunque siamo messi bene a livello di
+
+18
+00:00:38,030 --> 00:00:42,379
+starlight di energia per il crafting ma
+
+19
+00:00:40,980 --> 00:00:46,770
+ci serve anche per un altra cosa per
+
+20
+00:00:42,379 --> 00:00:48,570
+trasmutare your di ferro e con la
+
+21
+00:00:46,770 --> 00:00:50,789
+trasmutazione di ordinarlo andremo a
+
+22
+00:00:48,570 --> 00:00:52,320
+sbloccare lo star metal che è una delle
+
+23
+00:00:50,789 --> 00:00:54,570
+bottiglie missione che ci manca di
+
+24
+00:00:52,320 --> 00:00:57,539
+questa zona qui e poi proveremo a fare
+
+25
+00:00:54,570 --> 00:01:00,210
+anche altre cose tra cui alcune davvero
+
+26
+00:00:57,539 --> 00:01:02,340
+interessanti vi ricordo qualche episodio
+
+27
+00:01:00,210 --> 00:01:04,110
+fa parlavo di teletrasporto beh in
+
+28
+00:01:02,340 --> 00:01:06,390
+questo episodio se ce la facciamo
+
+29
+00:01:04,110 --> 00:01:08,970
+dovremmo riuscire a completare un
+
+30
+00:01:06,390 --> 00:01:12,240
+teletrasporto e asset a farlo come si
+
+31
+00:01:08,970 --> 00:01:15,000
+deve tra l'altro che dite se iniziamo a
+
+32
+00:01:12,240 --> 00:01:16,619
+craftare linking tool è un po più
+
+33
+00:01:15,000 --> 00:01:18,900
+complicato po più complicato è
+
+34
+00:01:16,619 --> 00:01:20,310
+facilissimo ma è un po più complicato
+
+35
+00:01:18,900 --> 00:01:22,380
+del solito break e inter
+
+36
+00:01:20,310 --> 00:01:24,659
+interpelliamo uno di questi quattro slot
+
+37
+00:01:22,380 --> 00:01:27,600
+che di solito invece non abbiamo aveva
+
+38
+00:01:24,659 --> 00:01:30,000
+bisogno di un po di sti ketty un paio di
+
+39
+00:01:27,600 --> 00:01:32,700
+log sa che i log in teoria non ne ho
+
+40
+00:01:30,000 --> 00:01:36,210
+non ne olio andare a prenderli alla farm
+
+41
+00:01:32,700 --> 00:01:38,759
+di legno che per fortuna è qui sotto che
+
+42
+00:01:36,210 --> 00:01:41,729
+di un po di sti ketty avercelo joystick
+
+43
+00:01:38,759 --> 00:01:44,850
+etti a comuni in cielo mi serve un
+
+44
+00:01:41,729 --> 00:01:47,189
+crystal prendiamo un che sta sempre più
+
+45
+00:01:44,850 --> 00:01:50,280
+scarso di tutti perché non voglio stare
+
+46
+00:01:47,189 --> 00:01:53,130
+lì a sprecarne purtroppo il più scarso e
+
+47
+00:01:50,280 --> 00:01:55,170
+questo quadro 96 e dovremmo avere tutto
+
+48
+00:01:53,130 --> 00:01:58,469
+a livello teorico
+
+49
+00:01:55,170 --> 00:02:01,200
+lo spero la salita per arrivare acqua in
+
+50
+00:01:58,469 --> 00:02:02,670
+cima è sempre un po tediosa ecco
+
+51
+00:02:01,200 --> 00:02:04,020
+mettiamo allora sai che dovrai avere
+
+52
+00:02:02,670 --> 00:02:07,020
+tutto boom
+
+53
+00:02:04,020 --> 00:02:09,649
+andiamo in una bella botta di world luce
+
+54
+00:02:07,020 --> 00:02:13,939
+divina fare due cose
+
+55
+00:02:09,649 --> 00:02:15,379
+roma più o meno la fa un po lentino
+
+56
+00:02:13,939 --> 00:02:18,170
+vabbè fatti suoi
+
+57
+00:02:15,379 --> 00:02:19,840
+aspettiamo aspettiamo con calma nel
+
+58
+00:02:18,170 --> 00:02:24,079
+frattempo fa vedere se per caso
+
+59
+00:02:19,840 --> 00:02:26,150
+all'interno a celio coeli o degli air
+
+60
+00:02:24,079 --> 00:02:28,159
+onora alla grande e allora prendiamo il
+
+61
+00:02:26,150 --> 00:02:31,220
+nostro macchini marchingegno qua il link
+
+62
+00:02:28,159 --> 00:02:34,489
+in tour la vediamo come caruccio sembra
+
+63
+00:02:31,220 --> 00:02:36,010
+quasi una staff magica che fa danni ma
+
+64
+00:02:34,489 --> 00:02:40,030
+in realtà di danni non dovrebbe farne
+
+65
+00:02:36,010 --> 00:02:43,639
+per trasmutare bisogna fare una cosa
+
+66
+00:02:40,030 --> 00:02:46,970
+bisogna andare in una di queste rovine e
+
+67
+00:02:43,639 --> 00:02:48,769
+collegare ior al cristallo che è
+
+68
+00:02:46,970 --> 00:02:51,200
+presente qua sotto
+
+69
+00:02:48,769 --> 00:02:53,420
+ora per inciso sai che forse forse come
+
+70
+00:02:51,200 --> 00:02:55,099
+nelle varie attimino l'acqua perché non
+
+71
+00:02:53,420 --> 00:02:56,769
+ci serve a molto mettiamola proprio così
+
+72
+00:02:55,099 --> 00:03:00,590
+ci lanzi ci dà più fastidio che altro
+
+73
+00:02:56,769 --> 00:03:03,139
+una volta rimossa l'acqua da tutti gli
+
+74
+00:03:00,590 --> 00:03:05,620
+sla la maggior parte degli slot mancata
+
+75
+00:03:03,139 --> 00:03:08,870
+l'acqua non è necessaria quindi abbiamo
+
+76
+00:03:05,620 --> 00:03:11,269
+tutti gli anfratti che troviamo grazia
+
+77
+00:03:08,870 --> 00:03:14,900
+ecco bisogna riusciamo a fare le cose
+
+78
+00:03:11,269 --> 00:03:16,730
+come si deve senza sbatti vero ah ok
+
+79
+00:03:14,900 --> 00:03:19,040
+come non detto a quanto pare c'è pure
+
+80
+00:03:16,730 --> 00:03:21,440
+l'acqua del mare a posto
+
+81
+00:03:19,040 --> 00:03:25,699
+facciamo così magari una brutta idea
+
+82
+00:03:21,440 --> 00:03:28,549
+anche così quanta acqua c'è non ci
+
+83
+00:03:25,699 --> 00:03:31,760
+voglio credere cioè pieno ce la facciamo
+
+84
+00:03:28,549 --> 00:03:34,609
+no altri blocchi d'acqua alleluia
+
+85
+00:03:31,760 --> 00:03:37,430
+grazie avere questo cristallo che vedete
+
+86
+00:03:34,609 --> 00:03:40,129
+come sa che si chiama floating crystal
+
+87
+00:03:37,430 --> 00:03:43,310
+me ne fotte in crystal serve per diverse
+
+88
+00:03:40,129 --> 00:03:45,889
+cose è una delle prime cose per cui lo
+
+89
+00:03:43,310 --> 00:03:49,040
+utilizzeremo noi è per l'appunto questa
+
+90
+00:03:45,889 --> 00:03:51,370
+trasmutazione in teoria piazzando dei
+
+91
+00:03:49,040 --> 00:03:55,040
+gay honor qua vicino
+
+92
+00:03:51,370 --> 00:03:57,310
+c'è una cosa di questo tipo e provando
+
+93
+00:03:55,040 --> 00:04:01,459
+non so bene come funziona ma cliccando
+
+94
+00:03:57,310 --> 00:04:05,120
+ok la luce va verso questo blocco e
+
+95
+00:04:01,459 --> 00:04:07,459
+secondo un qualche tipo di principio a
+
+96
+00:04:05,120 --> 00:04:10,400
+posso linkarli a tutti la vacca vino
+
+97
+00:04:07,459 --> 00:04:12,049
+roba fighissima sto linkando raggi di
+
+98
+00:04:10,400 --> 00:04:15,349
+luce a gogò aveva c'è scritto tra
+
+99
+00:04:12,049 --> 00:04:18,289
+l'altro sul sito di far sì che il cielo
+
+100
+00:04:15,349 --> 00:04:20,509
+sia visibile per il cristallo per
+
+101
+00:04:18,289 --> 00:04:23,370
+chiaramente la velocità incredibilmente
+
+102
+00:04:20,509 --> 00:04:25,440
+quindi ora dovrebbe essere 40 mila volte
+
+103
+00:04:23,370 --> 00:04:27,600
+più potente guardate cioè i raggi di
+
+104
+00:04:25,440 --> 00:04:29,850
+luce che come se piovessero oggi non si
+
+105
+00:04:27,600 --> 00:04:33,500
+capisce assolutamente nulla ma va bene
+
+106
+00:04:29,850 --> 00:04:36,780
+così ecco con un po di pazienza
+
+107
+00:04:33,500 --> 00:04:39,180
+questi dovrebbero diventare per
+
+108
+00:04:36,780 --> 00:04:42,620
+l'appunto a quel blocco che a noi manca
+
+109
+00:04:39,180 --> 00:04:45,270
+ora fahim posare un po di roba
+
+110
+00:04:42,620 --> 00:04:46,470
+nell'inventario perché sono troppo pieno
+
+111
+00:04:45,270 --> 00:04:48,990
+c'è troppa roba che non mi serve
+
+112
+00:04:46,470 --> 00:04:50,580
+assolutamente a nulla metal ingot tra
+
+113
+00:04:48,990 --> 00:04:52,919
+l'altro lo star matt harding ott
+
+114
+00:04:50,580 --> 00:04:54,270
+se non sbaglio potrebbe servire a
+
+115
+00:04:52,919 --> 00:04:57,720
+qualcosa
+
+116
+00:04:54,270 --> 00:05:00,900
+no all'acqua il crafting altan do se per
+
+117
+00:04:57,720 --> 00:05:02,760
+fare delle cose interessanti ma non so
+
+118
+00:05:00,900 --> 00:05:06,510
+neanche dove da dove iniziare per questi
+
+119
+00:05:02,760 --> 00:05:09,180
+materiali guarda è successo boom tutti
+
+120
+00:05:06,510 --> 00:05:10,139
+trasformati in star metalor alla
+
+121
+00:05:09,180 --> 00:05:11,570
+grandissima
+
+122
+00:05:10,139 --> 00:05:13,470
+proviamo a raccoglierli uno alla volta
+
+123
+00:05:11,570 --> 00:05:15,960
+dovrebbe proprio loro
+
+124
+00:05:13,470 --> 00:05:17,250
+e poi io posso processarlo per ottenere
+
+125
+00:05:15,960 --> 00:05:19,680
+ciò di cui ho bisogno tanto dovrebbe
+
+126
+00:05:17,250 --> 00:05:22,580
+darmi la missione
+
+127
+00:05:19,680 --> 00:05:25,560
+no niente missione a quanto pare devo
+
+128
+00:05:22,580 --> 00:05:27,150
+devo prima trasformarli in lingotti
+
+129
+00:05:25,560 --> 00:05:29,010
+no problem non mi cambia assolutamente
+
+130
+00:05:27,150 --> 00:05:29,669
+nulla tanto posso cuocerli
+
+131
+00:05:29,010 --> 00:05:31,590
+istantaneamente
+
+132
+00:05:29,669 --> 00:05:34,020
+vediamo se possono essere processati
+
+133
+00:05:31,590 --> 00:05:36,030
+dentro un pulver heiser magari possono
+
+134
+00:05:34,020 --> 00:05:38,400
+essere messi nel pulver heiser quindi
+
+135
+00:05:36,030 --> 00:05:41,159
+alla grande mi sembrano cosa positiva
+
+136
+00:05:38,400 --> 00:05:42,419
+andiamo nella stanza qua dove
+
+137
+00:05:41,159 --> 00:05:44,610
+processiamo i minerali
+
+138
+00:05:42,419 --> 00:05:49,889
+vediamo le cose attenzione non me la
+
+139
+00:05:44,610 --> 00:05:52,229
+cuoce e stardust a va messo interno di
+
+140
+00:05:49,889 --> 00:05:55,560
+un induction smelter oltre al fatto che
+
+141
+00:05:52,229 --> 00:05:58,020
+comunque lo stardust serve questo
+
+142
+00:05:55,560 --> 00:06:01,289
+abbiamo capito qui facciamo così vediamo
+
+143
+00:05:58,020 --> 00:06:03,479
+un po di sabbia insieme a un po di
+
+144
+00:06:01,289 --> 00:06:06,030
+stardust e facciamo un ingot per il
+
+145
+00:06:03,479 --> 00:06:07,979
+momento perché esagerare non abbiamo
+
+146
+00:06:06,030 --> 00:06:08,430
+bisogno non ci serve praticamente a
+
+147
+00:06:07,979 --> 00:06:10,320
+nulla
+
+148
+00:06:08,430 --> 00:06:14,130
+nel caso dovesse servizi poi in futuro
+
+149
+00:06:10,320 --> 00:06:16,130
+lo faremo per il momento uno mi basta lo
+
+150
+00:06:14,130 --> 00:06:18,090
+slap tra l'altro dove posso metterlo
+
+151
+00:06:16,130 --> 00:06:20,520
+c'erano di questi che processava lo
+
+152
+00:06:18,090 --> 00:06:22,770
+slargo mettiamo da parte missione star
+
+153
+00:06:20,520 --> 00:06:24,210
+metal completata alla grande quindi
+
+154
+00:06:22,770 --> 00:06:26,639
+tutto il braccio sinistro di questa
+
+155
+00:06:24,210 --> 00:06:30,389
+pagina dimissioni completato ce lo siamo
+
+156
+00:06:26,639 --> 00:06:32,070
+portati a casa alla grande in realtà la
+
+157
+00:06:30,389 --> 00:06:33,000
+trasmutazione sto leggendo qua sulla
+
+158
+00:06:32,070 --> 00:06:35,340
+wiki
+
+159
+00:06:33,000 --> 00:06:37,620
+cambia per diverse cose tipo ora il
+
+160
+00:06:35,340 --> 00:06:40,830
+ferro diventa star metal che è l'unico
+
+161
+00:06:37,620 --> 00:06:42,810
+blocco specifico di questa moda line ed
+
+162
+00:06:40,830 --> 00:06:44,700
+era può diventare nè del bric la sen
+
+163
+00:06:42,810 --> 00:06:46,350
+stone and stone potrebbe essere
+
+164
+00:06:44,700 --> 00:06:47,880
+interessante nel nostro caso no perché
+
+165
+00:06:46,350 --> 00:06:50,070
+possiamo già generarla però era
+
+166
+00:06:47,880 --> 00:06:52,770
+interessante lessiland diventano
+
+167
+00:06:50,070 --> 00:06:55,890
+lapislazzuli magma blocco ossidiana
+
+168
+00:06:52,770 --> 00:06:58,410
+zucche in torte caso netherworld block
+
+169
+00:06:55,890 --> 00:07:01,950
+in songs and diamond oro in smeraldi e
+
+170
+00:06:58,410 --> 00:07:04,830
+sabbia inc lei va bene non è non è male
+
+171
+00:07:01,950 --> 00:07:06,570
+non è indispensabile ma non è male
+
+172
+00:07:04,830 --> 00:07:09,090
+ora stavo guardando qui una delle
+
+173
+00:07:06,570 --> 00:07:10,890
+prossime cose che vorrei fare cioè le
+
+174
+00:07:09,090 --> 00:07:13,169
+bacchette magiche ce ne sono di diverso
+
+175
+00:07:10,890 --> 00:07:14,460
+tipo c'è la formation web che permette
+
+176
+00:07:13,169 --> 00:07:16,770
+di tutto a piazzare blocchi c'è
+
+177
+00:07:14,460 --> 00:07:19,590
+l'impulso buon che in teoria funziona
+
+178
+00:07:16,770 --> 00:07:24,240
+come un bambino tt lancio el'anci
+
+179
+00:07:19,590 --> 00:07:27,360
+veramente un rampino che ti fa come dire
+
+180
+00:07:24,240 --> 00:07:29,030
+un tifo una propulsione verso quella
+
+181
+00:07:27,360 --> 00:07:31,200
+direzione c'è chi lancia la quella parte
+
+182
+00:07:29,030 --> 00:07:33,060
+però quello che m'interessa il più est
+
+183
+00:07:31,200 --> 00:07:35,340
+ai lumini shaun buon perché in teoria
+
+184
+00:07:33,060 --> 00:07:37,380
+nella salsoul se ci sono tutta una serie
+
+185
+00:07:35,340 --> 00:07:39,840
+di blocchi che non sono blocchi sono
+
+186
+00:07:37,380 --> 00:07:41,960
+entità che illuminano all'acqua amici
+
+187
+00:07:39,840 --> 00:07:45,540
+sono due cristalli due star dust coeli o
+
+188
+00:07:41,960 --> 00:07:46,800
+room marble cielo lesioni teen jam è un
+
+189
+00:07:45,540 --> 00:07:48,900
+problema ora vi spiego perché
+
+190
+00:07:46,800 --> 00:07:51,000
+illumination powder posso farla
+
+191
+00:07:48,900 --> 00:07:53,310
+alimentation power possiamo farla è ok
+
+192
+00:07:51,000 --> 00:07:55,860
+quello che vi manca le regioni tinge per
+
+193
+00:07:53,310 --> 00:07:57,930
+fare la regione eating jam ho bisogno di
+
+194
+00:07:55,860 --> 00:08:00,960
+un altro macchinario che è lo star
+
+195
+00:07:57,930 --> 00:08:02,940
+lighting fisher in freezer per fare lo
+
+196
+00:08:00,960 --> 00:08:05,220
+star whiting fiser ho bisogno del
+
+197
+00:08:02,940 --> 00:08:06,240
+celeste all'altar che io al momento non
+
+198
+00:08:05,220 --> 00:08:08,040
+ho
+
+199
+00:08:06,240 --> 00:08:12,960
+cos'è celeste la al tar mi sa che la
+
+200
+00:08:08,040 --> 00:08:15,600
+versione successiva del mio starlight
+
+201
+00:08:12,960 --> 00:08:17,040
+kraft in al tar è un upgrade per farlo
+
+202
+00:08:15,600 --> 00:08:19,080
+bisogno di uno star metal ingot che o
+
+203
+00:08:17,040 --> 00:08:20,790
+dello stardust ma potenzialmente posso
+
+204
+00:08:19,080 --> 00:08:22,190
+farlo devo solo vedere all'interno del
+
+205
+00:08:20,790 --> 00:08:24,870
+mio libro delle ricette magiche
+
+206
+00:08:22,190 --> 00:08:25,440
+dell'astral tom come funziona un
+
+207
+00:08:24,870 --> 00:08:27,960
+attimino
+
+208
+00:08:25,440 --> 00:08:31,740
+quindi io se volessi fare all'annuncio
+
+209
+00:08:27,960 --> 00:08:35,430
+di qua vero rito all'ac station rito
+
+210
+00:08:31,740 --> 00:08:37,410
+alpe dest al celeste all'altar ok ad
+
+211
+00:08:35,430 --> 00:08:42,340
+atti di rho
+
+212
+00:08:37,410 --> 00:08:43,570
+fattibile altamente fattibile non vedo
+
+213
+00:08:42,340 --> 00:08:46,150
+grandi differenze in realtà le
+
+214
+00:08:43,570 --> 00:08:51,160
+differenze ci sono perché più mente
+
+215
+00:08:46,150 --> 00:08:55,870
+quanti blocchi saranno sono 1234567 è un
+
+216
+00:08:51,160 --> 00:08:59,460
+7x7 nero più tutto il bordino si può
+
+217
+00:08:55,870 --> 00:09:02,050
+fare perché no facciamolo aggrediamo
+
+218
+00:08:59,460 --> 00:09:05,590
+avete facciamo una cosa prima di tutto
+
+219
+00:09:02,050 --> 00:09:08,220
+ap crediamo la piattaforma questo modo
+
+220
+00:09:05,590 --> 00:09:11,830
+ci arriviamo subito dalle scatole perché
+
+221
+00:09:08,220 --> 00:09:14,080
+7x7 di nero non è poco
+
+222
+00:09:11,830 --> 00:09:16,600
+non è poco anzi andiamo subito a farlo
+
+223
+00:09:14,080 --> 00:09:18,840
+su di marble facciamone altri due ok
+
+224
+00:09:16,600 --> 00:09:21,160
+dovrebbero bastare che ne ho già un po
+
+225
+00:09:18,840 --> 00:09:25,750
+no non è vero mi costeranno maniera vita
+
+226
+00:09:21,160 --> 00:09:27,640
+tu sta roba qua deve diventare nera a
+
+227
+00:09:25,750 --> 00:09:29,140
+rompiamo queste cose tanto mio fine anno
+
+228
+00:09:27,640 --> 00:09:30,940
+tutte le l'inventario spero che sto
+
+229
+00:09:29,140 --> 00:09:33,040
+perdendo non è il massimo
+
+230
+00:09:30,940 --> 00:09:35,530
+sociale una cazzata vero perché prima
+
+231
+00:09:33,040 --> 00:09:37,060
+devo piegarlo ceco seno a piedi o come
+
+232
+00:09:35,530 --> 00:09:38,890
+cacchio faccio fatto una cazzata
+
+233
+00:09:37,060 --> 00:09:41,860
+palesemente ok tralasciando la
+
+234
+00:09:38,890 --> 00:09:44,140
+cappellata ora dovrei essere in grado di
+
+235
+00:09:41,860 --> 00:09:45,630
+performare l'upgrade dovrei avere anche
+
+236
+00:09:44,140 --> 00:09:48,000
+tutto alimentare funziona funziona
+
+237
+00:09:45,630 --> 00:09:49,930
+allora andiamo a vedere insieme
+
+238
+00:09:48,000 --> 00:09:53,170
+celestial al tar
+
+239
+00:09:49,930 --> 00:09:55,960
+boom cosa manca alla manca sicuramente
+
+240
+00:09:53,170 --> 00:09:57,220
+un cristallo togliamo anche qui quello
+
+241
+00:09:55,960 --> 00:09:59,470
+più scarso perché questi non ci
+
+242
+00:09:57,220 --> 00:10:01,600
+interessano per il crafting anche se il
+
+243
+00:09:59,470 --> 00:10:03,910
+più scarso ore da 145 inizio a diventare
+
+244
+00:10:01,600 --> 00:10:06,840
+un po grandini e poi bisogno di marble
+
+245
+00:10:03,910 --> 00:10:11,650
+quanto marble quale marble soprattutto
+
+246
+00:10:06,840 --> 00:10:15,420
+cesellato pillar marble quindi 4 mar
+
+247
+00:10:11,650 --> 00:10:19,390
+ball e due cesellati anzi due pillar e
+
+248
+00:10:15,420 --> 00:10:23,470
+quattro di queste di questi ok possiamo
+
+249
+00:10:19,390 --> 00:10:26,680
+farlo che dici ok vediamo se ce la
+
+250
+00:10:23,470 --> 00:10:28,270
+facciamo quell'energia non parte abbiamo
+
+251
+00:10:26,680 --> 00:10:30,100
+bisogno di tutta l'energia possibile qui
+
+252
+00:10:28,270 --> 00:10:34,120
+devo aspettare che diventi notte cioè
+
+253
+00:10:30,100 --> 00:10:38,680
+tra poco alleluia ok quasi notte dai che
+
+254
+00:10:34,120 --> 00:10:41,730
+ce la fai ce la fa boom boom non parte
+
+255
+00:10:38,680 --> 00:10:45,700
+al canon parte comunque non vorrei che
+
+256
+00:10:41,730 --> 00:10:48,340
+non non capisce che siamo di notte
+
+257
+00:10:45,700 --> 00:10:49,990
+ok ora sta facendo perché se non è notte
+
+258
+00:10:48,340 --> 00:10:50,980
+notte non funziona la vedi tutto la
+
+259
+00:10:49,990 --> 00:10:53,440
+starlight
+
+260
+00:10:50,980 --> 00:10:55,260
+viva sia dai piloni che da lì o mamma
+
+261
+00:10:53,440 --> 00:10:58,089
+mia cosa sta succedendo siamo calmi
+
+262
+00:10:55,260 --> 00:11:01,510
+raggi di luce pure per terra
+
+263
+00:10:58,089 --> 00:11:04,420
+temo che figata st mod stiamo calmi
+
+264
+00:11:01,510 --> 00:11:07,899
+ora dovrebbe tipo esplodere diventare
+
+265
+00:11:04,420 --> 00:11:09,430
+fighissima d'oro tipo celestiale degli
+
+266
+00:11:07,899 --> 00:11:12,100
+dèi qualcosa del genere
+
+267
+00:11:09,430 --> 00:11:14,050
+fai qualcosa quanto ci vuole 12 anni
+
+268
+00:11:12,100 --> 00:11:16,000
+guarda dovrebbe diventare così tutta
+
+269
+00:11:14,050 --> 00:11:18,430
+fighissima testato questa anche la
+
+270
+00:11:16,000 --> 00:11:21,130
+struttura di cui ho bisogno perché bene
+
+271
+00:11:18,430 --> 00:11:22,870
+o male questo che pilla ronnie che è
+
+272
+00:11:21,130 --> 00:11:26,230
+come se rappresentasse la struttura su
+
+273
+00:11:22,870 --> 00:11:28,899
+cui deve stare se non che il fatto che è
+
+274
+00:11:26,230 --> 00:11:31,110
+lentissimo nel fare questo claim però va
+
+275
+00:11:28,899 --> 00:11:34,870
+bene però va bene così
+
+276
+00:11:31,110 --> 00:11:37,209
+beh poi a seggi gante sta roba
+
+277
+00:11:34,870 --> 00:11:39,820
+il crafting anche bello impegnativo e
+
+278
+00:11:37,209 --> 00:11:41,470
+ora è arrivato il momento finalmente di
+
+279
+00:11:39,820 --> 00:11:43,750
+fare quello che stavo facendo fino a
+
+280
+00:11:41,470 --> 00:11:46,690
+mezzo secondo fa cioè di smantellare
+
+281
+00:11:43,750 --> 00:11:48,959
+tutto quanto e sostituirlo con i blocchi
+
+282
+00:11:46,690 --> 00:11:51,370
+adatti quindi ingrandire la piattaforma
+
+283
+00:11:48,959 --> 00:11:53,500
+che vi permetterà poi di fare il
+
+284
+00:11:51,370 --> 00:11:56,410
+crafting e arrivare a quella fantomatica
+
+285
+00:11:53,500 --> 00:12:01,870
+wong che volevo fare all'inizio
+
+286
+00:11:56,410 --> 00:12:03,279
+vediamo se ce la facciamo 12345678 sai
+
+287
+00:12:01,870 --> 00:12:07,060
+che forse non mi bastano neanche sti
+
+288
+00:12:03,279 --> 00:12:08,709
+cosi 54 non mi bastano a tanto appena
+
+289
+00:12:07,060 --> 00:12:09,190
+sbloccato anche un'altra cosa o sbaglio
+
+290
+00:12:08,709 --> 00:12:10,690
+e si
+
+291
+00:12:09,190 --> 00:12:14,019
+ma per quanto qui ci sono di sta roba
+
+292
+00:12:10,690 --> 00:12:17,079
+buca vacca illumination buon ecco la
+
+293
+00:12:14,019 --> 00:12:21,250
+faccia del marble normale devo prenderlo
+
+294
+00:12:17,079 --> 00:12:24,310
+alla grande rimuoviamo le torce dobbiamo
+
+295
+00:12:21,250 --> 00:12:26,410
+levare tutti i blocchi in realtà e spero
+
+296
+00:12:24,310 --> 00:12:28,779
+di non dover spostare i miei vecchietti
+
+297
+00:12:26,410 --> 00:12:30,880
+perché potrebbe essere non è un problema
+
+298
+00:12:28,779 --> 00:12:33,069
+ma devo ricordarmi tutto il set up
+
+299
+00:12:30,880 --> 00:12:36,160
+devono metterlo non sbatti non è
+
+300
+00:12:33,069 --> 00:12:36,730
+necessaria come chiamano così oppure è
+
+301
+00:12:36,160 --> 00:12:40,089
+tutto buio
+
+302
+00:12:36,730 --> 00:12:42,190
+che bello allora qui attorno mettiamo un
+
+303
+00:12:40,089 --> 00:12:43,480
+2 3 con il marble normale quindi sono
+
+304
+00:12:42,190 --> 00:12:44,380
+dodici in tutto attorno mettiamo invece
+
+305
+00:12:43,480 --> 00:12:46,740
+i brics
+
+306
+00:12:44,380 --> 00:12:46,740
+mi sembra di capire
+
+307
+00:12:49,050 --> 00:12:56,640
+già sono brics dappertutto e anche
+
+308
+00:12:52,680 --> 00:13:03,920
+attorno a qua 1 2 3 1 2 3 si fosse
+
+309
+00:12:56,640 --> 00:13:06,959
+questo modello è necessario 21 23
+
+310
+00:13:03,920 --> 00:13:08,970
+sta diventando abbastanza grossa come
+
+311
+00:13:06,959 --> 00:13:11,220
+piattaforma però va bene così figa da
+
+312
+00:13:08,970 --> 00:13:14,610
+vedere poi ho bisogno
+
+313
+00:13:11,220 --> 00:13:17,490
+ho bisogno di quei tipi di blocchi tutti
+
+314
+00:13:14,610 --> 00:13:20,519
+belli strani eccoli il round marble
+
+315
+00:13:17,490 --> 00:13:24,029
+bisogno di quattro di questi non puoi
+
+316
+00:13:20,519 --> 00:13:25,320
+fare speriamo di sì sei alla grande e
+
+317
+00:13:24,029 --> 00:13:35,670
+dove vanno
+
+318
+00:13:25,320 --> 00:13:37,680
+bella domanda all'angolo 1 2 3 e 4
+
+319
+00:13:35,670 --> 00:13:40,050
+pilla ronnie a manetta e ci siamo quasi
+
+320
+00:13:37,680 --> 00:13:42,060
+dovrebbe essere operativo a momenti
+
+321
+00:13:40,050 --> 00:13:44,370
+quale ultimo blocco che va in cima
+
+322
+00:13:42,060 --> 00:13:47,880
+sono quei quattro lì come si chiamano
+
+323
+00:13:44,370 --> 00:13:50,610
+chi si ricorda uccise del marble che
+
+324
+00:13:47,880 --> 00:13:51,510
+dovrei avere tra l'altro un botto meno 5
+
+325
+00:13:50,610 --> 00:13:55,410
+bastano
+
+326
+00:13:51,510 --> 00:13:58,440
+questo è l'importante uno due tre e
+
+327
+00:13:55,410 --> 00:14:02,010
+quattro funzioni non funziona diciamo
+
+328
+00:13:58,440 --> 00:14:06,450
+cosa è sbagliato a manca un lato ecco
+
+329
+00:14:02,010 --> 00:14:11,029
+cosa cazzo ma anche boom funzioni o
+
+330
+00:14:06,450 --> 00:14:11,029
+funziona alla grande alla grandissima
+
+331
+00:14:11,089 --> 00:14:18,529
+tutto questo lo ricordo perché devo fare
+
+332
+00:14:14,640 --> 00:14:21,930
+illumination buon ora se io prendessi
+
+333
+00:14:18,529 --> 00:14:26,100
+leggerissimo 24 pezzettini goldstone
+
+334
+00:14:21,930 --> 00:14:28,529
+potrei già captare perlomeno questo ok
+
+335
+00:14:26,100 --> 00:14:29,070
+mi da 16 che sono esattamente ciò di cui
+
+336
+00:14:28,529 --> 00:14:32,040
+ho bisogno
+
+337
+00:14:29,070 --> 00:14:34,230
+crafting molto semplice poi siamo tutto
+
+338
+00:14:32,040 --> 00:14:36,270
+il marble perché magari non mi serve
+
+339
+00:14:34,230 --> 00:14:38,520
+tutto il lato e poi lo di pazzia lo
+
+340
+00:14:36,270 --> 00:14:40,079
+rimpiazziamo ti preoccupare le lampade
+
+341
+00:14:38,520 --> 00:14:41,730
+anche quello che posso di piazzare ho
+
+342
+00:14:40,079 --> 00:14:43,260
+bisogno di questa regione teen gemma per
+
+343
+00:14:41,730 --> 00:14:45,029
+fa la regione tingeva ho bisogno di
+
+344
+00:14:43,260 --> 00:14:46,260
+sisto starlight in chiuse re per fare
+
+345
+00:14:45,029 --> 00:14:47,550
+stuhr store lighting fiducia avevo
+
+346
+00:14:46,260 --> 00:14:49,800
+bisogno per forza di questo celeste
+
+347
+00:14:47,550 --> 00:14:51,480
+realtà quindi facciamo questo inter che
+
+348
+00:14:49,800 --> 00:14:53,430
+tra l'altro a immagine alla bisogna la
+
+349
+00:14:51,480 --> 00:14:56,459
+sua piattaforma per funzionare come ogni
+
+350
+00:14:53,430 --> 00:14:58,470
+cosa in questo caso di pianeta ha
+
+351
+00:14:56,459 --> 00:15:01,410
+bisogno un po di roba per o no ma che
+
+352
+00:14:58,470 --> 00:15:03,060
+ora ho posato un grade marble non è più
+
+353
+00:15:01,410 --> 00:15:09,270
+mi magari cosa sia sta roba ma devo
+
+354
+00:15:03,060 --> 00:15:15,980
+farla lo fai fare boom bomba e non è
+
+355
+00:15:09,270 --> 00:15:15,980
+complicato è articolato ecco
+
+356
+00:15:15,990 --> 00:15:21,990
+sai che forse tutto mio dubbio c'è
+
+357
+00:15:18,420 --> 00:15:27,589
+troppa roba c6 marble cielo blu marble
+
+358
+00:15:21,990 --> 00:15:30,149
+la vacca ormai brucerò cisl e mi manca
+
+359
+00:15:27,589 --> 00:15:32,399
+mi è rimasto uno manco quello mi è
+
+360
+00:15:30,149 --> 00:15:35,370
+rimasto più marca vacca
+
+361
+00:15:32,399 --> 00:15:39,330
+quindi vi mancano due lingotti d oro e
+
+362
+00:15:35,370 --> 00:15:42,000
+un pezzo di sabbia che prenderò se lo
+
+363
+00:15:39,330 --> 00:15:45,029
+trovo perché devo andare a fare un altro
+
+364
+00:15:42,000 --> 00:15:48,420
+star stardust ingot star meta lingotto
+
+365
+00:15:45,029 --> 00:15:50,670
+quelle robe lì la vera domanda è questo
+
+366
+00:15:48,420 --> 00:15:52,010
+crafting funzionerà di giorno bella
+
+367
+00:15:50,670 --> 00:15:56,339
+domanda
+
+368
+00:15:52,010 --> 00:15:59,070
+in teoria dovrei avere tutto però non mi
+
+369
+00:15:56,339 --> 00:16:01,320
+sembra interessante come la situazione
+
+370
+00:15:59,070 --> 00:16:02,880
+mettiamola così boom
+
+371
+00:16:01,320 --> 00:16:05,399
+c'era tutto c'era davvero tutto
+
+372
+00:16:02,880 --> 00:16:08,220
+incredibile vai non ce la fa mai nella
+
+373
+00:16:05,399 --> 00:16:09,209
+vita non ce la fa c'è davvero tutto non
+
+374
+00:16:08,220 --> 00:16:12,390
+ho bisogno di nient'altro
+
+375
+00:16:09,209 --> 00:16:16,709
+devo solo aspettare la notte guarda e mi
+
+376
+00:16:12,390 --> 00:16:18,209
+dice quanto manca cavolo backup
+
+377
+00:16:16,709 --> 00:16:22,770
+mentre aspettiamo la notte mi piacerebbe
+
+378
+00:16:18,209 --> 00:16:25,890
+capire questo coso come ottenerlo cioè
+
+379
+00:16:22,770 --> 00:16:29,959
+non come ottenerlo come usarlo eccolo
+
+380
+00:16:25,890 --> 00:16:33,980
+starlight user di che piattaforma vacca
+
+381
+00:16:29,959 --> 00:16:38,520
+ok anche anche della piece lazoghly
+
+382
+00:16:33,980 --> 00:16:40,140
+sembra particolare è come chiamano così
+
+383
+00:16:38,520 --> 00:16:42,600
+bisogno anche di un botto di roba nel
+
+384
+00:16:40,140 --> 00:16:44,790
+mezzo 12 basket
+
+385
+00:16:42,600 --> 00:16:45,779
+ok credit e se ci mettiamo subito al
+
+386
+00:16:44,790 --> 00:16:47,010
+lavoro
+
+387
+00:16:45,779 --> 00:16:48,930
+poi ci siamo questo lato del posto
+
+388
+00:16:47,010 --> 00:16:50,430
+posizionarlo qui a caso tanto nel senso
+
+389
+00:16:48,930 --> 00:16:51,480
+non penso che mi esatto non mi dà
+
+390
+00:16:50,430 --> 00:16:54,300
+fastidio
+
+391
+00:16:51,480 --> 00:16:57,930
+ci metto tipo una cover in qua dentro
+
+392
+00:16:54,300 --> 00:17:00,209
+iniziamo a produrre i secchielli che ci
+
+393
+00:16:57,930 --> 00:17:03,360
+sei grande se ne servono 12 non son
+
+394
+00:17:00,209 --> 00:17:04,800
+pochi 12 ok ha fatto un altro è to hell
+
+395
+00:17:03,360 --> 00:17:06,900
+perché non voglio sprecare troppi
+
+396
+00:17:04,800 --> 00:17:09,390
+cristalli anche dove andare a cercarli
+
+397
+00:17:06,900 --> 00:17:11,010
+posso finalmente attivare il crafting di
+
+398
+00:17:09,390 --> 00:17:13,260
+questo ufficio un'altra di questo
+
+399
+00:17:11,010 --> 00:17:16,500
+starlight in user come cacchio si chiama
+
+400
+00:17:13,260 --> 00:17:17,309
+nel frattempo prenderò i bucket che ho a
+
+401
+00:17:16,500 --> 00:17:19,030
+disposizione
+
+402
+00:17:17,309 --> 00:17:20,830
+perché non mi
+
+403
+00:17:19,030 --> 00:17:25,900
+secondo non è solo uno di bacche tenero
+
+404
+00:17:20,830 --> 00:17:28,090
+tipo 20.000 cacchio così ne ho due
+
+405
+00:17:25,900 --> 00:17:33,670
+dove iniziò a prendere i banchetti a
+
+406
+00:17:28,090 --> 00:17:37,150
+mettere da parte proprio tutti bucket
+
+407
+00:17:33,670 --> 00:17:38,980
+che c'era anche questi mo guarda cosa
+
+408
+00:17:37,150 --> 00:17:41,620
+farò e prendere questo coso in modo da
+
+409
+00:17:38,980 --> 00:17:45,280
+sbloccare la missione e valori piazza
+
+410
+00:17:41,620 --> 00:17:46,630
+ovviamente no questo link user che
+
+411
+00:17:45,280 --> 00:17:48,130
+scherzavo
+
+412
+00:17:46,630 --> 00:17:49,390
+e anche se missioni sono andate a vedere
+
+413
+00:17:48,130 --> 00:17:51,580
+che piano piano abbiamo quasi completato
+
+414
+00:17:49,390 --> 00:17:53,920
+tutto regge dimissioni di questa moda
+
+415
+00:17:51,580 --> 00:17:56,040
+manca davvero poco solo un botto di cose
+
+416
+00:17:53,920 --> 00:17:59,200
+realtà che avete visto ci sono
+
+417
+00:17:56,040 --> 00:18:01,240
+potenzialmente è cioè non dico infinite
+
+418
+00:17:59,200 --> 00:18:05,560
+ma cacchio è la vedo prima di roba da
+
+419
+00:18:01,240 --> 00:18:09,670
+fare sta mode a una domanda se prendessi
+
+420
+00:18:05,560 --> 00:18:11,880
+un tank tipo uno di questi ora non so
+
+421
+00:18:09,670 --> 00:18:15,760
+sono i migliori però ormai preso questo
+
+422
+00:18:11,880 --> 00:18:19,030
+ok posso avete scelto la roba normale
+
+423
+00:18:15,760 --> 00:18:21,040
+così o meno sbatti e posso iniziare a
+
+424
+00:18:19,030 --> 00:18:25,240
+mettere da parte tutto quanto per la
+
+425
+00:18:21,040 --> 00:18:29,050
+struttura che dovrò creare a ok
+
+426
+00:18:25,240 --> 00:18:30,490
+così si siamo già 5 basket concludono
+
+427
+00:18:29,050 --> 00:18:34,050
+trick della vita mettendo la lampada
+
+428
+00:18:30,490 --> 00:18:38,850
+sotto la luce uguale alla grande
+
+429
+00:18:34,050 --> 00:18:38,850
+comunque macinano ma perché esplodi
+
+430
+00:18:39,030 --> 00:18:44,800
+dovresti esplodere ma ci sono alcune più
+
+431
+00:18:41,770 --> 00:18:46,120
+esistenti di altre ma non lo so cosa che
+
+432
+00:18:44,800 --> 00:18:47,860
+ha come rendono infinita abbiamo anche
+
+433
+00:18:46,120 --> 00:18:50,800
+il semino però cav h
+
+434
+00:18:47,860 --> 00:18:52,750
+se sarete un po che almeno tra l'altro
+
+435
+00:18:50,800 --> 00:18:56,650
+station powder in teoria se clicca col
+
+436
+00:18:52,750 --> 00:19:01,480
+destro a vedi che fa crea questa entità
+
+437
+00:18:56,650 --> 00:19:05,680
+che non è un blocco ma fa luce ed è
+
+438
+00:19:01,480 --> 00:19:07,660
+appena scomparsa non rieccola in teoria
+
+439
+00:19:05,680 --> 00:19:12,820
+fa luce non so quanta devono levare
+
+440
+00:19:07,660 --> 00:19:15,070
+questo fa luce è l'unico modo per
+
+441
+00:19:12,820 --> 00:19:17,140
+levarlo a metterci un blocco sopra in
+
+442
+00:19:15,070 --> 00:19:20,500
+questo modo la perdi completamente
+
+443
+00:19:17,140 --> 00:19:22,030
+quindi ti dirò carino come concetto non
+
+444
+00:19:20,500 --> 00:19:24,550
+ho messo storto management e ore a
+
+445
+00:19:22,030 --> 00:19:25,559
+l'elimination want to va in giro o lanci
+
+446
+00:19:24,550 --> 00:19:29,799
+queste
+
+447
+00:19:25,559 --> 00:19:31,390
+infatti le gialle e siamo tutti contenti
+
+448
+00:19:29,799 --> 00:19:38,110
+dai che forse ho beccato un altra
+
+449
+00:19:31,390 --> 00:19:39,540
+costellazione che volevi a tutto dai dai
+
+450
+00:19:38,110 --> 00:19:44,740
+che ce la fai
+
+451
+00:19:39,540 --> 00:19:49,030
+no non era così come cacchio era merda
+
+452
+00:19:44,740 --> 00:19:51,179
+tutto collegato veloce veloce dai che ce
+
+453
+00:19:49,030 --> 00:19:51,179
+la fai
+
+454
+00:19:52,740 --> 00:19:58,720
+beccata dai questa costellazione che non
+
+455
+00:19:56,200 --> 00:20:00,429
+la vede sono triste
+
+456
+00:19:58,720 --> 00:20:02,230
+avevo armare a disposizione non me l'ha
+
+457
+00:20:00,429 --> 00:20:04,240
+trovata va bene signori vi metterò a
+
+458
+00:20:02,230 --> 00:20:07,419
+creare tutta la piattaforma mi sa che
+
+459
+00:20:04,240 --> 00:20:08,230
+devo aspettare che questo completi e e
+
+460
+00:20:07,419 --> 00:20:10,630
+vedremo il prossimo episodio
+
+461
+00:20:08,230 --> 00:20:12,970
+probabilmente queste buon da alcune
+
+462
+00:20:10,630 --> 00:20:15,940
+world la più interessante per il momento
+
+463
+00:20:12,970 --> 00:20:18,130
+che davvero voglio fare le nomination e
+
+464
+00:20:15,940 --> 00:20:20,110
+poi stava il teletrasporto che se ma
+
+465
+00:20:18,130 --> 00:20:22,150
+interessante non è nelle emissioni ma
+
+466
+00:20:20,110 --> 00:20:23,799
+cacchio in teoria potrebbe essere
+
+467
+00:20:22,150 --> 00:20:24,910
+davvero davvero utile quindi per il
+
+468
+00:20:23,799 --> 00:20:26,140
+momento è tutto il mio soldi ce vole se
+
+469
+00:20:24,910 --> 00:20:27,400
+noi ci vediamo domani stati a quel
+
+470
+00:20:26,140 --> 00:20:28,630
+prossimo bisogno della sede 7 ciao
+
+471
+00:20:27,400 --> 00:20:47,130
+futuro tutti
+
+472
+00:20:28,630 --> 00:20:47,130
+[Musica]

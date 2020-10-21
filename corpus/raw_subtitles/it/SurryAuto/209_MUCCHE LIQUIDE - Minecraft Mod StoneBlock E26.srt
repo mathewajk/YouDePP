@@ -1,0 +1,1795 @@
+1
+00:00:00,000 --> 00:00:03,030
+ciao a tutti che ciotti e benvenuti in
+
+2
+00:00:01,290 --> 00:00:05,850
+questo nuovissimo video della stone
+
+3
+00:00:03,030 --> 00:00:08,820
+block quest'oggi andremo ad esplorare
+
+4
+00:00:05,850 --> 00:00:12,360
+insieme una cosa che per me è molto
+
+5
+00:00:08,820 --> 00:00:15,000
+molto curiosa nel senso è interessato
+
+6
+00:00:12,360 --> 00:00:16,590
+genialmente a questa cosa perché metteva
+
+7
+00:00:15,000 --> 00:00:18,900
+idea di come funzioni
+
+8
+00:00:16,590 --> 00:00:20,640
+allora ho scavato cui una bella zona con
+
+9
+00:00:18,900 --> 00:00:23,310
+il mio flux bor anzi lo mettiamo subito
+
+10
+00:00:20,640 --> 00:00:24,990
+a caricare perché abbiamo consumato metà
+
+11
+00:00:23,310 --> 00:00:27,000
+della carica e non è una cosa buona
+
+12
+00:00:24,990 --> 00:00:28,769
+perché è comodissimo sto coso è vero che
+
+13
+00:00:27,000 --> 00:00:31,529
+ne ho un altro dall'altra parte però per
+
+14
+00:00:28,769 --> 00:00:33,809
+il momento ne usiamo solamente uno ho
+
+15
+00:00:31,529 --> 00:00:35,370
+creato questa stanza per in futuro nel
+
+16
+00:00:33,809 --> 00:00:37,770
+senso magari avevano bisogno di
+
+17
+00:00:35,370 --> 00:00:39,030
+installare un bel magazzino qui avevo
+
+18
+00:00:37,770 --> 00:00:42,570
+ancora un mese attenzione di spostare i
+
+19
+00:00:39,030 --> 00:00:44,160
+poli non si sa cose ok mentre guardavo
+
+20
+00:00:42,570 --> 00:00:46,950
+queste cose mi sono reso conto che
+
+21
+00:00:44,160 --> 00:00:49,500
+riguarda qui c'è la flight fluid caos
+
+22
+00:00:46,950 --> 00:00:53,640
+cos'è la fluid causa a quanto pare la
+
+23
+00:00:49,500 --> 00:00:56,940
+fluid cause è un modo per fare cose ok
+
+24
+00:00:53,640 --> 00:00:59,070
+va bene ci siamo allora devo dire la
+
+25
+00:00:56,940 --> 00:01:00,989
+verità all'inizio neanche mi ispira se
+
+26
+00:00:59,070 --> 00:01:03,300
+tantissimo ho visto tanti se credete ma
+
+27
+00:01:00,989 --> 00:01:04,290
+che cosa sono matt impegno impazzisco
+
+28
+00:01:03,300 --> 00:01:07,260
+così cioè non capisco assolutamente
+
+29
+00:01:04,290 --> 00:01:09,900
+nulla che cazzo è tutta sta roba non si
+
+30
+00:01:07,260 --> 00:01:11,549
+capisce davvero nulla cioè sono 13
+
+31
+00:01:09,900 --> 00:01:13,530
+milioni di cose
+
+32
+00:01:11,549 --> 00:01:15,630
+guarda il ferro che cazzo charles aver
+
+33
+00:01:13,530 --> 00:01:19,080
+collegato a tutto il ferro quindi detto
+
+34
+00:01:15,630 --> 00:01:21,600
+questo insieme a captare le prime cose
+
+35
+00:01:19,080 --> 00:01:23,880
+quindi so come seacraft alla fluidità
+
+36
+00:01:21,600 --> 00:01:26,250
+dell'acqua un secchio d'acqua e otto
+
+37
+00:01:23,880 --> 00:01:28,110
+pezzi di pelle va bene fila ci sono e
+
+38
+00:01:26,250 --> 00:01:28,619
+poi ho visto che c'è un'altra cosa che
+
+39
+00:01:28,110 --> 00:01:32,130
+in cima
+
+40
+00:01:28,619 --> 00:01:34,770
+guardate un po c'è una cousteau la cioè
+
+41
+00:01:32,130 --> 00:01:36,930
+c'è la stalla la chiameremo stalla la
+
+42
+00:01:34,770 --> 00:01:40,140
+stalla delle mucche che sarebbe tipo chi
+
+43
+00:01:36,930 --> 00:01:43,590
+il recinto ok metti la mucca nella
+
+44
+00:01:40,140 --> 00:01:45,840
+stalla per un look usando un account of
+
+45
+00:01:43,590 --> 00:01:48,810
+the ram che kakà è ok ad esempio queste
+
+46
+00:01:45,840 --> 00:01:51,030
+cose non ne sapevo in questo modo noi
+
+47
+00:01:48,810 --> 00:01:54,450
+mettiamo la mucca e verrà
+
+48
+00:01:51,030 --> 00:01:56,100
+automaticamente diciamo preso il liquido
+
+49
+00:01:54,450 --> 00:01:58,890
+dalla mucca come se noi unge stimola
+
+50
+00:01:56,100 --> 00:02:00,119
+mucca e siamo dei grandi perché
+
+51
+00:01:58,890 --> 00:02:01,799
+all'improvviso volevo prenderlo o con un
+
+52
+00:02:00,119 --> 00:02:04,770
+secchio o con delle pipes quindi
+
+53
+00:02:01,799 --> 00:02:06,030
+possiamo avere dei tanti infiniti per
+
+54
+00:02:04,770 --> 00:02:09,869
+chi infiniti perché c'era sta roba
+
+55
+00:02:06,030 --> 00:02:12,390
+infinita del black hole tank roba lì è
+
+56
+00:02:09,869 --> 00:02:13,530
+riempito di liquidi e poi liquido tipo
+
+57
+00:02:12,390 --> 00:02:16,200
+si apre non liquida
+
+58
+00:02:13,530 --> 00:02:19,290
+noi il latte bianco il ferro davvero
+
+59
+00:02:16,200 --> 00:02:24,569
+dove era questo ok utilizzo utilizzo il
+
+60
+00:02:19,290 --> 00:02:26,610
+ferro sbagliato ferro r no non voglio il
+
+61
+00:02:24,569 --> 00:02:30,090
+cavo alter voglio o mamma mia
+
+62
+00:02:26,610 --> 00:02:33,780
+io volevo il molten a roma che cercavano
+
+63
+00:02:30,090 --> 00:02:36,630
+qua dentro molten iron cau
+
+64
+00:02:33,780 --> 00:02:39,780
+eccolo qui quando tu hai questa puoi
+
+65
+00:02:36,630 --> 00:02:42,930
+ottenere il liquido molten iron lo puoi
+
+66
+00:02:39,780 --> 00:02:44,670
+trasformare poi buonanotte cose
+
+67
+00:02:42,930 --> 00:02:46,050
+soprattutto poi mi scarico nate cose ma
+
+68
+00:02:44,670 --> 00:02:47,910
+se non erro si può arrivare anche alla
+
+69
+00:02:46,050 --> 00:02:48,840
+vede proprio il lingotto ad esempio con
+
+70
+00:02:47,910 --> 00:02:51,360
+il casting
+
+71
+00:02:48,840 --> 00:02:53,489
+guarda qui quindi tutto è una roba che
+
+72
+00:02:51,360 --> 00:02:54,360
+poi si può automatizzare e ad esempio
+
+73
+00:02:53,489 --> 00:02:57,830
+qualcosa sta roba
+
+74
+00:02:54,360 --> 00:03:01,050
+un floor che figata come si fa a flor
+
+75
+00:02:57,830 --> 00:03:04,019
+posso farlo posso farlo si ok tipo un
+
+76
+00:03:01,050 --> 00:03:06,569
+secchio quindi detto questo io direi
+
+77
+00:03:04,019 --> 00:03:09,330
+iniziamo a vedere cosa fanno le mucche
+
+78
+00:03:06,569 --> 00:03:11,459
+proviamo a craftare intanto una mucca
+
+79
+00:03:09,330 --> 00:03:12,840
+liquida facciamo quella dell'acqua che è
+
+80
+00:03:11,459 --> 00:03:15,239
+abbastanza semplice abbiamo un
+
+81
+00:03:12,840 --> 00:03:18,750
+secchiello dove nere della pelle io ne
+
+82
+00:03:15,239 --> 00:03:20,940
+ho poca ma abbastanza o 10 pezzettini me
+
+83
+00:03:18,750 --> 00:03:23,700
+servono 8 per fare una mucca però la
+
+84
+00:03:20,940 --> 00:03:25,320
+cosa positiva è che la pelle si può fare
+
+85
+00:03:23,700 --> 00:03:27,660
+tranquillamente con la rotta in flash
+
+86
+00:03:25,320 --> 00:03:29,130
+mettendolo a cuocere quindi è molto
+
+87
+00:03:27,660 --> 00:03:30,900
+semplice poi ottenerla anche
+
+88
+00:03:29,130 --> 00:03:35,190
+considerando che in uno dei prossimi
+
+89
+00:03:30,900 --> 00:03:38,459
+episodi realizzeremo oddio aspetta
+
+90
+00:03:35,190 --> 00:03:40,829
+terrore errore come faccio a rifarlo
+
+91
+00:03:38,459 --> 00:03:42,840
+diventare mucca normale ora con un pezzo
+
+92
+00:03:40,829 --> 00:03:44,940
+di palle due stecchette ottimo speriamo
+
+93
+00:03:42,840 --> 00:03:47,519
+funzioni dovrebbe essere la stessa roba
+
+94
+00:03:44,940 --> 00:03:50,310
+del check e stick se non erro vogliamo 2
+
+95
+00:03:47,519 --> 00:03:53,730
+stecchetti ne fa uno due tre
+
+96
+00:03:50,310 --> 00:03:54,630
+ok abbiamo con walter reed click scout
+
+97
+00:03:53,730 --> 00:03:57,450
+peak it up
+
+98
+00:03:54,630 --> 00:03:58,799
+ok quindi io con la mia bellissima cosa
+
+99
+00:03:57,450 --> 00:04:01,500
+faccio così
+
+100
+00:03:58,799 --> 00:04:04,079
+e ora qua dentro ciò la mucca dell'acqua
+
+101
+00:04:01,500 --> 00:04:06,120
+va bene e in teoria questa mucca di
+
+102
+00:04:04,079 --> 00:04:08,850
+produce acqua all'infinito qui è un tank
+
+103
+00:04:06,120 --> 00:04:10,950
+infinito d'acqua aveva bisogno di sto
+
+104
+00:04:08,850 --> 00:04:13,470
+coso però della stalla va bene
+
+105
+00:04:10,950 --> 00:04:14,970
+facciamolo iron bars vabbè abbastanza
+
+106
+00:04:13,470 --> 00:04:17,190
+easy anzi da era un balzo dovrei averne
+
+107
+00:04:14,970 --> 00:04:19,440
+almeno un botto
+
+108
+00:04:17,190 --> 00:04:21,630
+le e mail non è assolutamente un
+
+109
+00:04:19,440 --> 00:04:24,990
+problema deve neanche qui davvero tante
+
+110
+00:04:21,630 --> 00:04:26,160
+ma non solo posso farne di più quante me
+
+111
+00:04:24,990 --> 00:04:27,660
+ne servono
+
+112
+00:04:26,160 --> 00:04:31,620
+prendiamo le tre per il momento perché
+
+113
+00:04:27,660 --> 00:04:34,620
+ho dodici bar sono 48 12 facciamo altri
+
+114
+00:04:31,620 --> 00:04:36,990
+di questi ok sono tre ora avevo giocato
+
+115
+00:04:34,620 --> 00:04:40,140
+in un'altra cosa ha bisogno dei del gray
+
+116
+00:04:36,990 --> 00:04:44,160
+concrete per fare concreto di colorante
+
+117
+00:04:40,140 --> 00:04:46,680
+già a grigio uso di bonn miale colorante
+
+118
+00:04:44,160 --> 00:04:48,840
+grigio bone mia ce l'abbiamo con ante
+
+119
+00:04:46,680 --> 00:04:51,960
+grigio buonanotte aveva da qualche parte
+
+120
+00:04:48,840 --> 00:04:53,310
+deve avere con la meno però se non
+
+121
+00:04:51,960 --> 00:04:56,910
+ricordo ma dovrei avere un colorante
+
+122
+00:04:53,310 --> 00:05:01,110
+come godo velo messi però ecco l'organic
+
+123
+00:04:56,910 --> 00:05:03,660
+back dai ottimo prendiamo uno di questi
+
+124
+00:05:01,110 --> 00:05:05,910
+lo combiniamo con il bomber e otteniamo
+
+125
+00:05:03,660 --> 00:05:08,130
+due gray dai per fare tutto sto casino
+
+126
+00:05:05,910 --> 00:05:09,570
+per fare del bene dai che poi non so
+
+127
+00:05:08,130 --> 00:05:10,820
+neanche se ci servirà effettivamente ma
+
+128
+00:05:09,570 --> 00:05:12,810
+per il momento facciamo
+
+129
+00:05:10,820 --> 00:05:15,150
+detto questo ha bisogno di un po di
+
+130
+00:05:12,810 --> 00:05:17,130
+grave che abbiamo da qualche parte e un
+
+131
+00:05:15,150 --> 00:05:18,750
+po di sabbia se non ho capito male con i
+
+132
+00:05:17,130 --> 00:05:21,090
+quattro di sabbia quanto di grave perché
+
+133
+00:05:18,750 --> 00:05:21,780
+dovremmo avere lì combiniamo nella carta
+
+134
+00:05:21,090 --> 00:05:24,240
+in the ball
+
+135
+00:05:21,780 --> 00:05:27,180
+in questo modo abbastanza semplicemente
+
+136
+00:05:24,240 --> 00:05:31,169
+e otteniamo 8 gray concreta questi vanno
+
+137
+00:05:27,180 --> 00:05:34,200
+inseriti all'interno della tomba della
+
+138
+00:05:31,169 --> 00:05:40,770
+ad esempio in questo modo si inserisce
+
+139
+00:05:34,200 --> 00:05:44,010
+questo qua no così non voglio che tu lo
+
+140
+00:05:40,770 --> 00:05:48,150
+trasformi non trasformarla orca vacca ti
+
+141
+00:05:44,010 --> 00:05:52,080
+rompo prodotto un cru sibolla un normale
+
+142
+00:05:48,150 --> 00:05:53,550
+che faccio così non fu tra poco un cazzo
+
+143
+00:05:52,080 --> 00:05:55,560
+da fare la vecchia maniera
+
+144
+00:05:53,550 --> 00:05:59,430
+bisogna fare la vecchia maniera e allora
+
+145
+00:05:55,560 --> 00:06:01,580
+si fa così e si porta a casa il concreta
+
+146
+00:05:59,430 --> 00:06:04,500
+di cui abbiamo bisogno
+
+147
+00:06:01,580 --> 00:06:06,000
+123 realtà sono otto pezzi quando noi
+
+148
+00:06:04,500 --> 00:06:08,790
+avevo bisogno di nove pezzi
+
+149
+00:06:06,000 --> 00:06:10,919
+però vediamo cosa riusciamo a fare
+
+150
+00:06:08,790 --> 00:06:13,620
+partiamo le due intanto allora quanto
+
+151
+00:06:10,919 --> 00:06:18,200
+posso portarne esattamente due allora
+
+152
+00:06:13,620 --> 00:06:21,960
+abbiamo una causa stola piazziamo la qui
+
+153
+00:06:18,200 --> 00:06:25,350
+forse non sono neanche molto migliore
+
+154
+00:06:21,960 --> 00:06:26,849
+se faccio così shift click
+
+155
+00:06:25,350 --> 00:06:30,599
+boom
+
+156
+00:06:26,849 --> 00:06:32,969
+abbiamo una mucca oddio eppure sembra
+
+157
+00:06:30,599 --> 00:06:36,899
+ferruccia che ha un altro di questo in
+
+158
+00:06:32,969 --> 00:06:40,349
+teoria in un minuto otterremo un blocco
+
+159
+00:06:36,899 --> 00:06:42,449
+d'acqua ok ora questi si possono anche
+
+160
+00:06:40,349 --> 00:06:45,240
+far accoppiare in teoria quindi quando
+
+161
+00:06:42,449 --> 00:06:47,969
+non sto sbagliando i tasti come vado a
+
+162
+00:06:45,240 --> 00:06:50,839
+prendere altrettanto prendiamo il world
+
+163
+00:06:47,969 --> 00:06:54,539
+invasion smelter bene ce l'ho già
+
+164
+00:06:50,839 --> 00:06:59,389
+le world col chiesto robot in chris
+
+165
+00:06:54,539 --> 00:07:03,029
+speed of operation extra.it otis più
+
+166
+00:06:59,389 --> 00:07:07,949
+interessante molto interessante è a
+
+167
+00:07:03,029 --> 00:07:10,439
+faccio lo cazzo è l'ultimo acquisto e la
+
+168
+00:07:07,949 --> 00:07:13,619
+bestia ora vice abbiamo alcuni di questi
+
+169
+00:07:10,439 --> 00:07:15,959
+cosi potremmo provare a utilizzare a cui
+
+170
+00:07:13,619 --> 00:07:18,269
+questi generatori di energia quindi
+
+171
+00:07:15,959 --> 00:07:21,659
+questi macchinari nonché momento ci
+
+172
+00:07:18,269 --> 00:07:22,949
+servano per o per tipo in quello che
+
+173
+00:07:21,659 --> 00:07:25,490
+utilizzerà al momento non si può
+
+174
+00:07:22,949 --> 00:07:27,719
+utilizzare non si può inserire però
+
+175
+00:07:25,490 --> 00:07:29,789
+troveremo il modo di usarlo
+
+176
+00:07:27,719 --> 00:07:33,119
+sono abbastanza sicuro davvero qualche
+
+177
+00:07:29,789 --> 00:07:36,059
+blocco dell'extra utile ma non trovo non
+
+178
+00:07:33,119 --> 00:07:37,649
+ne occupa al momento strano price che
+
+179
+00:07:36,059 --> 00:07:40,680
+pieno se faccio così
+
+180
+00:07:37,649 --> 00:07:44,729
+ottengo l'acqua ottimo però come per i
+
+181
+00:07:40,680 --> 00:07:47,279
+polli qua il vero fattore dominante è
+
+182
+00:07:44,729 --> 00:07:50,129
+quando il facciamo accoppiare quindi se
+
+183
+00:07:47,279 --> 00:07:53,249
+io prendo una cao qualsiasi e vedo i
+
+184
+00:07:50,129 --> 00:07:56,759
+breathing c'è una 50 per cento di
+
+185
+00:07:53,249 --> 00:08:01,139
+possibilità che ad esempio sears ton con
+
+186
+00:07:56,759 --> 00:08:03,499
+molto in tre mi dia una top cosa come
+
+187
+00:08:01,139 --> 00:08:06,779
+funziona il briefing se non erro
+
+188
+00:08:03,499 --> 00:08:08,399
+semplicemente andando a usare del grano
+
+189
+00:08:06,779 --> 00:08:10,409
+quindi come se fossero munque normali
+
+190
+00:08:08,399 --> 00:08:13,409
+ora per fare questa cosa ho bisogno di
+
+191
+00:08:10,409 --> 00:08:15,269
+un po di pelle e per fare la pelle in
+
+192
+00:08:13,409 --> 00:08:18,119
+naso un po al mio andare a ma questa
+
+193
+00:08:15,269 --> 00:08:19,709
+nuca questa è l'età di uscita
+
+194
+00:08:18,119 --> 00:08:21,599
+ok potremmo anche aver bisogno di una
+
+195
+00:08:19,709 --> 00:08:24,209
+mucca scherzava non la fa prendere
+
+196
+00:08:21,599 --> 00:08:27,589
+perché devo già un'altra se faccio così
+
+197
+00:08:24,209 --> 00:08:29,969
+non mi prendo comunque ok signora mucca
+
+198
+00:08:27,589 --> 00:08:33,389
+potrei tranquillamente ucciderla in
+
+199
+00:08:29,969 --> 00:08:35,459
+questo momento è ucciderò
+
+200
+00:08:33,389 --> 00:08:37,349
+ma fa così poco danno sto coso abbiamo
+
+201
+00:08:35,459 --> 00:08:39,250
+due pezzi di pelle ma ha bisogno di
+
+202
+00:08:37,349 --> 00:08:41,349
+molta più belle e qui devo ammazzare un
+
+203
+00:08:39,250 --> 00:08:44,550
+di lotte di tipi di latte placido è
+
+204
+00:08:41,349 --> 00:08:47,520
+capito di zombie alla ricerca dei mob
+
+205
+00:08:44,550 --> 00:08:51,520
+incredibile ci siamo sempre a scavare
+
+206
+00:08:47,520 --> 00:08:54,700
+qui sembrerebbero esserci tanti mob è
+
+207
+00:08:51,520 --> 00:08:55,990
+una cosa positiva dove ci sono mob non
+
+208
+00:08:54,700 --> 00:08:59,830
+solo invece rischio di morire
+
+209
+00:08:55,990 --> 00:09:01,030
+ovviamente non è sotto sono sotto non
+
+210
+00:08:59,830 --> 00:09:03,100
+soci di scream morire ma c'è anche il
+
+211
+00:09:01,030 --> 00:09:05,050
+rischio di prenderle drop di rendiconto
+
+212
+00:09:03,100 --> 00:09:07,950
+bellissimo io non riesco a capire dove
+
+213
+00:09:05,050 --> 00:09:07,950
+sono i miei amichetti
+
+214
+00:09:08,110 --> 00:09:13,570
+ma il mio vedo mob scusa a buongiorni
+
+215
+00:09:11,410 --> 00:09:15,220
+stimo ma che bravi armatura e per cavate
+
+216
+00:09:13,570 --> 00:09:18,610
+questo mi ammazzo alcuni quanta vita
+
+217
+00:09:15,220 --> 00:09:21,060
+chat o muori un po adesso lo skate di
+
+218
+00:09:18,610 --> 00:09:24,100
+cui purtroppo niente da fare
+
+219
+00:09:21,060 --> 00:09:26,790
+avremo bisogno di qualche zombie realtà
+
+220
+00:09:24,100 --> 00:09:29,200
+per fare cose invece nulla
+
+221
+00:09:26,790 --> 00:09:31,180
+in realtà la cosa migliore sarebbe fare
+
+222
+00:09:29,200 --> 00:09:33,820
+la moby farm che è quello che però
+
+223
+00:09:31,180 --> 00:09:36,790
+volevo fare episodio magari domani un
+
+224
+00:09:33,820 --> 00:09:39,190
+altro episodio mi sono già scusato tutto
+
+225
+00:09:36,790 --> 00:09:41,050
+questo ma questo questo brutto questo
+
+226
+00:09:39,190 --> 00:09:42,960
+brutto questo mi piace ma questa spada
+
+227
+00:09:41,050 --> 00:09:45,250
+fa effettivamente danno o fa finta
+
+228
+00:09:42,960 --> 00:09:48,900
+perché io vedo che fa un po di danno ma
+
+229
+00:09:45,250 --> 00:09:52,720
+è neppure carica capito ma non capisco
+
+230
+00:09:48,900 --> 00:09:54,630
+occhio che figata ok diciamo che il
+
+231
+00:09:52,720 --> 00:09:56,920
+tasto destro potrebbe essere utile
+
+232
+00:09:54,630 --> 00:09:59,140
+proviamo usare il tasto destro che dite
+
+233
+00:09:56,920 --> 00:10:02,890
+a me piace il tasto destro di situazioni
+
+234
+00:09:59,140 --> 00:10:04,630
+come queste ti dirò mi piace vi posso
+
+235
+00:10:02,890 --> 00:10:07,210
+possa effettivamente lavorare con il
+
+236
+00:10:04,630 --> 00:10:10,630
+tasto destro se se mi fai questo questo
+
+237
+00:10:07,210 --> 00:10:14,320
+favorino che figata cioè diventa davvero
+
+238
+00:10:10,630 --> 00:10:15,970
+l'asem a manetta cioè spacco tutto primo
+
+239
+00:10:14,320 --> 00:10:21,310
+a salire tanto mio obiettivo è trovare
+
+240
+00:10:15,970 --> 00:10:23,800
+modo abbiamo capito di qua si riscende a
+
+241
+00:10:21,310 --> 00:10:26,950
+prospetta c'era il sogno delle torce
+
+242
+00:10:23,800 --> 00:10:29,260
+sono funghi in uno di troppo
+
+243
+00:10:26,950 --> 00:10:32,230
+interessante mai questi minerali poi mi
+
+244
+00:10:29,260 --> 00:10:34,089
+serviranno mi pentirò di non averli
+
+245
+00:10:32,230 --> 00:10:36,730
+raccolti però c'è sempre un modo per
+
+246
+00:10:34,089 --> 00:10:38,589
+ottenere la roba ma con e quarzo questo
+
+247
+00:10:36,730 --> 00:10:40,360
+del famoso quattro come detto che però è
+
+248
+00:10:38,589 --> 00:10:42,850
+difficilissimo trovare eccolo trovato
+
+249
+00:10:40,360 --> 00:10:45,400
+ora per la prima volta la nostra
+
+250
+00:10:42,850 --> 00:10:47,110
+bellissima spada di non so cosa over
+
+251
+00:10:45,400 --> 00:10:50,950
+power ed
+
+252
+00:10:47,110 --> 00:10:53,350
+bravo bravo prendiamo cento zombie ok ma
+
+253
+00:10:50,950 --> 00:10:56,829
+dico ha cessato o dio guarda quanta
+
+254
+00:10:53,350 --> 00:11:00,910
+gente c'è e si vede la mini mappa anche
+
+255
+00:10:56,829 --> 00:11:08,800
+dal casinò è però un giorni simo guarda
+
+256
+00:11:00,910 --> 00:11:15,490
+guarda come muori ok figo oddio un baby
+
+257
+00:11:08,800 --> 00:11:17,890
+skeleton male ma poi è una è una pistola
+
+258
+00:11:15,490 --> 00:11:20,290
+spaziale
+
+259
+00:11:17,890 --> 00:11:22,329
+non so quanto sia utile questa questa
+
+260
+00:11:20,290 --> 00:11:23,860
+roba magari esiste un upgrade per
+
+261
+00:11:22,329 --> 00:11:27,399
+renderla più forte anzi sono abbastanza
+
+262
+00:11:23,860 --> 00:11:31,860
+sicuro da lontano magari a da lontano e
+
+263
+00:11:27,399 --> 00:11:36,399
+figo una testa di creeper figo non può
+
+264
+00:11:31,860 --> 00:11:38,860
+allora chiama un po questa roba e ferro
+
+265
+00:11:36,399 --> 00:11:42,160
+questo è lui e liquid cavo liquida hayek
+
+266
+00:11:38,860 --> 00:11:45,339
+video m la testa pieno di roba
+
+267
+00:11:42,160 --> 00:11:46,630
+buongiorni simo caffè in realtà si
+
+268
+00:11:45,339 --> 00:11:50,500
+muoiono abbastanza velocemente a
+
+269
+00:11:46,630 --> 00:11:53,920
+distanza figo molto figo questo seguono
+
+270
+00:11:50,500 --> 00:11:57,040
+c'è sta a me non interessa la cesta se
+
+271
+00:11:53,920 --> 00:12:01,029
+io lascio l'acqua li prendo questa era
+
+272
+00:11:57,040 --> 00:12:02,709
+molten anno di stabilità rexton cosa non
+
+273
+00:12:01,029 --> 00:12:05,500
+è molto bella strano ma se posso dire la
+
+274
+00:12:02,709 --> 00:12:07,779
+mia delle uova dell'aeroporto shop
+
+275
+00:12:05,500 --> 00:12:10,149
+teniamo l'apprendimento mi interessa
+
+276
+00:12:07,779 --> 00:12:14,110
+goldstone boot fanno cose particolari
+
+277
+00:12:10,149 --> 00:12:15,899
+sti cosi no si direbbe di no però non
+
+278
+00:12:14,110 --> 00:12:19,180
+più armatura dei miei di ferro e quindi
+
+279
+00:12:15,899 --> 00:12:21,029
+riteniamo d'abilità 234 che anche se
+
+280
+00:12:19,180 --> 00:12:25,480
+finisco poi gli faremo altri diamanti
+
+281
+00:12:21,029 --> 00:12:27,850
+prendiamoli perché no lasciamo perché il
+
+282
+00:12:25,480 --> 00:12:30,459
+misurato mai l'inventario prima di
+
+283
+00:12:27,850 --> 00:12:31,839
+andare a fare queste cose cioè lo so che
+
+284
+00:12:30,459 --> 00:12:35,800
+sto andando a fare queste cose
+
+285
+00:12:31,839 --> 00:12:38,380
+svuoto mini mentario porca vacca ma
+
+286
+00:12:35,800 --> 00:12:40,630
+sapendo come stesso è se chiaro va bene
+
+287
+00:12:38,380 --> 00:12:43,449
+qua non ci sono mob devo subire pallini
+
+288
+00:12:40,630 --> 00:12:47,020
+gialli questo ma buongiorni simo babies
+
+289
+00:12:43,449 --> 00:12:50,460
+chiave torneo ma il pop grazie
+
+290
+00:12:47,020 --> 00:12:52,750
+purtroppo non vedo al signor button qua
+
+291
+00:12:50,460 --> 00:12:55,720
+io continuo esplorare la speranza di
+
+292
+00:12:52,750 --> 00:12:57,460
+trovare qualche zombie al momento ho 38
+
+293
+00:12:55,720 --> 00:13:00,670
+in flash più 2 a casa posso fare un
+
+294
+00:12:57,460 --> 00:13:03,810
+pezzo perché è un pezzo che mi dà se io
+
+295
+00:13:00,670 --> 00:13:05,980
+prendo la fornace a noi si usi un pezzo
+
+296
+00:13:03,810 --> 00:13:08,470
+diventate pelle con l'atomica di
+
+297
+00:13:05,980 --> 00:13:10,450
+constructor alla gara di tanto energia
+
+298
+00:13:08,470 --> 00:13:13,270
+ce ne abbiamo non è un problema come se
+
+299
+00:13:10,450 --> 00:13:15,790
+avessi tra pezzi di pelle ora pescare mi
+
+300
+00:13:13,270 --> 00:13:18,780
+piace va bene quindi se riusciamo a
+
+301
+00:13:15,790 --> 00:13:22,840
+prenderne giusto giusto un altro paio
+
+302
+00:13:18,780 --> 00:13:25,810
+siamo a cavallo all'inizio quando c'è la
+
+303
+00:13:22,840 --> 00:13:26,620
+scaletta bertone da casa cosa si torna a
+
+304
+00:13:25,810 --> 00:13:30,040
+casa
+
+305
+00:13:26,620 --> 00:13:32,290
+poi se metteremo i pony tra l'altro non
+
+306
+00:13:30,040 --> 00:13:36,040
+so come la penso di aver piazzato colpi
+
+307
+00:13:32,290 --> 00:13:39,930
+o piazzato torch lancio e per terra ma
+
+308
+00:13:36,040 --> 00:13:39,930
+poi solo con tutte le cose 1 che figata
+
+309
+00:13:40,140 --> 00:13:46,690
+e tipo per droppare le cose esatto credo
+
+310
+00:13:44,830 --> 00:13:48,400
+fare le cose ma per lasciarli continua
+
+311
+00:13:46,690 --> 00:13:50,380
+nostra avventura nella speranza di uno
+
+312
+00:13:48,400 --> 00:13:52,930
+zombie ma qui a quanto pare di zombie
+
+313
+00:13:50,380 --> 00:13:54,850
+non c'e nessuno può farlo prima di
+
+314
+00:13:52,930 --> 00:13:56,560
+registrare però la cosa positiva che
+
+315
+00:13:54,850 --> 00:13:57,640
+abbiamo scoperto cosa serve questa spada
+
+316
+00:13:56,560 --> 00:13:59,740
+laser
+
+317
+00:13:57,640 --> 00:14:01,950
+ora tra l'altro si può fare cose con
+
+318
+00:13:59,740 --> 00:14:05,410
+questa spada laser a quanto pare no
+
+319
+00:14:01,950 --> 00:14:08,740
+cerco laser cannes ci sono altri ci sono
+
+320
+00:14:05,410 --> 00:14:12,460
+dodici minuti tipi di ricerca in bronzo
+
+321
+00:14:08,740 --> 00:14:15,790
+electrical wooden avevo dendo mi sembra
+
+322
+00:14:12,460 --> 00:14:17,630
+molto sensata wyvern wyvern è quella lì
+
+323
+00:14:15,790 --> 00:14:20,940
+che si fa con
+
+324
+00:14:17,630 --> 00:14:22,830
+quale si fa con la roba figa cioè con le
+
+325
+00:14:20,940 --> 00:14:25,080
+labbra comunic bisogno delle cose un po
+
+326
+00:14:22,830 --> 00:14:27,980
+strane qua dentro però in qualche modo
+
+327
+00:14:25,080 --> 00:14:31,050
+poi capiremo come si captano queste
+
+328
+00:14:27,980 --> 00:14:34,680
+queste cose sono abbastanza sicuro di
+
+329
+00:14:31,050 --> 00:14:39,330
+riuscirci prima o poi ho qua c'è un mob
+
+330
+00:14:34,680 --> 00:14:44,100
+ci sono caverne scaviamo a caso vediamo
+
+331
+00:14:39,330 --> 00:14:49,170
+delle caverne tipo queste giorni simo
+
+332
+00:14:44,100 --> 00:14:52,800
+signora triple strano un po a hallelujah
+
+333
+00:14:49,170 --> 00:14:53,270
+un bello zombie damiano templari grazie
+
+334
+00:14:52,800 --> 00:14:56,190
+mille
+
+335
+00:14:53,270 --> 00:14:58,830
+qualche cesta di lui niente cesta i
+
+336
+00:14:56,190 --> 00:15:01,910
+dotti buongiorni simo con il mio raggio
+
+337
+00:14:58,830 --> 00:15:03,810
+laser ti sparo la testa ti spacco tutto
+
+338
+00:15:01,910 --> 00:15:07,020
+prendiamo queste cose che sono
+
+339
+00:15:03,810 --> 00:15:10,140
+interessanti fa così esperienza liquida
+
+340
+00:15:07,020 --> 00:15:12,840
+ci piace ok questa una bella caverna
+
+341
+00:15:10,140 --> 00:15:15,830
+forse troveremo qualcosa qua uno
+
+342
+00:15:12,840 --> 00:15:18,930
+scheletro partire da lontano
+
+343
+00:15:15,830 --> 00:15:21,210
+e vabbé non si vede raggio in terza
+
+344
+00:15:18,930 --> 00:15:23,270
+persona può avere tutto dalla vita
+
+345
+00:15:21,210 --> 00:15:25,800
+soprattutto del mod
+
+346
+00:15:23,270 --> 00:15:28,650
+qua nulla
+
+347
+00:15:25,800 --> 00:15:33,540
+sembrerebbe nulla credibile scende quasi
+
+348
+00:15:28,650 --> 00:15:37,410
+scende un botto ha proprio ci sono già
+
+349
+00:15:33,540 --> 00:15:39,840
+stato anche qui ci sono già stato quasi
+
+350
+00:15:37,410 --> 00:15:42,330
+scendeva scendiamo quando completamente
+
+351
+00:15:39,840 --> 00:15:45,240
+a caso ma il mio obiettivo è lui grande
+
+352
+00:15:42,330 --> 00:15:47,600
+dame tutto ciò di cui ho bisogno
+
+353
+00:15:45,240 --> 00:15:50,250
+fammi diventare ricco con tanta pelle
+
+354
+00:15:47,600 --> 00:15:55,380
+sono un mercante dell'antica grecia
+
+355
+00:15:50,250 --> 00:15:58,350
+tanta pelle quale ricchezza bravi strade
+
+356
+00:15:55,380 --> 00:15:59,850
+figlio uccidiamo tutti insieme con
+
+357
+00:15:58,350 --> 00:16:01,550
+questi occhi strani che vi ritrovate
+
+358
+00:15:59,850 --> 00:16:04,110
+sono tutti contenti
+
+359
+00:16:01,550 --> 00:16:06,720
+e dove sono i mob dalla mini mappa
+
+360
+00:16:04,110 --> 00:16:09,570
+separiamo z posso anche ingrandirla e
+
+361
+00:16:06,720 --> 00:16:10,800
+vedo che qui davanti a me
+
+362
+00:16:09,570 --> 00:16:13,680
+no neanche scavando proprio qui davanti
+
+363
+00:16:10,800 --> 00:16:17,270
+a me dovrebbero esserci altri mob ma
+
+364
+00:16:13,680 --> 00:16:19,410
+sono pipistrelli manager ammazziamoli
+
+365
+00:16:17,270 --> 00:16:22,650
+pure prestare una tua pelle
+
+366
+00:16:19,410 --> 00:16:24,440
+esker e questo lo sapevo a pagarlo
+
+367
+00:16:22,650 --> 00:16:27,260
+buonanotte mistrello
+
+368
+00:16:24,440 --> 00:16:30,350
+guarda quanti zombie ottimo ottimo tanta
+
+369
+00:16:27,260 --> 00:16:31,910
+pelle per noi di lusso ti direi potremmo
+
+370
+00:16:30,350 --> 00:16:32,930
+anche andare però sento rumori quindi
+
+371
+00:16:31,910 --> 00:16:36,320
+vediamo che c'è qualcosa di interessante
+
+372
+00:16:32,930 --> 00:16:37,330
+quel momento sembrerebbe new altro 4 lo
+
+373
+00:16:36,320 --> 00:16:41,000
+prendo volentieri perché è molto
+
+374
+00:16:37,330 --> 00:16:42,950
+incasinato o da ottenere però come l'it
+
+375
+00:16:41,000 --> 00:16:45,440
+è abbastanza raro cosa deve fare il polo
+
+376
+00:16:42,950 --> 00:16:47,120
+del quarzo così poi c'è quarzo infinito
+
+377
+00:16:45,440 --> 00:16:53,960
+e mi servirà in futuro sulla abbastanza
+
+378
+00:16:47,120 --> 00:16:58,090
+sicuro direi che si torna a casa come
+
+379
+00:16:53,960 --> 00:17:00,380
+un'altra parola però ci torniamo a casa
+
+380
+00:16:58,090 --> 00:17:02,750
+mi sono sbloccato un qualche tipo di
+
+381
+00:17:00,380 --> 00:17:05,270
+achievement dell'inbar gun
+
+382
+00:17:02,750 --> 00:17:08,510
+mi sento abbastanza fico che a casa la s
+
+383
+00:17:05,270 --> 00:17:10,220
+papa tutti a casa lassie il papa allora
+
+384
+00:17:08,510 --> 00:17:12,800
+abbiamo batterò la posare per il momento
+
+385
+00:17:10,220 --> 00:17:14,600
+nella super festa della morte tra cui ma
+
+386
+00:17:12,800 --> 00:17:17,540
+molte cose da tavano nelle mie super
+
+387
+00:17:14,600 --> 00:17:19,880
+super cassettoni quindi facciamo così e
+
+388
+00:17:17,540 --> 00:17:22,670
+poi siamo molto di roba per il resto
+
+389
+00:17:19,880 --> 00:17:25,550
+buttiamo questa terra è la trasformiamo
+
+390
+00:17:22,670 --> 00:17:27,800
+usando un botto di energia come ad avere
+
+391
+00:17:25,550 --> 00:17:30,230
+un botto e possiamo fare un'altra mucca
+
+392
+00:17:27,800 --> 00:17:32,840
+ora che buca facciamo bella domanda
+
+393
+00:17:30,230 --> 00:17:34,520
+la mucca della lava perché la mucca
+
+394
+00:17:32,840 --> 00:17:36,830
+della lava con la mucca dell'acqua ci fa
+
+395
+00:17:34,520 --> 00:17:39,110
+la mucca dell'ossidiana facciamo la
+
+396
+00:17:36,830 --> 00:17:41,000
+mucca dell'ossidiana questo e chiedo
+
+397
+00:17:39,110 --> 00:17:45,050
+d'acqua lo svuotiamo per un po di roba
+
+398
+00:17:41,000 --> 00:17:46,430
+da qui kraft chiamo la mucca della lava
+
+399
+00:17:45,050 --> 00:17:47,870
+mai avrei pensato di aver causato
+
+400
+00:17:46,430 --> 00:17:49,820
+comunque tra lava ma ora abbiamo una
+
+401
+00:17:47,870 --> 00:17:52,010
+mucca della lava che in una piazza nella
+
+402
+00:17:49,820 --> 00:17:54,470
+dentro 4 qual è l'acqua giusto la rocca
+
+403
+00:17:52,010 --> 00:17:56,120
+dell'acqua la piazziamo qui la vediamo
+
+404
+00:17:54,470 --> 00:17:58,790
+quella tra laura mettiamo qui a che
+
+405
+00:17:56,120 --> 00:18:01,190
+bellini e luke parliamo un po di grano
+
+406
+00:17:58,790 --> 00:18:03,920
+che non ho al momento tipo due
+
+407
+00:18:01,190 --> 00:18:06,140
+pezzettini davvero caldo seguente subito
+
+408
+00:18:03,920 --> 00:18:09,590
+perché qua piena una roba e facciamo uno
+
+409
+00:18:06,140 --> 00:18:14,570
+a te è uno a te accoppiatevi cuccioli
+
+410
+00:18:09,590 --> 00:18:15,950
+kasami uscirà mai il molten obsidian di
+
+411
+00:18:14,570 --> 00:18:17,510
+lusso avuto anche il culo perché potevo
+
+412
+00:18:15,950 --> 00:18:19,040
+uscire un altro dell'acqua un alto della
+
+413
+00:18:17,510 --> 00:18:22,400
+lava e invece uscito quello la che
+
+414
+00:18:19,040 --> 00:18:24,620
+cercavo se faccio così no non posso
+
+415
+00:18:22,400 --> 00:18:28,040
+farlo crescere ha bisogno del grano
+
+416
+00:18:24,620 --> 00:18:33,260
+perché tale quale i polli e uno stack di
+
+417
+00:18:28,040 --> 00:18:34,360
+grano siamo tutto di forza mangia non
+
+418
+00:18:33,260 --> 00:18:37,429
+vuole
+
+419
+00:18:34,360 --> 00:18:38,360
+non vogliono mangiare adulto in 20
+
+420
+00:18:37,429 --> 00:18:40,190
+minuti
+
+421
+00:18:38,360 --> 00:18:42,860
+vuoi dire che questo ci mette 20 minuti
+
+422
+00:18:40,190 --> 00:18:46,789
+per mangiare come io ti ho di un pochino
+
+423
+00:18:42,860 --> 00:18:48,019
+lo sai ci mette 20 minuti per crescere
+
+424
+00:18:46,789 --> 00:18:49,730
+ok ragazzi questa sarà l'ultima volta
+
+425
+00:18:48,019 --> 00:18:51,110
+che useremo questa moda iovino su
+
+426
+00:18:49,730 --> 00:18:52,669
+tantissimo per la visione nostro
+
+427
+00:18:51,110 --> 00:18:54,710
+scherzando ovviamente ma ti giuro mi sta
+
+428
+00:18:52,669 --> 00:18:56,000
+toccando un po le palle oggi ha fatto
+
+429
+00:18:54,710 --> 00:18:56,690
+che dovesse stare tranquilli nella
+
+430
+00:18:56,000 --> 00:18:59,210
+vostra zona
+
+431
+00:18:56,690 --> 00:19:02,120
+ok tu dove cacchio vai la sua già viste
+
+432
+00:18:59,210 --> 00:19:04,490
+antipatico a tu style nel tuo cassettino
+
+433
+00:19:02,120 --> 00:19:05,720
+anche tu state nel tuo gazzettino e
+
+434
+00:19:04,490 --> 00:19:07,220
+finché quello non cresce
+
+435
+00:19:05,720 --> 00:19:09,080
+sarà libero a pomigliano il 32 in alto
+
+436
+00:19:07,220 --> 00:19:10,399
+gazzettino quel momento signore e
+
+437
+00:19:09,080 --> 00:19:12,470
+signori è tutto
+
+438
+00:19:10,399 --> 00:19:14,260
+abbiamo delle mucche strane ma va bene
+
+439
+00:19:12,470 --> 00:19:16,490
+così leovince tantissimo quella visione
+
+440
+00:19:14,260 --> 00:19:17,990
+di temi quali sono le potenzialità di
+
+441
+00:19:16,490 --> 00:19:19,730
+questa moda sotto nei commenti perché
+
+442
+00:19:17,990 --> 00:19:22,580
+sono sicuro che voi lo sapete meglio di
+
+443
+00:19:19,730 --> 00:19:24,200
+me ed io vi saluto e vi ricordo o mezzo
+
+444
+00:19:22,580 --> 00:19:25,909
+in france click indescrizioni elemento
+
+445
+00:19:24,200 --> 00:19:27,679
+del primo giugno qua a milano al
+
+446
+00:19:25,909 --> 00:19:31,179
+fabbrica non poter mancare i biglietti
+
+447
+00:19:27,679 --> 00:19:31,179
+descrizione centro tutti
+
+448
+00:19:33,980 --> 00:19:49,870
+[Musica]
+
+449
+00:19:47,270 --> 00:19:49,870
+investire

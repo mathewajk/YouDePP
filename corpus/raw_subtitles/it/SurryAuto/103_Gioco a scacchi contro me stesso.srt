@@ -1,0 +1,983 @@
+1
+00:00:00,140 --> 00:00:05,640
+allora io direi che possiamo iniziare
+
+2
+00:00:02,669 --> 00:00:07,560
+dicendo che questa camicia è perfetta
+
+3
+00:00:05,640 --> 00:00:09,389
+per questo video cioè questo sia fatta
+
+4
+00:00:07,560 --> 00:00:10,740
+proprio apposta oggi voglio parlarvi
+
+5
+00:00:09,389 --> 00:00:13,230
+degli scacchi
+
+6
+00:00:10,740 --> 00:00:14,940
+magari alcuni non ho mai imparato regole
+
+7
+00:00:13,230 --> 00:00:16,770
+ma alcuni non sanno come si gioca
+
+8
+00:00:14,940 --> 00:00:20,340
+se avete gli scacchi possono insegnare
+
+9
+00:00:16,770 --> 00:00:22,199
+davvero tantissime cose dal muovere ogni
+
+10
+00:00:20,340 --> 00:00:24,500
+pedina per raggiungere il tuo obiettivo
+
+11
+00:00:22,199 --> 00:00:26,699
+saper sfruttare ogni apertura
+
+12
+00:00:24,500 --> 00:00:29,099
+dell'avversario ti rende in generale
+
+13
+00:00:26,699 --> 00:00:31,710
+molto più strategico e forse la cosa più
+
+14
+00:00:29,099 --> 00:00:34,710
+importante degli scacchi è che sono un
+
+15
+00:00:31,710 --> 00:00:36,180
+grandissimo maestro di flessibilità
+
+16
+00:00:34,710 --> 00:00:39,210
+voglio dire ne ho viste a chi non va
+
+17
+00:00:36,180 --> 00:00:42,120
+quasi mai nulla come programmi a meno
+
+18
+00:00:39,210 --> 00:00:44,730
+che tu non sia un campione quindi ti
+
+19
+00:00:42,120 --> 00:00:47,489
+devi adattare e voi ora mi direte su di
+
+20
+00:00:44,730 --> 00:00:49,559
+wow ma non sapevo che giocassi a scacchi
+
+21
+00:00:47,489 --> 00:00:52,760
+no iniettando un so giocare a scacchi
+
+22
+00:00:49,559 --> 00:00:56,010
+console e mousse di apertura non so come
+
+23
+00:00:52,760 --> 00:00:57,870
+fare gli assedi come fare difese insomma
+
+24
+00:00:56,010 --> 00:00:59,370
+non so praticamente nulla
+
+25
+00:00:57,870 --> 00:01:01,379
+le uniche cose che so sono le regole
+
+26
+00:00:59,370 --> 00:01:03,809
+principali so che il cavallo si può
+
+27
+00:01:01,379 --> 00:01:05,760
+muovere solo a dell tocca dalle fiere si
+
+28
+00:01:03,809 --> 00:01:06,510
+muove solo e allora perché c'è questa
+
+29
+00:01:05,760 --> 00:01:09,119
+tavola
+
+30
+00:01:06,510 --> 00:01:10,080
+questa scacchiera qui in casa makes
+
+31
+00:01:09,119 --> 00:01:12,390
+bella domanda
+
+32
+00:01:10,080 --> 00:01:14,549
+la teniamo come centrotavola ed è
+
+33
+00:01:12,390 --> 00:01:17,100
+fantastica perché è un modo incredibile
+
+34
+00:01:14,549 --> 00:01:19,350
+per iniziare conversazioni intanto
+
+35
+00:01:17,100 --> 00:01:22,170
+perché entrano subita in casa e dice ma
+
+36
+00:01:19,350 --> 00:01:24,150
+giocare a scacchi addirittura a volte si
+
+37
+00:01:22,170 --> 00:01:26,850
+gioca se lo prete nel verso giusto non
+
+38
+00:01:24,150 --> 00:01:27,990
+c'è pretesa nel senso non devi per forza
+
+39
+00:01:26,850 --> 00:01:30,060
+essere un campione
+
+40
+00:01:27,990 --> 00:01:31,770
+per divertirti basta giocare con
+
+41
+00:01:30,060 --> 00:01:34,799
+qualcuno del mente che non è 4 a spanne
+
+42
+00:01:31,770 --> 00:01:37,200
+sopra il tuo livello e ti diverti ora
+
+43
+00:01:34,799 --> 00:01:39,810
+come potete ben immaginare è da un po
+
+44
+00:01:37,200 --> 00:01:40,799
+che non ci sono ospiti in casa mens da
+
+45
+00:01:39,810 --> 00:01:42,310
+quasi un mesetto
+
+46
+00:01:40,799 --> 00:01:45,009
+da quando sei lì
+
+47
+00:01:42,310 --> 00:01:45,549
+vi dirò la verità mi manca un po giocare
+
+48
+00:01:45,009 --> 00:01:48,640
+a scacchi
+
+49
+00:01:45,549 --> 00:01:50,920
+ho provato a risolvere giocando online e
+
+50
+00:01:48,640 --> 00:01:53,289
+è comunque divertente ma nella stessa
+
+51
+00:01:50,920 --> 00:01:55,479
+cosa ad avere il la pedina in mano di
+
+52
+00:01:53,289 --> 00:01:57,820
+muoverla e di sentire il rumore della
+
+53
+00:01:55,479 --> 00:02:00,789
+pedina contro in legno insomma accordo
+
+54
+00:01:57,820 --> 00:02:02,770
+con tutor ma diciamo che noi interessa
+
+55
+00:02:00,789 --> 00:02:05,380
+più di tanto quindi venuta l'idea
+
+56
+00:02:02,770 --> 00:02:08,440
+come avete letto dal titolo oggi proverò
+
+57
+00:02:05,380 --> 00:02:10,420
+a giocare a scacchi contro me stesso
+
+58
+00:02:08,440 --> 00:02:15,000
+ed ecco a cosa serve la camicia no io
+
+59
+00:02:10,420 --> 00:02:15,000
+metterò da un lato è fantastica
+
+60
+00:02:19,770 --> 00:02:23,610
+ho anche messo l'iphone da qua sopra
+
+61
+00:02:22,280 --> 00:02:25,560
+cominci
+
+62
+00:02:23,610 --> 00:02:28,610
+non so se lo sapete ma partono sempre i
+
+63
+00:02:25,560 --> 00:02:31,440
+bianchi e io direi che possiamo iniziare
+
+64
+00:02:28,610 --> 00:02:33,960
+non come dicevo prima non ho più minima
+
+65
+00:02:31,440 --> 00:02:36,060
+idea di come fare
+
+66
+00:02:33,960 --> 00:02:41,610
+ho visto un po di video online su
+
+67
+00:02:36,060 --> 00:02:44,970
+tecniche figura è un po un problema a
+
+68
+00:02:41,610 --> 00:02:46,140
+giocare contro se stessi perché sei già
+
+69
+00:02:44,970 --> 00:02:49,310
+tutte le tue mosse
+
+70
+00:02:46,140 --> 00:02:52,290
+voglio dire un po filosofica come col
+
+71
+00:02:49,310 --> 00:02:53,580
+super aggressivo e proverò non pensare
+
+72
+00:02:52,290 --> 00:02:56,490
+troppo le mie mosse
+
+73
+00:02:53,580 --> 00:02:59,190
+perché se pensi troppo le rosse diventa
+
+74
+00:02:56,490 --> 00:02:59,610
+un loop infernale di giusy capisce più
+
+75
+00:02:59,190 --> 00:03:05,220
+nulla
+
+76
+00:02:59,610 --> 00:03:07,110
+orca un beh devo dire che voglio restare
+
+77
+00:03:05,220 --> 00:03:08,820
+ragazzi è molto intelligente purtroppo
+
+78
+00:03:07,110 --> 00:03:09,840
+non pensava di imbattermi in qualcuno
+
+79
+00:03:08,820 --> 00:03:11,730
+del suo calibro
+
+80
+00:03:09,840 --> 00:03:13,980
+cercherò di fare del mio meglio se uno
+
+81
+00:03:11,730 --> 00:03:17,010
+di voi gioca a scacchi mi scuso in
+
+82
+00:03:13,980 --> 00:03:20,330
+anticipo per le mosse brutte insensate
+
+83
+00:03:17,010 --> 00:03:20,330
+che farò in questo video
+
+84
+00:03:22,330 --> 00:03:32,289
+il cavallo
+
+85
+00:03:25,860 --> 00:03:32,289
+[Musica]
+
+86
+00:03:32,519 --> 00:03:37,900
+prima pedina mangiata da parte dei neri
+
+87
+00:03:35,620 --> 00:03:39,430
+un cavallo che piglia la pedina che non
+
+88
+00:03:37,900 --> 00:03:42,040
+so se l'ideale in realtà ho visto che
+
+89
+00:03:39,430 --> 00:03:43,900
+quelli bravi prima posizione tutti i
+
+90
+00:03:42,040 --> 00:03:46,389
+pezzi ben raggiunto come soggiogare
+
+91
+00:03:43,900 --> 00:03:49,689
+aveva posto come solo vedere quanto
+
+92
+00:03:46,389 --> 00:03:52,389
+pazzo di vento a giocare contro me
+
+93
+00:03:49,689 --> 00:03:54,849
+stesso visto che so le mosse che potrei
+
+94
+00:03:52,389 --> 00:03:57,669
+fare insieme mettere in gioco che li ho
+
+95
+00:03:54,849 --> 00:04:00,180
+provati simo cavalluccio e ti dirò
+
+96
+00:03:57,669 --> 00:04:00,180
+perché no
+
+97
+00:04:01,359 --> 00:04:05,829
+cattivissimo cedute a valli così di
+
+98
+00:04:03,310 --> 00:04:07,540
+fronte alle vicina aveva questo non
+
+99
+00:04:05,829 --> 00:04:11,739
+posso tracciare allo studio però faccio
+
+100
+00:04:07,540 --> 00:04:14,560
+così volentieri un beach è ora un nuovo
+
+101
+00:04:11,739 --> 00:04:16,449
+questo faccio comodo per cavallo se
+
+102
+00:04:14,560 --> 00:04:18,310
+mangio quel cavallo con emiliano da lì
+
+103
+00:04:16,449 --> 00:04:22,120
+semplicemente ma io non posso donare
+
+104
+00:04:18,310 --> 00:04:24,370
+dove conta indietro o ad un in avanti e
+
+105
+00:04:22,120 --> 00:04:26,229
+faccio scacco la jones calcolo facciamo
+
+106
+00:04:24,370 --> 00:04:28,389
+scampo
+
+107
+00:04:26,229 --> 00:04:30,190
+no quindi può mangiarlo io son in scacco
+
+108
+00:04:28,389 --> 00:04:33,099
+e secondo le regole
+
+109
+00:04:30,190 --> 00:04:35,919
+devo per forza far sì che io non sia più
+
+110
+00:04:33,099 --> 00:04:37,960
+in scacco la cosa in questo caso o alla
+
+111
+00:04:35,919 --> 00:04:41,590
+torre che non si è mossa re qui posso
+
+112
+00:04:37,960 --> 00:04:43,840
+fare la blocco quindi nelle silicio e
+
+113
+00:04:41,590 --> 00:04:44,409
+casso mettiamo il rene dentro il
+
+114
+00:04:43,840 --> 00:04:46,150
+castello
+
+115
+00:04:44,409 --> 00:04:48,729
+ora sarà meglio muovere con il
+
+116
+00:04:46,150 --> 00:04:49,180
+cavalluccio e mi indietro con solleviamo
+
+117
+00:04:48,729 --> 00:04:51,070
+i pezzi
+
+118
+00:04:49,180 --> 00:04:52,720
+vorrei poter mangiare o quella fine ma
+
+119
+00:04:51,070 --> 00:04:55,080
+poi davvero significare un alfiere per
+
+120
+00:04:52,720 --> 00:05:01,199
+un cavallo
+
+121
+00:04:55,080 --> 00:05:04,110
+così può andare in game e casinò ma se
+
+122
+00:05:01,199 --> 00:05:06,719
+io facessi così se prendessi questo lo
+
+123
+00:05:04,110 --> 00:05:08,909
+mettessi gui lui poteva dare sono
+
+124
+00:05:06,719 --> 00:05:10,439
+indietro in cui alfiere potrebbe
+
+125
+00:05:08,909 --> 00:05:11,789
+mangiare bio col cavallo ma sembra
+
+126
+00:05:10,439 --> 00:05:16,349
+mangio il formaggio caprino
+
+127
+00:05:11,789 --> 00:05:19,319
+diciamo che va bene al poso
+
+128
+00:05:16,349 --> 00:05:21,180
+indietreggiare al cambiato idea
+
+129
+00:05:19,319 --> 00:05:24,930
+penso che porterò avanti questo non
+
+130
+00:05:21,180 --> 00:05:26,550
+scodellato fia diventa gerico porto il
+
+131
+00:05:24,930 --> 00:05:28,289
+mio cavallo in attacco tanto nessuno
+
+132
+00:05:26,550 --> 00:05:30,599
+cugino e solo in teoria
+
+133
+00:05:28,289 --> 00:05:33,690
+gli scatti sono gioco meraviglioso ma se
+
+134
+00:05:30,599 --> 00:05:35,520
+andate a vedere i campioni del mondo nei
+
+135
+00:05:33,690 --> 00:05:38,759
+campioni sono di poti più forte al mondo
+
+136
+00:05:35,520 --> 00:05:43,440
+ce n'è uno che si chiama tipo magnus
+
+137
+00:05:38,759 --> 00:05:46,770
+carlsen c'è un video di lui che bendato
+
+138
+00:05:43,440 --> 00:05:50,069
+a memoria gioca a scacchi contro tre
+
+139
+00:05:46,770 --> 00:05:51,930
+bravissimi giocatori e vince cioè questo
+
+140
+00:05:50,069 --> 00:05:53,879
+bendato si ricorda a memoria alle
+
+141
+00:05:51,930 --> 00:05:58,409
+posizioni tutti i pezzi di tre
+
+142
+00:05:53,879 --> 00:06:00,389
+scacchiere diverse il vince sembro te io
+
+143
+00:05:58,409 --> 00:06:02,969
+devo mangiare qualcosina posti neri
+
+144
+00:06:00,389 --> 00:06:04,949
+perché che cacchio ha intanto sto
+
+145
+00:06:02,969 --> 00:06:07,080
+amichetto 4 ce lo leviamo dal calcio e
+
+146
+00:06:04,949 --> 00:06:09,270
+santo carlo come la banca me tender la
+
+147
+00:06:07,080 --> 00:06:11,719
+fiera è però ormai messo li mangiano
+
+148
+00:06:09,270 --> 00:06:11,719
+fiere
+
+149
+00:06:12,760 --> 00:06:20,380
+mandiamo a quel paese la bianca allora
+
+150
+00:06:15,790 --> 00:06:20,380
+siamo pedine mestiere che schifo
+
+151
+00:06:21,590 --> 00:06:28,400
+tanto questa per iamm non si può muovere
+
+152
+00:06:22,850 --> 00:06:31,820
+diciamo così anche così la situazione un
+
+153
+00:06:28,400 --> 00:06:37,550
+po meschina qua qua qualcosa l'istat e
+
+154
+00:06:31,820 --> 00:06:40,340
+trovando lo sto godendo ancora questa
+
+155
+00:06:37,550 --> 00:06:43,220
+torre non può mangiare al reggina però
+
+156
+00:06:40,340 --> 00:06:45,140
+signora maggio con la reggina poi il
+
+157
+00:06:43,220 --> 00:06:46,220
+bianco 1 maggio con cavallo o se non la
+
+158
+00:06:45,140 --> 00:06:48,350
+mangio nome dei popoli
+
+159
+00:06:46,220 --> 00:06:50,930
+comunque nel girone perche non ho perso
+
+160
+00:06:48,350 --> 00:07:00,320
+però come se avessi perso posso fare
+
+161
+00:06:50,930 --> 00:07:04,310
+così sacco nero ma i suoi mieli che sto
+
+162
+00:07:00,320 --> 00:07:05,690
+facendo come lo evito campane scacco con
+
+163
+00:07:04,310 --> 00:07:08,320
+nero con il manger tentazioni
+
+164
+00:07:05,690 --> 00:07:11,810
+trasmettiamo questo cavallo intanto è
+
+165
+00:07:08,320 --> 00:07:17,060
+così quello sia nemmeno in pericolo sono
+
+166
+00:07:11,810 --> 00:07:19,520
+i bianchi io sono i bianchi taglia sono
+
+167
+00:07:17,060 --> 00:07:24,260
+esposto perdere uno in fiere nel suo
+
+168
+00:07:19,520 --> 00:07:26,090
+lungo prossimo nel caso allora prenderò
+
+169
+00:07:24,260 --> 00:07:28,310
+frazione vede il figlio da troppo tempo
+
+170
+00:07:26,090 --> 00:07:30,380
+e meno ora nessuno di noi a monsieur è
+
+171
+00:07:28,310 --> 00:07:32,690
+giusto davvero dice ancora alfiere
+
+172
+00:07:30,380 --> 00:07:35,210
+perché mi scopre un alfiere è abbastanza
+
+173
+00:07:32,690 --> 00:07:38,419
+importante avevano fiere ti aiuta tanto
+
+174
+00:07:35,210 --> 00:07:41,370
+da ciao cavalluccio situazione un po
+
+175
+00:07:38,419 --> 00:07:45,250
+meschino siamo così
+
+176
+00:07:41,370 --> 00:07:47,650
+facciamo così lo mangio questo cavallo
+
+177
+00:07:45,250 --> 00:07:50,410
+lo lascio lì potrei lasciarlo lì cavalli
+
+178
+00:07:47,650 --> 00:07:52,980
+alle fette lo lascio lì ho me lo mangio
+
+179
+00:07:50,410 --> 00:08:04,840
+40 tel
+
+180
+00:07:52,980 --> 00:08:08,950
+me lo mangio natali meno ma ci siamo
+
+181
+00:08:04,840 --> 00:08:11,080
+messi molto male malissimo troppo il mio
+
+182
+00:08:08,950 --> 00:08:13,390
+ponente molto intelligente
+
+183
+00:08:11,080 --> 00:08:17,590
+queste tipo darsi 5 da solo e di repesa
+
+184
+00:08:13,390 --> 00:08:18,880
+altro che per giustificare la reggina in
+
+185
+00:08:17,590 --> 00:08:21,160
+segreto consiglio
+
+186
+00:08:18,880 --> 00:08:22,930
+no sto parlando con me stesso potresti
+
+187
+00:08:21,160 --> 00:08:27,520
+fare una mossa molto interessante
+
+188
+00:08:22,930 --> 00:08:34,930
+sentiamolo così però ad hoc e casoli ai
+
+189
+00:08:27,520 --> 00:08:38,229
+consigli non è che mi finisce una
+
+190
+00:08:34,930 --> 00:08:40,510
+quarantena vi dimentica inverno e mi sta
+
+191
+00:08:38,229 --> 00:08:45,100
+gente è fighissimo quando saprei come
+
+192
+00:08:40,510 --> 00:08:47,530
+farlo se si prostrano si muovo il
+
+193
+00:08:45,100 --> 00:08:51,420
+cavallo per della regina e non la
+
+194
+00:08:47,530 --> 00:08:54,280
+perdere allora devo muovere infatti miti
+
+195
+00:08:51,420 --> 00:08:54,880
+non c'è perché era un po complicato per
+
+196
+00:08:54,280 --> 00:08:59,800
+farla franca
+
+197
+00:08:54,880 --> 00:09:00,710
+farò così nel caso vinci qualche squadra
+
+198
+00:08:59,800 --> 00:09:04,010
+stenta
+
+199
+00:09:00,710 --> 00:09:07,280
+e non ti fanno niente io sono imparziale
+
+200
+00:09:04,010 --> 00:09:09,110
+può vincere chiunque vuole allora posso
+
+201
+00:09:07,280 --> 00:09:12,820
+nascondere allora di scommettere sui
+
+202
+00:09:09,110 --> 00:09:15,920
+bianconeri sconfitti senza guardare a
+
+203
+00:09:12,820 --> 00:09:18,590
+bianchi a prescindere 50 euro studiare
+
+204
+00:09:15,920 --> 00:09:21,410
+50 euro 50 euro se apple e quindi se
+
+205
+00:09:18,590 --> 00:09:26,930
+perdo tutte di dire dato e se piccolo è
+
+206
+00:09:21,410 --> 00:09:28,850
+no no perché cazzo video ragazzi io
+
+207
+00:09:26,930 --> 00:09:30,350
+andrò all'attacco con idee per
+
+208
+00:09:28,850 --> 00:09:32,680
+rimangiarmi questa reggina lo fai
+
+209
+00:09:30,350 --> 00:09:36,010
+regionale gino muoviamo il cavalluccio
+
+210
+00:09:32,680 --> 00:09:38,510
+perché questa situazione mi va bene così
+
+211
+00:09:36,010 --> 00:09:45,280
+io voglio farlo prendere il genoa
+
+212
+00:09:38,510 --> 00:09:47,200
+reggina passato ma vaffanculo
+
+213
+00:09:45,280 --> 00:09:55,190
+[Musica]
+
+214
+00:09:47,200 --> 00:09:58,130
+ok e scacco scacco matto tu tu dell'esca
+
+215
+00:09:55,190 --> 00:09:59,180
+fumato voglia di calcio di 50 attraverso
+
+216
+00:09:58,130 --> 00:10:02,930
+i luoghi
+
+217
+00:09:59,180 --> 00:10:05,630
+allora se scacco matto però giusto in
+
+218
+00:10:02,930 --> 00:10:07,460
+questo non posso va da nessuna parte
+
+219
+00:10:05,630 --> 00:10:09,920
+no perché non posso santificare niente
+
+220
+00:10:07,460 --> 00:10:12,080
+la mette in mezzo e blocca considerate
+
+221
+00:10:09,920 --> 00:10:14,780
+altra partita dentro qualche parte della
+
+222
+00:10:12,080 --> 00:10:17,200
+potente minuti mi sono svegliato 50 euro
+
+223
+00:10:14,780 --> 00:10:19,520
+così bello
+
+224
+00:10:17,200 --> 00:10:21,170
+funziona così raga scacco matto
+
+225
+00:10:19,520 --> 00:10:23,420
+veramente possiamo farlo già molto tempo
+
+226
+00:10:21,170 --> 00:10:24,620
+fa però non me ne sono reso conto tenuto
+
+227
+00:10:23,420 --> 00:10:27,020
+mai trovato sulla scacchi contro te
+
+228
+00:10:24,620 --> 00:10:29,240
+stesso ti dirò
+
+229
+00:10:27,020 --> 00:10:30,860
+pensavo peggio pensavo peggio detto ma
+
+230
+00:10:29,240 --> 00:10:33,340
+poi faccio a giocare se so già che mosse
+
+231
+00:10:30,860 --> 00:10:36,680
+farò però infatti cambiare posizione
+
+232
+00:10:33,340 --> 00:10:39,290
+aiuto botto perché extra camilla camicia
+
+233
+00:10:36,680 --> 00:10:43,250
+aiuta un botto però hai perso la
+
+234
+00:10:39,290 --> 00:10:45,380
+scommessa non accettata la scommessa è
+
+235
+00:10:43,250 --> 00:10:47,330
+oggetto la palio o scaricati per
+
+236
+00:10:45,380 --> 00:10:49,100
+concludere questo video mappe muto in
+
+237
+00:10:47,330 --> 00:10:51,890
+mente una frase bellissima
+
+238
+00:10:49,100 --> 00:10:53,960
+quando giochi contro te stesso anzi
+
+239
+00:10:51,890 --> 00:10:56,510
+quando lotti contro te stesso
+
+240
+00:10:53,960 --> 00:10:58,400
+vince il 100 per cento delle volte ma
+
+241
+00:10:56,510 --> 00:11:01,600
+perdi anche il 100 per cento delle volte
+
+242
+00:10:58,400 --> 00:11:01,600
+con cui stai
+
+243
+00:11:01,940 --> 00:11:11,700
+[Musica]
+
+244
+00:11:14,380 --> 00:11:17,470
+[Musica]
+
+245
+00:11:19,050 --> 00:11:24,619
+mi abbia letto di tuo
+
+246
+00:11:21,490 --> 00:11:24,619
+[Musica]

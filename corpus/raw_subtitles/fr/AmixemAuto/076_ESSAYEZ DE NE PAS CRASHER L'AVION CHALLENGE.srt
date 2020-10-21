@@ -1,0 +1,2127 @@
+1
+00:00:00,000 --> 00:00:03,659
+kla bonjour cep de vidéos emplettes m'en
+
+2
+00:00:02,429 --> 00:00:06,120
+fous aujourd'hui nous sommes dans un
+
+3
+00:00:03,659 --> 00:00:07,200
+simulateur d'a320 un avion de ligne que
+
+4
+00:00:06,120 --> 00:00:08,519
+beaucoup de gens parmi vous ont pris
+
+5
+00:00:07,200 --> 00:00:10,410
+aujourd'hui on va répondre à une
+
+6
+00:00:08,519 --> 00:00:11,880
+question extrêmement simple si un jour
+
+7
+00:00:10,410 --> 00:00:13,799
+dans un avion que vous prenez pour elle
+
+8
+00:00:11,880 --> 00:00:15,690
+en vacances le pilote et le copilote
+
+9
+00:00:13,799 --> 00:00:17,130
+choses extrêmement improbable sont hors
+
+10
+00:00:15,690 --> 00:00:18,720
+d'état de piloter qu'est ce qui se passe
+
+11
+00:00:17,130 --> 00:00:20,189
+là il se passe que forcément quelqu'un
+
+12
+00:00:18,720 --> 00:00:21,570
+dans l'avion doit poser cet avion il ya
+
+13
+00:00:20,189 --> 00:00:22,769
+beau avoir des autopilot il a beau avoir
+
+14
+00:00:21,570 --> 00:00:24,060
+plein de technologies avoir des avions
+
+15
+00:00:22,769 --> 00:00:25,350
+il ya quand même besoin qui écarte
+
+16
+00:00:24,060 --> 00:00:26,609
+derrière les commandes pour que ça se
+
+17
+00:00:25,350 --> 00:00:28,470
+pose donc le scénario est extrêmement
+
+18
+00:00:26,609 --> 00:00:30,150
+simple je suis le passager qui a été
+
+19
+00:00:28,470 --> 00:00:31,349
+désigné pour poser l'avion et dans ces
+
+20
+00:00:30,150 --> 00:00:33,120
+cas là tu appelles la tour de contrôle
+
+21
+00:00:31,349 --> 00:00:34,590
+est quelqu'un un pilote il ya une
+
+22
+00:00:33,120 --> 00:00:36,660
+gestion du stress très très approfondie
+
+23
+00:00:34,590 --> 00:00:37,800
+va essayer de guider un gars qui ne s'y
+
+24
+00:00:36,660 --> 00:00:39,180
+connaît pas du tout à dire moi
+
+25
+00:00:37,800 --> 00:00:40,559
+aujourd'hui pour poser la fiche alors
+
+26
+00:00:39,180 --> 00:00:41,850
+que le passager mois encore une fois n'a
+
+27
+00:00:40,559 --> 00:00:42,870
+aucune compétence c'est ça qui est
+
+28
+00:00:41,850 --> 00:00:43,620
+intéressant et je vais vous présenter
+
+29
+00:00:42,870 --> 00:00:45,090
+dans quelques secondes
+
+30
+00:00:43,620 --> 00:00:46,800
+adrien qui est un futur pilote de ligne
+
+31
+00:00:45,090 --> 00:00:48,390
+et qui va être le pilote ils m'assistent
+
+32
+00:00:46,800 --> 00:00:49,530
+e rey au sol donc on va faire genre il
+
+33
+00:00:48,390 --> 00:00:51,090
+est au sol moi je suis dans l'avion il
+
+34
+00:00:49,530 --> 00:00:52,530
+va l'aider à me poser je vous présente
+
+35
+00:00:51,090 --> 00:00:54,239
+tout de suite adrien entrer dans le
+
+36
+00:00:52,530 --> 00:00:55,770
+champ à droite ça va être un bon jour 2
+
+37
+00:00:54,239 --> 00:00:57,239
+présente rapidement adrien j'ai dit oui
+
+38
+00:00:55,770 --> 00:00:59,010
+tu vas être lot de ligne sur une
+
+39
+00:00:57,239 --> 00:01:00,210
+compagnie uta fait en 2019 donc tu as
+
+40
+00:00:59,010 --> 00:01:01,739
+ton permis d'avion j'ai mon permis
+
+41
+00:01:00,210 --> 00:01:02,430
+d'aller au 28 homologues et pour faire
+
+42
+00:01:01,739 --> 00:01:03,899
+ce que tu vas faire aujourd'hui
+
+43
+00:01:02,430 --> 00:01:04,890
+exactement on va fé pitié mais tu vas
+
+44
+00:01:03,899 --> 00:01:06,270
+faire comme s'ils étaient au sol tu veux
+
+45
+00:01:04,890 --> 00:01:07,409
+juste derrière moi je te dis hé c'est
+
+46
+00:01:06,270 --> 00:01:08,760
+quoi ce bouton là t'as pas le droit de
+
+47
+00:01:07,409 --> 00:01:10,229
+regarder lève la main droite je le jure
+
+48
+00:01:08,760 --> 00:01:11,490
+le jour donc je vais prendre les
+
+49
+00:01:10,229 --> 00:01:12,960
+commandes de l'appareil 30 minutes avant
+
+50
+00:01:11,490 --> 00:01:14,790
+qu'on arrive et là j'arrive je connais
+
+51
+00:01:12,960 --> 00:01:16,500
+rien de rien et tu vas nous expliquer et
+
+52
+00:01:14,790 --> 00:01:18,390
+on verra bien ce qui se passe et je suis
+
+53
+00:01:16,500 --> 00:01:19,830
+actuellement le cockpit d'un avion a320
+
+54
+00:01:18,390 --> 00:01:22,350
+j'étais parti voir ma famille à lyon et
+
+55
+00:01:19,830 --> 00:01:24,000
+je décide d'aller à nice pour des
+
+56
+00:01:22,350 --> 00:01:25,740
+raisons personnelles pour des raisons de
+
+57
+00:01:24,000 --> 00:01:27,030
+détente et v'là t'y pas qu'est ce qui se
+
+58
+00:01:25,740 --> 00:01:28,680
+passe dans la nuit en mon gars tu t'y
+
+59
+00:01:27,030 --> 00:01:30,479
+attends pas du tout le pilote et le
+
+60
+00:01:28,680 --> 00:01:31,710
+copilote ont mangé du riz cantonnais par
+
+61
+00:01:30,479 --> 00:01:32,909
+frey et c'étaient les seuls dernière
+
+62
+00:01:31,710 --> 00:01:33,840
+barquettes de reg entonné qui restait
+
+63
+00:01:32,909 --> 00:01:35,460
+incertain que tout le monde va bien dans
+
+64
+00:01:33,840 --> 00:01:36,150
+l'avion sauf le pilote et le copilote
+
+65
+00:01:35,460 --> 00:01:37,650
+c'est quand même dommage
+
+66
+00:01:36,150 --> 00:01:39,180
+et du coup ils sont hors d'état de nuire
+
+67
+00:01:37,650 --> 00:01:41,970
+enfin hors d'état de nous poser surtout
+
+68
+00:01:39,180 --> 00:01:43,590
+il ya 180 passagers ils n'ont plus de
+
+69
+00:01:41,970 --> 00:01:45,119
+pilotes et plus de copilote de vie
+
+70
+00:01:43,590 --> 00:01:47,340
+qui c'est qui a été choisie pour poser
+
+71
+00:01:45,119 --> 00:01:48,630
+cet avion sans aucune compétence devine
+
+72
+00:01:47,340 --> 00:01:49,740
+tu t'y attends pas du tout moi non plus
+
+73
+00:01:48,630 --> 00:01:51,329
+et moi exactement en plus j'ai un
+
+74
+00:01:49,740 --> 00:01:52,380
+torticolis aujourd'hui donc tu bouges
+
+75
+00:01:51,329 --> 00:01:53,789
+qu'on a un robot difficulté
+
+76
+00:01:52,380 --> 00:01:55,799
+supplémentaire je lève la main droite et
+
+77
+00:01:53,789 --> 00:01:57,119
+je le jure je n'ai jamais posé d'a320 ça
+
+78
+00:01:55,799 --> 00:01:57,929
+je pense que vous ne croyez totalement
+
+79
+00:01:57,119 --> 00:02:00,119
+j'ai même pas besoin de jurés et surtout
+
+80
+00:01:57,929 --> 00:02:01,649
+je n'ai aucune compétence en pilotage
+
+81
+00:02:00,119 --> 00:02:03,810
+c'est parti pour une vidéo dans un
+
+82
+00:02:01,649 --> 00:02:04,469
+simulateur pas 120 go que faire j'arrive
+
+83
+00:02:03,810 --> 00:02:05,399
+dans le cockpit
+
+84
+00:02:04,469 --> 00:02:07,079
+il ya une hôtesse de l'air elle m'a dit
+
+85
+00:02:05,399 --> 00:02:08,489
+est michel toi là-bas vers et là
+
+86
+00:02:07,079 --> 00:02:09,239
+j'arrive bon alors c'est quoi ça ça
+
+87
+00:02:08,489 --> 00:02:10,470
+c'est le plan de vol
+
+88
+00:02:09,239 --> 00:02:12,060
+ok ça je pense que c'est les routes à
+
+89
+00:02:10,470 --> 00:02:13,260
+prendre les successions d'étape c'est un
+
+90
+00:02:12,060 --> 00:02:14,940
+peu comme un gps je pense juste
+
+91
+00:02:13,260 --> 00:02:16,200
+d'appeler quelqu'un jybo on va appeler
+
+92
+00:02:14,940 --> 00:02:17,610
+quelqu'un à la tour de contrôle afin
+
+93
+00:02:16,200 --> 00:02:20,340
+d'être assistés pour poser c'est à dire
+
+94
+00:02:17,610 --> 00:02:21,569
+ici vos lames xm 1 436 en fait c'est
+
+95
+00:02:20,340 --> 00:02:23,250
+l'histoire de riz cantonnais qui a mal
+
+96
+00:02:21,569 --> 00:02:25,049
+tourné et le copilote et le pilote sont
+
+97
+00:02:23,250 --> 00:02:26,280
+morts pas se mentir ils sont décédés
+
+98
+00:02:25,049 --> 00:02:27,150
+ils ont fait une annonce dans la cabine
+
+99
+00:02:26,280 --> 00:02:28,769
+pour savoir si quelqu'un était
+
+100
+00:02:27,150 --> 00:02:31,260
+volontaire ont piloté l'avion j'ai déjà
+
+101
+00:02:28,769 --> 00:02:32,489
+joué à microsoft flight simulator ya 15
+
+102
+00:02:31,260 --> 00:02:33,690
+ans donc je pense me connaître un
+
+103
+00:02:32,489 --> 00:02:36,180
+minimum et du coup je suis votre
+
+104
+00:02:33,690 --> 00:02:37,110
+interlocuteur privilégié pour sauver 180
+
+105
+00:02:36,180 --> 00:02:42,569
+vie est ce que quelqu'un peut m'aider
+
+106
+00:02:37,110 --> 00:02:43,590
+over ok j'ai bien reçu votre message de
+
+107
+00:02:42,569 --> 00:02:45,150
+détresse vous pouvez me dire le nombre
+
+108
+00:02:43,590 --> 00:02:46,530
+de passagers ainsi que la quantité de
+
+109
+00:02:45,150 --> 00:02:48,510
+kérosène à bord souffle alors le nombre
+
+110
+00:02:46,530 --> 00:02:49,920
+de passagers on était 180 meilhat jean
+
+111
+00:02:48,510 --> 00:02:51,810
+michel qui arrivait en retard il n'a pas
+
+112
+00:02:49,920 --> 00:02:53,069
+entendu l'appel on était à la porte 36
+
+113
+00:02:51,810 --> 00:02:54,450
+bis l'a pas entendu l'appel le gars du
+
+114
+00:02:53,069 --> 00:02:55,590
+coup on a dû décharger ses valises on a
+
+115
+00:02:54,450 --> 00:02:55,799
+fait au moins dix vingt minutes de
+
+116
+00:02:55,590 --> 00:02:57,900
+retard
+
+117
+00:02:55,799 --> 00:02:59,549
+du coup on et 179 pour être exact
+
+118
+00:02:57,900 --> 00:03:01,230
+kérosène j'ai aucune idée je maman pour
+
+119
+00:02:59,549 --> 00:03:03,269
+le kérosène vous l'avez le premier écran
+
+120
+00:03:01,230 --> 00:03:04,889
+central vous avez notamment fo b est la
+
+121
+00:03:03,269 --> 00:03:07,530
+valeur à droite oui exactement alors il
+
+122
+00:03:04,889 --> 00:03:09,180
+ya marqué 23 50 kg kg j'imagine donc
+
+123
+00:03:07,530 --> 00:03:10,980
+deux tonnes 3 de kérosène c'est sarko
+
+124
+00:03:09,180 --> 00:03:12,900
+avec hockey-balle 88 est souvent tendue
+
+125
+00:03:10,980 --> 00:03:14,280
+yes i 6 24 ans 26 je vous entends il
+
+126
+00:03:12,900 --> 00:03:15,810
+j'ai un peu peur sur nos écrans en daim
+
+127
+00:03:14,280 --> 00:03:17,370
+on voit que vous approchez d'un point de
+
+128
+00:03:15,810 --> 00:03:18,540
+descente alors quelque chose qu'on va
+
+129
+00:03:17,370 --> 00:03:19,700
+faire ce qu'on aura rien touché on va
+
+130
+00:03:18,540 --> 00:03:20,540
+juste regarder ce qu'on a devant vous
+
+131
+00:03:19,700 --> 00:03:21,980
+faudrait juste que vous me disiez dans
+
+132
+00:03:20,540 --> 00:03:23,660
+quel mode se trouve l'avion regarder un
+
+133
+00:03:21,980 --> 00:03:25,099
+écran juste devant vous avec un symbole
+
+134
+00:03:23,660 --> 00:03:26,209
+d'avion le ciel et l'horizon est ce que
+
+135
+00:03:25,099 --> 00:03:27,830
+vous pouvez le voir celui de droite
+
+136
+00:03:26,209 --> 00:03:29,300
+alors vous êtes assis en quelle place je
+
+137
+00:03:27,830 --> 00:03:30,680
+suis assis à la place du pilote à gauche
+
+138
+00:03:29,300 --> 00:03:32,180
+d'accord donc ça sera à l'écran à gauche
+
+139
+00:03:30,680 --> 00:03:33,379
+l'écran à gauche hockey ici vous avez
+
+140
+00:03:32,180 --> 00:03:35,330
+donc la maquette de l'avion qui est
+
+141
+00:03:33,379 --> 00:03:36,860
+juste au centre où vous avez le ciel et
+
+142
+00:03:35,330 --> 00:03:38,330
+on va vous avez donc la terre secoué
+
+143
+00:03:36,860 --> 00:03:39,440
+milliards ce qui a marqué tout en verre
+
+144
+00:03:38,330 --> 00:03:40,880
+normalement ça devrait être marquée tout
+
+145
+00:03:39,440 --> 00:03:43,250
+ton envers la première ligne tout en
+
+146
+00:03:40,880 --> 00:03:44,690
+haut c'est speed halte cr z
+
+147
+00:03:43,250 --> 00:03:46,010
+il n'avait tout à droite encore est-ce
+
+148
+00:03:44,690 --> 00:03:49,310
+que vous avez une mention d'un appel à
+
+149
+00:03:46,010 --> 00:03:50,599
+ap2a f d2 à slash thr place comme
+
+150
+00:03:49,310 --> 00:03:52,580
+l'indiqué c'est que l'auto pilotes
+
+151
+00:03:50,599 --> 00:03:54,049
+engagés les automates kg c'est l'auto
+
+152
+00:03:52,580 --> 00:03:54,290
+pilote qui l a vu en un ça c'est très
+
+153
+00:03:54,049 --> 00:03:55,760
+bien
+
+154
+00:03:54,290 --> 00:03:57,920
+maintenant je vois que sur nos écrans
+
+155
+00:03:55,760 --> 00:03:59,000
+nous rapprocher nice fournir se poser il
+
+156
+00:03:57,920 --> 00:04:00,380
+va falloir qu'on descende est ce que
+
+157
+00:03:59,000 --> 00:04:01,849
+vous voyez maintenant au centre du
+
+158
+00:04:00,380 --> 00:04:03,230
+cockpit vous avez un panneau vous allez
+
+159
+00:04:01,849 --> 00:04:04,370
+avoir normalement deux lumières vertes
+
+160
+00:04:03,230 --> 00:04:05,569
+qui sont allés mais qui sont donc nous
+
+161
+00:04:04,370 --> 00:04:06,530
+avait dit qu'il auto pilot de est
+
+162
+00:04:05,569 --> 00:04:08,120
+allumée donc vous allez avoir une
+
+163
+00:04:06,530 --> 00:04:09,200
+lumière avec ap devait revoir sur ce
+
+164
+00:04:08,120 --> 00:04:10,400
+panel c'est comme ça que vous avez
+
+165
+00:04:09,200 --> 00:04:11,599
+piloté d'avion pour les prochaines
+
+166
+00:04:10,400 --> 00:04:13,340
+minutes à venir jusqu'à l'atterrissage
+
+167
+00:04:11,599 --> 00:04:14,900
+vous avez tout à gauche de ce panneau
+
+168
+00:04:13,340 --> 00:04:16,280
+indicateur pour la vitesse vous devrez
+
+169
+00:04:14,900 --> 00:04:18,139
+avoir trois traits horizontaux suivis
+
+170
+00:04:16,280 --> 00:04:20,510
+d'une suivi dans vont tout à fait oui je
+
+171
+00:04:18,139 --> 00:04:21,680
+vois d'accordéon successivement va vous
+
+172
+00:04:20,510 --> 00:04:23,090
+servir à construire votre vitesse à
+
+173
+00:04:21,680 --> 00:04:23,630
+droite de cela vous avez la commande
+
+174
+00:04:23,090 --> 00:04:25,250
+pour le cap
+
+175
+00:04:23,630 --> 00:04:26,570
+actuellement pour attirer suivie d'un
+
+176
+00:04:25,250 --> 00:04:28,550
+point vu que c'est un beau navigation à
+
+177
+00:04:26,570 --> 00:04:29,780
+droite de sa latitude et à droite de sa
+
+178
+00:04:28,550 --> 00:04:31,580
+de la vitesse verticale ce que vous avez
+
+179
+00:04:29,780 --> 00:04:33,020
+des questions pour l'instant ce que mon
+
+180
+00:04:31,580 --> 00:04:34,760
+écran radar je vous vois au niveau de
+
+181
+00:04:33,020 --> 00:04:36,620
+130 soit 23 mille pieds voudrait trouver
+
+182
+00:04:34,760 --> 00:04:37,789
+23000 sur ce même écran est ce que vous
+
+183
+00:04:36,620 --> 00:04:40,280
+une commande qui est juste en dessous de
+
+184
+00:04:37,789 --> 00:04:42,470
+23,8 sa sève de sang à millas affiché
+
+185
+00:04:40,280 --> 00:04:43,669
+ici ils ont va commencer par 10000 voir
+
+186
+00:04:42,470 --> 00:04:44,630
+la mettez des milles et ensuite une fois
+
+187
+00:04:43,669 --> 00:04:46,039
+que vous avez mis dix mille vous allez
+
+188
+00:04:44,630 --> 00:04:46,970
+pousser sur la commande se pousse dessus
+
+189
+00:04:46,039 --> 00:04:47,900
+voir alors que se passe-t-il alors
+
+190
+00:04:46,970 --> 00:04:48,919
+qu'est-ce que vous pouvez venir le même
+
+191
+00:04:47,900 --> 00:04:50,360
+écran tout à l'heure la même première
+
+192
+00:04:48,919 --> 00:04:51,740
+ligne sur l'écran qu'on avait présentée
+
+193
+00:04:50,360 --> 00:04:51,979
+tout à l'heure maintenant il ya marqué
+
+194
+00:04:51,740 --> 00:04:55,010
+un
+
+195
+00:04:51,979 --> 00:04:56,060
+thr idole death in app d'accord parfait
+
+196
+00:04:55,010 --> 00:04:57,260
+ça veut dire que les moteurs sont en
+
+197
+00:04:56,060 --> 00:04:58,700
+train de ralentir vous êtes en descente
+
+198
+00:04:57,260 --> 00:04:59,630
+et vous êtes toujours ma navigation donc
+
+199
+00:04:58,700 --> 00:05:00,470
+c'est l'avion qui contrôle tous les
+
+200
+00:04:59,630 --> 00:05:02,000
+plans c'est une bonne nouvelle ça se
+
+201
+00:05:00,470 --> 00:05:03,139
+passe mais c'est déjà une très très
+
+202
+00:05:02,000 --> 00:05:05,060
+bonne nouvelle c'est avait l'air détendu
+
+203
+00:05:03,139 --> 00:05:05,990
+à 480 version leur vie en outre-mer il
+
+204
+00:05:05,060 --> 00:05:07,250
+faut garder la tête froide
+
+205
+00:05:05,990 --> 00:05:08,510
+d'accord on va continuer maintenant si
+
+206
+00:05:07,250 --> 00:05:10,430
+vous descendez vous éblouit le tokyo à
+
+207
+00:05:08,510 --> 00:05:11,780
+l'auto pilote le copilote ce que vous
+
+208
+00:05:10,430 --> 00:05:13,400
+avez manipulé tout à l'heure à le bouton
+
+209
+00:05:11,780 --> 00:05:14,599
+ap de verre voilà où ça c'est donc la
+
+210
+00:05:13,400 --> 00:05:16,010
+commande en tout cas si vous descendez
+
+211
+00:05:14,599 --> 00:05:17,270
+en avant vous avez deux écrans l'un au
+
+212
+00:05:16,010 --> 00:05:18,410
+dessus de l'autre oui là où il est et
+
+213
+00:05:17,270 --> 00:05:19,729
+vous continuez vers le bas vous avez
+
+214
+00:05:18,410 --> 00:05:20,810
+ensuite tout un panel avec plein de
+
+215
+00:05:19,729 --> 00:05:22,130
+boutons pour des différents écrans à
+
+216
+00:05:20,810 --> 00:05:23,270
+droite et à gauche de chacun de ces
+
+217
+00:05:22,130 --> 00:05:24,680
+écrans vous avez normandeau
+
+218
+00:05:23,270 --> 00:05:26,720
+10 nateur il vous faudra aller dans la
+
+219
+00:05:24,680 --> 00:05:28,040
+page vers perle à laçage appuie dessus
+
+220
+00:05:26,720 --> 00:05:28,400
+voilà qu est ce qu a marqué en haut de
+
+221
+00:05:28,040 --> 00:05:30,050
+la page
+
+222
+00:05:28,400 --> 00:05:32,840
+la marque était sdat cordesse allez donc
+
+223
+00:05:30,050 --> 00:05:33,860
+d'un ex faz nexess voilà non un an ou
+
+224
+00:05:32,840 --> 00:05:35,540
+deux vous devez être sur la page
+
+225
+00:05:33,860 --> 00:05:37,130
+approche à pépère oui tout à fait juste
+
+226
+00:05:35,540 --> 00:05:39,590
+rappel atr en haut à gauche il devrait
+
+227
+00:05:37,130 --> 00:05:40,340
+avoir 4 rectangles ambre sur la première
+
+228
+00:05:39,590 --> 00:05:41,360
+ligne tout à gauche
+
+229
+00:05:40,340 --> 00:05:42,740
+est ce qu'une valeur est rentré en
+
+230
+00:05:41,360 --> 00:05:44,120
+dessous de curage des avaloirs il n'y a
+
+231
+00:05:42,740 --> 00:05:46,010
+pas de valeur d'accord alors vous allez
+
+232
+00:05:44,120 --> 00:05:47,570
+taper je prends la pression ici et
+
+233
+00:05:46,010 --> 00:05:50,030
+adonis la pression atmosphérique atteint
+
+234
+00:05:47,570 --> 00:05:53,000
+1013 donc si vous pouvez rentrer 1 0 1 3
+
+235
+00:05:50,030 --> 00:05:53,930
+0 à 3 voilà et ensuite vous allez mettre
+
+236
+00:05:53,000 --> 00:05:56,000
+à cuire la chine
+
+237
+00:05:53,930 --> 00:05:57,380
+voilà c'est plutôt intuitif art c'est
+
+238
+00:05:56,000 --> 00:05:58,580
+assez intuitif aller dans la phase
+
+239
+00:05:57,380 --> 00:06:00,110
+précédente précédente
+
+240
+00:05:58,580 --> 00:06:01,670
+est ce que maintenant vous avez en bleu
+
+241
+00:06:00,110 --> 00:06:03,290
+en bas à gauche à ppr phase
+
+242
+00:06:01,670 --> 00:06:04,430
+oui vous allez l'activé j'active là on
+
+243
+00:06:03,290 --> 00:06:05,780
+est vraiment au dessus de la mer sam ses
+
+244
+00:06:04,430 --> 00:06:07,250
+slips et je vous dirais que là on est
+
+245
+00:06:05,780 --> 00:06:08,360
+sur un disque côte d'azur alors ce que
+
+246
+00:06:07,250 --> 00:06:09,800
+vous allez faire si vous vous souvenez
+
+247
+00:06:08,360 --> 00:06:11,180
+du panel auto pilot pour ce qui est du
+
+248
+00:06:09,800 --> 00:06:12,680
+cap de la direction oui donc c'est le
+
+249
+00:06:11,180 --> 00:06:14,480
+deuxième bouton partons à droite vous
+
+250
+00:06:12,680 --> 00:06:16,580
+avez le tirer vers vous retire qu'est-ce
+
+251
+00:06:14,480 --> 00:06:18,020
+qui affichait 137 d'accord donc 137 voix
+
+252
+00:06:16,580 --> 00:06:19,370
+sur mon écran c'est votre cas plat vous
+
+253
+00:06:18,020 --> 00:06:20,390
+avez repris l'avion en cap parce que sur
+
+254
+00:06:19,370 --> 00:06:21,590
+nos écrans vous êtes vraiment juste à
+
+255
+00:06:20,390 --> 00:06:22,580
+côté de l'aéroport de nice d'accord on
+
+256
+00:06:21,590 --> 00:06:23,900
+va se mettre au dessus doit un petit peu
+
+257
+00:06:22,580 --> 00:06:26,120
+pour entamer notre descente vous pouvez
+
+258
+00:06:23,900 --> 00:06:28,430
+maintenant au maître 4000 en altitude en
+
+259
+00:06:26,120 --> 00:06:29,750
+altitude l'âge mais 4 me voilà et après
+
+260
+00:06:28,430 --> 00:06:30,650
+vous allez papier vous allez tirer
+
+261
+00:06:29,750 --> 00:06:32,180
+voilà est-ce que vous pouvez également
+
+262
+00:06:30,650 --> 00:06:33,140
+me relire ce qui a marqué maintenant sur
+
+263
+00:06:32,180 --> 00:06:35,840
+l'écran avec la maquette taille à
+
+264
+00:06:33,140 --> 00:06:37,490
+marquer thr idole au pds adjudant en
+
+265
+00:06:35,840 --> 00:06:38,690
+fait vous avez pris la main sur le cap
+
+266
+00:06:37,490 --> 00:06:40,310
+et c'est vous qui fait d'eux des centres
+
+267
+00:06:38,690 --> 00:06:41,450
+excellent boulot familiariser avec
+
+268
+00:06:40,310 --> 00:06:42,650
+quelques contrôles donc maintenant la
+
+269
+00:06:41,450 --> 00:06:44,180
+configurer l'avion pour cette approche
+
+270
+00:06:42,650 --> 00:06:45,560
+juste un truc je sens qu'à de la panique
+
+271
+00:06:44,180 --> 00:06:46,550
+derrière dans la cabine est-ce que je
+
+272
+00:06:45,560 --> 00:06:47,210
+peux rassurer les gens enfin je peux
+
+273
+00:06:46,550 --> 00:06:50,600
+passer un petit message
+
+274
+00:06:47,210 --> 00:06:51,680
+absolument bienvenue sur la compagnie
+
+275
+00:06:50,600 --> 00:06:53,090
+air amis de seine une compagnie
+
+276
+00:06:51,680 --> 00:06:54,770
+sécuriser des tentes
+
+277
+00:06:53,090 --> 00:06:56,570
+je vous informe que le copilote et le
+
+278
+00:06:54,770 --> 00:06:59,780
+lieu sont décédées de manière brutale
+
+279
+00:06:56,570 --> 00:07:02,060
+suis ravie quand tu n'es pas prêt qui
+
+280
+00:06:59,780 --> 00:07:03,830
+était en 56k côté du bébé qui pleurait
+
+281
+00:07:02,060 --> 00:07:05,090
+de la dame qui se sent pas bon de je
+
+282
+00:07:03,830 --> 00:07:06,740
+voulais vous dire que c'est moi qui vais
+
+283
+00:07:05,090 --> 00:07:08,900
+poser l'appareil finalement arrêté de
+
+284
+00:07:06,740 --> 00:07:10,640
+crier arrêtez je m'occupe de tout je
+
+285
+00:07:08,900 --> 00:07:12,140
+suis en liaison avec un pilote au sol ça
+
+286
+00:07:10,640 --> 00:07:13,940
+se passe hyper bien il s'appelle adrien
+
+287
+00:07:12,140 --> 00:07:16,490
+le mec détendent il adore le badminton
+
+288
+00:07:13,940 --> 00:07:17,690
+je vais poser l'avion donc là on devrait
+
+289
+00:07:16,490 --> 00:07:19,009
+dix n'ont pas longtemps voilà la
+
+290
+00:07:17,690 --> 00:07:20,270
+conversation se passe très bien j'ai en
+
+291
+00:07:19,009 --> 00:07:21,020
+main l'avion donc vous inquiétez pas
+
+292
+00:07:20,270 --> 00:07:26,590
+tout va bien se passer
+
+293
+00:07:21,020 --> 00:07:28,490
+c'était le passage et 56 cas c'est bon
+
+294
+00:07:26,590 --> 00:07:29,599
+on a un petit peu haut pour venir se
+
+295
+00:07:28,490 --> 00:07:30,830
+poser on va faire c'est qu'on va faire
+
+296
+00:07:29,599 --> 00:07:31,810
+un virage à droite et vous allez
+
+297
+00:07:30,830 --> 00:07:37,310
+afficher le cap
+
+298
+00:07:31,810 --> 00:07:38,569
+0-40 un peu envie de vomir mon trip et
+
+299
+00:07:37,310 --> 00:07:39,650
+vous huent retenu à droite oui
+
+300
+00:07:38,569 --> 00:07:40,819
+absolument en fait la raison pour
+
+301
+00:07:39,650 --> 00:07:41,840
+laquelle on veut faire ça c'est que
+
+302
+00:07:40,819 --> 00:07:42,979
+c'est très la distance on trouve
+
+303
+00:07:41,840 --> 00:07:44,180
+l'aéroport pour qu'on puisse y est vous
+
+304
+00:07:42,979 --> 00:07:45,590
+poser correctement je vais peut-être va
+
+305
+00:07:44,180 --> 00:07:46,759
+tâcher quand même je peux oui c'est
+
+306
+00:07:45,590 --> 00:07:50,659
+justement ça serait une bonne idée
+
+307
+00:07:46,759 --> 00:07:51,979
+cette attitude vous voulez vous enfin
+
+308
+00:07:50,659 --> 00:07:53,360
+mathieu devrait atterrir dans pas
+
+309
+00:07:51,979 --> 00:07:57,050
+longtemps et qu'il faut attacher sa
+
+310
+00:07:53,360 --> 00:07:58,699
+ceinture mais voilà si vous regardez en
+
+311
+00:07:57,050 --> 00:07:59,750
+au juste au dessus et vous continuez sur
+
+312
+00:07:58,699 --> 00:08:01,460
+la droite vous allez voir un petit
+
+313
+00:07:59,750 --> 00:08:02,930
+bouton vert qui s'appelle fds peut voir
+
+314
+00:08:01,460 --> 00:08:04,460
+dans moyens bouton et laisse à côté elle
+
+315
+00:08:02,930 --> 00:08:06,620
+s appuie sur ce bouton qui s'appuie sur
+
+316
+00:08:04,460 --> 00:08:08,000
+ls voilà de votre côté et également du
+
+317
+00:08:06,620 --> 00:08:09,440
+côté bas du copilote du coup vraiment
+
+318
+00:08:08,000 --> 00:08:10,880
+maintenant sur votre écran première vous
+
+319
+00:08:09,440 --> 00:08:12,289
+allez voir des indications en rose
+
+320
+00:08:10,880 --> 00:08:12,680
+magenta qui apparaissent dans le courant
+
+321
+00:08:12,289 --> 00:08:13,819
+à gauche
+
+322
+00:08:12,680 --> 00:08:14,840
+ah oui c'est vrai oui à des trucs en
+
+323
+00:08:13,819 --> 00:08:16,069
+magenta effectivement les scoops
+
+324
+00:08:14,840 --> 00:08:19,340
+homeless qu'à marquer bien marquer aide
+
+325
+00:08:16,069 --> 00:08:20,330
+à 110,70 31 nm loi qu'on a encore un
+
+326
+00:08:19,340 --> 00:08:21,349
+petit peu voir ce que je vous invite à
+
+327
+00:08:20,330 --> 00:08:23,120
+faire c'est qu'on va faire un autre
+
+328
+00:08:21,349 --> 00:08:24,080
+virage à 360 degrés on va retourner vers
+
+329
+00:08:23,120 --> 00:08:27,620
+la droite mais cette fois ci on va
+
+330
+00:08:24,080 --> 00:08:29,060
+arrêter notre virage au cap 10 ou est-ce
+
+331
+00:08:27,620 --> 00:08:30,740
+que vous en train de me dire qu'un a320
+
+332
+00:08:29,060 --> 00:08:31,880
+ce qui donne au niveau du cap avec un
+
+333
+00:08:30,740 --> 00:08:34,130
+tout petit bouton un peu pourri
+
+334
+00:08:31,880 --> 00:08:35,240
+absolument ok maintenant il faut que je
+
+335
+00:08:34,130 --> 00:08:36,320
+vous familiariser également avec
+
+336
+00:08:35,240 --> 00:08:37,610
+d'autres comptes contrôle de vol des
+
+337
+00:08:36,320 --> 00:08:39,890
+surfaces d'elle constant pour pouvoir
+
+338
+00:08:37,610 --> 00:08:41,419
+voler plus lentement et garder la même
+
+339
+00:08:39,890 --> 00:08:42,680
+importance confirmer votre altitude sur
+
+340
+00:08:41,419 --> 00:08:44,300
+le même écran primaire normalement vous
+
+341
+00:08:42,680 --> 00:08:47,000
+avez un bandeau à tout à droite
+
+342
+00:08:44,300 --> 00:08:48,260
+l'altitude 8800 hockey et 8800 pied
+
+343
+00:08:47,000 --> 00:08:49,399
+auquel ya un petit décalage entre ce que
+
+344
+00:08:48,260 --> 00:08:50,660
+vous avez ici ce que j'ai sur l'écran
+
+345
+00:08:49,399 --> 00:08:52,190
+est ce que vous pouvez me dire ce qui a
+
+346
+00:08:50,660 --> 00:08:53,839
+marqué en bas à droite ce même écran
+
+347
+00:08:52,190 --> 00:08:55,370
+normalement std vous êtes toujours en
+
+348
+00:08:53,839 --> 00:08:56,600
+stand à bahreïn mais légal on est un
+
+349
+00:08:55,370 --> 00:08:57,829
+standard dont je sais pas ce que ça veut
+
+350
+00:08:56,600 --> 00:08:59,000
+dire que vous et à droite de votre jeu
+
+351
+00:08:57,829 --> 00:09:00,200
+le moment vous avez une commande des gaz
+
+352
+00:08:59,000 --> 00:09:01,399
+à droite de votre jeune ouvrier de
+
+353
+00:09:00,200 --> 00:09:02,660
+commandes noir d'accord est ce que c'est
+
+354
+00:09:01,399 --> 00:09:03,410
+le gros levier en plein milieu voilà
+
+355
+00:09:02,660 --> 00:09:04,279
+debout
+
+356
+00:09:03,410 --> 00:09:05,720
+iman qui sont plein milieu vous
+
+357
+00:09:04,279 --> 00:09:06,949
+descendez vous et la gauche de soleil et
+
+358
+00:09:05,720 --> 00:09:08,480
+vous allez avoir deux petite manette
+
+359
+00:09:06,949 --> 00:09:10,250
+noire également une gauche et une droite
+
+360
+00:09:08,480 --> 00:09:11,269
+avec le speed bref voilà que vous allez
+
+361
+00:09:10,250 --> 00:09:12,560
+faire c'est que vous allez la levée
+
+362
+00:09:11,269 --> 00:09:13,399
+délicatement et la mettre en avant est
+
+363
+00:09:12,560 --> 00:09:14,660
+ce que vous avez une indication
+
+364
+00:09:13,399 --> 00:09:15,860
+maintenant qui est apparue en verre est
+
+365
+00:09:14,660 --> 00:09:17,660
+ce que pouvait bien que marquée envers
+
+366
+00:09:15,860 --> 00:09:20,029
+juste sur l'écran du dessus il ya marqué
+
+367
+00:09:17,660 --> 00:09:21,470
+grandir armed vous mettez remet les
+
+368
+00:09:20,029 --> 00:09:22,970
+aérofreins vont se déployer des chronos
+
+369
+00:09:21,470 --> 00:09:24,199
+des clous ont touché le sol si vous avez
+
+370
+00:09:22,970 --> 00:09:25,819
+juste à droite vous allez d'en trouver
+
+371
+00:09:24,199 --> 00:09:27,230
+un bouton à peu près à l'appui sur à ppr
+
+372
+00:09:25,819 --> 00:09:28,310
+voilà quelque chose se passe là on fait
+
+373
+00:09:27,230 --> 00:09:29,629
+un looping monsieur d'accord on va
+
+374
+00:09:28,310 --> 00:09:30,740
+retourner sur notre écran primaire est
+
+375
+00:09:29,629 --> 00:09:32,990
+ce que vous me donnez votre vitesse sur
+
+376
+00:09:30,740 --> 00:09:34,790
+la gauche 190 vous allez mettre les
+
+377
+00:09:32,990 --> 00:09:36,110
+volets sur deux maintenant et vous allez
+
+378
+00:09:34,790 --> 00:09:37,759
+maintenant sortir les trains pour ce
+
+379
+00:09:36,110 --> 00:09:39,290
+faire il ya une commande qui est sur le
+
+380
+00:09:37,759 --> 00:09:41,089
+panneau central à droite de deux écrans
+
+381
+00:09:39,290 --> 00:09:43,009
+avec marc et la linguère pour la sortir
+
+382
+00:09:41,089 --> 00:09:46,069
+il faut la soulever délicatement et la
+
+383
+00:09:43,009 --> 00:09:47,120
+descendre si vous remontez tout en vous
+
+384
+00:09:46,069 --> 00:09:48,589
+allez voir maintenant de lumière rouge
+
+385
+00:09:47,120 --> 00:09:49,819
+qui sont qui sont allumés sur la rangée
+
+386
+00:09:48,589 --> 00:09:50,660
+du dessous c'est bien de passer en
+
+387
+00:09:49,819 --> 00:09:51,769
+verges derrière fait monsieur c'est
+
+388
+00:09:50,660 --> 00:09:52,790
+parfait vous avez sorti les tram et
+
+389
+00:09:51,769 --> 00:09:53,839
+train sont sortis et verrouille est une
+
+390
+00:09:52,790 --> 00:09:55,430
+excellente nouvelle sur la ligne du
+
+391
+00:09:53,839 --> 00:09:57,110
+tsoup maintenant vous avez trois boutons
+
+392
+00:09:55,430 --> 00:09:58,670
+pour les systèmes de faim vous appuyez
+
+393
+00:09:57,110 --> 00:10:00,439
+sur mead si vous pouvez le voir et me
+
+394
+00:09:58,670 --> 00:10:01,850
+dit ok j'appuie mais c'est trop stylé
+
+395
+00:10:00,439 --> 00:10:02,720
+bras voir si triste on va pouvoir mettre
+
+396
+00:10:01,850 --> 00:10:04,100
+maintenant
+
+397
+00:10:02,720 --> 00:10:05,060
+elle est sur trois retournez sur la
+
+398
+00:10:04,100 --> 00:10:06,199
+commande des mollahs et mettez les sur
+
+399
+00:10:05,060 --> 00:10:08,000
+trois on va configurer l'avion
+
+400
+00:10:06,199 --> 00:10:09,199
+maintenant remettre pardon sur foule ok
+
+401
+00:10:08,000 --> 00:10:10,730
+mais voler sur full voilà maintenant
+
+402
+00:10:09,199 --> 00:10:12,379
+dans les trains qui sont sortis on a
+
+403
+00:10:10,730 --> 00:10:13,339
+armé les aérofreins on à armer nos
+
+404
+00:10:12,379 --> 00:10:14,209
+freins tout le monde mais quand je vois
+
+405
+00:10:13,339 --> 00:10:15,709
+que vous êtes bien des liens avec la
+
+406
+00:10:14,209 --> 00:10:17,600
+piste super alors le problème avec cet
+
+407
+00:10:15,709 --> 00:10:18,439
+aéroport et clics si on loupe la piste
+
+408
+00:10:17,600 --> 00:10:19,879
+on vit dans l'eau voire est d'accord
+
+409
+00:10:18,439 --> 00:10:21,019
+monsieur on va pas louper la piste vous
+
+410
+00:10:19,879 --> 00:10:21,319
+avez configuré l'avion exactement comme
+
+411
+00:10:21,019 --> 00:10:22,610
+il fallait
+
+412
+00:10:21,319 --> 00:10:25,399
+vous allez entendre un décompte en fait
+
+413
+00:10:22,610 --> 00:10:26,990
+- deux jeunes filles sont inscrites
+
+414
+00:10:25,399 --> 00:10:28,220
+vous allez entendre 8 heures il va pas
+
+415
+00:10:26,990 --> 00:10:29,569
+vous insulter il va vous demander en
+
+416
+00:10:28,220 --> 00:10:30,259
+fait de mettre les malades des gaz à
+
+417
+00:10:29,569 --> 00:10:31,730
+zéro ce que vous allez faire
+
+418
+00:10:30,259 --> 00:10:33,259
+délicatement des ce que vous dites que
+
+419
+00:10:31,730 --> 00:10:34,639
+vous l'entendez d'appeler rita vous
+
+420
+00:10:33,259 --> 00:10:35,870
+descendez l'émanation 0 et une fois que
+
+421
+00:10:34,639 --> 00:10:37,129
+vous êtes au sol vous avez deux petite
+
+422
+00:10:35,870 --> 00:10:38,149
+manette dans les levées doucement ça
+
+423
+00:10:37,129 --> 00:10:39,319
+nous permettra de faire les inverseurs
+
+424
+00:10:38,149 --> 00:10:49,399
+de poussée de l'eau dessalée mettre à
+
+425
+00:10:39,319 --> 00:10:50,959
+l'arrière tout et pilote du coup du bébé
+
+426
+00:10:49,399 --> 00:10:52,819
+qui pleure et de la dame qui publie
+
+427
+00:10:50,959 --> 00:10:53,990
+reconfigurer lave noire ou là je vous
+
+428
+00:10:52,819 --> 00:10:56,990
+laisse le moteur est en train de me
+
+429
+00:10:53,990 --> 00:10:58,089
+parler c'est comme dans les films
+
+430
+00:10:56,990 --> 00:11:00,170
+[Musique]
+
+431
+00:10:58,089 --> 00:11:01,160
+ça me regarde et bonne soirée bon
+
+432
+00:11:00,170 --> 00:11:01,519
+week-end et abonnez-vous à la chaîne
+
+433
+00:11:01,160 --> 00:11:03,139
+youtube
+
+434
+00:11:01,519 --> 00:11:04,790
+maintenant ça va être à vous de mettre
+
+435
+00:11:03,139 --> 00:11:06,199
+la main gauche sur le joystick est la
+
+436
+00:11:04,790 --> 00:11:07,579
+main droite sur les gaz le joystick ça
+
+437
+00:11:06,199 --> 00:11:08,779
+va être simple turbo l'avion monte on va
+
+438
+00:11:07,579 --> 00:11:10,129
+tirer l'avion vers le haut si l'avion
+
+439
+00:11:08,779 --> 00:11:11,089
+descend on va pousser le nez pour
+
+440
+00:11:10,129 --> 00:11:12,680
+l'instant on va se poser tout est
+
+441
+00:11:11,089 --> 00:11:13,819
+paramétré vous êtes bien sur les écrans
+
+442
+00:11:12,680 --> 00:11:14,959
+lors des voeux la bonne vitesse la bonne
+
+443
+00:11:13,819 --> 00:11:16,699
+attitude je veux que vous souhaiter
+
+444
+00:11:14,959 --> 00:11:17,990
+bonne chance mais merci et adrien vous
+
+445
+00:11:16,699 --> 00:11:19,189
+êtes très sympa en tout cas et si ça se
+
+446
+00:11:17,990 --> 00:11:20,329
+passe mal et bien sachez que j'étais
+
+447
+00:11:19,189 --> 00:11:21,889
+content de faire votre connaissance et
+
+448
+00:11:20,329 --> 00:11:22,819
+en même temps adrien pas se mentir je
+
+449
+00:11:21,889 --> 00:11:23,990
+suis quand même bien content que cette
+
+450
+00:11:22,819 --> 00:11:25,610
+vidéo youtube et que tout ça soit fait
+
+451
+00:11:23,990 --> 00:11:26,720
+parce que je serais pas aussi détendue
+
+452
+00:11:25,610 --> 00:11:27,649
+on va pas se mentir et d'ailleurs vous
+
+453
+00:11:26,720 --> 00:11:29,209
+non plus oui c'est une des qualités
+
+454
+00:11:27,649 --> 00:11:29,509
+qu'on a ici on cesse d'étendre vos
+
+455
+00:11:29,209 --> 00:11:32,059
+proches
+
+456
+00:11:29,509 --> 00:11:34,370
+pas trop stressé franchement si hockey
+
+457
+00:11:32,059 --> 00:11:36,019
+détendez-vous risque fort en bride
+
+458
+00:11:34,370 --> 00:11:38,979
+d'accord va continuer de les comptes à
+
+459
+00:11:36,019 --> 00:11:42,799
+100 il va accélérer le décompte
+
+460
+00:11:38,979 --> 00:11:43,819
+toi tu ne sens pas super calé avec la
+
+461
+00:11:42,799 --> 00:11:47,959
+piste mais bon c'est qu'il ya du vent
+
+462
+00:11:43,819 --> 00:11:49,699
+assez ça ont coupé les gaz le couple et
+
+463
+00:11:47,959 --> 00:11:52,369
+gaz voilà mes tezuka droite et c'est le
+
+464
+00:11:49,699 --> 00:11:53,599
+même été du pied droit de rentrer droite
+
+465
+00:11:52,369 --> 00:11:55,399
+c'est ça vous m'aviez pas du tout parlé
+
+466
+00:11:53,599 --> 00:11:57,139
+des pieuvres géantes est alors parti on
+
+467
+00:11:55,399 --> 00:11:58,220
+est sauvés adrien là c'est pas mal vous
+
+468
+00:11:57,139 --> 00:11:59,539
+avez tourné un peu de gazole gauche
+
+469
+00:11:58,220 --> 00:12:00,499
+sinon c'est pas mal a applaudi derrière
+
+470
+00:11:59,539 --> 00:12:01,819
+inventant les applaudissements envers
+
+471
+00:12:00,499 --> 00:12:03,109
+ces avancées les malaises jusqu'à
+
+472
+00:12:01,819 --> 00:12:04,729
+jusqu'à ce que la détente se baissent à
+
+473
+00:12:03,109 --> 00:12:06,229
+l'avant mettez les gaz sur 0 et y assure
+
+474
+00:12:04,729 --> 00:12:08,119
+0 voilà maintenant vous pouvez appuyer
+
+475
+00:12:06,229 --> 00:12:09,049
+avec vos orteils sur la pédale à gauche
+
+476
+00:12:08,119 --> 00:12:12,259
+et à droite en même temps vous allez
+
+477
+00:12:09,049 --> 00:12:13,519
+prenez l'avion parfait on va être un des
+
+478
+00:12:12,259 --> 00:12:14,389
+moteurs on va se perdre en ligne mais on
+
+479
+00:12:13,519 --> 00:12:15,829
+se heurte à l'heure pour prendre une
+
+480
+00:12:14,389 --> 00:12:17,119
+bière très bien carrément adrien une
+
+481
+00:12:15,829 --> 00:12:18,379
+grosse vie à apprécier l'art vous avez
+
+482
+00:12:17,119 --> 00:12:19,849
+juste en dessous des moteurs vous avez
+
+483
+00:12:18,379 --> 00:12:22,029
+souhaité ce qui s'appelle master master
+
+484
+00:12:19,849 --> 00:12:24,919
+1 et master ii un master 1 master newey
+
+485
+00:12:22,029 --> 00:12:26,149
+master 1 master de koupéla à bon il
+
+486
+00:12:24,919 --> 00:12:29,089
+répond plus je pense que s'est posée
+
+487
+00:12:26,149 --> 00:12:30,559
+rien alors à croyable on est vivant
+
+488
+00:12:29,089 --> 00:12:31,970
+mesdames et messieurs derrière moi la
+
+489
+00:12:30,559 --> 00:12:33,739
+piste de l'aéroport de nice côte d'azur
+
+490
+00:12:31,970 --> 00:12:35,569
+j'ai réussi c'était quand même pas
+
+491
+00:12:33,739 --> 00:12:36,709
+parfait je suis arrivé je me suis posé
+
+492
+00:12:35,569 --> 00:12:37,970
+un petit peu en billets je suis parti
+
+493
+00:12:36,709 --> 00:12:39,349
+dans le gazon que j'ai su qu'ils avaient
+
+494
+00:12:37,970 --> 00:12:40,729
+des pédales qui permettait de se
+
+495
+00:12:39,349 --> 00:12:42,169
+contrôler la dernière minute j'ai pu me
+
+496
+00:12:40,729 --> 00:12:44,749
+remettre sur la piste c'était arrivé en
+
+497
+00:12:42,169 --> 00:12:45,769
+vrai je me serais fier le sua 100% j'ai
+
+498
+00:12:44,749 --> 00:12:47,089
+fait des blagues pendant la vidéo on
+
+499
+00:12:45,769 --> 00:12:48,470
+voit la fauv garder un côté de l'étang
+
+500
+00:12:47,089 --> 00:12:49,549
+divertissement mais en vrai c'était
+
+501
+00:12:48,470 --> 00:12:50,839
+quand même stressant je me suis vraiment
+
+502
+00:12:49,549 --> 00:12:52,759
+pris au jeu d'instinct remerciements à
+
+503
+00:12:50,839 --> 00:12:54,439
+avia sims à sa fiche ici ce n'est pas
+
+504
+00:12:52,759 --> 00:12:55,909
+sponsorisé du tout mais ils ont accepté
+
+505
+00:12:54,439 --> 00:12:57,139
+qu'on vient de tourner cette vidéo ici
+
+506
+00:12:55,909 --> 00:12:58,549
+donc merci à eux ils font de la
+
+507
+00:12:57,139 --> 00:13:00,379
+simulation qu'avion comme celui là et
+
+508
+00:12:58,549 --> 00:13:01,699
+dont vous pouvez payer et aller là bas
+
+509
+00:13:00,379 --> 00:13:03,559
+pour faire des petites sessions de
+
+510
+00:13:01,699 --> 00:13:04,339
+pilotage d'avion chose qu'on ne peut pas
+
+511
+00:13:03,559 --> 00:13:05,419
+faire dans la vraie vie donc c'est
+
+512
+00:13:04,339 --> 00:13:06,470
+vraiment stylé donc merci beaucoup
+
+513
+00:13:05,419 --> 00:13:07,369
+d'avoir regardé cette vidéo jusqu'au
+
+514
+00:13:06,470 --> 00:13:08,209
+bout j'espère qu'elle ne va intéresser
+
+515
+00:13:07,369 --> 00:13:09,559
+j'espère que les gens qui sont
+
+516
+00:13:08,209 --> 00:13:10,909
+intéressés par l'aviation qui fait cette
+
+517
+00:13:09,559 --> 00:13:12,109
+vidéo j'espère aussi que les gens qui en
+
+518
+00:13:10,909 --> 00:13:13,220
+ont rien à foutre de l'aviation était
+
+519
+00:13:12,109 --> 00:13:14,689
+quand même intéressé aux et à bientôt
+
+520
+00:13:13,220 --> 00:13:16,459
+pour une prochaine vidéo n'hésitez pas à
+
+521
+00:13:14,689 --> 00:13:17,749
+vous abonner à cocher la cloche a laissé
+
+522
+00:13:16,459 --> 00:13:19,129
+un commentaire à laisser un pouce bleus
+
+523
+00:13:17,749 --> 00:13:20,269
+à cliquer sur le bouton rejoint fin il
+
+524
+00:13:19,129 --> 00:13:21,439
+ya beaucoup trop truc maintenant c'est
+
+525
+00:13:20,269 --> 00:13:22,309
+chiant youtube c'est devenu très très
+
+526
+00:13:21,439 --> 00:13:23,479
+chiant alors vous savez quoi peut-être
+
+527
+00:13:22,309 --> 00:13:24,949
+ce que vous avez envie de faire si vous
+
+528
+00:13:23,479 --> 00:13:26,299
+n'avez rien envie de faire c'est rien
+
+529
+00:13:24,949 --> 00:13:27,259
+regardez juste la vidéo c'est déjà très
+
+530
+00:13:26,299 --> 00:13:28,940
+bien aux émeutes eux prendre pour cette
+
+531
+00:13:27,259 --> 00:13:45,679
+vidéo c'est mxm bouscat vida
+
+532
+00:13:28,940 --> 00:13:45,679
+[Musique]
