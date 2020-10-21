@@ -10,7 +10,7 @@ def main(args):
 
 def process_file(input, language, corpus):
 
-    dep_path = path.join("corpus", "dependencies", "ud", language)
+    dep_path = path.join("corpus", "dependency_counts", "ud", language)
     if not path.exists(dep_path):
         makedirs(dep_path)
 
