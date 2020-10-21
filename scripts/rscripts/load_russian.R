@@ -51,33 +51,35 @@ loadRussian <- function() {
                                 "Random"=df.Wylsacom.random),  .id = 'baseline')
   
   # AdvokatEgorov
-  df.AdvokatEgorov.observed <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/AdvokatEgorov/AdvokatEgorov_observed_dependencies.csv",
-                                                header=TRUE, sep=","))
-  df.AdvokatEgorov.optimal  <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/AdvokatEgorov/AdvokatEgorov_optimal_dependencies.csv",
-                                                header=TRUE, sep=","))
-  df.AdvokatEgorov.random   <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/AdvokatEgorov/AdvokatEgorov_random_dependencies.csv",
-                                                header=TRUE, sep=","))
-  df.AdvokatEgorov <- bind_rows(list("Observed"=df.AdvokatEgorov.observed, "Optimal"=df.AdvokatEgorov.optimal, 
-                                "Random"=df.AdvokatEgorov.random),  .id = 'baseline')
+  # df.AdvokatEgorov.observed <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/AdvokatEgorov/AdvokatEgorov_observed_dependencies.csv",
+  #                                               header=TRUE, sep=","))
+  # df.AdvokatEgorov.optimal  <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/AdvokatEgorov/AdvokatEgorov_optimal_dependencies.csv",
+  #                                               header=TRUE, sep=","))
+  # df.AdvokatEgorov.random   <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/AdvokatEgorov/AdvokatEgorov_random_dependencies.csv",
+  #                                               header=TRUE, sep=","))
+  # df.AdvokatEgorov <- bind_rows(list("Observed"=df.AdvokatEgorov.observed, "Optimal"=df.AdvokatEgorov.optimal, 
+  #                               "Random"=df.AdvokatEgorov.random),  .id = 'baseline')
   
   # MRilakkuma
-  df.MRilakkuma.observed <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/MRilakkuma/MRilakkuma_observed_dependencies.csv",
-                                                     header=TRUE, sep=","))
-  df.MRilakkuma.optimal  <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/MRilakkuma/MRilakkuma_optimal_dependencies.csv",
-                                                     header=TRUE, sep=","))
-  df.MRilakkuma.random   <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/MRilakkuma/MRilakkuma_random_dependencies.csv",
-                                                     header=TRUE, sep=","))
-  df.MRilakkuma <- bind_rows(list("Observed"=df.MRilakkuma.observed, "Optimal"=df.MRilakkuma.optimal, 
-                                     "Random"=df.MRilakkuma.random),  .id = 'baseline')
+  # df.MRilakkuma.observed <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/MRilakkuma/MRilakkuma_observed_dependencies.csv",
+  #                                                    header=TRUE, sep=","))
+  # df.MRilakkuma.optimal  <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/MRilakkuma/MRilakkuma_optimal_dependencies.csv",
+  #                                                    header=TRUE, sep=","))
+  # df.MRilakkuma.random   <- data.frame(read.table("~/Documents/research/git-projects/YouDePP/corpus/dependency_counts/auto/ru/MRilakkuma/MRilakkuma_random_dependencies.csv",
+  #                                                    header=TRUE, sep=","))
+  # df.MRilakkuma <- bind_rows(list("Observed"=df.MRilakkuma.observed, "Optimal"=df.MRilakkuma.optimal, 
+  #                                    "Random"=df.MRilakkuma.random),  .id = 'baseline')
+  
   
   # Bind data
   df.all.ru <- bind_rows(list("AdamThomasMoran"=df.adam,
                               "NTV"=df.ntv,
                               "TheBrianMaps"=df.TheBrianMaps,
                               "ThisIsHorosho"=df.ThisIsHorosho,
-                              "Wylsacom"=df.Wylsacom,
-                              "Egorov"=df.AdvokatEgorov,
-                              "MRilakkuma"=df.MRilakkuma), .id = 'channel')
+                              "Wylsacom"=df.Wylsacom#,
+                              #"Egorov"=df.AdvokatEgorov,
+                              #"MRilakkuma"=df.MRilakkuma
+                              ), .id = 'channel')
   
   # Calculate squared sentence length to match Futrell et al.: better predictor than raw length
   df.all.ru$sent_len_sq   <- df.all.ru$total_length * df.all.ru$total_length
