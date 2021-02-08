@@ -3,18 +3,19 @@
 *.log
 .RData
 .Rhistory
+*_temp
 
 backups/
 writeup/
-*_temp
-
+audio/
 old/
+guava/
+data/
+
 processed_subtitles/auto/
 dependency_counts/
 dependencies/
-
-data/analyses/
-data/plots/
+rscripts/
 
 *.ipynb*
 *_tobecorrected
