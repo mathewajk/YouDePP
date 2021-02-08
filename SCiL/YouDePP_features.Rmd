@@ -1,0 +1,391 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=F, echo=F, eval=T}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+library(ggplot2)
+library(ggeffects)
+library(ghibli)
+library(lme4)
+library(lmerTest)
+library(ghibli)
+library(dplyr)
+library(tidyr)
+
+```
+
+```{r load_data, include=F, echo=F, eval=T}
+source("~/Documents/research/git-projects/YouDePP/scripts/rscripts/load_all.R")
+```
+
+```{r features_youdepp, include=F, echo=F, eval=T}
+
+# Clean up features for graphing and regressions
+
+df.youdepp.order.transformed <- youdepp.order.df %>%
+  mutate(Type=ifelse(grepl("Auto", File), "auto", "manual")) %>%
+  select(Language, File, Type, Construction, Feature, Mean) %>%
+  group_by(Language, File, Type, Construction, Feature) %>%
+  summarize(Proportion = sum(Mean)) %>% ungroup()
+
+# Entropy
+df.youdepp.entropy <- df.youdepp.order.transformed %>% 
+  filter(Construction=="transitive") %>% 
+  group_by(Language, File, Type) %>%
+  mutate(Proportion=ifelse(Proportion == 0, 0.0000001, Proportion/100)) %>% 
+  summarize(Feature="Entropy", Proportion = -1 * sum(Proportion * log2(Proportion)))  %>% 
+  mutate(Proportion = Proportion/100,
+         Language=factor(Language), 
+         File=factor(File), 
+         Type=factor(Type))
+
+# Head direction
+df.youdepp.head <- df.youdepp.order.transformed %>% 
+  filter(Feature == 'head_finality_no_func' & !grepl('NoParticles', File)) %>% 
+  mutate(Language = factor(Language), 
+         File=factor(File), 
+         Type=factor(Type), 
+         Feature="Headedness") %>%
+  select(-Construction)
+
+# Argument drop
+df.youdepp.argstruc <- df.youdepp.order.transformed %>% 
+  filter(Construction != "transitive" & 
+           !grepl('ave_dl', Feature) & 
+           !grepl('head_finality', Feature)) %>% 
+  mutate(Feature=case_when((Feature=='ov'|Feature=='vo') ~ 'SubjectDrop',
+                           (Feature=='vs'|Feature=='sv') ~ 'Intransitive', 
+                           Feature == 'v' ~ 'VOnly', 
+                           TRUE ~ 'NoArgDrop')) %>% 
+  group_by(Language, File, Type, Feature) %>%
+  summarize(Proportion = sum(Proportion/100)) %>% 
+  mutate(Language=factor(Language), 
+         File=factor(File), 
+         Type=factor(Type),
+         Feature=factor(Feature))
+
+
+# Combine all features into one dataframe
+df.youdep.features     <- bind_rows(list(df.youdepp.head, df.youdepp.argstruc, df.youdepp.entropy))
+df.youdepp.features.dl <- merge(df.youdepp.all %>% 
+                                   filter((baseline == "Observed" | baseline == "Random") & 
+                                            channel != "FischersCorrected", sent_len_sq <= 15^2) %>%
+                                   group_by(language, channel, subtitle_type, sent_len_sq, r)  %>%
+                                   summarize(avg_dep = mean(dep_length)) %>% 
+                                   rename(Language=language, Type=subtitle_type, File=channel), 
+                              df.youdep.features) %>%
+  rename(SentLenSq=sent_len_sq, AvgDepLength = avg_dep)
+
+```
+
+```{r features_ud, include=F, echo=F, eval=T}
+
+# Clean up features for graphing and regressions
+
+df.ud.order.transformed <- ud.order.df %>%
+  mutate(Type=ifelse(grepl("Auto", File), "auto", "manual")) %>%
+  select(Language, Type, Construction, Feature, Mean) %>%
+  group_by(Language, Type, Construction, Feature) %>%
+  summarize(Proportion = sum(Mean)) %>% ungroup()
+
+# Entropy
+df.ud.entropy <- df.ud.order.transformed %>% 
+  filter(Construction=="transitive") %>% 
+  group_by(Language, Type) %>%
+  mutate(Proportion=ifelse(Proportion == 0, 0.0000001, Proportion/100)) %>% 
+  summarize(Feature="Entropy", Proportion = -1 * sum(Proportion * log2(Proportion)))  %>% 
+  mutate(Proportion = Proportion/100,
+         Language=factor(Language), 
+         Type=factor(Type))
+
+# Head direction
+df.ud.head <- df.ud.order.transformed %>% 
+  filter(Feature == 'head_finality_no_func_updated') %>% 
+  mutate(Language = factor(Language), 
+         Type=factor(Type), 
+         Feature="Headedness") %>%
+  select(-Construction)
+
+# Argument drop
+df.ud.argstruc <- df.ud.order.transformed %>% 
+  filter(Construction != "transitive" & 
+           !grepl('ave_dl', Feature) & 
+           !grepl('head_finality', Feature)) %>% 
+  mutate(Feature=case_when((Feature=='ov'|Feature=='vo') ~ 'SubjectDrop',
+                           (Feature=='vs'|Feature=='sv') ~ 'Intransitive', 
+                           Feature == 'v' ~ 'VOnly', 
+                           TRUE ~ 'NoArgDrop')) %>% 
+  group_by(Language, Type, Feature) %>%
+  summarize(Proportion = sum(Proportion/100)) %>% 
+  mutate(Language=factor(Language), 
+         Type=factor(Type),
+         Feature=factor(Feature))
+
+
+df.ud.features     <- bind_rows(list(df.ud.head, df.ud.argstruc, df.ud.entropy))
+df.ud.features.dl  <- merge(df.ud.all %>%
+                              filter((baseline == "Observed" | baseline == "Random") & sent_len_sq <= 15^2) %>%
+                              mutate(r=ifelse(baseline=="Random", 1, 0)) %>%
+                              group_by(language, sent_len_sq, r)  %>%
+                              summarize(avg_dep = mean(dep_length)) %>% 
+                              rename(Language=language), 
+                              df.ud.features) %>%
+  rename(SentLenSq=sent_len_sq, AvgDepLength = avg_dep)
+
+```
+
+## Dependency lengths by features, YouTube
+
+### Features excl. entropy at sentence lengths 5, 10, 15
+
+(Note: One dot per channel, hence multiple dots per language)
+
+```{r plot_depl_by_features_youdepp, include=T, echo=F, eval=T}
+
+ggplot(df.youdepp.features.dl %>% group_by(Language, File, Feature, Proportion, SentLenSq) %>% summarize(MeanDep = mean(AvgDepLength)) %>% filter(Feature!="Entropy" & (SentLenSq==25 | SentLenSq == 100 | SentLenSq==225 | SentLenSq==400)), aes(x=Proportion, y=MeanDep/sqrt(SentLenSq))) +
+  facet_grid(SentLenSq~Feature) +
+  geom_point(aes(color=Language)) +
+  stat_smooth(method="lm", formula=y~x, color="grey20", alpha=0.5) +
+  labs(title="", x="Proportion of Feature", y="Average Dependency Length per Word", color="Language") + 
+  theme(
+    panel.background = element_rect(fill="white", color="grey70"),
+    strip.background = element_rect(fill="grey90", color="grey70"),
+    text = element_text(size = 10),
+    legend.text = element_text(size = 10),
+    legend.title = element_text(size = 10),
+    legend.position ="bottom",
+    axis.ticks = element_line(colour = "grey70", size = 0.2),
+    panel.grid.major = element_line(colour = "grey70", size = 0.2),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+### Entropy at sentence lengths 5, 10, 15
+
+```{r plot_depl_by_entropy_youdepp, include=T, echo=F, eval=T}
+
+ggplot(df.youdepp.features.dl %>% group_by(Language, File, Feature, Proportion, SentLenSq) %>% summarize(MeanDep = mean(AvgDepLength)) %>% filter(Feature=="Entropy" & (SentLenSq==25 | SentLenSq == 100 | SentLenSq==225 | SentLenSq==400)), aes(x=Proportion, y=MeanDep/sqrt(SentLenSq))) +
+  facet_grid(SentLenSq~Feature) +
+  geom_point(aes(color=Language)) +
+  stat_smooth(method="lm", formula=y~x, color="grey20", alpha=0.5) +
+  labs(title="", x="Proportion of Feature", y="Average Dependency Length per Word", color="Language") + 
+  theme(
+    panel.background = element_rect(fill="white", color="grey70"),
+    strip.background = element_rect(fill="grey90", color="grey70"),
+    text = element_text(size = 10),
+    legend.text = element_text(size = 10),
+    legend.title = element_text(size = 10),
+    legend.position ="bottom",
+    axis.ticks = element_line(colour = "grey70", size = 0.2),
+    panel.grid.major = element_line(colour = "grey70", size = 0.2),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+## Dependency lengths by features, UD
+
+### Features excl. entropy at sentence lengths 5, 10, 15
+
+```{r plot_depl_by_features_ud, include=T, echo=F, eval=T}
+
+ggplot(df.ud.features.dl %>% group_by(Language, Feature, Proportion, SentLenSq) %>% summarize(MeanDep = mean(AvgDepLength)) %>% filter(Feature!="Entropy"), aes(x=Proportion, y=MeanDep/SentLenSq)) +
+  facet_grid(.~Feature) +
+  geom_point(aes(color=Language)) +
+  stat_smooth(method="lm", formula=y~x, color="grey20", alpha=0.5) +
+  labs(title="", x="Proportion of Feature", y="Average Dependency Length per Word", color="Language") + 
+  theme(
+    panel.background = element_rect(fill="white", color="grey70"),
+    strip.background = element_rect(fill="grey90", color="grey70"),
+    text = element_text(size = 10),
+    legend.text = element_text(size = 10),
+    legend.title = element_text(size = 10),
+    legend.position ="bottom",
+    axis.ticks = element_line(colour = "grey70", size = 0.2),
+    panel.grid.major = element_line(colour = "grey70", size = 0.2),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+### Entropy at sentence lengths 5, 10, 15
+
+```{r plot_depl_by_entropy_ud, include=T, echo=F, eval=T}
+
+ggplot(df.ud.features.dl %>% group_by(Language, Feature, Proportion, SentLenSq) %>% summarize(MeanDep = mean(AvgDepLength)) %>% filter(Feature=="Entropy" & (SentLenSq==25 | SentLenSq == 100 | SentLenSq==225 | SentLenSq==400)), aes(x=Proportion, y=MeanDep/sqrt(SentLenSq))) +
+  facet_grid(SentLenSq~Feature) +
+  geom_point(aes(color=Language)) +
+  stat_smooth(method="lm", formula=y~x, color="grey20", alpha=0.5) +
+  labs(title="", x="Proportion of Feature", y="Average Dependency Length per Word", color="Language") + 
+  theme(
+    panel.background = element_rect(fill="white", color="grey70"),
+    strip.background = element_rect(fill="grey90", color="grey70"),
+    text = element_text(size = 10),
+    legend.text = element_text(size = 10),
+    legend.title = element_text(size = 10),
+    legend.position ="bottom",
+    axis.ticks = element_line(colour = "grey70", size = 0.2),
+    panel.grid.major = element_line(colour = "grey70", size = 0.2),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+```{r difference_ud_youdepp, include=F, echo=F, eval=T}
+
+df.features.all <- bind_rows(list("Spoken" = df.youdepp.features.dl %>% select(-File) %>% mutate(r=as.double(r)), 
+                                  "Written" = df.ud.features.dl), .id="Modality")
+
+df.features.all.diff <- df.features.all %>% 
+  group_by(Modality, Language, SentLenSq, Feature) %>%
+  summarize(AvgDepLength=mean(AvgDepLength)/sqrt(SentLenSq), AvgProportion=mean(Proportion)) %>% ungroup() %>%
+  mutate(PropAdjusted = ifelse(Modality=="Written", -1 * AvgProportion, AvgProportion),
+         DepAdjusted  = ifelse(Modality=="Written", -1 * AvgDepLength, AvgDepLength)) %>%
+  group_by(Language, SentLenSq, Feature) %>%
+  summarize(DifferenceDep = sum(DepAdjusted), DifferenceProp = sum(PropAdjusted))
+
+df.features.all.diff
+
+```
+
+## Spoken v. Written plots
+
+(NOTE: I realized that since these aren't normalized and UD happens to always have shorter dependency lengths than YouTube (due to noise?) they probably aren't very interpretable without some kind of normalization.)
+
+### Features excl. ntropy at sentence lengths 5, 10, 15
+
+```{r difference_plot_ud_youdepp, include=T, echo=F, eval=T}
+
+ggplot(df.features.all.diff %>% filter((SentLenSq==25 | SentLenSq==100 | SentLenSq==225 | SentLenSq==400) & Feature!="Entropy"), aes(x=DifferenceProp, y=DifferenceDep)) +
+  facet_grid(Feature ~ SentLenSq) +
+  geom_hline(aes(yintercept=0), linetype="dashed") +
+  geom_vline(aes(xintercept=0), linetype="dashed") +
+  geom_point(aes(color=Language)) +
+  stat_smooth(method="lm", formula=y~x, color="grey20", alpha=0.5) +
+  labs(title="Difference Plots", x="Difference in Props", y="Difference in Dep Length\n(spoken - written)", color="Language") + 
+  theme(
+    panel.background = element_rect(fill="white", color="grey70"),
+    strip.background = element_rect(fill="grey90", color="grey70"),
+    text = element_text(size = 10),
+    legend.text = element_text(size = 15),
+    legend.title = element_text(size = 15),
+    legend.position ="bottom",
+    axis.ticks = element_line(colour = "grey70", size = 0.2),
+    panel.grid.major = element_line(colour = "grey70", size = 0.2),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+### Entropy at sentence lengths 5, 10, 15
+
+```{r difference_plot_ud_youdepp_entropy, include=T, echo=F, eval=T}
+
+ggplot(df.features.all.diff %>% filter((SentLenSq==25 | SentLenSq==100 | SentLenSq==225 | SentLenSq==400) & Feature=="Entropy"), aes(x=DifferenceProp, y=DifferenceDep)) +
+  facet_grid(Feature ~ SentLenSq) +
+  geom_hline(aes(yintercept=0), linetype="dashed") +
+  geom_vline(aes(xintercept=0), linetype="dashed") +
+  geom_point(aes(color=Language)) +
+  stat_smooth(method="lm", formula=y~x, color="grey20", alpha=0.5) +
+  labs(title="Difference Plots", x="Difference in Props", y="Difference in Dep Length\n(spoken - written)", color="Language") + 
+  theme(
+    panel.background = element_rect(fill="white", color="grey70"),
+    strip.background = element_rect(fill="grey90", color="grey70"),
+    text = element_text(size = 10),
+    legend.text = element_text(size = 15),
+    legend.title = element_text(size = 15),
+    legend.position ="bottom",
+    axis.ticks = element_line(colour = "grey70", size = 0.2),
+    panel.grid.major = element_line(colour = "grey70", size = 0.2),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+## Regressions
+
+### YouDePP + features
+
+```{r youdepp_feature_regressions}
+
+df.youdepp.features.dl.lm <- df.youdepp.features.dl %>% pivot_wider(names_from=Feature, values_from=Proportion) %>%
+  mutate(r=ifelse(r==0, 0, 1))
+
+# Get values per sentence as well?
+# This would be binary for the different sentence measures, a proportion for headedness
+
+lm.features.youdepp <- lmer(AvgDepLength ~ 
+                              r * SentLenSq + 
+                              VOnly + SubjectDrop + Intransitive + Headedness + scale(Entropy) + 
+                              (r:SentLenSq):VOnly + 
+                              (r:SentLenSq):SubjectDrop + 
+                              (r:SentLenSq):Intransitive + 
+                              (r:SentLenSq):Headedness + 
+                              (r:SentLenSq):scale(Entropy) + 
+                              (1 | Language) + (0 + r | Language) + (1 | File) + (0 + r | File), data=df.youdepp.features.dl.lm)
+
+lm.features.youdepp.noHeadedness <- lmer(AvgDepLength ~ 
+                              r * SentLenSq + 
+                              VOnly + SubjectDrop + Intransitive + scale(Entropy) + 
+                              (r:SentLenSq):VOnly + 
+                              (r:SentLenSq):SubjectDrop + 
+                              (r:SentLenSq):Intransitive + 
+                              (r:SentLenSq):scale(Entropy) + 
+                              (1 | Language) + (0 + r | Language) + (1 | File) + (0 + r | File), data=df.youdepp.features.dl.lm)
+
+anova(lm.features.youdepp, lm.features.youdepp.noHeadedness)
+
+summary(lm.features.youdepp)
+
+```
+
+### UD + features
+
+```{r ud_feature_regressions}
+
+df.ud.features.dl.lm <- df.ud.features.dl %>% pivot_wider(names_from=Feature, values_from=Proportion) %>%
+  mutate(r=ifelse(r==0, 0, 1))
+
+lm.features.ud <- lmer(AvgDepLength ~ 
+                              r * SentLenSq + 
+                              VOnly + SubjectDrop + Intransitive + Headedness + scale(Entropy) + 
+                              (r:SentLenSq):VOnly + 
+                              (r:SentLenSq):SubjectDrop + 
+                              (r:SentLenSq):Intransitive + 
+                              (r:SentLenSq):Headedness + 
+                              (r:SentLenSq):scale(Entropy) + 
+                              (1 | Language) + (0 + r | Language), data=df.ud.features.dl.lm)
+
+summary(lm.features.ud)
+
+```
+
+### Written vs. spoken + features
+
+```{r all_feature_regressions}
+
+df.all.features.dl.lm <- bind_rows(list("Written"=df.ud.features.dl.lm, "Spoken"=df.youdepp.features.dl.lm %>% select(-File)), .id="Modality") %>%
+  mutate(ModalitySpoken = ifelse(Modality=="Written", 0, 1))
+  
+lm.features.all <- lmer(AvgDepLength ~ 
+                              r * SentLenSq + ModalitySpoken + 
+                              (r:SentLenSq):ModalitySpoken + 
+                              VOnly + SubjectDrop + Intransitive + Headedness + scale(Entropy) + 
+                              ((r:SentLenSq):ModalitySpoken):VOnly + 
+                              ((r:SentLenSq):ModalitySpoken):SubjectDrop + 
+                              ((r:SentLenSq):ModalitySpoken):Intransitive + 
+                              ((r:SentLenSq):ModalitySpoken):Headedness + 
+                              ((r:SentLenSq):ModalitySpoken):scale(Entropy) + 
+                              (1 | Language) + (0 + r | Language), data=df.all.features.dl.lm)
+
+summary(lm.features.all)
+
+```
+

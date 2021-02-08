@@ -19,145 +19,29 @@ library(ghibli)
 
 ```{r load_data, include=FALSE}
 
-source("../scripts/rscripts/load_japanese.R")
-source("../scripts/rscripts/load_russian.R")
-source("../scripts/rscripts/load_turkish.R")
-source("../scripts/rscripts/load_korean.R")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/English.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/English_UD.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/English_auto.Rda")
 
-source("../scripts/rscripts/load_french.R")
-source("../scripts/rscripts/load_italian.R")
-source("../scripts/rscripts/load_english.R")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/French.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/French_UD.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/French_auto.Rda")
 
-source("../scripts/rscripts/load_french_auto.R")
-source("../scripts/rscripts/load_italian_auto.R")
-source("../scripts/rscripts/load_english_auto.R")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Italian.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Italian_UD.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Italian_auto.Rda")
 
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Japanese.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Japanese_UD.Rda")
 
-df.all.ja <- loadJapanese()
-df.all.ru <- loadRussian()
-df.all.tr <- loadTurkish()
-df.all.ko <- loadKorean()
-df.all.it <- loadItalian()
-df.all.fr <- loadFrench()
-df.all.en <- loadEnglish()
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Korean.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Korean_UD.Rda")
 
-# Auto-generated captions
-df.all.it.auto <- loadItalianAuto()
-df.all.fr.auto <- loadFrenchAuto()
-df.all.en.auto <- loadEnglishAuto()
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Turkish.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Turkish_UD.Rda")
 
-```
-
-```{r load_ud_data, include=FALSE}
-
-df.ja.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ja/ja_gsd_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.ja.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ja/ja_gsd_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.ja.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ja/ja_gsd_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.ja <- bind_rows(list("Observed"=df.ja.observed, "Optimal"=df.ja.optimal, 
-                           "Random"=df.ja.random),  .id = 'baseline')
-
-df.ru.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ru/ru_syntagrus_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.ru.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ru/ru_syntagrus_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.ru.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ru/ru_syntagrus_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.ru <- bind_rows(list("Observed"=df.ru.observed, "Optimal"=df.ru.optimal, 
-                           "Random"=df.ru.random),  .id = 'baseline')
-
-
-df.ar.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ar/ar_nyuad_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.ar.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ar/ar_nyuad_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.ar.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ar/ar_nyuad_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.ar <- bind_rows(list("Observed"=df.ar.observed, "Optimal"=df.ar.optimal, 
-                           "Random"=df.ar.random),  .id = 'baseline')
-
-
-df.ko.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ko/ko_gsd_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.ko.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ko/ko_gsd_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.ko.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/ko/ko_gsd_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.ko <- bind_rows(list("Observed"=df.ko.observed, "Optimal"=df.ko.optimal, 
-                           "Random"=df.ko.random),  .id = 'baseline')
-
-
-df.fr.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/fr/fr_gsd_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.fr.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/fr/fr_gsd_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.fr.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/fr/fr_gsd_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.fr <- bind_rows(list("Observed"=df.fr.observed, "Optimal"=df.fr.optimal, 
-                           "Random"=df.fr.random),  .id = 'baseline')
-
-
-df.it.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/it/it_isdt_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.it.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/it/it_isdt_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.it.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/it/it_isdt_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.it <- bind_rows(list("Observed"=df.it.observed, "Optimal"=df.it.optimal, 
-                           "Random"=df.it.random),  .id = 'baseline')
-
-df.tr.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/tr/tr_imst_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.tr.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/tr/tr_imst_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.tr.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/tr/tr_imst_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.tr <- bind_rows(list("Observed"=df.tr.observed, "Optimal"=df.tr.optimal, 
-                           "Random"=df.tr.random),  .id = 'baseline')
-
-df.en.observed <- data.frame(
-  read.table("../corpus/dependency_counts/ud/en/en_ewt_observed_dependencies.csv", 
-             header=TRUE, sep=","))
-df.en.optimal  <- data.frame(
-  read.table("../corpus/dependency_counts/ud/en/en_ewt_optimal_dependencies.csv",  
-             header=TRUE, sep=","))
-df.en.random   <- data.frame(
-  read.table("../corpus/dependency_counts/ud/en/en_ewt_random_dependencies.csv", 
-             header=TRUE, sep=","))
-
-df.ud.en <- bind_rows(list("Observed"=df.en.observed, "Optimal"=df.en.optimal, 
-                           "Random"=df.en.random),  .id = 'baseline')
-
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Russian.Rda")
+load(file="~/Documents/research/git-projects/YouDePP/data/rdata/Russian_UD.Rda")
 
 ```
 
@@ -182,7 +66,6 @@ df.ud.avg <- df.all.ud %>%
 
 # Observed-only averages
 df.ud.observed.avg <- df.ud.avg %>% filter(baseline=="Observed")
-
 
 ```
 
@@ -255,16 +138,19 @@ df.ud.all %>% group_by(language, corpus) %>% filter(baseline=="Observed" & total
 
 df.manual <- df.manual %>% mutate(languageN = if_else(language=="Japanese", "Japanese\nn=398522", if_else(language=="Korean", "Korean\nn=46258", if_else(language=="Russian", "Russian\nn=143151", if_else(language=="Turkish", "Turkish\nn=103952", if_else(language=="English", "English\nn=16293", if_else(language=="Italian", "Italian\nn=6693", if_else(language=="French", "French\nn=11955", ""))))))), "subtitle_type"="Manual")
 
-boxplot.manual <- ggplot(df.manual %>% filter(baseline == "Observed" & total_length <= 15), aes(x=languageN, y=total_length, fill=language)) +
-  geom_boxplot(show.legend=FALSE, outlier.shape=NA)  + 
-  scale_fill_manual(values=c("#a8b3ba","#a8b3ba","#a8b3ba","#a8b3ba","#a8b3ba","#a8b3ba","#a8b3ba")) + 
+boxplot.manual <- ggplot(df.manual %>% filter(baseline == "Observed" & total_length <= 15), aes(x=languageN, y=total_length, color=language, fill=language)) +
+  geom_boxplot(show.legend=FALSE, outlier.shape=NA, alpha=0.5)  + 
+  scale_fill_manual(values=c("#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d")) + 
+  scale_color_manual(values=c("#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d")) + 
   theme_bw() + 
   labs(title="", x="Language", y="Length of Utterance", color="") + 
   theme(
       text = element_text(size = 30),
       axis.ticks = element_line(colour = "grey70", size = 0.2),
       panel.grid.major = element_line(colour = "grey70", size = 0.2),
-      panel.grid.minor = element_blank()
+      panel.grid.minor = element_blank(),
+      panel.background = element_rect(fill="white", color="grey70"),
+      strip.background = element_rect(fill="grey90", color="grey70")
   ) +
   facet_grid(.~subtitle_type)
 
@@ -277,18 +163,23 @@ boxplot.manual
 
 df.auto %>% filter(baseline == "Observed" & total_length <= 15) %>% group_by(language) %>% summarize(count = n())
 
-df.auto.tmp <- df.auto %>% mutate(languageN = if_else(language=="English", "English\nn=570369", if_else(language=="French", "French\nn=399301", if_else(language=="Italian", "Italian\nn=425788",  ""))))
+df.auto.tmp <- df.auto %>% 
+  mutate(languageN = if_else(language=="English", "English\nn=570369", if_else(language=="French", "French\nn=399301", if_else(language=="Italian", "Italian\nn=425788",  ""))), 
+         subtitle_type="Auto-generated")
 
-boxplot.auto <- ggplot(df.auto.tmp %>% filter(baseline == "Observed" & total_length <= 15), aes(x=languageN, y=total_length, fill=language)) +
-  geom_boxplot(show.legend=FALSE, outlier.shape=NA)  + 
-  scale_fill_manual(values=c("#a8b3ba", "#a8b3ba", "#a8b3ba")) + 
+boxplot.auto <- ggplot(df.auto.tmp %>% filter(baseline == "Observed" & total_length <= 15), aes(x=languageN, y=total_length, color=language, fill=language)) +
+  geom_violin(show.legend=FALSE, outlier.shape=NA, alpha=0.5)  + 
+  scale_fill_manual(values=c("#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d")) + 
+  scale_color_manual(values=c("#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d","#61c75d")) + 
   theme_bw() + 
   labs(title="", x="Language", y="Length of Utterance", color="") + 
   theme(
       text = element_text(size = 30),
       axis.ticks = element_line(colour = "grey70", size = 0.2),
       panel.grid.major = element_line(colour = "grey70", size = 0.2),
-      panel.grid.minor = element_blank()
+      panel.grid.minor = element_blank(),
+      panel.background = element_rect(fill="white", color="grey70"),
+      strip.background = element_rect(fill="grey90", color="grey70")
   ) +
   facet_grid(.~subtitle_type)
 
@@ -392,8 +283,9 @@ df.auto.lm$subtitle_type <- factor(df.auto.lm$subtitle_type)
 
 print("ITALIAN AUTO")
 
-lm.it.auto <- lmer(dep_length ~ sent_len_sq * baseline * subtitle_type + (1 | sentence_uid), data = (df.auto.lm %>% filter(language == "Italian")))
-lm.it.auto.reduced <- lmer(dep_length ~ sent_len_sq + baseline + subtitle_type + subtitle_type:sent_len_sq + baseline:sent_len_sq + baseline:subtitle_type + (1| sentence_uid), data = (df.auto.lm %>% filter(language == "Italian")))
+lm.it.auto <- lmer(dep_length ~ sent_len_sq * baseline * subtitle_type + (1 | sentence_uid), data = (df.auto.lm %>% filter(language == "Italian")), control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
+
+lm.it.auto.reduced <- lmer(dep_length ~ sent_len_sq + baseline + subtitle_type + subtitle_type:sent_len_sq + baseline:sent_len_sq + baseline:subtitle_type + (1| sentence_uid), data = (df.auto.lm %>% filter(language == "Italian")), control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
 
 anova(lm.it.auto, lm.it.auto.reduced)
 summary(lm.it.auto)
@@ -495,14 +387,9 @@ df.lm.it.all.avg <- df.lm.it.all %>% group_by(corpus, baseline, total_length) %>
 
 print("FRENCH MODEL")
 
-#df.ud.manual.gam <- df.ud.manual.lm %>% mutate(corpus=if_else(corpus=="YouDePP", 0, 1), baseline=if_else(baseline=="Random", 0, 1))
-#lm.fr.ud <- gam(dep_length ~ s(log(total_length)) + corpus + baseline, method="REML", data=(df.ud.manual.gam %>% filter(language == "French")))
-
-#Plotting the Model
-#par(mfrow=c(1,3)) #to partition the Plotting Window
-#plot(lm.fr.ud,se = TRUE) 
-#se stands for standard error Bands
 df.fr.lm.man <- df.ud.manual.lm %>% filter(language == "French")
+df.ud.manual.lm %>% group_by(baseline, corpus) %>% summarize(count=n())
+
 lm.fr.ud.man <- lmer(dep_length ~ sent_len_sq * baseline * corpus + (1 | sentence_uid), data=df.fr.lm.man)
 lm.fr.ud.man.reduced <- lmer(dep_length ~ sent_len_sq + baseline + corpus + corpus:sent_len_sq + baseline:sent_len_sq + baseline:corpus + (1| sentence_uid), data=df.fr.lm.man)
 
@@ -516,6 +403,8 @@ summary(lm.fr.ud.man)
 print("FRENCH MODEL ALL")
 
 df.lm.fr.all <- df.ud.all.lm %>% filter(language == "French")
+df.ud.all.lm %>% group_by(baseline, corpus) %>% summarize(count=n())
+
 lm.fr.ud.all <- lmer(dep_length ~ sent_len_sq * baseline * corpus + (1 | sentence_uid), data=df.lm.fr.all)
 lm.fr.ud.all.reduced <- lmer(dep_length ~ sent_len_sq + baseline + corpus + corpus:sent_len_sq + baseline:sent_len_sq + baseline:corpus + (1| sentence_uid), data=df.lm.fr.all)
 
