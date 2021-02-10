@@ -8,7 +8,16 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+
 def scroll_channel(driver, pause_time):
+    """Scroll the channel to load more videos.
+
+    :param driver: A WebDriver object
+    :param pause_time: Time to wait before scrolling again
+
+    :return continue: 1 if scroll was successful, 0 if page bottom has been reached
+    """
+
     # Get scroll height
     last_height = driver.execute_script('return document.querySelector("#page-manager").scrollHeight')
 
@@ -26,6 +35,14 @@ def scroll_channel(driver, pause_time):
 
 
 def get_links(driver, url, cutoff):
+    """Scrape the URLs from a YouTube channel.
+
+    :param driver: A WebDriver object
+    :param url: URL of the channel's videos page
+    :param cutoff: Limit scrolling to N attempts
+
+    :return continue: 1 if scroll was successful, 0 if page bottom has been reached
+    """
 
     # Load the page
     driver.get(url)
@@ -44,11 +61,20 @@ def get_links(driver, url, cutoff):
         elements = driver.find_elements_by_xpath('//*[@id="video-title"]')
         return [(element.get_attribute('href'), element.get_attribute('aria-label'))  for element in elements]
 
+
 def save_videos(links, language, channel_name):
+    """Scrape the URLs from a YouTube channel.
+
+    :param links: A list of video URLs
+    :param language: The language code corresponding to the channel's audio
+    :param channel_name: The name of the channel
+    """
+
     with open(path.join("corpus", "channel_data", language, channel_name + '.txt'), 'w', encoding="utf-8") as out_file:
         for link in links:
             url, label = link
             out_file.write("{0}\t{1}\n".format(url, label))
+
 
 def main(args):
 
@@ -64,6 +90,7 @@ def main(args):
     logging.info("Found {0} videos".format(str(len(links))))
 
     save_videos(links, args.language, args.channel)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Scrape video URLs from a YouTube channel.')

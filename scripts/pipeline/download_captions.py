@@ -61,16 +61,13 @@ def write_audio(audio, video, position, dataset=None, include_title=False, inclu
 
     safe_title = helpers.safe_filename(video.title)
     safe_author = helpers.safe_filename(video.author)
-    out_path = ""
 
-    path_list = ["corpus", "raw_audio"]
-    if(dataset):
-        path_list.append(dataset)
+    out_path = path.join("corpus", "raw_audio")
+    if dataset is not None:
+        out_path = path.join(out_path, dataset)
 
     if(include_channel):
-        path_list.append(video.author)
-
-    out_path = path.join(path_list)
+        out_path = path.join(out_path, video.author)
 
     if not path.exists(out_path):
         makedirs(out_path)

@@ -12,7 +12,7 @@ particles = ['は', 'に', 'で', 'には', 'では', 'が', 'を', 'へ', 'へ�
 
 """ Word order helper functions """
 
-# Check if the verb has a subject.
+# Check if the verb has a subject
 def has_subj(verb_index, sentence):
 
     subj = {}
@@ -23,7 +23,7 @@ def has_subj(verb_index, sentence):
 
     return subj
 
-# Check if the verb has an object.
+# Check if the verb has an object
 def has_obj(verb_index, sentence):
 
     obj = {}
@@ -34,7 +34,7 @@ def has_obj(verb_index, sentence):
 
     return obj
 
-# Check if the verb has a complement clause.
+# Check if the verb has a complement clause
 def has_comp(verb_index, sentence):
 
     comp = {}
@@ -45,7 +45,7 @@ def has_comp(verb_index, sentence):
 
     return comp
 
-# Check if the verb is in a V conj V relation.
+# Check if the verb is in a V conj V relation
 def has_conj(verb_index, sentence):
 
     conj = {}
@@ -56,7 +56,7 @@ def has_conj(verb_index, sentence):
 
     return conj
 
-# Check if the verb has an auxiliary dependent.
+# Check if the verb has an auxiliary dependent
 def has_aux(verb_index, sentence):
     aux = {}
 
@@ -66,7 +66,7 @@ def has_aux(verb_index, sentence):
 
     return aux
 
-# Determine the order of the sentence in terms of {S, O, V} (or a subset thereof).
+# Determine the order of the sentence in terms of {S, O, V} (or a subset thereof)
 def determine_order(subj, obj, verb):
 
     # No expressed arguments
@@ -87,7 +87,7 @@ def determine_order(subj, obj, verb):
         else:
             return 'vs'
 
-    # Transitive; must check all possibilities?
+    # Transitive; must check all possibilities
     else:
         if subj < obj  and obj  < verb:
             return 'sov'
