@@ -30,15 +30,23 @@ In addition, `--cutoff` allows the user to specify how many times the script sho
 
 ### Downloading captions and audio
 
-`download_captions.py` downloads the caption tracks (and optionally, audio) from a list of YouTube videos.
+`download_captions.py` downloads the caption tracks (and optionally, audio) from a list of YouTube videos. Additionally, this script generates a CSV file that includes metada for each scraped video, including its title, description, rating, tags, and so on.
 
 Usage:
 
 ```{bash}
 download_captions.py [-h] [--language LANGUAGE] [--group $GroupName] [--auto] [--audio]
                             [--titles] [--channels] [--srt] [--resume $n] [--limit $n]
-                            urls_in
+                            $URLFile
 ```
+
+`URLFile` should be a file containing a list of video URLs, one URL per line. Output from `scrape_yt.py` also includes the channel name (as it appears on the channel's page) and the channel's unique ID (as it appears in the channel's URL) and is tab-delimited; however, this information can be ommitted. Thus, the expected format of each line of the input file is as follows:
+
+`$URL`
+
+*or* 
+
+`$URL\t$ChannelName$\t$ChannelID`
 
 By default, all manually-created caption tracks will be downloaded. If a language (e.g. "English", "Korean") is specified with `--language` (or `-l`), only caption tracks that include this language in their name will be downloaded. To include automatic captions, as well, the flag `-a` or `--auto` can be used.
 
