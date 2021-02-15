@@ -198,7 +198,11 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
                 continue
 
             # Get URL and title
-            url = url_data.strip('\n')
+            # TODO: Fix Rachel Kim problem
+            try:
+                (url, channel_name, channel_id) = url_data.strip('\n').split('\t')
+            except:
+                url = url_data.strip('\n')
 
             # Try to load the video
             try:
