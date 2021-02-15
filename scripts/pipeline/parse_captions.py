@@ -5,15 +5,6 @@ from os import path, makedirs, getcwd
 from sys import stdout
 
 
-# Parse the video ID from the filename
-# IDs are assumed to be the second component of the filename as delineated by "_"
-def get_video_id(type, video_fn):
-    if type == "manual":
-        return path.split(video_fn)[1].split('_')[0]
-    else:
-        return path.split(video_fn)[1].split('_')[1]
-
-
 def main(args):
     subtitles_fns = sorted(glob(path.join("corpus", "processed_subtitles", args.caption_type, args.language, args.channel, "*.srt")))
     if(len(subtitles_fns) == 0):
@@ -30,14 +21,16 @@ def parse_files(nlp, channel, language, type, start, end, subtitles_fns):
     if not path.exists(dep_path):
         makedirs(dep_path)
 
+    video_count = 0
     for subtitles_fn in subtitles_fns:
-        video_id = get_video_id(type, subtitles_fn)
-        if(int(video_id, 10) < start or (end != -1 and int(video_id, 10) > end)):
+        if(video_count < start:
             continue
+        if end != -1 and video_count > end:
+            break
 
         logging.info("Processing {1}: {0}".format(subtitles_fn, video_id))
-        parse_file(nlp, subtitles_fn, channel, video_id, dep_path)
-
+        parse_file(nlp, subtitles_fn, channel, video_count, dep_path)
+        video_count += 1
 
 def parse_file(nlp, subtitles_fn, channel, video_id, dep_path):
 
