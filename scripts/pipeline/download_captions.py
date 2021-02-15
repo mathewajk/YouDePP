@@ -2,15 +2,18 @@ import argparse, logging
 from csv import DictWriter
 from pytube import YouTube, exceptions, helpers
 from os import makedirs, path
+from re import sub
 from time import sleep
 from sys import argv
 
 
-def write_captions(captions, video, position, group=None, convert_srt=False, include_title=False, include_channel=False):
+def write_captions(captions, video, position, channel_name="", channel_id="", group=None, convert_srt=False, include_title=False, include_channel=False):
     """Write Caption object to a file. If an output folder is not specified, captions will be placed in a folder corresponding to the name of the video's author (i.e. channel).
 
     :param captions: The Caption track to download
     :param position: Channel-wise position of the video in the url list
+    :param channel_name: The name of the channel as given on its main page (default "")
+    :param channel_id: The name of the channel as it appears in the channel's URL (default "")
     :param group: The folder to output the caption track to (default None)
     :param convert_srt: Convert captions from XML to SRT format (default False)
     :param include_title: Include video title in caption filename (default True)
@@ -20,7 +23,6 @@ def write_captions(captions, video, position, group=None, convert_srt=False, inc
     """
 
     safe_title = helpers.safe_filename(video.title)
-    safe_author = helpers.safe_filename(video.author)
     out_path = ""
 
     out_path = path.join("corpus", "raw_subtitles")
@@ -32,8 +34,16 @@ def write_captions(captions, video, position, group=None, convert_srt=False, inc
     else:
         out_path = path.join(out_path, "manual", captions.code)
 
+
+    if channel_name and channel_id:
+        punc_and_whitespace = "[\s\_\-\.\?\!,;:'\"\\\/]+"
+        safe_channel_name = sub(punc_and_whitespace, "", channel_name)
+        safe_author = "{0}_{1}".format(safe_channel_name, channel_id)
+    else:
+        safe_author = helpers.safe_filename(video.author)
+
     if(include_channel):
-        out_path = path.join(out_path, video.author)
+        out_path = path.join(out_path, safe_author)
 
     if not path.exists(out_path):
         makedirs(out_path)
@@ -49,11 +59,13 @@ def write_captions(captions, video, position, group=None, convert_srt=False, inc
         return 0
 
 
-def write_audio(audio, video, position, group=None, include_title=False, include_channel=False):
+def write_audio(audio, video, position, channel_name="", channel_id="", group=None, include_title=False, include_channel=False):
     """Write audio Stream object to a file. If an output folder is not specified, audio will be placed in a folder corresponding to the name of the video's author (i.e. channel).
 
     :param audio: The audio Stream to download
     :param position: Channel-wise position of the video in the url list
+    :param channel_name: The name of the channel as given on its main page (default "")
+    :param channel_id: The name of the channel as it appears in the channel's URL (default "")
     :param group: The folder to output the audio stream to (default None)
     :param include_title: Include video title in audio filename (default True)
     :param include_channel: Save file to channel subfolder (default False)
@@ -67,7 +79,12 @@ def write_audio(audio, video, position, group=None, include_title=False, include
         out_path = path.join(out_path, group)
 
     if(include_channel):
-        out_path = path.join(out_path, video.author)
+        if channel_name and channel_id:
+            punc_and_whitespace = "[\s\_\-\.\?\!,;:'\"\\\/]+"
+            safe_channel_name = sub(punc_and_whitespace, "", channel_name)
+            out_path = path.join(out_path, "{0}_{1}".format(safe_channel_name, channel_id))
+        else:
+            out_path = path.join(out_path, video.author)
 
     if not path.exists(out_path):
         makedirs(out_path)
@@ -82,11 +99,13 @@ def write_audio(audio, video, position, group=None, include_title=False, include
         logging.critical("Video {0}: Could not save audio stream for video {0} from channel {1} ({2})".format(position, video.author, video.title))
 
 
-def write_captions_by_language(video, position, language=None, group=None, include_auto=False, convert_srt=False, include_title=False, include_channel=False):
+def write_captions_by_language(video, position, channel_name="", channel_id="", language=None, group=None, include_auto=False, convert_srt=False, include_title=False, include_channel=False):
     """Filter captions by language and write each caption track to a file. If no language is specified, all caption tracks will be downloaded.
 
     :param video: The YouTube object to download caption tracks from
     :param position: Channel-wise position of the video in the url list
+    :param channel_name: The name of the channel as given on its main page (default "")
+    :param channel_id: The name of the channel as it appears in the channel's URL (default "")
     :param language: The language to download caption tracks for (default None)
     :param group: The folder to output the caption track to (default None)
     :param convert_srt: Convert captions from XML to SRT format (default False)
@@ -99,25 +118,29 @@ def write_captions_by_language(video, position, language=None, group=None, inclu
     caption_list = []
     for track in video.captions:
         if language is None or (language in track.name and (include_auto or "a." not in track.code)):
-            success = write_captions(track, video, position, group, convert_srt, include_title, include_channel)
+            success = write_captions(track, video, position, channel_name, channel_id, group, convert_srt, include_title, include_channel)
             if success:
                 caption_list.append((track.code, track.name))
             sleep(1)
     return caption_list
 
 
-def write_metadata(video, position, caption_list, log_writer):
+def write_metadata(video, position, caption_list, log_writer, channel_name="", channel_id=""):
     """Write video metadata to log file.
 
     :param video: The YouTube object to log
     :param position: Channel-wise position of the video in the url list
     :param caption_list: A list of successfully-downloaded captions
     :param log_writer: DictWriter to use for writing metadata
+    :param channel_name: The name of the channel as given on its main page (default "")
+    :param channel_id: The name of the channel as it appears in the channel's URL (default "")
     """
 
     metadata = {
         "position": position,
         "author": video.author,
+        "name": channel_name,
+        "ID": channel_id,
         "title": video.title,
         "description": video.description.replace('\n', ' '),
         "keywords": video.keywords,
@@ -131,10 +154,12 @@ def write_metadata(video, position, caption_list, log_writer):
     log_writer.writerow(metadata)
 
 
-def process_video(video, channel_dict, log_writer, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_title=False, include_channels=False):
+def process_video(video, channel_dict, log_writer, channel_name=None, channel_id=None, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_title=False, include_channels=False):
     """Download captions, audio (optional), and metadata for a given video.
 
     :param video: The YouTube object to process
+    :param channel_name: The name of the channel as given on its main page (default None)
+    :param channel_id: The name of the channel as it appears in the channel's URL (default None)
     :param position: Channel-wise position of the video in the url list
     :param language: The language to download caption tracks for (default None)
     :param group: The folder to output the caption track to (default None)
@@ -150,14 +175,14 @@ def process_video(video, channel_dict, log_writer, language=None, group=None, in
 
     position = channel_dict[video.author]
 
-    caption_list = write_captions_by_language(video, position, language, group, include_auto, convert_srt, include_title, include_channels)
+    caption_list = write_captions_by_language(video, position, channel_name, channel_id, language, group, include_auto, convert_srt, include_title, include_channels)
 
     if include_audio:
         audio = video.streams.filter(mime_type="audio/mp4").first()
-        write_audio(audio, video, position, group, include_title, include_channels)
+        write_audio(audio, video, position, channel_name, channel_id, group, include_title, include_channels)
 
     if len(caption_list):
-        write_metadata(video, position, caption_list, log_writer)
+        write_metadata(video, position, caption_list, log_writer, channel_name, channel_id)
 
     return channel_dict
 
@@ -166,6 +191,8 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
     """Download captions, audio (optional), and metadata for a list of videos.
 
     :param video: Path to a file containing the list of URLs to process
+    :param channel_name: The name of the channel as given on its main page (default None)
+    :param channel_id: The name of the channel as it appears in the channel's URL (default None)
     :param language: The language to download caption tracks for (default None)
     :param group: The subfolder to output the caption and audio tracks to (default None)
     :param include_audio: Download audio in addition to captions (default False)
@@ -197,12 +224,17 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
             if(video_count < resume_from):
                 continue
 
+            url_data = url_data.strip('\n').split('\t')
             # Get URL and title
-            # TODO: Fix Rachel Kim problem
-            try:
-                (url, channel_name, channel_id) = url_data.strip('\n').split('\t')
-            except:
-                url = url_data.strip('\n')
+            if len(url_data) == 3:
+                (url, channel_name, channel_id) = url_data
+            elif len(url_data) == 1:
+                url = url_data[0]
+                channel_name=None
+                channel_id=None
+            else:
+                logging.critical("Invalid file format")
+                exit(2)
 
             # Try to load the video
             try:
@@ -217,7 +249,7 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
                 logging.critical("Video {0}: An unexpected error occured ({1})".format(id, url))
                 continue
 
-            process_video(video, channel_dict, log_writer, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
+            process_video(video, channel_dict, log_writer, channel_name, channel_id, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
 
             if limit_to != -1 and video_count == resume_from + limit_to:
                 print("Limit reached; halting")
@@ -249,7 +281,7 @@ if __name__ == '__main__':
     parser.add_argument('urls_in', type=str, help='path to a file containing the URLs to scrape')
 
     parser.add_argument('--language', '-l', default=None, type=str, help='filter captions by language name (e.g. "Korean"); if unspecified, all captions will be downloaded')
-    parser.add_argument('--group',  '-n', default=None, metavar='NAME', type=str, help='a name for the group; if unspecified, channel names will be used')
+    parser.add_argument('--group',    '-g', default=None, metavar='NAME', type=str, help='a name for the group; if unspecified, channel names will be used')
 
     parser.add_argument('--auto',     '-a', action='store_true', default=False, help='include automatically-generated captions')
     parser.add_argument('--audio',    '-s', action='store_true', default=False, help='download audio')
