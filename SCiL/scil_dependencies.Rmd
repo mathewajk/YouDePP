@@ -1046,20 +1046,21 @@ gg.ud.youdepp.svo <- ggplot(df.ud.all.avg %>% filter(language != "Japanese" & la
 gg.ud.youdepp.svo <- gg.ud.youdepp.svo + 
   stat_bin_hex(data=df.ud.all.observed %>% filter(language != "Japanese" & language != "Korean" & language != "Turkish"), 
                bins=50, binwidth = c(1, 10), show.legend=FALSE, inherit.aes=FALSE, 
-               aes(y=dep_length, x=total_length, alpha=log(..density..)), fill="#808b8b")
+               aes(y=dep_length, x=total_length, alpha=log(..density..)), fill="#c6d6d6")
 
 # GAMM fits
 gg.ud.youdepp.svo <- gg.ud.youdepp.svo + 
   geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-  scale_color_manual(values=c("#61c75d", "#3d4f8d", "#46a1d8"), labels=c("Random", "Optimal", "Observed"))
+  scale_color_manual(values=c("#86c300", "#736ef6", "#43abea"), labels=c("Random", "Optimal", "Observed"))
 
 # Theme
-gg.ud.youdepp.svo <- gg.ud.youdepp.svo +  
+gg.ud.youdepp.svo <- gg.ud.youdepp.svo + 
   facet_grid(language ~ corpus) +
   labs(title="", x="Sentence Length", y="Total Dependency Length", color="Baseline", linetype="Corpus") + 
-  gg_theme()
+  gg_theme() + 
+  theme(legend.position = "bottom")
 
-ggsave("../data/plots/ud_youdepp_comparison_1.png", plot=gg.ud.youdepp.svo, device="png", dpi = 300, height=8.95, width=7)
+ggsave("../data/plots/ud_youdepp_comparison_1.png", plot=gg.ud.youdepp.svo, device="png", dpi = 300, height=9, width=8)
 gg.ud.youdepp.svo
 
 ```
@@ -1074,20 +1075,21 @@ gg.ud.youdepp.sov <- ggplot((df.ud.all.avg %>% filter(total_length <= 15 & (lang
 gg.ud.youdepp.sov <- gg.ud.youdepp.sov + 
   stat_bin_hex(data=df.ud.all.observed %>% filter(total_length <= 15 & (language == "Japanese" | language == "Korean" | language == "Turkish")),
                bins=50, binwidth = c(1, 10), show.legend=FALSE, inherit.aes=FALSE, 
-               aes(y=dep_length, x=total_length, alpha=log(..density..)), fill="#808b8b")
+               aes(y=dep_length, x=total_length, alpha=log(..density..)), fill="#c6d6d6")
 
 # GAMM fits
 gg.ud.youdepp.sov <- gg.ud.youdepp.sov + 
   geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-  scale_color_manual(values=c("#61c75d", "#3d4f8d", "#46a1d8"), labels=c("Random", "Optimal", "Observed"))
+  scale_color_manual(values=c("#86c300", "#736ef6", "#43abea"), labels=c("Random", "Optimal", "Observed"))
 
 # Theme
-gg.ud.youdepp.sov <- gg.ud.youdepp.sov +  
+gg.ud.youdepp.sov <- gg.ud.youdepp.sov + 
   facet_grid(language ~ corpus) +
   labs(title="", x="Sentence Length", y="Total Dependency Length", color="Baseline", linetype="Corpus") + 
-  gg_theme()
+  gg_theme()# + 
+  #theme(legend.position = "bottom")
 
-ggsave("../data/plots/ud_youdepp_comparison_1.png", plot=gg.ud.youdepp.sov, device="png", dpi = 300, height=8.95, width=7)
+ggsave("../data/plots/ud_youdepp_comparison_2.png", plot=gg.ud.youdepp.sov, device="png", dpi = 300, height=7.5, width=8)
 gg.ud.youdepp.sov
 ```
 
