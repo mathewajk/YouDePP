@@ -16,41 +16,55 @@ def remove_emoji(text):
 def main(args):
 
     # Get all .srt files for the specified language and channel
-    # Files are sorted numerically by initial number
-    captions_fns = sorted(glob(path.join("corpus", "raw_subtitles", args.language, args.channel, "*.srt")), key=get_video_id)
-    if(len(captions_fns) == 0):
+
+    if(args.group):
+        captions_fns_auto = glob(path.join("corpus", "raw_subtitles", args.group, args.language, "auto", args.channel, "*.srt"))
+        captions_fns_manual = glob(path.join("corpus", "raw_subtitles", args.group, args.language, "manual", args.channel, "*.srt"))
+    else:
+        captions_fns_auto = glob(path.join("corpus", "raw_subtitles", args.language, "auto", args.channel, "*.srt"))
+        captions_fns_manual = glob(path.join("corpus", "raw_subtitles", args.language, "manual", args.channel, "*.srt"))
+
+    if(len(captions_fns_auto) == 0 and len(captions_fns_manual) == 0):
         print("ERROR: No SRT files found. Did you spell the channel name correctly?")
         return
 
-    process_caption_files(args.channel, args.language, captions_fns, args.start, args.end)
-
-
-# Parse the video ID from the filename
-# IDs are assumed to be the first component of the filename as delineated by "_"
-def get_video_id(video_fn):
-    return path.split(video_fn)[1].split('_')[0]
+    if len(captions_fns_auto) != 0:
+        process_caption_files(args.channel, args.language, captions_fns_auto, args.start, args.end, args.group, auto=True)
+    if len(captions_fns_manual) != 0:
+        process_caption_files(args.channel, args.language, captions_fns_manual, args.start, args.end, args.group, auto=False)
 
 
 # Clean up caption files
 # Processing differs based on the language specified
-def process_caption_files(channel, language, captions_fns, start, end):
+def process_caption_files(channel, language, captions_fns, start, end, group=None, auto=False):
 
-    out_path = path.join("corpus", "processed_subtitles", "auto", language, channel)
+    out_path = path.join("corpus", "processed_subtitles", "auto_processed")
+
+    if group:
+        out_path = path.join(out_path, group)
+
+    out_path = path.join(out_path, language)
+
+    if auto:
+        out_path = path.join(out_path, "auto")
+    else:
+        out_path = path.join(out_path, "manual")
+
+    out_path = path.join(out_path, channel)
 
     if not path.exists(out_path):
         makedirs(out_path)
 
-
     video_count = 0
     for captions_fn in captions_fns:
-        video_id = get_video_id(captions_fn)
-        if(int(video_id, 10) < start or (end != -1 and int(video_id, 10) > end)):
+        if video_count < start:
             continue
+        if end != -1 and video_count > end:
+            break
 
-        out_fn = "_".join([channel, video_id, "processed", "auto"])
+        out_fn = "{0}_processed.txt".format(path.splitext(path.split(captions_fn)[1])[0])
 
         logging.info("Processing file: {0}".format(captions_fn))
-        logging.info("Video ID: {0}".format(video_id))
         logging.info("Output file: {0}".format(out_fn))
 
         with open(captions_fn, "r") as captions_in:
@@ -109,13 +123,8 @@ def process_captions(captions, channel, language):
 
 def process_captions_ja(captions):
     for line in captions:
-
-        line = line.strip()
-
-        if line and not re.search("^[0-9]", line):
-
-                #print("Initial: " + line)
-
+        if line and not re.search("^[0-9]([0-9:,\-\ >])*\n", line):
+                line = line.strip()
                 # Remove emoji
                 line = remove_emoji(line)
 
@@ -179,8 +188,9 @@ if __name__ == '__main__':
 
     parser.add_argument('channel', type=str, help='a friendly name for the channel')
     parser.add_argument('language', type=str, help='language code')
+    parser.add_argument('--group', '-g', default=None, type=str, help='grouping folder')
 
-    parser.add_argument('-s', '--start', default=1, type=int, help='video to start from')
+    parser.add_argument('-s', '--start', default=0, type=int, help='video to start from')
     parser.add_argument('-e', '--end', default=-1, type=int, help='video to stop at')
 
     parser.add_argument('--log', action='store_true', default=False, help='log events to file')
