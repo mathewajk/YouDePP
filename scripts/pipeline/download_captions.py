@@ -6,12 +6,12 @@ from time import sleep
 from sys import argv
 
 
-def write_captions(captions, video, position, dataset=None, convert_srt=False, include_title=False, include_channel=False):
+def write_captions(captions, video, position, group=None, convert_srt=False, include_title=False, include_channel=False):
     """Write Caption object to a file. If an output folder is not specified, captions will be placed in a folder corresponding to the name of the video's author (i.e. channel).
 
     :param captions: The Caption track to download
     :param position: Channel-wise position of the video in the url list
-    :param dataset: The folder to output the caption track to (default None)
+    :param group: The folder to output the caption track to (default None)
     :param convert_srt: Convert captions from XML to SRT format (default False)
     :param include_title: Include video title in caption filename (default True)
     :param include_channel: Save file to channel subfolder (default False)
@@ -24,8 +24,8 @@ def write_captions(captions, video, position, dataset=None, convert_srt=False, i
     out_path = ""
 
     out_path = path.join("corpus", "raw_subtitles")
-    if dataset is not None:
-        out_path = path.join(out_path, dataset)
+    if group is not None:
+        out_path = path.join(out_path, group)
 
     if "a." in captions.code:
         out_path = path.join(out_path, "auto", captions.code.split(".")[1])
@@ -49,12 +49,12 @@ def write_captions(captions, video, position, dataset=None, convert_srt=False, i
         return 0
 
 
-def write_audio(audio, video, position, dataset=None, include_title=False, include_channel=False):
+def write_audio(audio, video, position, group=None, include_title=False, include_channel=False):
     """Write audio Stream object to a file. If an output folder is not specified, audio will be placed in a folder corresponding to the name of the video's author (i.e. channel).
 
     :param audio: The audio Stream to download
     :param position: Channel-wise position of the video in the url list
-    :param dataset: The folder to output the audio stream to (default None)
+    :param group: The folder to output the audio stream to (default None)
     :param include_title: Include video title in audio filename (default True)
     :param include_channel: Save file to channel subfolder (default False)
     """
@@ -63,8 +63,8 @@ def write_audio(audio, video, position, dataset=None, include_title=False, inclu
     safe_author = helpers.safe_filename(video.author)
 
     out_path = path.join("corpus", "raw_audio")
-    if dataset is not None:
-        out_path = path.join(out_path, dataset)
+    if group is not None:
+        out_path = path.join(out_path, group)
 
     if(include_channel):
         out_path = path.join(out_path, video.author)
@@ -82,13 +82,13 @@ def write_audio(audio, video, position, dataset=None, include_title=False, inclu
         logging.critical("Video {0}: Could not save audio stream for video {0} from channel {1} ({2})".format(position, video.author, video.title))
 
 
-def write_captions_by_language(video, position, language=None, dataset=None, include_auto=False, convert_srt=False, include_title=False, include_channel=False):
+def write_captions_by_language(video, position, language=None, group=None, include_auto=False, convert_srt=False, include_title=False, include_channel=False):
     """Filter captions by language and write each caption track to a file. If no language is specified, all caption tracks will be downloaded.
 
     :param video: The YouTube object to download caption tracks from
     :param position: Channel-wise position of the video in the url list
     :param language: The language to download caption tracks for (default None)
-    :param dataset: The folder to output the caption track to (default None)
+    :param group: The folder to output the caption track to (default None)
     :param convert_srt: Convert captions from XML to SRT format (default False)
     :param include_title: Include video title in caption filename (default False)
     :param include_channel: Download caption tracks to channel subfolder (default False)
@@ -99,7 +99,7 @@ def write_captions_by_language(video, position, language=None, dataset=None, inc
     caption_list = []
     for track in video.captions:
         if language is None or (language in track.name and (include_auto or "a." not in track.code)):
-            success = write_captions(track, video, position, dataset, convert_srt, include_title, include_channel)
+            success = write_captions(track, video, position, group, convert_srt, include_title, include_channel)
             if success:
                 caption_list.append((track.code, track.name))
             sleep(1)
@@ -131,13 +131,13 @@ def write_metadata(video, position, caption_list, log_writer):
     log_writer.writerow(metadata)
 
 
-def process_video(video, channel_dict, log_writer, language=None, dataset=None, include_audio=False, include_auto=False, convert_srt=False, include_title=False, include_channels=False):
+def process_video(video, channel_dict, log_writer, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_title=False, include_channels=False):
     """Download captions, audio (optional), and metadata for a given video.
 
     :param video: The YouTube object to process
     :param position: Channel-wise position of the video in the url list
     :param language: The language to download caption tracks for (default None)
-    :param dataset: The folder to output the caption track to (default None)
+    :param group: The folder to output the caption track to (default None)
     :param convert_srt: Convert captions from XML to SRT format (default False)
     :param include_title: Include video title in caption filename (default False)
 
@@ -150,11 +150,11 @@ def process_video(video, channel_dict, log_writer, language=None, dataset=None, 
 
     position = channel_dict[video.author]
 
-    caption_list = write_captions_by_language(video, position, language, dataset, include_auto, convert_srt, include_title, include_channels)
+    caption_list = write_captions_by_language(video, position, language, group, include_auto, convert_srt, include_title, include_channels)
 
     if include_audio:
         audio = video.streams.filter(mime_type="audio/mp4").first()
-        write_audio(audio, video, position, dataset, include_title, include_channels)
+        write_audio(audio, video, position, group, include_title, include_channels)
 
     if len(caption_list):
         write_metadata(video, position, caption_list, log_writer)
@@ -162,12 +162,12 @@ def process_video(video, channel_dict, log_writer, language=None, dataset=None, 
     return channel_dict
 
 
-def process_videos(urls_path, language=None, dataset=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
+def process_videos(urls_path, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
     """Download captions, audio (optional), and metadata for a list of videos.
 
     :param video: Path to a file containing the list of URLs to process
     :param language: The language to download caption tracks for (default None)
-    :param dataset: The subfolder to output the caption and audio tracks to (default None)
+    :param group: The subfolder to output the caption and audio tracks to (default None)
     :param include_audio: Download audio in addition to captions (default False)
     :param include_auto: Download automatically-generated captions (default False)
     :param convert_srt: Convert captions from XML to SRT format (default False)
@@ -179,10 +179,10 @@ def process_videos(urls_path, language=None, dataset=None, include_audio=False, 
     channel_dict = {}
     video_count = 0
 
-    if dataset is None:
+    if group is None:
         log_fn = "{0}_log.csv".format(path.splitext(path.split(urls_path)[1])[0])
     else:
-        log_fn = "{0}_log.csv".format(dataset)
+        log_fn = "{0}_log.csv".format(group)
 
     with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), 'w') as log_out:
 
@@ -213,7 +213,7 @@ def process_videos(urls_path, language=None, dataset=None, include_audio=False, 
                 logging.critical("Video {0}: An unexpected error occured ({1})".format(id, url))
                 continue
 
-            process_video(video, channel_dict, log_writer, language, dataset, include_audio, include_auto, convert_srt, include_titles, include_channels)
+            process_video(video, channel_dict, log_writer, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
 
             if limit_to != -1 and video_count == resume_from + limit_to:
                 print("Limit reached; halting")
@@ -235,7 +235,7 @@ def main(args):
     if(args.resume):
         print("Resuming from video {0}".format(args.resume))
 
-    process_videos(args.urls_in, args.language, args.dataset, args.audio, args.auto, args.srt, args.titles, args.channels, args.resume, args.limit)
+    process_videos(args.urls_in, args.language, args.group, args.audio, args.auto, args.srt, args.titles, args.channels, args.resume, args.limit)
 
 
 if __name__ == '__main__':
@@ -245,7 +245,7 @@ if __name__ == '__main__':
     parser.add_argument('urls_in', type=str, help='path to a file containing the URLs to scrape')
 
     parser.add_argument('--language', '-l', default=None, type=str, help='filter captions by language name (e.g. "Korean"); if unspecified, all captions will be downloaded')
-    parser.add_argument('--dataset',  '-n', default=None, metavar='NAME', type=str, help='a name for the dataset; if unspecified, channel names will be used')
+    parser.add_argument('--group',  '-n', default=None, metavar='NAME', type=str, help='a name for the group; if unspecified, channel names will be used')
 
     parser.add_argument('--auto',     '-a', action='store_true', default=False, help='include automatically-generated captions')
     parser.add_argument('--audio',    '-s', action='store_true', default=False, help='download audio')
