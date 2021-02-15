@@ -4,7 +4,7 @@
 
 ### Scraping Youtube channels
 
-`scrape_yt.py` uses Selenium to scrape the video URLs and About page from one (or several) YouTube channels. 
+`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. 
 
 #### Usage
 
@@ -14,7 +14,7 @@ To scrape one channel:
 python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff n] single $ChannelURL 
 ```
 
-`$ChannelURL` should point to the channel's main page, e.g. https://www.youtube.com/c/ChannelNameHere.
+`$ChannelURL` should point to the channel's main page, e.g. `https://www.youtube.com/channel/ChannelNameHere`.
 
 To scrape multiple channels:
 
@@ -24,13 +24,13 @@ python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff n] multi $FileName
 
 `$FileName` should be the path to a file containing a list of channel URLs, one URL per line.
 
-By default, scraped video lists and About page info is saved in `corpus/channel_data/`. The optional argument `-g` or `--group` allows the user to specify an additional subfolder to group the output by (e.g. `corpus/channel_data/$GroupName`).
+By default, scraped video URLs and About pages are saved in `corpus/channel_data/`. The optional argument `-g` or `--group` allows the user to specify an additional subfolder to group the output by (e.g. `corpus/channel_data/$GroupName`).
 
-In addition, `--cutoff` allows the user to specify how many times the script should attempt to scroll down on the channel's video page, which loads additional videos. This option is useful for, e.g. very large channels, or if only recent videos are desired. If no cutoff value is specified, the page will be scrolled until all videos are loaded.
+In addition, `--cutoff` allows the user to specify how many times the script should attempt to scroll the channel's video page, which loads additional videos. This option is useful for, e.g. very large channels, or if only recent videos are desired. If no cutoff value is specified, the page will be scrolled until all videos are loaded.
 
 ### Downloading captions and audio
 
-`download_captions.py` downloads the caption tracks (and optionally, audio) from a list of YouTube videos. Additionally, this script generates a CSV file that includes metada for each scraped video, including its title, description, rating, tags, and so on.
+`download_captions.py` uses [pytube](https://github.com/pytube/pytube) to download the caption tracks (and optionally, audio) from a list of YouTube videos. Additionally, this script generates a CSV file with metadata for each scraped video, including its title, description, rating, tags, and so on.
 
 Usage:
 
@@ -40,13 +40,15 @@ download_captions.py [-h] [--language LANGUAGE] [--group $GroupName] [--auto] [-
                             $URLFile
 ```
 
-`URLFile` should be a file containing a list of video URLs, one URL per line. Output from `scrape_yt.py` also includes the channel name (as it appears on the channel's page) and the channel's unique ID (as it appears in the channel's URL) and is tab-delimited; however, this information can be ommitted. Thus, the expected format of each line of the input file is as follows:
+`URLFile` should be a file containing a list of video URLs, one URL per line. Output from `scrape_yt.py` also includes the channel name (as it appears on the channel's page) and the channel's unique ID (as it appears in the channel's URL) alongeside each URL and is tab-delimited. If this additional information is ommitted, video authors (that is, channels) will be determined via `pytube`. (**Warning:** Channel names are not necessarily unique; leaving "channel name" and "channel ID" unspecified may result in data being overwritten.)
 
-`$URL`
+To summarize, the expected format of each line of the input file is as follows:
+
+`$URL\n`
 
 *or* 
 
-`$URL\t$ChannelName$\t$ChannelID`
+`$URL\t$ChannelName$\t$ChannelID\n`
 
 By default, all manually-created caption tracks will be downloaded. If a language (e.g. "English", "Korean") is specified with `--language` (or `-l`), only caption tracks that include this language in their name will be downloaded. To include automatic captions, as well, the flag `-a` or `--auto` can be used.
 
