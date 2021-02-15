@@ -11,7 +11,7 @@
 To scrape one channel:
 
 ```{bash}
-python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff n] single $ChannelURL 
+python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] single $ChannelURL 
 ```
 
 `$ChannelURL` should point to the channel's main page, e.g. `https://www.youtube.com/channel/ChannelNameHere`.
@@ -19,7 +19,7 @@ python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff n] single $ChannelURL
 To scrape multiple channels:
 
 ```{bash}
-python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff n] multi $FileName 
+python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] multi $FileName 
 ```
 
 `$FileName` should be the path to a file containing a list of channel URLs, one URL per line.
@@ -35,12 +35,12 @@ In addition, `--cutoff` allows the user to specify how many times the script sho
 Usage:
 
 ```{bash}
-download_captions.py [-h] [--language LANGUAGE] [--group $GroupName] [--auto] [--audio]
-                            [--titles] [--channels] [--srt] [--resume $n] [--limit $n]
+download_captions.py [-h] [--language $Language] [--group $GroupName] [--auto] [--audio]
+                            [--titles] [--channels] [--srt] [--resume $N] [--limit $N]
                             $URLFile
 ```
 
-`URLFile` should be a file containing a list of video URLs, one URL per line. Output from `scrape_yt.py` also includes the channel name (as it appears on the channel's page) and the channel's unique ID (as it appears in the channel's URL) alongeside each URL and is tab-delimited. If this additional information is ommitted, video authors (that is, channels) will be determined via `pytube`. (**Warning:** Channel names are not necessarily unique; leaving "channel name" and "channel ID" unspecified may result in data being overwritten.)
+`$URLFile` should be a file containing a list of video URLs, one URL per line. Output from `scrape_yt.py` also includes the channel name (as it appears on the channel's page) and the channel's unique ID (as it appears in the channel's URL) alongeside each URL and is tab-delimited. If this additional information is ommitted, video authors (that is, channels) will be determined via `pytube`. (**Warning:** Channel names as determined by `pytube` are not necessarily unique; leaving "channel name" and "channel ID" unspecified may result in data being overwritten.)
 
 To summarize, the expected format of each line of the input file is as follows:
 
@@ -58,7 +58,7 @@ Caption tracks are saved to the folder `corpus/raw_captions/$language`, where `$
 
 Audio tracks are saved to `captions/raw_audio/`. Both caption tracks and audio tracks will use `$ChannelName_$n` as their filenames, where `$ChannelName` is the name of the video's author (as determined by `pytube`) and `n` is the index of the video (indexed by-channel). The flag `--titles` can be used to have video titles be included in the filenames, as well (e.g. `$ChannelName_$n_$VideoTitle`). (**Note:** Currently, due to the behaviour of `pytube`, caption tracks are also suffixed with the captions' language code, but this should change in the near future.)
 
-As with `scrape_yt.py`, a "group" can be additionally specified in order to organize tracks within an additional subfolder, e.g. `corpus/raw_captions/$GroupName`. Regardless of group, tracks can be further organized into subfolfers by channel by specifying `--channels`. 
+As with `scrape_yt.py`, a "group" can be specified in order to organize tracks within an additional subfolder, e.g. `corpus/raw_captions/$GroupName`. Regardless of group, tracks can be further organized into subfolfers by channel by specifying `--channels`. 
 
 For very large lists of videos, `--resume` and `--limit` can be used to resume from the Nth video and limit processing to N total videos, respectively.
 
