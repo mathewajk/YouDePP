@@ -1,4 +1,5 @@
 import argparse, logging
+from glob import glob
 from csv import DictWriter
 from pytube import YouTube, exceptions, helpers
 from os import makedirs, path
@@ -214,7 +215,7 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
     with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), 'w') as log_out:
 
         # Prepare writer for writing video data
-        log_writer = DictWriter(log_out, fieldnames=["name", "ID", "author", "position", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
+        log_writer = DictWriter(log_out, fieldnames=["position", "author", "name", "ID", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
         log_writer.writeheader()
 
         for url_data in urls_in:
@@ -258,12 +259,21 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
             # Be considerate!
             sleep(1)
 
+def process_files(urls_path, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
+    URL_fns_txt = sorted(glob(path.join(urls_path, "*.txt")))
+    URL_fns_csv = sorted(glob(path.join(urls_path, "*.csv")))
+
+    all_fns = URL_fns_txt + URL_fns_csv
+
+    for fn in all_fns:
+        process_videos(fn, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels, resume_from, limit_to)
+
 
 def main(args):
 
-    if not path.isfile(args.urls_in):
-        logging.error("url_list must be a file")
-        return 1
+    if not path.isfile(args.urls_in) and not path.isdir(args.urls_in):
+        logging.error("url_list must be a file or directory")
+        exit(2)
 
     if not path.exists(path.join("corpus", "logs")):
         makedirs(path.join("corpus", "logs"))
@@ -271,14 +281,18 @@ def main(args):
     if(args.resume):
         print("Resuming from video {0}".format(args.resume))
 
-    process_videos(args.urls_in, args.language, args.group, args.audio, args.auto, args.srt, args.titles, args.channels, args.resume, args.limit)
+    if path.isfile(args.urls_in):
+        process_videos(args.urls_in, args.language, args.group, args.audio, args.auto, args.srt, args.titles, args.channels, args.resume, args.limit)
+
+    if path.isdir(args.urls_in):
+        process_files(args.urls_in, args.language, args.group, args.audio, args.auto, args.srt, args.titles, args.channels, args.resume, args.limit)
 
 
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Download available subtitles and audio from a list of YouTube video urls.')
 
-    parser.add_argument('urls_in', type=str, help='path to a file containing the URLs to scrape')
+    parser.add_argument('urls_in', type=str, help='path to a file or directory containing the URLs to scrape')
 
     parser.add_argument('--language', '-l', default=None, type=str, help='filter captions by language name (e.g. "Korean"); if unspecified, all captions will be downloaded')
     parser.add_argument('--group',    '-g', default=None, metavar='NAME', type=str, help='a name for the group; if unspecified, channel names will be used')
