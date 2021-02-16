@@ -214,7 +214,7 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
     with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), 'w') as log_out:
 
         # Prepare writer for writing video data
-        log_writer = DictWriter(log_out, fieldnames=["author", "position", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
+        log_writer = DictWriter(log_out, fieldnames=["name", "ID", "author", "position", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
         log_writer.writeheader()
 
         for url_data in urls_in:
