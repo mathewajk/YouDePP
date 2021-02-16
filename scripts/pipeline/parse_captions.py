@@ -23,7 +23,7 @@ def parse_files(nlp, channel, language, type, start, end, subtitles_fns):
 
     video_count = 0
     for subtitles_fn in subtitles_fns:
-        if(video_count < start:
+        if video_count < start:
             continue
         if end != -1 and video_count > end:
             break
