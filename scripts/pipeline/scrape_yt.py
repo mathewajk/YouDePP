@@ -174,7 +174,7 @@ def process_channels(channels_fn, cutoff=-1, group=None):
     with open(channels_fn, 'r') as channels_in:
         with webdriver.Firefox() as driver:
             for line in channels_in:
-                line = sub('\s+', '', line.strip('/')) # Handle all whitespace issues?
+                line = sub('[\s\ufeff]+', '', line.strip('/')) # Handle whitespace and Excel nonsense?
                 process_channel(line, cutoff, group, driver)
                 sleep(1)
 
