@@ -259,11 +259,30 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
             # Be considerate!
             sleep(1)
 
+
 def process_files(urls_path, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
+    """Download captions, audio (optional), and metadata from a directoy of video lists.
+
+    :param video: Path to a directory containing a set of list files
+    :param channel_name: The name of the channel as given on its main page (default None)
+    :param channel_id: The name of the channel as it appears in the channel's URL (default None)
+    :param language: The language to download caption tracks for (default None)
+    :param group: The subfolder to output the caption and audio tracks to (default None)
+    :param include_audio: Download audio in addition to captions (default False)
+    :param include_auto: Download automatically-generated captions (default False)
+    :param convert_srt: Convert captions from XML to SRT format (default False)
+    :param include_titles: Include video titles in caption filenames (default False)
+    :param resume_from: Start from the Nth entry in the URL list (default 0)
+    :param limit_to: Download captions (and audio) from only N files (default -1)
+    """
+
     URL_fns_txt = sorted(glob(path.join(urls_path, "*.txt")))
     URL_fns_csv = sorted(glob(path.join(urls_path, "*.csv")))
 
     all_fns = URL_fns_txt + URL_fns_csv
+
+    print(resume_from)
+    print(limit_to)
 
     file_count = 0
     for fn in all_fns:
@@ -272,9 +291,10 @@ def process_files(urls_path, language=None, group=None, include_audio=False, inc
             continue
         process_videos(fn, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
 
-    if limit_to != -1 and file_count == resume_from + limit_to:
-        print("Limit reached; halting")
-        break
+        if limit_to != -1 and file_count == resume_from + limit_to:
+            print("Limit reached; halting")
+            break
+
 
 def main(args):
 
@@ -310,8 +330,8 @@ if __name__ == '__main__':
     parser.add_argument('--channels', '-c', action='store_true', default=False, help='organize captions and audio into folders by channel')
     parser.add_argument('--srt',            action='store_true', default=False, help='download captions in SRT format')
 
-    parser.add_argument('--resume', '-res', type=int, metavar='N', nargs=1, default=0,  help='resume downloading from Nth video or file')
-    parser.add_argument('--limit',  '-lim', type=int, metavar='N', nargs=1, default=-1, help='limit processing to N videos or files')
+    parser.add_argument('--resume', '-res', type=int, metavar='N', default=0,  help='resume downloading from Nth video or file')
+    parser.add_argument('--limit',  '-lim', type=int, metavar='N', default=-1, help='limit processing to N videos or files')
 
     args = parser.parse_args()
 
