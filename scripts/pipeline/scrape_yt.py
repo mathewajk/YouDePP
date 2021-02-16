@@ -139,7 +139,7 @@ def process_channel(url, cutoff=-1, group=None, driver=None):
     :param group:  Folder name to group channels under
     """
 
-    channel_id = url.strip('/').strip().split('/')[-1]
+    channel_id = url.split('/')[-1]
     info = {"channel_id": channel_id}
 
     logging.info("Gathering videos from channel ID: " + channel_id)
@@ -174,7 +174,7 @@ def process_channels(channels_fn, cutoff=-1, group=None):
     with open(channels_fn, 'r') as channels_in:
         with webdriver.Firefox() as driver:
             for line in channels_in:
-                line.strip()
+                sub('\s+', '', line.strip('/')) # Handle all whitespace issues?
                 process_channel(line, cutoff, group, driver)
                 sleep(1)
 
