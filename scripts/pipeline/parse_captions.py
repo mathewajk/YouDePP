@@ -28,7 +28,7 @@ def parse_files(nlp, channel, language, type, start, end, subtitles_fns):
         if end != -1 and video_count > end:
             break
 
-        logging.info("Processing {1}: {0}".format(subtitles_fn, video_id))
+        logging.info("Processing {1}: {0}".format(subtitles_fn, video_count))
         parse_file(nlp, subtitles_fn, channel, video_count, dep_path)
         video_count += 1
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     parser.add_argument('language',  type=str, help='language code')
     parser.add_argument('caption_type',  default="auto", type=str, help='the type of caption (auto or other)')
 
-    parser.add_argument('-s', '--start', default=1, type=int, help='video to start from')
+    parser.add_argument('-s', '--start', default=0, type=int, help='video to start from')
     parser.add_argument('-e', '--end', default=-1, type=int, help='video to stop at')
 
     parser.add_argument('--log',    action='store_true', default=False, help='log events to file')
