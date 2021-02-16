@@ -79,7 +79,10 @@ def save_videos(links, info, group=None):
     videos_out_fn = "{0}_{1}_videos.txt".format(safe_channel_name, info["channel_id"])
     info_out_fn = "{0}_{1}_info.txt".format(safe_channel_name, info["channel_id"])
 
-    out_dir = path.join("corpus", "channel_data", group)
+    if group:
+        out_dir = path.join("corpus", "channel_data", group)
+    else:
+        out_dir = path.join("corpus", "channel_data")
 
     if not path.exists(out_dir):
         makedirs(out_dir)
