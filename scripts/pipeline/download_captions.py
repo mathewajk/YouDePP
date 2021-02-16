@@ -188,9 +188,10 @@ def process_video(video, channel_dict, log_writer, channel_name=None, channel_id
     return channel_dict
 
 
-def process_videos(urls_path, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
+def process_videos(urls_path, batch=False, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
     """Download captions, audio (optional), and metadata for a list of videos.
 
+    :param batch: Indicates if a directory or single file is being processed
     :param video: Path to a file containing the list of URLs to process
     :param channel_name: The name of the channel as given on its main page (default None)
     :param channel_id: The name of the channel as it appears in the channel's URL (default None)
@@ -212,7 +213,11 @@ def process_videos(urls_path, language=None, group=None, include_audio=False, in
     else:
         log_fn = "{0}_log.csv".format(group)
 
-    with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), 'w') as log_out:
+    write_type = 'w'
+    if batch and group:
+        write_type = 'a'
+
+    with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), write_type) as log_out:
 
         # Prepare writer for writing video data
         log_writer = DictWriter(log_out, fieldnames=["position", "author", "name", "ID", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
@@ -279,6 +284,11 @@ def process_files(urls_path, language=None, group=None, include_audio=False, inc
     URL_fns_txt = sorted(glob(path.join(urls_path, "*.txt")))
     URL_fns_csv = sorted(glob(path.join(urls_path, "*.csv")))
 
+    if group:
+        log_fn = "{0}_log.csv".format(group)
+        f.open(path.join("corpus", "logs", log_fn), 'w') # Overwrite file in a hacky way
+        f.close()
+
     all_fns = URL_fns_txt + URL_fns_csv
 
     print(resume_from)
@@ -289,7 +299,7 @@ def process_files(urls_path, language=None, group=None, include_audio=False, inc
         file_count += 1
         if(file_count < resume_from):
             continue
-        process_videos(fn, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
+        process_videos(fn, True, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
 
         if limit_to != -1 and file_count == resume_from + limit_to:
             print("Limit reached; halting")
