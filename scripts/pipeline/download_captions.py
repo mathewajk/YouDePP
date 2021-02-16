@@ -52,6 +52,7 @@ def write_captions(captions, video, position, channel_name="", channel_id="", gr
     try:
         if include_title:
             captions.download(helpers.safe_filename(safe_title), srt=convert_srt, output_path=out_path, filename_prefix="{0}_{1}_".format(safe_author, position))
+            return 1
         else:
             captions.download(str(position), srt=convert_srt, output_path=out_path, filename_prefix="{0}_".format(safe_author))
             return 1
@@ -215,13 +216,14 @@ def process_videos(urls_path, batch=False, language=None, group=None, include_au
 
     write_type = 'w'
     if batch and group:
-        write_type = 'a'
+        write_type = 'a+'
 
     with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), write_type) as log_out:
 
         # Prepare writer for writing video data
         log_writer = DictWriter(log_out, fieldnames=["position", "author", "name", "ID", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
-        log_writer.writeheader()
+        if not group:
+            log_writer.writeheader()
 
         for url_data in urls_in:
 
@@ -258,7 +260,7 @@ def process_videos(urls_path, batch=False, language=None, group=None, include_au
             process_video(video, channel_dict, log_writer, channel_name, channel_id, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
 
             if limit_to != -1 and video_count == resume_from + limit_to:
-                print("Limit reached; halting")
+                print("{0}: Limit reached".format(urls_path))
                 break
 
             # Be considerate!
@@ -286,24 +288,14 @@ def process_files(urls_path, language=None, group=None, include_audio=False, inc
 
     if group:
         log_fn = "{0}_log.csv".format(group)
-        f.open(path.join("corpus", "logs", log_fn), 'w') # Overwrite file in a hacky way
-        f.close()
+        with open(path.join("corpus", "logs", log_fn), 'w') as log_out: # Overwrite file in a hacky way
+            log_writer = DictWriter(log_out, fieldnames=["position", "author", "name", "ID", "title", "description", "keywords", "length", "publish_date", "views", "rating", "captions"])
+            log_writer.writeheader()
 
     all_fns = URL_fns_txt + URL_fns_csv
 
-    print(resume_from)
-    print(limit_to)
-
-    file_count = 0
     for fn in all_fns:
-        file_count += 1
-        if(file_count < resume_from):
-            continue
-        process_videos(fn, True, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
-
-        if limit_to != -1 and file_count == resume_from + limit_to:
-            print("Limit reached; halting")
-            break
+        process_videos(fn, True, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels, resume_from, limit_to)
 
 
 def main(args):
