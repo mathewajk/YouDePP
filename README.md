@@ -4,7 +4,7 @@
 
 ### Scraping Youtube channels
 
-`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. 
+`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. Currently, the script expects Firefox and GeckoDriver to be installed.
 
 #### Usage
 
