@@ -74,29 +74,34 @@ def save_videos(links, info, group=None):
     """
 
     punc_and_whitespace = "[\s\_\-\.\?\!,;:'\"\\\/]+"
-    safe_channel_name = sub(punc_and_whitespace, "", info["channel_name"])
+    safe_channel_name = sub(punc_and_whitespace, "", info["ChannelName"])
 
-    videos_out_fn = "{0}_{1}_videos.txt".format(safe_channel_name, info["channel_id"])
-    info_out_fn = "{0}_{1}_info.txt".format(safe_channel_name, info["channel_id"])
+    videos_out_fn = "{0}_{1}_videos.txt".format(safe_channel_name, info["ChannelID"])
+    info_out_fn = "{0}_{1}_info.txt".format(safe_channel_name, info["ChannelID"])
 
     if group:
-        out_dir = path.join("corpus", "channel_data", group)
+        url_out_dir = path.join("corpus", "channel_data", group, "urls")
+        info_out_dir = path.join("corpus", "channel_data", group, "about")
     else:
-        out_dir = path.join("corpus", "channel_data")
+        url_out_dir = path.join("corpus", "channel_data", "urls")
+        info_out_dir = path.join("corpus", "channel_data", "about")
 
-    if not path.exists(out_dir):
-        makedirs(out_dir)
+    if not path.exists(url_out_dir):
+        makedirs(url_out_dir)
+    if not path.exists(info_out_dir):
+        makedirs(info_out_dir)
 
-    videos_out_fn = path.join(out_dir, videos_out_fn)
-    info_out_fn = path.join(out_dir, info_out_fn)
+    videos_out_fn = path.join(url_out_dir, videos_out_fn)
+    info_out_fn = path.join(info_out_dir, info_out_fn)
 
     with open(videos_out_fn, 'w') as videos_out, open(info_out_fn, 'w') as info_out:
 
         for link in links:
-            videos_out.write("{0}\t{1}\t{2}\n".format(link, info["channel_name"], info["channel_id"]))
+            videos_out.write("{0}\t{1}\t{2}\n".format(link, info["ChannelName"], info["ChannelID"]))
 
         for key in info.keys():
-            info_out.write("{0}\t{1}\n".format(key, info[key]))
+            info_out.write("# {0}\n\n".format(key))
+            info_out.write("{0}\n\n".format(info[key]))
 
 
 def get_info(driver, url):
@@ -109,21 +114,21 @@ def get_info(driver, url):
     # Load the about page
     driver.get(url)
 
-    info = {"channel_name": "", "description": "", "bio": "", "metadata": ""}
+    info = {"ChannelName": "", "Description": "", "Bio": "", "Metadata": ""}
 
     try:
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'ytd-channel-name')))
-        info["channel_name"] = driver.find_element(By.CLASS_NAME, "ytd-channel-name").text
+        info["ChannelName"] = driver.find_element(By.CLASS_NAME, "ytd-channel-name").text
 
     except:
         logging.warning("Could not scrape channel name")
 
     try:
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'description-container')))
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'description')))
 
-        info["description"] = sub("\n", " ", driver.find_element(By.ID, "description-container").text)
-        info["bio"] = sub("\n", " ", driver.find_element(By.ID, "bio-container").text)
-        info["metadata"] = sub("\n", " ", driver.find_element(By.ID, "details-container").text)
+        info["Description"] = driver.find_element(By.ID, "description").text
+        info["Bio"]         = driver.find_element(By.ID, "bio").text
+        info["Metadata"]    = driver.find_element(By.ID, "details-container").find_element(By.TAG_NAME, "table").text
 
     except:
         logging.warning("Could not scrape About page")
@@ -140,7 +145,7 @@ def process_channel(url, cutoff=-1, group=None, driver=None):
     """
 
     channel_id = url.split('/')[-1]
-    info = {"channel_id": channel_id}
+    info = {"ChannelID": channel_id}
 
     logging.info("Gathering videos from channel ID: " + channel_id)
 
