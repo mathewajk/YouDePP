@@ -253,9 +253,9 @@ def process_videos(urls_path, batch=False, language=None, group=None, include_au
             except exceptions.VideoUnavailable as e:
                 logging.warning("Video {0}: Video unavailable ({1})".format(video_count, url))
                 continue
-            except:
-                logging.critical("Video {0}: An unexpected error occured ({1})".format(video_count, url))
-                continue
+            # except:
+            #     logging.critical("Video {0}: An unexpected error occured ({1})".format(video_count, url))
+            #     continue
 
             process_video(video, channel_dict, log_writer, channel_name, channel_id, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
 
