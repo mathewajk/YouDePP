@@ -100,6 +100,9 @@ def write_audio(audio, video, position, channel_name="", channel_id="", group=No
     except:
         logging.critical("Video {0}: Could not save audio stream for video {0} from channel {1} ({2})".format(position, video.author, video.title))
 
+    # Be polite
+    sleep(1)
+
 
 def write_captions_by_language(video, position, channel_name="", channel_id="", language=None, group=None, include_auto=False, convert_srt=False, include_title=False, include_channel=False):
     """Filter captions by language and write each caption track to a file. If no language is specified, all caption tracks will be downloaded.
@@ -120,10 +123,14 @@ def write_captions_by_language(video, position, channel_name="", channel_id="", 
     caption_list = []
     for track in video.captions:
         if language is None or (language in track.name and (include_auto or "a." not in track.code)):
+
             success = write_captions(track, video, position, channel_name, channel_id, group, convert_srt, include_title, include_channel)
             if success:
                 caption_list.append((track.code, track.name))
+
+            # Be polite
             sleep(1)
+
     return caption_list
 
 
@@ -262,9 +269,6 @@ def process_videos(urls_path, batch=False, language=None, group=None, include_au
             if limit_to != -1 and video_count == resume_from + limit_to:
                 print("{0}: Limit reached".format(urls_path))
                 break
-
-            # Be considerate!
-            sleep(1)
 
 
 def process_files(urls_path, language=None, group=None, include_audio=False, include_auto=False, convert_srt=False, include_titles=False, include_channels=False, resume_from=0, limit_to=-1):
