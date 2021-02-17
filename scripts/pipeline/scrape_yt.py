@@ -200,6 +200,7 @@ if __name__ == '__main__':
     parser.add_argument('-g', '--group', default=None, metavar='NAME', type=str, help='name to group files under (will create a subfolder: channel_data/$group)')
     parser.add_argument('--cutoff', type=int, default=-1, help='maximum number of times to scroll the page')
     parser.add_argument('-l', '--log', action='store_true', default=False, help='log events to file')
+    parser.set_defaults(func=None)
 
     subparsers = parser.add_subparsers(help='process one channel or a list of channels')
 
@@ -209,7 +210,7 @@ if __name__ == '__main__':
 
     list_parser = subparsers.add_parser('multi', help='process a list of channels (see scrape_yt.py multi -h for more help)')
     list_parser.set_defaults(func=handle_multiple)
-    list_parser.add_argument('file', type=str, help='file containing a newline-separated list of channel URLs (e.g. https://www.youtube.com/c/ChannelNameHere)')
+    list_parser.add_argument('file', type=str, help='file containing a newline-separated list of channel URLs (e.g. https://www.youtube.com/c/Channel1NameHere\\n https://www.youtube.com/c/Channel2NameHere\\n)')
 
     args = parser.parse_args()
 
@@ -218,5 +219,9 @@ if __name__ == '__main__':
 
     logging.info("Call: {0}".format(args))
     logging.info("BEGIN YT SCRAPE\n----------")
+
+    if(args.func == None):
+        parser.print_help()
+        exit(2)
 
     args.func(args)
