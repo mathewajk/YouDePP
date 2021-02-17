@@ -4,14 +4,27 @@
 
 ### Scraping Youtube channels
 
-`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. Currently, the script expects Firefox and GeckoDriver to be installed.
+#### Dependencies
+
+##### Selenium
+
+[Selenium](https://www.selenium.dev/) is a browser automation tool. The Selenium documentation can be found [here](https://www.selenium.dev/documentation/).
+
+In order to work with Selenium, you will first need to install it with `pip` via `pip install selenium` or `pip3 install selenium`. You will also need to download a WebDriver:
+
+- For Firefox: [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
+- For Chrome: [ChromeDriver](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
+
+The driver should be placed somewhere in your path (e.g. `/usr/local/bin/`). MacOS users can also download these drivers via [Homebrew](https://brew.sh/), which will place the driver in your `Cellar`.
+
+`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. Currently, the script assumes the use of Firefox + Geckodriver, though it is possible to modify `scrape_yt.py` to use Chrome instead. (Official support coming at some point.)
 
 #### Usage
 
 To scrape one channel:
 
 ```{bash}
-python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] single $ChannelURL 
+python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] single $ChannelURL
 ```
 
 `$ChannelURL` should point to the channel's main page, e.g. `https://www.youtube.com/channel/ChannelNameHere`.
@@ -19,7 +32,7 @@ python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] single $ChannelURL
 To scrape multiple channels:
 
 ```{bash}
-python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] multi $FileName 
+python3 scrape_yt.py [-h] [-g $GroupName] [--cutoff $N] multi $FileName
 ```
 
 `$FileName` should be the path to a file containing a list of channel URLs, one URL per line.
@@ -30,9 +43,13 @@ In addition, `--cutoff` allows the user to specify how many times the script sho
 
 ### Downloading captions and audio
 
-`download_captions.py` uses [pytube](https://github.com/pytube/pytube) to download the caption tracks (and optionally, audio) from a list of YouTube videos. Additionally, this script generates a CSV file with metadata for each scraped video, including its title, description, rating, tags, and so on.
+#### Dependencies
 
-Usage:
+##### Pytube
+
+`pytube` can be installed via `pip`, e.g. `pip install pytube` or `pip3 install pytube`.
+
+#### Usage
 
 ```{bash}
 download_captions.py [-h] [--language $Language] [--group $GroupName] [--auto] [--audio]
@@ -46,7 +63,7 @@ To summarize, the expected format of each line of the input file is as follows:
 
 `$URL\n`
 
-*or* 
+*or*
 
 `$URL\t$ChannelName$\t$ChannelID\n`
 
@@ -58,7 +75,7 @@ Caption tracks are saved to the folder `corpus/raw_captions/$language`, where `$
 
 Audio tracks are saved to `captions/raw_audio/`. Both caption tracks and audio tracks will use `$ChannelName_$n` as their filenames, where `$ChannelName` is the name of the video's author (as determined by `pytube`) and `n` is the index of the video (indexed by-channel). The flag `--titles` can be used to have video titles be included in the filenames, as well (e.g. `$ChannelName_$n_$VideoTitle`). (**Note:** Currently, due to the behaviour of `pytube`, caption tracks are also suffixed with the captions' language code, but this should change in the near future.)
 
-As with `scrape_yt.py`, a "group" can be specified in order to organize tracks within an additional subfolder, e.g. `corpus/raw_captions/$GroupName`. Regardless of group, tracks can be further organized into subfolfers by channel by specifying `--channels`. 
+As with `scrape_yt.py`, a "group" can be specified in order to organize tracks within an additional subfolder, e.g. `corpus/raw_captions/$GroupName`. Regardless of group, tracks can be further organized into subfolfers by channel by specifying `--channels`.
 
 For very large lists of videos, `--resume` and `--limit` can be used to resume from the Nth video and limit processing to N total videos, respectively.
 
