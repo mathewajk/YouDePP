@@ -14,6 +14,8 @@ data/
 
 processed_subtitles/auto/
 dependency_counts/
+raw_audio/
+beta_testing/
 dependencies/
 rscripts/
 
