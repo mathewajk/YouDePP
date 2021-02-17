@@ -45,9 +45,18 @@ In addition, `--cutoff` allows the user to specify how many times the script sho
 
 #### Dependencies
 
-##### Pytube
+##### pytube
 
 `pytube` can be installed via `pip`, e.g. `pip install pytube` or `pip3 install pytube`.
+
+##### SSL/certifi
+
+If you are gettng a “SSL: CERTIFICATE_VERIFY_FAILED” error on OSX, you may need to manually install `certifi`.
+
+```{bash}
+pip install certifi
+/Applications/Python\ 3.6/Install\ Certificates.command
+```
 
 #### Usage
 
