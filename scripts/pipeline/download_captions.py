@@ -216,7 +216,7 @@ def process_videos(urls_path, batch=False, language=None, group=None, include_au
 
     write_type = 'w'
     if batch and group:
-        write_type = 'a+'
+        write_type = 'a'
 
     with open(urls_path, "r") as urls_in, open(path.join("corpus", "logs", log_fn), write_type) as log_out:
 
@@ -248,13 +248,13 @@ def process_videos(urls_path, batch=False, language=None, group=None, include_au
             try:
                 video = YouTube(url)
             except KeyError as e:
-                logging.warning("Video {0}: Could not retrieve URL ({1})".format(id, url))
+                logging.warning("Video {0}: Could not retrieve URL ({1})".format(video_count, url))
                 continue
             except exceptions.VideoUnavailable as e:
-                logging.warning("Video {0}: Video unavailable ({1})".format(id, url))
+                logging.warning("Video {0}: Video unavailable ({1})".format(video_count, url))
                 continue
             except:
-                logging.critical("Video {0}: An unexpected error occured ({1})".format(id, url))
+                logging.critical("Video {0}: An unexpected error occured ({1})".format(video_count, url))
                 continue
 
             process_video(video, channel_dict, log_writer, channel_name, channel_id, language, group, include_audio, include_auto, convert_srt, include_titles, include_channels)
