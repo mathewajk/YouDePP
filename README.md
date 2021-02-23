@@ -1,4 +1,9 @@
+**Important notice**: Beginning in April, all pipline code will be migrated to, and exclusively maintained at, [LingTube](https://github.com/Narquelion/LingTube). This respository will transition to storing only the YouDeP Corpus and associated analysis scripts.
+
+---
+
 # YouDePP: YouTube Dependency Parsing Pipeline
+
 
 ## Pipeline
 
