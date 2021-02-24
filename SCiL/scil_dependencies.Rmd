@@ -1,5 +1,5 @@
 ---
-title: "R Notebook"
+title: "SCiL - Written v. Spoken dependencies"
 output: html_notebook
 ---
 
@@ -300,7 +300,7 @@ gg.deps.by.baseline <- gg.deps.by.baseline +
 # GAMM fits
 gg.deps.by.baseline <- gg.deps.by.baseline + 
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-    scale_color_manual(values=c("#61c75d", "#3d4f8d", "#46a1d8"), labels=c("Random", "Optimal", "Observed"))
+    scale_color_manual(values=c("#86c300", "#736ef6", "#43abea"), labels=c("Random", "Optimal", "Observed"))
 
 # Theming
 gg.deps.by.baseline <- gg.deps.by.baseline + 
@@ -330,7 +330,7 @@ gg.deps.by.baseline.auto <- gg.deps.by.baseline.auto +
 # GAMM fits
 gg.deps.by.baseline.auto <- gg.deps.by.baseline.auto + 
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-    scale_color_manual(values=c("#61c75d", "#3d4f8d", "#46a1d8"), labels=c("Random", "Optimal", "Observed"))
+    scale_color_manual(values=c("#86c300", "#736ef6", "#43abea"), labels=c("Random", "Optimal", "Observed"))
 
 # Theming
 gg.deps.by.baseline.auto <- gg.deps.by.baseline.auto + 
@@ -360,7 +360,7 @@ gg.deps.by.baseline.ud <- gg.deps.by.baseline.ud +
 # GAMM fits
 gg.deps.by.baseline.ud <- gg.deps.by.baseline.ud + 
     geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-    scale_color_manual(values=c("#61c75d", "#3d4f8d", "#46a1d8"), labels=c("Random", "Optimal", "Observed"))
+    scale_color_manual(values=c("#86c300", "#736ef6", "#43abea"), labels=c("Random", "Optimal", "Observed"))
 
 # Theming
 gg.deps.by.baseline.ud <- gg.deps.by.baseline.ud + 
@@ -375,9 +375,11 @@ gg.deps.by.baseline.ud
 
 ```
 
-# Regression setup
+# Regressions
 
-## Original setup
+## Regression setup
+
+### Original setup
 
 ```{r lm_setup_original}
 
@@ -410,7 +412,7 @@ df.ud.all.lm %>% group_by(corpus, language, baseline) %>% summarize(count=n())
 
 ```
 
-# Difference score setup
+### Difference score setup
 
 ```{r lm_setup_diff}
 
@@ -445,26 +447,27 @@ load(file='~/Documents/research/git-projects/YouDePP/data/AutoDiff.Rda')
 
 ```
 
-## Difference score graphs
+### Difference score graphs
+
+#### Manual
 
 ```{r difference_scores_manual}
 
-manual.diff.g <- ggplot(df.manual.lm.diff %>% 
-                        group_by(language, subtitle_type, sentence_uid) %>% 
+manual.diff.g <- ggplot(df.ud.manual.lm.diff %>% 
+                        group_by(language, corpus, sentence_uid) %>% 
                         summarize(difference_score=mean(difference_score), total_length=mean(total_length)), 
-                      aes(y=difference_score, x=total_length, color=subtitle_type, group=subtitle_type))
+                      aes(y=difference_score, x=total_length, color=language, group=language))
 
 # GAMM fits
 manual.diff.g <- manual.diff.g + 
-  geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x))) + 
-  scale_color_manual(values=c("#61c75d", "#3d4f8d"))
+  geom_smooth(aes(group=language), se = TRUE, method = "gam", formula = y ~ s(log(x)))
 
 # Theming
 manual.diff.g <- manual.diff.g + 
   labs(title="", x="Sentence Length", y="Total Dependency Length", color="") + 
   theme(legend.position="bottom") +
   coord_cartesian(xlim=c(0,15), ylim=c(0,100)) +
-  facet_grid(subtitle_type~language) + 
+  facet_grid(.~language) + 
   gg_theme()
 
 ggsave("../data/plots/difference_scores_manual.png", plot=manual.diff.g, device="png", dpi = 300, width=10)
@@ -472,7 +475,7 @@ manual.diff.g
 
 ```
 
-### Auto captions
+#### Auto captions
 
 ```{r difference_scores_auto, include=TRUE}
 
@@ -499,9 +502,7 @@ auto.diff.g
 
 ```
 
-# Regressions
-
-## Auto vs. manual
+## Automatic v Manual regressions
 
 ### Italian
 
@@ -700,8 +701,7 @@ summary(lm.it.all.diff)
 
 ```
 
-
-## French
+### French
 
 #### Manual only
 
