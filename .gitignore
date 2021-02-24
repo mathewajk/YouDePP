@@ -4,13 +4,18 @@
 .RData
 .Rhistory
 *_temp
+*.Rda
+*.html
 
 backups/
 writeups/
 audio/
 old/
 guava/
-data/
+data/analyses/
+data/analyses/
+data/plots/
+data/rdata/
 
 processed_subtitles/auto/
 dependency_counts/
