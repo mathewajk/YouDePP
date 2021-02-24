@@ -1,4 +1,9 @@
+**Important notice**: Beginning in April, all pipline code will be migrated to, and exclusively maintained at, [LingTube](https://github.com/Narquelion/LingTube). This respository will transition to storing only the YouDeP Corpus and associated analysis scripts.
+
+---
+
 # YouDePP: YouTube Dependency Parsing Pipeline
+
 
 ## Pipeline
 
@@ -45,9 +50,18 @@ In addition, `--cutoff` allows the user to specify how many times the script sho
 
 #### Dependencies
 
-##### Pytube
+##### pytube
 
 `pytube` can be installed via `pip`, e.g. `pip install pytube` or `pip3 install pytube`.
+
+##### SSL/certifi
+
+If you are gettng a “SSL: CERTIFICATE_VERIFY_FAILED” error on OSX, you may need to manually install `certifi`.
+
+```{bash}
+pip install certifi
+/Applications/Python\ 3.6/Install\ Certificates.command
+```
 
 #### Usage
 
