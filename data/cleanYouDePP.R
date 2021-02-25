@@ -61,8 +61,8 @@ clean_stats <- function(df, dep_cutoff, include_auto=T, remove_outliers=T, outli
 
 Sys.setlocale(category = "LC_CTYPE", locale = "C")
 
-load(file='~/Documents/research/git-projects/YouDePP/data/youdepp_stats.Rda')
-load(file='~/Documents/research/git-projects/YouDePP/data/ud_stats.Rda')
+load(file='~/Documents/research/git-projects/YouDePP/data/rdata/youdepp_stats.Rda')
+load(file='~/Documents/research/git-projects/YouDePP/data/rdata/ud_stats.Rda')
 
 df.youdepp.stats.unfiltered <- df.youdepp.stats
 df.ud.stats.unfiltered      <- df.ud.stats
@@ -71,7 +71,7 @@ df.youdepp.stats.unfiltered %>% filter(baseline=="observed") %>% group_by(baseli
 df.ud.stats.unfiltered %>% filter(baseline=="observed") %>% group_by(baseline, language) %>% summarize(count=n()) %>% ungroup()
 
 # Outliers are removed from the YouTube data on the assumption that they don't represent features of the language, in contrast to UD.
-df.youdepp.stats <- df.youdepp.stats.unfiltered %>% clean_stats(15, remove_outliers=T, include_auto=T) %>% 
+df.youdepp.stats <- df.youdepp.stats.unfiltered %>% clean_stats(15, remove_outliers=T, include_auto=F) %>% 
   filter_all(all_vars(!is.na(.) & !is.infinite(.) & !is.nan(.)))
 df.ud.stats     <- df.ud.stats.unfiltered %>% clean_stats(15, remove_outliers=F, include_auto=F) %>% 
   filter_all(all_vars(!is.na(.) & !is.infinite(.) & !is.nan(.)))
@@ -79,8 +79,8 @@ df.ud.stats     <- df.ud.stats.unfiltered %>% clean_stats(15, remove_outliers=F,
 range(df.youdepp.stats$numDeps_all)
 range(df.ud.stats$numDeps_all)
 
-df.youdepp.stats %>% filter(baseline=="observed") %>% group_by(baseline, language) %>% summarize(count=n()) %>% ungroup()
+df.youdepp.stats %>% filter(baseline=="observed") %>% group_by(baseline, language, corpus) %>% summarize(count=n()) %>% ungroup()
 df.ud.stats %>% filter(baseline=="observed") %>% group_by(baseline, language) %>% summarize(count=n()) %>% ungroup()
 
-save(df.youdepp.stats, file="~/Documents/research/git-projects/YouDePP/data/youdepp_stats_clean.Rda")
-save(df.ud.stats, file="~/Documents/research/git-projects/YouDePP/data/ud_stats_clean.Rda")
+save(df.youdepp.stats, file="~/Documents/research/git-projects/YouDePP/data/rdata/youdepp_stats_clean.Rda")
+save(df.ud.stats, file="~/Documents/research/git-projects/YouDePP/data/rdata/ud_stats_clean.Rda")

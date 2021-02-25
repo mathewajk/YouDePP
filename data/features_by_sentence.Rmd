@@ -304,11 +304,9 @@ gg.all.headedness
 
 ```
 
-
-
 # Entropy
 
-## Distributions (average enrtopy at each sentence length)
+## Distributions (average entropy at each sentence length)
 
 JA, EN, and KO have consistently low entropy; FR, RU, IT, and TR are more variable. Big difference between written and spoken French.
 
@@ -382,42 +380,42 @@ gg.youdepp.entropy.trans
 
 ```{r lmer_by_sentence_youdepp} 
 
-df.youdepp.lm.bysent.diff <- df.youdepp.stats.sampled.diff.ent %>% 
-  select(language, corpus, id, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans) %>% 
-  mutate(language=factor(language), corpus=factor(corpus), id=factor(id), s_len_sq=num_deps^2)
-
-lm.features.youdep.bysent.diff <- lmer(totalDLDiff ~ 
-                                         scale(s_len_sq) + scale(head_finality) + scale(entropyTrans) + 
-                                         scale(entropyTrans):scale(head_finality) + 
-                                         scale(s_len_sq):scale(entropyTrans) + 
-                                         (1 | id) + (1 | language) + (1 | corpus),# + 
-                                         #(1 + language | entropyTrans)  + (1 + corpus | entropyTrans) + 
-                                         #(1 + language | head_finality) + (1 + corpus | head_finality),
-                                       data=df.youdepp.lm.bysent.diff,
-                                       control=lmerControl(optimizer="bobyqa"))
-
-summary(lm.features.youdep.bysent.diff)
-
-# How do predictions change with higher entropy + longer sentences? Priors are different...do you KNOW you're in a longer sentence? (E.g. news vs. writing vs. comedy...)
+# df.youdepp.lm.bysent.diff <- df.youdepp.stats.sampled.diff.ent %>% 
+#   select(language, corpus, id, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans) %>% 
+#   mutate(language=factor(language), corpus=factor(corpus), id=factor(id), s_len_sq=num_deps^2)
+# 
+# lm.features.youdep.bysent.diff <- lmer(totalDLDiff ~ 
+#                                          scale(s_len_sq) + scale(head_finality) + scale(entropyTrans) + 
+#                                          scale(entropyTrans):scale(head_finality) + 
+#                                          scale(s_len_sq):scale(entropyTrans) + 
+#                                          (1 | id) + (1 | language) + (1 | corpus),# + 
+#                                          #(1 + language | entropyTrans)  + (1 + corpus | entropyTrans) + 
+#                                          #(1 + language | head_finality) + (1 + corpus | head_finality),
+#                                        data=df.youdepp.lm.bysent.diff,
+#                                        control=lmerControl(optimizer="bobyqa"))
+# 
+# summary(lm.features.youdep.bysent.diff)
+# 
+# # How do predictions change with higher entropy + longer sentences? Priors are different...do you KNOW you're in a longer sentence? (E.g. news vs. writing vs. comedy...)
 
 ```
 
-### UD
+## UD
 
 ```{r lmer_by_sentence_ud} 
 
-df.ud.lm.bysent.diff <- df.ud.stats.sampled.diff.ent %>% 
-  select(language, corpus, id, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans) %>% 
-  mutate(language=factor(language), corpus=factor(corpus), id=factor(id), s_len_sq=num_deps^2)
-
-lm.features.youdep.bysent.diff <- lmer(totalDLDiff ~ 
-                                         scale(s_len_sq) + scale(head_finality) + scale(entropyTrans) + 
-                                         scale(entropyTrans):scale(head_finality) + 
-                                         scale(s_len_sq):scale(entropyTrans) + 
-                                         (1 | id) + (1 | language), data=df.ud.lm.bysent.diff,
-                              control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
-
-summary(lm.features.youdep.bysent.diff)
+# df.ud.lm.bysent.diff <- df.ud.stats.sampled.diff.ent %>% 
+#   select(language, corpus, id, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans) %>% 
+#   mutate(language=factor(language), corpus=factor(corpus), id=factor(id), s_len_sq=num_deps^2)
+# 
+# lm.features.youdep.bysent.diff <- lmer(totalDLDiff ~ 
+#                                          scale(s_len_sq) + scale(head_finality) + scale(entropyTrans) + 
+#                                          scale(entropyTrans):scale(head_finality) + 
+#                                          scale(s_len_sq):scale(entropyTrans) + 
+#                                          (1 | id) + (1 | language), data=df.ud.lm.bysent.diff,
+#                               control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
+# 
+# summary(lm.features.youdep.bysent.diff)
 
 ```
 
@@ -427,94 +425,94 @@ summary(lm.features.youdep.bysent.diff)
 
 ```{r cross_modal_setup}
 
-# Sample wth replacement multiple times & take average at each language x corpus x length  combination
-# 100 averages
-
-languages <- c("en", "fr", "it", "tr", "ja", "ko", "ru")
-df.all.diff.sampled <- data.frame()
-
-# Suppress summarise info
-options(dplyr.summarise.inform = FALSE)
-
-for (i in languages) {
-  
-  df.youdepp.temp.l <- df.youdepp.stats.sampled.diff.ent %>% filter(language==i)
-  df.ud.temp.l      <- df.ud.stats.sampled.diff.ent %>% filter(language==i)
-  
-  df.youdepp.temp.l <- df.youdepp.temp.l %>% filter(num_deps %in% lengths)
-  df.ud.temp.l      <- df.ud.temp.l %>% filter(num_deps %in% lengths)
-  
-  lengths <- intersect(unique(df.youdepp.temp.l$num_deps), unique(df.ud.temp.l$num_deps))
-  
-  for(j in lengths) {
-  
-    df.youdepp.temp.l.n <- df.youdepp.temp.l %>% filter(num_deps==j)
-    df.ud.temp.l.n      <- df.ud.temp.l %>% filter(num_deps==j)
-  
-    total_n  <- nrow(df.youdepp.temp.l) + nrow(df.ud.temp.l)
-    subset_n <- nrow(df.youdepp.temp.l.n) + nrow(df.ud.temp.l.n)
-    prop_l_n <- subset_n/total_n
-    
-    for (k in 1:round(10000 * prop_l_n)) {
-      
-      df.youdepp.temp.sampled <- df.youdepp.temp.l.n %>% 
-        group_by(language, num_deps) %>% 
-        sample_n(n(), replace=T) %>%
-        summarize(totalDLDiff_s = mean(totalDLDiff), 
-                  averageDLDiff_s = mean(averageDLDiff), 
-                  averageDLSLDiff_s = mean(averageDLSLDiff), 
-                  head_finality_s = mean(head_finality), 
-                  entropyTrans_s = mean(entropyTrans)) %>% ungroup()
-      
-      df.ud.temp.sampled <- df.ud.temp.l.n %>% 
-        group_by(language, num_deps) %>% 
-        sample_n(n(), replace=T) %>%
-        summarize(totalDLDiff_w = mean(totalDLDiff), 
-                  averageDLDiff_w = mean(averageDLDiff), 
-                  averageDLSLDiff_w = mean(averageDLSLDiff), 
-                  head_finality_w = mean(head_finality), 
-                  entropyTrans_w = mean(entropyTrans)) %>% ungroup()
-      
-      # Written - spoken
-      df.all.diff <- merge(df.youdepp.temp.sampled, df.ud.temp.sampled, by=c("language", "num_deps")) %>%
-        mutate(totalDLDiff=(totalDLDiff_w-totalDLDiff_s), 
-               averageDLDiff=(averageDLDiff_w-averageDLDiff_s), 
-               averageDLSLDiff=(averageDLSLDiff_w-averageDLSLDiff_s), 
-               head_finality=(head_finality_w-head_finality_s), 
-               entropyTrans=sum(entropyTrans_w-entropyTrans_s)) %>%
-        select(language, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans)
-      
-      df.all.diff.sampled <- bind_rows(df.all.diff.sampled, df.all.diff)
-    }
-  }
-}
-
-df.all.diff.sampled %>% group_by(language) %>% summarize(count=n(), avgDiffTot=mean(totalDLDiff), avgDiffHead=mean(head_finality), avgDiffEnt=mean(entropyTrans))
-
-ggplot(df.all.diff.sampled, aes(x=factor(num_deps), y=totalDLDiff)) +
-  geom_violin() + 
-  facet_wrap(.~language)
+# # Sample wth replacement multiple times & take average at each language x corpus x length  combination
+# # 100 averages
+# 
+# languages <- c("en", "fr", "it", "tr", "ja", "ko", "ru")
+# df.all.diff.sampled <- data.frame()
+# 
+# # Suppress summarise info
+# options(dplyr.summarise.inform = FALSE)
+# 
+# for (i in languages) {
+#   
+#   df.youdepp.temp.l <- df.youdepp.stats.sampled.diff.ent %>% filter(language==i)
+#   df.ud.temp.l      <- df.ud.stats.sampled.diff.ent %>% filter(language==i)
+#   
+#   df.youdepp.temp.l <- df.youdepp.temp.l %>% filter(num_deps %in% lengths)
+#   df.ud.temp.l      <- df.ud.temp.l %>% filter(num_deps %in% lengths)
+#   
+#   lengths <- intersect(unique(df.youdepp.temp.l$num_deps), unique(df.ud.temp.l$num_deps))
+#   
+#   for(j in lengths) {
+#   
+#     df.youdepp.temp.l.n <- df.youdepp.temp.l %>% filter(num_deps==j)
+#     df.ud.temp.l.n      <- df.ud.temp.l %>% filter(num_deps==j)
+#   
+#     total_n  <- nrow(df.youdepp.temp.l) + nrow(df.ud.temp.l)
+#     subset_n <- nrow(df.youdepp.temp.l.n) + nrow(df.ud.temp.l.n)
+#     prop_l_n <- subset_n/total_n
+#     
+#     for (k in 1:round(10000 * prop_l_n)) {
+#       
+#       df.youdepp.temp.sampled <- df.youdepp.temp.l.n %>% 
+#         group_by(language, num_deps) %>% 
+#         sample_n(n(), replace=T) %>%
+#         summarize(totalDLDiff_s = mean(totalDLDiff), 
+#                   averageDLDiff_s = mean(averageDLDiff), 
+#                   averageDLSLDiff_s = mean(averageDLSLDiff), 
+#                   head_finality_s = mean(head_finality), 
+#                   entropyTrans_s = mean(entropyTrans)) %>% ungroup()
+#       
+#       df.ud.temp.sampled <- df.ud.temp.l.n %>% 
+#         group_by(language, num_deps) %>% 
+#         sample_n(n(), replace=T) %>%
+#         summarize(totalDLDiff_w = mean(totalDLDiff), 
+#                   averageDLDiff_w = mean(averageDLDiff), 
+#                   averageDLSLDiff_w = mean(averageDLSLDiff), 
+#                   head_finality_w = mean(head_finality), 
+#                   entropyTrans_w = mean(entropyTrans)) %>% ungroup()
+#       
+#       # Written - spoken
+#       df.all.diff <- merge(df.youdepp.temp.sampled, df.ud.temp.sampled, by=c("language", "num_deps")) %>%
+#         mutate(totalDLDiff=(totalDLDiff_w-totalDLDiff_s), 
+#                averageDLDiff=(averageDLDiff_w-averageDLDiff_s), 
+#                averageDLSLDiff=(averageDLSLDiff_w-averageDLSLDiff_s), 
+#                head_finality=(head_finality_w-head_finality_s), 
+#                entropyTrans=sum(entropyTrans_w-entropyTrans_s)) %>%
+#         select(language, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans)
+#       
+#       df.all.diff.sampled <- bind_rows(df.all.diff.sampled, df.all.diff)
+#     }
+#   }
+# }
+# 
+# df.all.diff.sampled %>% group_by(language) %>% summarize(count=n(), avgDiffTot=mean(totalDLDiff), avgDiffHead=mean(head_finality), avgDiffEnt=mean(entropyTrans))
+# 
+# ggplot(df.all.diff.sampled, aes(x=factor(num_deps), y=totalDLDiff)) +
+#   geom_violin() + 
+#   facet_wrap(.~language)
 
 ```
 
 ```{r written_spoken_regression_sampled}
 
-df.all.lm.bysent.diff <- df.all.diff.sampled %>% 
-  select(language, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans) %>% 
-  mutate(language=factor(language), s_len_sq=num_deps^2)
-
-lm.features.all.bysent.diff <- lmer(totalDLDiff ~ 
-                                         scale(s_len_sq) + scale(head_finality) + scale(entropyTrans) + 
-                                         scale(entropyTrans):scale(head_finality) + 
-                                         scale(s_len_sq):scale(entropyTrans) + 
-                                         (1 | language), data=df.all.lm.bysent.diff,
-                              control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
-
-summary(lm.features.all.bysent.diff)
-
-#(rand_w - obs_w) - (rand_s - obs_s)
-#rand - obs bigger = more minimization within modality
-# diff_w - diff_s bigger = more minimization IN WRITING
+# df.all.lm.bysent.diff <- df.all.diff.sampled %>% 
+#   select(language, num_deps, totalDLDiff, averageDLDiff, averageDLSLDiff, head_finality, entropyTrans) %>% 
+#   mutate(language=factor(language), s_len_sq=num_deps^2)
+# 
+# lm.features.all.bysent.diff <- lmer(totalDLDiff ~ 
+#                                          scale(s_len_sq) + scale(head_finality) + scale(entropyTrans) + 
+#                                          scale(entropyTrans):scale(head_finality) + 
+#                                          scale(s_len_sq):scale(entropyTrans) + 
+#                                          (1 | language), data=df.all.lm.bysent.diff,
+#                               control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
+# 
+# summary(lm.features.all.bysent.diff)
+# 
+# #(rand_w - obs_w) - (rand_s - obs_s)
+# #rand - obs bigger = more minimization within modality
+# # diff_w - diff_s bigger = more minimization IN WRITING
 
 ```
 
@@ -581,12 +579,12 @@ lm.diff.avg.baseWritten <- lmer(difference_score ~
       (1 | language) + (1 | corpus), data=df.all.avg.lm,
       control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
 
-
 conf.lm.diff.avg.baseWritten <- confint(lm.diff.avg.baseWritten, parm="beta_", method="Wald")
-conf.lm.diff.avg.baseWritten
 
 summary(lm.diff.avg.baseWritten)
-#summary(lm.features.diff.full.averaged.baselineWritten)
+conf.lm.diff.avg.baseWritten
+
+#df.all.avg.lm %>% group_by(corpus) %>% summarize(count=n())
 
 ```
 
@@ -672,26 +670,22 @@ len_sd.written   <- sd(df.all.avg.lm.written$s_len_sq_scaled)
 # Spoken prediction data
 df.predict.headVent.spoken <- expand.grid(
   headedness_scaled = c(hf_min.spoken, hf_mean.spoken, hf_max.spoken), 
-  s_len_sq_scaled   = seq(1, 15, by=1),
+  s_len_sq_scaled   = unique(df.all.avg.lm.spoken$s_len_sq_scaled),
   entropy_scaled    = c(ent_min.spoken, ent_mean.spoken, ent_max.spoken), 
   spoken            = c(1),
   language          = unique(df.all.avg.lm.spoken$language),  
   corpus            = unique(df.all.avg.lm.spoken$corpus)
-) %>%
-  mutate(s_len_sq_scaled = s_len_sq_scaled^2, 
-         s_len_sq_scaled = scale(s_len_sq_scaled))
+)
 
 # Written prediction data
 df.predict.headVent.written <- expand.grid(
   headedness_scaled = c(hf_min.written, hf_mean.written, hf_max.written), 
-  s_len_sq_scaled   = seq(1, 15, by=1),
+  s_len_sq_scaled   = unique(df.all.avg.lm.written$s_len_sq_scaled),
   entropy_scaled    = c(ent_min.written, ent_mean.written, ent_max.written), 
   spoken            = c(0), 
   language          = unique(df.all.avg.lm.written$language),  
   corpus            = unique(df.all.avg.lm.written$corpus)
-) %>%
-  mutate(s_len_sq_scaled = s_len_sq_scaled^2, 
-         s_len_sq_scaled = scale(s_len_sq_scaled))
+)
 
 # Predict spoken
 df.predict.headVent.spoken$difference_predicted <- predict(lm.diff.avg.baseWritten, newdata=df.predict.headVent.spoken)
@@ -728,7 +722,8 @@ df.predict.headVent <- bind_rows(df.predict.headVent.spoken, df.predict.headVent
 # Collapse unnecessary predictors
 df.predict.headVent <- df.predict.headVent %>% 
   group_by(s_len_sq_scaled, modality, headednessCat, entropyCat) %>% 
-  summarize(difference_predicted = mean(difference_predicted))
+  summarize(difference_predicted = mean(difference_predicted)) %>%
+  mutate(modality = factor(modality, levels=c("Written (UD)", "Spoken (YouTube)")))
 
 ```
 
@@ -737,41 +732,42 @@ df.predict.headVent <- df.predict.headVent %>%
 # Spoken
 df.observed.headVent.spoken <- df.all.avg.lm.spoken %>%
   mutate(entropyCat = case_when(entropy_scaled <= (ent_mean.spoken - ent_sd.spoken) ~ "Min entropy",
-                                entropy_scaled >= (ent_mean + ent_sd.spoken) ~ "Max entropy",
+                                entropy_scaled >= (ent_mean.spoken + ent_sd.spoken) ~ "Max entropy",
                                 TRUE ~ "Mean entropy"),
-         headednessCat = case_when(headedness_scaled <= (ent_mean.spoken - ent_sd.spoken) ~ "Min headedness",
-                                headedness_scaled >= (ent_mean + ent_sd.spoken) ~ "Max headedness",
-                                TRUE ~ "Mean headedness"),
+         headednessCat = case_when(headedness_scaled <= (hf_mean.spoken - hf_sd.spoken) ~ "Min head-finality",
+                                headedness_scaled >= (hf_mean.spoken + hf_sd.spoken) ~ "Max head-finality",
+                                TRUE ~ "Mean head-finality"),
          modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)")) %>% 
-  group_by(s_len_sq_scaled, spoken, headednessCat, entropyCat) %>% 
+  group_by(s_len_sq_scaled, modality, headednessCat, entropyCat) %>% 
   summarize(difference_score = mean(difference_score))
 
 # Written
 df.observed.headVent.written <- df.all.avg.lm.written %>%
   mutate(entropyCat = case_when(entropy_scaled <= (ent_mean.written - ent_sd.written) ~ "Min entropy",
-                                entropy_scaled >= (ent_mean + ent_sd.written) ~ "Max entropy",
+                                entropy_scaled >= (ent_mean.written + ent_sd.written) ~ "Max entropy",
                                 TRUE ~ "Mean entropy"),
-         headednessCat = case_when(headedness_scaled <= (ent_mean.written - ent_sd.written) ~ "Min headedness",
-                                headedness_scaled >= (ent_mean + ent_sd.written) ~ "Max headedness",
+         headednessCat = case_when(headedness_scaled <= (hf_mean.written - hf_sd.written) ~ "Min headedness",
+                                headedness_scaled >= (hf_mean.written + hf_sd.written) ~ "Max headedness",
                                 TRUE ~ "Mean headedness"),
          modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)")) %>% 
-  group_by(s_len_sq_scaled, spoken, headednessCat, entropyCat) %>% 
+  group_by(s_len_sq_scaled, modality, headednessCat, entropyCat) %>% 
   summarize(difference_score = mean(difference_score))
   
-df.observed.headVent <- bind_rows(df.observed.headVent.spoken, df.observed.headVent.written)
+df.observed.headVent <- bind_rows(df.observed.headVent.spoken, df.observed.headVent.written)  %>%
+  mutate(modality = factor(modality, levels=c("Written (UD)", "Spoken (YouTube)")))
 
 ```
 
 ```{r graph_entropy}
 
-model.entropy.g <- ggplot(df.predict.head_ent %>% 
+model.entropy.g <- ggplot(df.predict.headVent %>% 
                             group_by(modality, s_len_sq_scaled, entropyCat) %>% 
                             summarize(difference_predicted = mean(difference_predicted)), 
                           aes(x=s_len_sq_scaled, y=difference_predicted, color=entropyCat))
 
 # Observed data
 model.entropy.g <- model.entropy.g +
-  geom_point(data=df.observed.head_ent,
+  geom_point(data=df.observed.headVent,
              inherit.aes=FALSE, 
              aes(x=(s_len_sq_scaled), y=(difference_score), 
                  color=entropyCat), shape="triangle", alpha=0.5, size=1.5)
@@ -785,10 +781,10 @@ model.entropy.g <- model.entropy.g +
 model.entropy.g <- model.entropy.g +
   scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  coord_cartesian(ylim=c(-2, 15)) + 
+  #coord_cartesian(ylim=c(-2, 15)) + 
   facet_wrap(. ~ modality) +
   labs(title="", x="Sentence Length", y="Random - Observed", color="Entropy") + 
-  gg_theme() + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_entropy.png", plot=model.entropy.g, device="png", dpi = 300, width=10)
@@ -798,14 +794,14 @@ model.entropy.g
 
 ```{r graph_headedness}
 
-model.headedness.g <- ggplot(df.predict.head_ent %>% 
+model.headedness.g <- ggplot(df.predict.headVent %>% 
                             group_by(modality, s_len_sq_scaled, headednessCat) %>% 
                             summarize(difference_predicted = mean(difference_predicted)), 
                           aes(x=s_len_sq_scaled, y=difference_predicted, color=headednessCat))
 
 # Observed data
 model.headedness.g <- model.headedness.g +
-  geom_point(data=df.observed.head_ent,
+  geom_point(data=df.observed.headVent,
              inherit.aes=FALSE, 
              aes(x=(s_len_sq_scaled), y=(difference_score), 
                  color=headednessCat), shape="triangle", alpha=0.5, size=1.5)
@@ -822,7 +818,7 @@ model.headedness.g <- model.headedness.g +
   coord_cartesian(ylim=c(-2, 15)) + 
   facet_wrap(. ~ modality) +
   labs(title="", x="Sentence Length", y="Random - Observed", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_headedness.png", plot=model.headedness.g, device="png", dpi = 300, width=10)
@@ -922,7 +918,6 @@ df.observed.headANDent.written <- df.all.avg.lm.written %>%
   
 df.observed.headANDent <- bind_rows(df.observed.headANDent.spoken, df.observed.headANDent.written)
 
-df.observed.headANDent %>% group_by(modality, lengthCat) %>% summarize(count=n())
 ```
 
 ```{r graph_headedness_entropy_mean}
@@ -949,7 +944,7 @@ model.headANDent.mean.g <- model.headANDent.mean.g +
   coord_cartesian(ylim=c(-1, 3)) + 
   facet_grid(lengthCat ~ modality) +
   labs(title="", x="Entropy", y="Random - Observed", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_headednessEntropy_mean.png", plot=model.headANDent.mean.g, device="png", dpi = 300, width=10)
@@ -981,7 +976,7 @@ model.headANDent.max.g <- model.headANDent.max.g +
   #coord_cartesian(ylim=c(5, 15)) + 
   facet_grid(lengthCat ~ modality) +
   labs(title="", x="Entropy", y="Random - Observed", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_headednessEntropy_max.png", plot=model.headANDent.max.g, device="png", dpi = 300, width=10)
@@ -1030,7 +1025,7 @@ model.entropy.diff.g <- model.entropy.diff.g +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
   #coord_cartesian(ylim=c(-2, 15)) + 
   labs(title="", x="Sentence Length", y="Written - Spoken", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_entropy_diff.png", plot=model.entropy.diff.g, device="png", dpi = 300, width=10)
@@ -1056,13 +1051,14 @@ model.headedness.diff.g <- model.headedness.diff.g +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
   #coord_cartesian(ylim=c(-2, 15)) + 
   labs(title="", x="Sentence Length", y="Written - Spoken", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_headedness_diff.png", plot=model.headedness.diff.g, device="png", dpi = 300, width=10)
 model.headedness.diff.g
 
 ```
+### Headedness with entropy
 
 ```{r merge_and_diff_headANDent}
 
@@ -1085,7 +1081,7 @@ df.predict.headANDent.diff <- merge(df.predict.headANDent.diff.spoken, df.predic
 
 ```
 
-```{r graph_headedness_entropy__diff_mean}
+```{r graph_headedness_entropy_diff_mean}
 
 model.headANDent.diff.mean.g <- ggplot(df.predict.headANDent.diff %>% filter(lengthCat == "Mean length"),
                           aes(x=entropy_scaled, y=difference_score))
@@ -1102,7 +1098,7 @@ model.headANDent.diff.mean.g <- model.headANDent.diff.mean.g +
   #coord_cartesian(ylim=c(-1, 3)) + 
   facet_wrap(.~lengthCat) +
   labs(title="", x="Entropy", y="Spoken - Written", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_headednessEntropy_mean.png", plot=model.headANDent.diff.mean.g, device="png", dpi = 300, width=10)
@@ -1110,7 +1106,7 @@ model.headANDent.diff.mean.g
 
 ```
 
-```{r graph_headedness_entropy__diff_max}
+```{r graph_headedness_entropy_diff_max}
 
 model.headANDent.diff.max.g <- ggplot(df.predict.headANDent.diff %>% filter(lengthCat == "Max length"),
                           aes(x=entropy_scaled, y=difference_score))
@@ -1127,7 +1123,7 @@ model.headANDent.diff.max.g <- model.headANDent.diff.max.g +
   #coord_cartesian(ylim=c(-1, 3)) + 
   facet_wrap(.~lengthCat) +
   labs(title="", x="Entropy", y="Spoken - Written", color="Head-finality") + 
-  gg_theme()  + 
+  gg_theme + 
   theme(legend.position="bottom")
 
 ggsave("plots/model_predictions_headednessEntropy_max.png", plot=model.headANDent.diff.max.g, device="png", dpi = 300, width=10)
