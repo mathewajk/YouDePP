@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 
 # Package names
-packages <- c("ggplot2", "ggeffects", "ghibli", "lavaan", "psych", "lme4", "lmerTest", "tidyr", "GPArotation")
+packages <- c("ggplot2", "ggeffects", "ghibli", "lavaan", "psych", "lme4", "lmerTest", "tidyr", "GPArotation", "ggpubr")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -111,7 +111,9 @@ average_diff <- function(df) {
   
 gg_theme <- theme_bw() + 
   theme(
-    text = element_text(size = 20),
+    text = element_text(size = 25),
+    #axis.text=element_text(size=25), 
+    plot.title = element_text(size=25, face="bold"),
     legend.text = element_text(size = 20),
     legend.title = element_text(size = 20),
     legend.position = "bottom",
@@ -236,6 +238,82 @@ df.ud.stats.sampled.diff.ent      <- merge(df.ud.stats.sampled.diff,
   filter_all(all_vars(!is.na(.) & !is.infinite(.) & !is.nan(.)))
 
 ```
+
+## Baseline graphs (for vizualization)
+
+```{r setup_nice_graphs}
+
+df.all.stats <- bind_rows(list("Spoken (YouTube)" = df.youdepp.stats, "Written (UD)" = df.ud.stats), .id="modality")
+
+df.all.stats <- df.all.stats %>% mutate(language_clean = case_when(language == "fr" ~ "French", language == "ru" ~ "Russian", language == "ja" ~ "Japanese", language == "it" ~ "Italian", language == "en" ~ "English", language == "ko" ~ "Korean", language == "tr" ~ "Turkish"))
+
+df.all.stats.sov <- df.all.stats %>% filter(language == "ja" | language == "ko" | language == "tr" | language == "ru") # Hack to get heights the same
+df.all.stats.svo <- df.all.stats %>% filter(language != "ja" & language != "ko" & language != "tr")
+
+```
+
+```{r dependency_graphs_sov}
+
+gg.sov.dependencies <- ggplot(df.all.stats.sov  %>% filter(numDeps_noFunc <= 10), 
+                              aes(x=numDeps_noFunc, y=totalDL_noFunc, color=baseline, group=baseline)) + 
+  
+    stat_bin_hex(data=df.all.stats.sov %>% filter(baseline=="observed" & numDeps_noFunc <= 10), 
+                 bins=50, binwidth=c(1, 10), show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(x=numDeps_noFunc, y=totalDL_noFunc, alpha=log(..density..)), fill="#c6d6d6") + 
+  
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x), k=7)) + 
+    scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49"), labels=c("Random", "Observed", "Optimal")) +
+  
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="Baseline", linetype="Corpus") + 
+  
+    theme(legend.position="bottom") +
+    facet_grid(language_clean ~ modality) +
+  
+    coord_cartesian(ylim=c(0, 40)) +
+  
+    gg_theme
+
+ggsave("plots/total_dependencies_sov_noFunc.png", plot=gg.sov.dependencies, device="png", dpi = 300, height=7.25, width=8)
+gg.sov.dependencies
+
+```
+
+```{r dependency_graphs_svo}
+
+gg.svo.dependencies <- ggplot(df.all.stats.svo %>% filter(numDeps_noFunc <= 10), aes(x=numDeps_noFunc, y=totalDL_noFunc, color=baseline, group=baseline)) + 
+  
+    stat_bin_hex(data=df.all.stats.svo %>% filter(baseline=="observed" & numDeps_noFunc <= 10), 
+                 bins=50, binwidth=c(1,10), show.legend=FALSE, inherit.aes=FALSE, 
+                 aes(x=numDeps_noFunc, y=totalDL_noFunc, alpha=log(..density..)), fill="#c6d6d6") + 
+  
+    geom_smooth(aes(group=baseline), se = TRUE, method = "gam", formula = y ~ s(log(x), k=7)) + 
+    scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49"), labels=c("Random", "Observed", "Optimal")) +
+  
+    labs(title="", x="Sentence Length", y="Total Dependency Length", color="Baseline", linetype="Corpus") + 
+  
+    theme(legend.position="bottom") +
+    facet_grid(language_clean ~ modality) +
+  
+    coord_cartesian(ylim=c(0, 40)) +
+  
+    gg_theme
+
+ggsave("plots/total_dependencies_svo_noFunc.png", plot=gg.svo.dependencies, device="png", dpi = 300, height=9, width=8)
+gg.svo.dependencies
+
+```
+
+```{r arrange_baseline_graphs}
+
+gg.total_dependencies.arranged <- ggarrange(gg.svo.dependencies, gg.sov.dependencies, ncol=2, common.legend = TRUE, legend = "bottom") + theme(legend.text = element_text(20), legend.title = element_text(20))
+
+ggsave("plots/total_dependencies_noFunc.png", plot=gg.total_dependencies.arranged, device="png", dpi = 300, height=9, width=16)
+
+gg.total_dependencies.arranged
+
+
+```
+
 
 # Difference score graphs
 
@@ -560,20 +638,20 @@ df.all.avg.lm <- df.all.lm %>%
 lm.diff.avg.baseWritten <- lmer(difference_score ~ 
       # Main effects
       spoken + s_len_sq_scaled + headedness_scaled + entropy_scaled + 
-      # Main interactions
+      # Interactions
       headedness_scaled:entropy_scaled + 
       s_len_sq_scaled:entropy_scaled + 
-      #s_len_sq_scaled:headedness_scaled + 
+      s_len_sq_scaled:headedness_scaled + 
       # 3rd order
-      #s_len_sq_scaled:headedness_scaled:entropy_scaled + 
+      s_len_sq_scaled:headedness_scaled:entropy_scaled + 
       # Interactions with baseline
       spoken:s_len_sq_scaled + 
       spoken:headedness_scaled + spoken:entropy_scaled + 
       # 3rd order interactions
       spoken:headedness_scaled:entropy_scaled + 
-      #spoken:s_len_sq_scaled:headedness_scaled + 
+      spoken:s_len_sq_scaled:headedness_scaled + 
       spoken:s_len_sq_scaled:entropy_scaled + 
-      # 4th order?????
+      # Technically this one would also be interesting, but...
       #spoken:s_len_sq_scaled:entropy_scaled:headedness_scaled + 
       #(1 | id) + 
       (1 | language) + (1 | corpus), data=df.all.avg.lm,
@@ -609,7 +687,7 @@ lm.diff.avg.baseSpoken <- lmer(difference_score ~
       written:s_len_sq_scaled:headedness_scaled + 
       written:s_len_sq_scaled:entropy_scaled + 
       # 4th order?????
-      written:s_len_sq_scaled:entropy_scaled:headedness_scaled + 
+      #written:s_len_sq_scaled:entropy_scaled:headedness_scaled + 
       #(1 | id) + 
       (1 | language) + (1 | corpus), data=df.all.avg.lm,
       control=lmerControl(optimizer="bobyqa", optCtrl=list(maxfun=100000)))
@@ -624,7 +702,7 @@ conf.lm.diff.avg.baseSpoken
 
 ### Setup
 
-```{r set_up_predictions_setup}
+```{r set_up_predictions}
 
 # Separate data sets for within-baseline calculations
 df.all.avg.lm.spoken  <- df.all.avg.lm %>% filter(spoken == 1)
@@ -699,21 +777,21 @@ df.predict.headVent.written$difference_predicted <- predict(lm.diff.avg.baseWrit
 
 # Give our entropy and headedness categories nice names
 df.predict.headVent.spoken <- df.predict.headVent.spoken %>% 
-  mutate(headednessCat = case_when(headedness_scaled == hf_min.spoken ~ "Min head-finality", 
-                                   headedness_scaled == hf_max.spoken ~ "Max head-finality", 
-                                   TRUE ~ "Mean head-finality"),
-         entropyCat    = case_when(entropy_scaled == ent_min.spoken ~ "Min entropy",
-                                   entropy_scaled == ent_max.spoken ~ "Max entropy", 
-                                   TRUE ~ "Mean entropy"),
+  mutate(headednessCat = case_when(headedness_scaled == hf_min.spoken ~ "Minimum", 
+                                   headedness_scaled == hf_max.spoken ~ "Maximum", 
+                                   TRUE ~ "Mean"),
+         entropyCat    = case_when(entropy_scaled == ent_min.spoken ~ "Minimum",
+                                   entropy_scaled == ent_max.spoken ~ "Maximum", 
+                                   TRUE ~ "Mean"),
          modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)"))
  
 df.predict.headVent.written <- df.predict.headVent.written %>% 
-  mutate(headednessCat = case_when(headedness_scaled == hf_min.written ~ "Min head-finality", 
-                                   headedness_scaled == hf_max.written ~ "Max head-finality", 
-                                   TRUE ~ "Mean head-finality"),
-         entropyCat    = case_when(entropy_scaled == ent_min.written ~ "Min entropy",
-                                   entropy_scaled == ent_max.written ~ "Max entropy", 
-                                   TRUE ~ "Mean entropy"),
+  mutate(headednessCat = case_when(headedness_scaled == hf_min.written ~ "Minimum", 
+                                   headedness_scaled == hf_max.written ~ "Maximum", 
+                                   TRUE ~ "Mean"),
+         entropyCat    = case_when(entropy_scaled == ent_min.written ~ "Minimum",
+                                   entropy_scaled == ent_max.written ~ "Maximum", 
+                                   TRUE ~ "Mean"),
          modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)"))
 
 # Combine dataframes
@@ -731,26 +809,26 @@ df.predict.headVent <- df.predict.headVent %>%
 
 # Spoken
 df.observed.headVent.spoken <- df.all.avg.lm.spoken %>%
-  mutate(entropyCat = case_when(entropy_scaled <= (ent_mean.spoken - ent_sd.spoken) ~ "Min entropy",
-                                entropy_scaled >= (ent_mean.spoken + ent_sd.spoken) ~ "Max entropy",
-                                TRUE ~ "Mean entropy"),
-         headednessCat = case_when(headedness_scaled <= (hf_mean.spoken - hf_sd.spoken) ~ "Min head-finality",
-                                headedness_scaled >= (hf_mean.spoken + hf_sd.spoken) ~ "Max head-finality",
-                                TRUE ~ "Mean head-finality"),
+  mutate(entropyCat = case_when(entropy_scaled <= (ent_mean.spoken - ent_sd.spoken/3) ~ "Minimum",
+                                entropy_scaled >= (ent_mean.spoken + ent_sd.spoken/3) ~ "Maximum",
+                                TRUE ~ "Mean"),
+         headednessCat = case_when(headedness_scaled <= (hf_mean.spoken - hf_sd.spoken) ~ "Minimum",
+                                headedness_scaled >= (hf_mean.spoken + hf_sd.spoken) ~ "Maximum",
+                                TRUE ~ "Mean"),
          modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)")) %>% 
-  group_by(s_len_sq_scaled, modality, headednessCat, entropyCat) %>% 
+  group_by(s_len_sq_scaled, modality, num_deps, headednessCat, entropyCat) %>% 
   summarize(difference_score = mean(difference_score))
 
 # Written
 df.observed.headVent.written <- df.all.avg.lm.written %>%
-  mutate(entropyCat = case_when(entropy_scaled <= (ent_mean.written - ent_sd.written) ~ "Min entropy",
-                                entropy_scaled >= (ent_mean.written + ent_sd.written) ~ "Max entropy",
-                                TRUE ~ "Mean entropy"),
-         headednessCat = case_when(headedness_scaled <= (hf_mean.written - hf_sd.written) ~ "Min headedness",
-                                headedness_scaled >= (hf_mean.written + hf_sd.written) ~ "Max headedness",
-                                TRUE ~ "Mean headedness"),
+  mutate(entropyCat = case_when(entropy_scaled <= (ent_mean.written - ent_sd.written/3) ~ "Minimum",
+                                entropy_scaled >= (ent_mean.written + ent_sd.written/3) ~ "Maximum",
+                                TRUE ~ "Mean"),
+         headednessCat = case_when(headedness_scaled <= (hf_mean.written - hf_sd.written) ~ "Minimum",
+                                headedness_scaled >= (hf_mean.written + hf_sd.written) ~ "Maximum",
+                                TRUE ~ "Mean"),
          modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)")) %>% 
-  group_by(s_len_sq_scaled, modality, headednessCat, entropyCat) %>% 
+  group_by(s_len_sq_scaled, num_deps, modality, headednessCat, entropyCat) %>% 
   summarize(difference_score = mean(difference_score))
   
 df.observed.headVent <- bind_rows(df.observed.headVent.spoken, df.observed.headVent.written)  %>%
@@ -759,6 +837,11 @@ df.observed.headVent <- bind_rows(df.observed.headVent.spoken, df.observed.headV
 ```
 
 ```{r graph_entropy}
+
+df.predict.headVent$entropyCat  <- factor(df.predict.headVent$entropyCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
+df.observed.headVent$entropyCat <- factor(df.observed.headVent$entropyCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
 
 model.entropy.g <- ggplot(df.predict.headVent %>% 
                             group_by(modality, s_len_sq_scaled, entropyCat) %>% 
@@ -781,11 +864,11 @@ model.entropy.g <- model.entropy.g +
 model.entropy.g <- model.entropy.g +
   scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  #coord_cartesian(ylim=c(-2, 15)) + 
+  coord_cartesian(ylim=c(-5, 20)) + 
   facet_wrap(. ~ modality) +
-  labs(title="", x="Sentence Length", y="Random - Observed", color="Entropy") + 
+  labs(title="Difference scores by length and entropy", x="Scaled sentence Length", y="Random - Observed", color="Entropy") + 
   gg_theme + 
-  theme(legend.position="bottom")
+  theme(legend.position="right")
 
 ggsave("plots/model_predictions_entropy.png", plot=model.entropy.g, device="png", dpi = 300, width=10)
 model.entropy.g
@@ -793,6 +876,11 @@ model.entropy.g
 ```
 
 ```{r graph_headedness}
+
+df.predict.headVent$headednessCat  <- factor(df.predict.headVent$headednessCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
+df.observed.headVent$headednessCat <- factor(df.observed.headVent$headednessCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
 
 model.headedness.g <- ggplot(df.predict.headVent %>% 
                             group_by(modality, s_len_sq_scaled, headednessCat) %>% 
@@ -815,16 +903,24 @@ model.headedness.g <- model.headedness.g +
 model.headedness.g <- model.headedness.g +
   scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  coord_cartesian(ylim=c(-2, 15)) + 
+  coord_cartesian(ylim=c(-5, 20)) + 
   facet_wrap(. ~ modality) +
-  labs(title="", x="Sentence Length", y="Random - Observed", color="Head-finality") + 
+  labs(title="Difference scores by length and headedness", x="Scaled sentence length", y="Random - Observed", color="Head-finality") + 
   gg_theme + 
-  theme(legend.position="bottom")
+  theme(legend.position="right")
 
 ggsave("plots/model_predictions_headedness.png", plot=model.headedness.g, device="png", dpi = 300, width=10)
 model.headedness.g
 
 ```
+
+```{r arrange_graphs_headent}
+
+gg.headedness_entropy.arranged <- ggarrange(model.entropy.g, model.headedness.g, nrow = 2)
+ggsave("plots/model_predictions_headedness_entropy.png", plot=gg.headedness_entropy.arranged, device="png", dpi = 300, width=9, height=9)
+gg.headedness_entropy.arranged
+```
+
 
 ### Headedness together with entropy
 
@@ -833,7 +929,7 @@ model.headedness.g
 # Spoken prediction data
 df.predict.headANDent.spoken <- expand.grid(
   headedness_scaled = c(hf_min.spoken, hf_mean.spoken, hf_max.spoken), 
-  s_len_sq_scaled   = c(len_min.spoken, len_mean.spoken, len_max.spoken),
+  s_len_sq_scaled   = c(len_min.spoken + 0.5, len_mean.spoken, len_max.spoken - 4),
   entropy_scaled    = seq(ent_min.spoken, ent_max.spoken, by=0.1), 
   spoken            = c(1),
   language          = unique(df.all.avg.lm.spoken$language),  
@@ -843,7 +939,7 @@ df.predict.headANDent.spoken <- expand.grid(
 # Written prediction data
 df.predict.headANDent.written <- expand.grid(
   headedness_scaled = c(hf_min.written, hf_mean.written, hf_max.written), 
-  s_len_sq_scaled   = c(len_min.written, len_mean.written, len_max.written),
+  s_len_sq_scaled   = c(len_min.written + 0.5, len_mean.written, len_max.written - 4),
   entropy_scaled    = seq(ent_min.written, ent_max.written, by=0.1), 
   spoken            = c(0), 
   language          = unique(df.all.avg.lm.written$language),  
@@ -862,22 +958,22 @@ df.predict.headANDent.written$difference_predicted <- predict(lm.diff.avg.baseWr
 
 # Give our entropy and headedness categories nice names
 df.predict.headANDent.spoken <- df.predict.headANDent.spoken %>% 
-  mutate(headednessCat = case_when(headedness_scaled == hf_min.spoken ~ "Min head-finality", 
-                                   headedness_scaled == hf_max.spoken ~ "Max head-finality", 
-                                   TRUE ~ "Mean head-finality"),
-         lengthCat    = case_when(s_len_sq_scaled == len_min.spoken ~ "Min length",
-                                   s_len_sq_scaled == len_max.spoken ~ "Max length", 
+  mutate(headednessCat = case_when(headedness_scaled == hf_min.spoken ~ "Minimum", 
+                                   headedness_scaled == hf_max.spoken ~ "Maximum", 
+                                   TRUE ~ "Mean"),
+         lengthCat    = case_when(s_len_sq_scaled == len_min.spoken + 0.5 ~ "Min length",
+                                   s_len_sq_scaled == len_max.spoken - 4 ~ "Max length", 
                                    TRUE ~ "Mean length"),
-         modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)"))
+         modality = ifelse(spoken==0, "Written (UD)", "Spoken\n(YouTube)"))
  
 df.predict.headANDent.written <- df.predict.headANDent.written %>% 
-  mutate(headednessCat = case_when(headedness_scaled == hf_min.written ~ "Min head-finality", 
-                                   headedness_scaled == hf_max.written ~ "Max head-finality", 
-                                   TRUE ~ "Mean head-finality"),
-         lengthCat    = case_when(s_len_sq_scaled == len_min.written ~ "Min length",
-                                   s_len_sq_scaled == len_max.written ~ "Max length", 
+  mutate(headednessCat = case_when(headedness_scaled == hf_min.written ~ "Minimum", 
+                                   headedness_scaled == hf_max.written ~ "Maximum", 
+                                   TRUE ~ "Mean"),
+         lengthCat    = case_when(s_len_sq_scaled == len_min.written + 0.5 ~ "Min length",
+                                   s_len_sq_scaled == len_max.written - 4 ~ "Max length", 
                                    TRUE ~ "Mean length"),
-         modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)"))
+         modality = ifelse(spoken==0, "Written (UD)", "Spoken\n(YouTube)"))
 
 # Combine dataframes
 df.predict.headANDent <- bind_rows(df.predict.headANDent.spoken, df.predict.headANDent.written)
@@ -894,97 +990,83 @@ df.predict.headANDent <- df.predict.headANDent %>%
 
 # Spoken
 df.observed.headANDent.spoken <- df.all.avg.lm.spoken %>%
-  mutate(lengthCat = case_when(s_len_sq_scaled <= (len_mean.spoken - len_sd.spoken) ~ "Min length",
+  mutate(lengthCat = case_when(s_len_sq_scaled <= (len_mean.spoken - len_sd.spoken/2) ~ "Min length",
                                 s_len_sq_scaled >= (len_mean.spoken + len_sd.spoken) ~ "Max length",
                                 TRUE ~ "Mean length"),
-         headednessCat = case_when(headedness_scaled <= (hf_mean.spoken - hf_sd.spoken) ~ "Min head-finality",
-                                headedness_scaled >= (hf_mean.spoken + hf_sd.spoken) ~ "Max head-finality",
-                                TRUE ~ "Mean head-finality"),
-         modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)")) %>% 
-  group_by(entropy_scaled, modality, headednessCat, lengthCat) %>% 
+         headednessCat = case_when(headedness_scaled <= (hf_mean.spoken - hf_sd.spoken) ~ "Minimum",
+                                headedness_scaled >= (hf_mean.spoken + hf_sd.spoken) ~ "Maximum",
+                                TRUE ~ "Mean"),
+         modality = ifelse(spoken==0, "Written (UD)", "Spoken\n(YouTube)")) %>% 
+  group_by(entropy_scaled, modality, num_deps, headednessCat, lengthCat) %>% 
   summarize(difference_score = mean(difference_score))
 
 # Written
 df.observed.headANDent.written <- df.all.avg.lm.written %>%
-  mutate(lengthCat = case_when(s_len_sq_scaled <= (len_mean.written - len_sd.written) ~ "Min length",
-                                s_len_sq_scaled >= (len_mean.written + len_sd.written) ~ "Max length",
+  mutate(lengthCat = case_when(s_len_sq_scaled <= (len_mean.written - len_sd.written/2) ~ "Min length",
+                                s_len_sq_scaled >= (len_mean.written + len_sd.written/3) ~ "Max length",
                                 TRUE ~ "Mean length"),
-         headednessCat = case_when(headedness_scaled <= (hf_mean.written - hf_sd.written) ~ "Min head-finality",
-                                headedness_scaled >= (hf_mean.written + hf_sd.written) ~ "Max head-finality",
-                                TRUE ~ "Mean head-finality"),
-         modality = ifelse(spoken==0, "Written (UD)", "Spoken (YouTube)")) %>% 
-  group_by(entropy_scaled, modality, headednessCat, lengthCat) %>% 
+         headednessCat = case_when(headedness_scaled <= (hf_mean.written - hf_sd.written) ~ "Minimum",
+                                headedness_scaled >= (hf_mean.written + hf_sd.written) ~ "Maximum",
+                                TRUE ~ "Mean"),
+         modality = ifelse(spoken==0, "Written (UD)", "Spoken\n(YouTube)")) %>% 
+  group_by(entropy_scaled, modality, num_deps, headednessCat, lengthCat) %>% 
   summarize(difference_score = mean(difference_score))
   
 df.observed.headANDent <- bind_rows(df.observed.headANDent.spoken, df.observed.headANDent.written)
 
 ```
 
-```{r graph_headedness_entropy_mean}
+```{r graph_headedness_entropy}
 
-model.headANDent.mean.g <- ggplot(df.predict.headANDent %>% filter(lengthCat == "Mean length"),
+df.predict.headANDent$modality       <- factor(df.predict.headANDent$modality, 
+                                               levels=c("Written (UD)", "Spoken\n(YouTube)"))
+df.predict.headANDent$lengthCat      <- factor(df.predict.headANDent$lengthCat, 
+                                               levels=c("Min length", "Mean length", "Max length"))
+df.predict.headANDent$headednessCat  <- factor(df.predict.headANDent$headednessCat, 
+                                               levels=c("Minimum", "Mean", "Maximum"))
+
+df.observed.headANDent$modality      <- factor(df.observed.headANDent$modality, 
+                                               levels=c("Written (UD)", "Spoken\n(YouTube)"))
+df.observed.headANDent$lengthCat     <- factor(df.observed.headANDent$lengthCat, 
+                                               levels=c("Min length", "Mean length", "Max length"))
+df.observed.headANDent$headednessCat <- factor(df.observed.headANDent$headednessCat, 
+                                               levels=c("Minimum", "Mean", "Maximum"))
+
+
+model.headANDent.g <- ggplot(df.predict.headANDent,
                           aes(x=entropy_scaled, y=difference_predicted))
 
 # Observed data
-model.headANDent.mean.g <- model.headANDent.mean.g +
-  geom_point(data=df.observed.headANDent  %>% filter(lengthCat == "Mean length"),
+model.headANDent.g <- model.headANDent.g +
+  geom_point(data=df.observed.headANDent %>%
+               group_by(modality, entropy_scaled, headednessCat, lengthCat) %>%
+               summarize(difference_score = mean(difference_score)),
              inherit.aes=FALSE,
              aes(x=(entropy_scaled), y=(difference_score),
-                 color=headednessCat), shape="triangle", alpha=0.7, size=1.5)
+                 color=headednessCat), shape="triangle", alpha=0.5, size=1.5)
 
 # Prediction line plot
-model.headANDent.mean.g <- model.headANDent.mean.g +
+model.headANDent.g <- model.headANDent.g +
   geom_line(aes(x=(entropy_scaled), y=(difference_predicted), 
                 color=headednessCat), linetype="dashed", alpha=0.9, size=1.5)
 
 # Theme
-model.headANDent.mean.g <- model.headANDent.mean.g +
+model.headANDent.g <- model.headANDent.g +
   scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
   #geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  coord_cartesian(ylim=c(-1, 3)) + 
-  facet_grid(lengthCat ~ modality) +
+  coord_cartesian(ylim=c(-2, 12)) + 
+  facet_grid(modality ~ lengthCat) +
   labs(title="", x="Entropy", y="Random - Observed", color="Head-finality") + 
-  gg_theme + 
-  theme(legend.position="bottom")
+  gg_theme
 
-ggsave("plots/model_predictions_headednessEntropy_mean.png", plot=model.headANDent.mean.g, device="png", dpi = 300, width=10)
-model.headANDent.mean.g
-
-```
-
-```{r graph_headedness_entropy_max}
-
-model.headANDent.max.g <- ggplot(df.predict.headANDent %>% filter(lengthCat == "Max length"),
-                          aes(x=entropy_scaled, y=difference_predicted))
-
-# Observed data
-# model.headANDent.max.g <- model.headANDent.max.g +
-#   geom_point(data=df.observed.headANDent  %>% filter(lengthCat == "Max length"),
-#              inherit.aes=FALSE,
-#              aes(x=(entropy_scaled), y=(difference_score),
-#                  color=headednessCat), shape="triangle", alpha=0.7, size=1.5)
-
-# Prediction line plot
-model.headANDent.max.g <- model.headANDent.max.g +
-  geom_line(aes(x=(entropy_scaled), y=(difference_predicted), 
-                color=headednessCat), linetype="dashed", alpha=0.9, size=1.5)
-
-# Theme
-model.headANDent.max.g <- model.headANDent.max.g +
-  scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
-  #geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  #coord_cartesian(ylim=c(5, 15)) + 
-  facet_grid(lengthCat ~ modality) +
-  labs(title="", x="Entropy", y="Random - Observed", color="Head-finality") + 
-  gg_theme + 
-  theme(legend.position="bottom")
-
-ggsave("plots/model_predictions_headednessEntropy_max.png", plot=model.headANDent.max.g, device="png", dpi = 300, width=10)
-model.headANDent.max.g
+ggsave("plots/model_predictions_headednessEntropy.png", plot=model.headANDent.g, device="png", dpi = 300, width=8)
+model.headANDent.g
 
 ```
 
 ### Written vs. spoken difference scores
+
+#### Headedness vs. entropy
 
 ```{r merge_and_diff_headVent}
 
@@ -1005,15 +1087,48 @@ df.predict.headVent.diff.written <- df.predict.headVent  %>%
 df.predict.headVent.diff <- merge(df.predict.headVent.diff.spoken, df.predict.headVent.diff.written) %>%
   mutate(difference_score = difference_predicted_spoken - difference_predicted_written)
 
+
+## Observed data
+
+df.observed.headVent.diff.spoken <- df.observed.headVent %>% 
+  ungroup() %>%
+  filter(modality == "Spoken (YouTube)") %>% 
+  select(-modality) %>% 
+  rename(difference_score_spoken = difference_score) %>%
+  mutate(s_len_sq_scaled = round(s_len_sq_scaled, 2))
+  
+df.observed.headVent.diff.written <- df.observed.headVent  %>% 
+  ungroup() %>%
+  filter(modality == "Written (UD)") %>%
+  select(-modality) %>% 
+  rename(difference_score_written = difference_score, s_len_sq_scaled_written = s_len_sq_scaled) %>%
+  mutate(s_len_sq_scaled_written = round(s_len_sq_scaled_written, 2))
+
+df.observed.headVent.diff <- merge(df.observed.headVent.diff.spoken, df.observed.headVent.diff.written) %>%
+  mutate(difference_score = difference_score_spoken - difference_score_written)
+
+
 ```
 
 ```{r graph_entropy_difference}
+
+df.predict.headVent.diff$entropyCat  <- factor(df.predict.headVent.diff$entropyCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
+df.observed.headVent.diff$entropyCat <- factor(df.observed.headVent.diff$entropyCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
 
 model.entropy.diff.g <- ggplot(df.predict.headVent.diff %>% 
                             group_by(s_len_sq_scaled, entropyCat) %>% 
                             summarize(difference_score = mean(difference_score)), 
                           aes(x=s_len_sq_scaled, y=difference_score, color=entropyCat))
 
+# Observed data
+model.entropy.diff.g <- model.entropy.diff.g +
+  geom_point(data=df.observed.headVent.diff,
+             inherit.aes=FALSE, 
+             aes(x=(s_len_sq_scaled), y=(difference_score), 
+                 color=entropyCat), shape="triangle", alpha=0.5, size=1.5)
+ 
 # Prediction line plot
 model.entropy.diff.g <- model.entropy.diff.g +
   geom_line(aes(x=(s_len_sq_scaled), y=(difference_score), 
@@ -1023,10 +1138,10 @@ model.entropy.diff.g <- model.entropy.diff.g +
 model.entropy.diff.g <- model.entropy.diff.g +
   scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49")) +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  #coord_cartesian(ylim=c(-2, 15)) + 
-  labs(title="", x="Sentence Length", y="Written - Spoken", color="Head-finality") + 
+  labs(title="Difference scores by length and entropy", x="Scaled sentence Length", y="Written - Spoken", color="Entropy") + 
+  coord_cartesian(ylim=c(-5, 5)) + 
   gg_theme + 
-  theme(legend.position="bottom")
+  theme(legend.position="right")
 
 ggsave("plots/model_predictions_entropy_diff.png", plot=model.entropy.diff.g, device="png", dpi = 300, width=10)
 model.entropy.diff.g
@@ -1035,11 +1150,23 @@ model.entropy.diff.g
 
 ```{r graph_headedness_difference}
 
+df.predict.headVent.diff$headednessCat  <- factor(df.predict.headVent.diff$headednessCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
+df.observed.headVent.diff$headednessCat <- factor(df.observed.headVent.diff$headednessCat, 
+                                          levels=c("Minimum", "Mean", "Maximum"))
+
 model.headedness.diff.g <- ggplot(df.predict.headVent.diff %>% 
                             group_by(s_len_sq_scaled, headednessCat) %>% 
                             summarize(difference_score = mean(difference_score)), 
                           aes(x=s_len_sq_scaled, y=difference_score, color=headednessCat))
 
+# Observed data
+model.headedness.diff.g <- model.headedness.diff.g +
+  geom_point(data=df.observed.headVent.diff,
+             inherit.aes=FALSE, 
+             aes(x=(s_len_sq_scaled), y=(difference_score), 
+                 color=headednessCat), shape="triangle", alpha=0.5, size=1.5)
+ 
 # Prediction line plot
 model.headedness.diff.g <- model.headedness.diff.g +
   geom_line(aes(x=(s_len_sq_scaled), y=(difference_score), 
@@ -1049,22 +1176,31 @@ model.headedness.diff.g <- model.headedness.diff.g +
 model.headedness.diff.g <- model.headedness.diff.g +
   scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49")) +
   geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  #coord_cartesian(ylim=c(-2, 15)) + 
-  labs(title="", x="Sentence Length", y="Written - Spoken", color="Head-finality") + 
+  labs(title="Difference scores by length and headedness", x="Scaled sentence Length", y="Written - Spoken", color="Head-finality") + 
+  coord_cartesian(ylim=c(-5, 5)) + 
   gg_theme + 
-  theme(legend.position="bottom")
+  theme(legend.position="right")
 
 ggsave("plots/model_predictions_headedness_diff.png", plot=model.headedness.diff.g, device="png", dpi = 300, width=10)
 model.headedness.diff.g
 
 ```
-### Headedness with entropy
+
+```{r arrange_graphs_headent_diff}
+
+gg.headedness_entropy.arranged.diff <- ggarrange(model.entropy.diff.g, model.headedness.diff.g, nrow = 2)
+ggsave("plots/model_predictions_headedness_entropy_diff.png", plot=gg.headedness_entropy.arranged, device="png", dpi = 300, width=9, height=9)
+gg.headedness_entropy.arranged.diff
+
+```
+
+#### Headedness with entropy
 
 ```{r merge_and_diff_headANDent}
 
 df.predict.headANDent.diff.spoken <- df.predict.headANDent %>% 
   ungroup() %>%
-  filter(modality == "Spoken (YouTube)") %>% 
+  filter(modality == "Spoken\n(YouTube)") %>% 
   select(-modality) %>% 
   rename(difference_predicted_spoken = difference_predicted) %>%
   mutate(entropy_scaled = round(entropy_scaled, 2))
@@ -1079,55 +1215,72 @@ df.predict.headANDent.diff.written <- df.predict.headANDent  %>%
 df.predict.headANDent.diff <- merge(df.predict.headANDent.diff.spoken, df.predict.headANDent.diff.written) %>%
   mutate(difference_score = difference_predicted_spoken - difference_predicted_written)
 
+## Observed data
+
+df.observed.headANDent.diff.spoken <- df.observed.headANDent %>% 
+  ungroup() %>%
+  filter(modality == "Spoken\n(YouTube)") %>% 
+  select(-modality) %>% 
+  rename(difference_score_spoken = difference_score) %>%
+  mutate(entropy_scaled = round(entropy_scaled, 2))
+  
+df.observed.headANDent.diff.written <- df.observed.headANDent  %>% 
+  ungroup() %>%
+  filter(modality == "Written (UD)") %>%
+  select(-modality) %>% 
+  rename(difference_score_written = difference_score, lengthCat_written=lengthCat, headednessCat_written=headednessCat)  %>%
+  mutate(entropy_scaled = round(entropy_scaled, 2))
+
+df.observed.headANDent.diff <- merge(df.observed.headANDent.diff.spoken, df.observed.headANDent.diff.written) %>%
+  mutate(difference_score = difference_score_spoken - difference_score_written)
+
 ```
 
 ```{r graph_headedness_entropy_diff_mean}
 
-model.headANDent.diff.mean.g <- ggplot(df.predict.headANDent.diff %>% filter(lengthCat == "Mean length"),
+# This one is weird because the predicted entropy values go way beyond the ones that are shared by writing/speaking
+# But the only way to get "observed" difference scores is by subtracting cases where writing and speech have the same entropy value
+# It's also misleading because it looks like there are so few values
+# Trying to show the "observed" differences might just not really work here? Maybe that's okay...
+
+df.predict.headANDent.diff$lengthCat      <- factor(df.predict.headANDent.diff$lengthCat, 
+                                               levels=c("Min length", "Mean length", "Max length"))
+df.predict.headANDent.diff$headednessCat  <- factor(df.predict.headANDent.diff$headednessCat, 
+                                               levels=c("Minimum", "Mean", "Maximum"))
+
+df.observed.headANDent.diff$lengthCat     <- factor(df.observed.headANDent.diff$lengthCat, 
+                                               levels=c("Min length", "Mean length", "Max length"))
+df.observed.headANDent.diff$headednessCat <- factor(df.observed.headANDent.diff$headednessCat, 
+                                               levels=c("Minimum", "Mean", "Maximum"))
+
+
+model.headANDent.diff.g <- ggplot(df.predict.headANDent.diff,
                           aes(x=entropy_scaled, y=difference_score))
 
+# Observed data
+model.headANDent.diff.g <- model.headANDent.diff.g +
+  geom_point(data=df.observed.headANDent.diff %>%
+               group_by(entropy_scaled, headednessCat, lengthCat) %>%
+               summarize(difference_score = mean(difference_score)),
+             inherit.aes=FALSE,
+             aes(x=(entropy_scaled), y=(difference_score),
+                 color=headednessCat), shape="triangle", alpha=0.5, size=1.5)
+
 # Prediction line plot
-model.headANDent.diff.mean.g <- model.headANDent.diff.mean.g +
+model.headANDent.diff.g <- model.headANDent.diff.g +
   geom_line(aes(x=(entropy_scaled), y=(difference_score), 
                 color=headednessCat), linetype="dashed", alpha=0.9, size=1.5)
 
 # Theme
-model.headANDent.diff.mean.g <- model.headANDent.diff.mean.g +
-  scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
-  #geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  #coord_cartesian(ylim=c(-1, 3)) + 
-  facet_wrap(.~lengthCat) +
-  labs(title="", x="Entropy", y="Spoken - Written", color="Head-finality") + 
-  gg_theme + 
-  theme(legend.position="bottom")
+model.headANDent.diff.g <- model.headANDent.diff.g +
+  scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d")) +
+  geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
+  facet_grid(. ~ lengthCat) +
+  labs(title="", x="Entropy", y="Written - Spoken", color="Head-finality") + 
+  gg_theme
 
-ggsave("plots/model_predictions_headednessEntropy_mean.png", plot=model.headANDent.diff.mean.g, device="png", dpi = 300, width=10)
-model.headANDent.diff.mean.g
-
-```
-
-```{r graph_headedness_entropy_diff_max}
-
-model.headANDent.diff.max.g <- ggplot(df.predict.headANDent.diff %>% filter(lengthCat == "Max length"),
-                          aes(x=entropy_scaled, y=difference_score))
-
-# Prediction line plot
-model.headANDent.diff.max.g <- model.headANDent.diff.max.g +
-  geom_line(aes(x=(entropy_scaled), y=(difference_score), 
-                color=headednessCat), linetype="dashed", alpha=0.9, size=1.5)
-
-# Theme
-model.headANDent.diff.max.g <- model.headANDent.diff.max.g +
-  scale_color_manual(values=c("#61c75d", "#0086d6", "#001C49", "#61c75d", "#0086d6", "#001C49")) +
-  #geom_hline(aes(yintercept=0), linetype="dashed", width=1.5) + 
-  #coord_cartesian(ylim=c(-1, 3)) + 
-  facet_wrap(.~lengthCat) +
-  labs(title="", x="Entropy", y="Spoken - Written", color="Head-finality") + 
-  gg_theme + 
-  theme(legend.position="bottom")
-
-ggsave("plots/model_predictions_headednessEntropy_max.png", plot=model.headANDent.diff.max.g, device="png", dpi = 300, width=10)
-model.headANDent.diff.max.g
+ggsave("plots/model_predictions_headednessEntropy_diff.png", plot=model.headANDent.diff.g, device="png", dpi = 300, width=8)
+model.headANDent.diff.g
 
 ```
 

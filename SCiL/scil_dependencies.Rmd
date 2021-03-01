@@ -1086,10 +1086,10 @@ gg.ud.youdepp.sov <- gg.ud.youdepp.sov +
 gg.ud.youdepp.sov <- gg.ud.youdepp.sov + 
   facet_grid(language ~ corpus) +
   labs(title="", x="Sentence Length", y="Total Dependency Length", color="Baseline", linetype="Corpus") + 
-  gg_theme()# + 
-  #theme(legend.position = "bottom")
+  gg_theme() + 
+  theme(legend.position = "bottom")
 
-ggsave("../data/plots/ud_youdepp_comparison_2.png", plot=gg.ud.youdepp.sov, device="png", dpi = 300, height=7.5, width=8)
+ggsave("../data/plots/ud_youdepp_comparison_2.png", plot=gg.ud.youdepp.sov, device="png", dpi = 300, height=7.25, width=8)
 gg.ud.youdepp.sov
 ```
 
