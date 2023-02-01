@@ -1,9 +1,14 @@
-**Important notice**: Beginning in April, all pipline code will be migrated to, and exclusively maintained at, [LingTube](https://github.com/Narquelion/LingTube). This respository will transition to storing only the YouDeP Corpus and associated analysis scripts.
+**Important notice**: Beginning in April 2021, all pipline code will be migrated to, and exclusively maintained at, the [LingTube](https://github.com/Narquelion/LingTube) repository. This purpose of this respository is to store the YouDeP Corpus, the pipeline as originally implemented and used in my project ["Dependency locality and its correlates in writing and speech: An investigation across 7 languages via YouTube captions"](https://osf.io/nez36/), and associated analysis scripts.
 
 ---
 
-# YouDePP: YouTube Dependency Parsing Pipeline
+<h1 align="center">YouDePP</h1>
 
+<p align="center">
+  <img width="500px" alt="Sample results from the dependency study." src="data/plots/model_fits_diff_betas.png">
+</p>
+
+<h2 align="center">The YouTube Dependency Parsing Pipeline</h2>
 
 ## Pipeline
 
@@ -22,7 +27,7 @@ In order to work with Selenium, you will first need to install it with `pip` via
 
 The driver should be placed somewhere in your path (e.g. `/usr/local/bin/`). MacOS users can also download these drivers via [Homebrew](https://brew.sh/), which will place the driver in your `Cellar`.
 
-`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. Currently, the script assumes the use of Firefox + Geckodriver, though it is possible to modify `scrape_yt.py` to use Chrome instead. (Official support coming at some point.)
+`scrape_yt.py` uses [Selenium](https://www.selenium.dev/documentation/) to scrape the video URLs and About page from one (or several) YouTube channels. Currently, the script assumes the use of Firefox + Geckodriver, though it is possible to modify `scrape_yt.py` to use Chrome instead.
 
 #### Usage
 
@@ -92,11 +97,3 @@ Audio tracks are saved to `captions/raw_audio/`. Both caption tracks and audio t
 As with `scrape_yt.py`, a "group" can be specified in order to organize tracks within an additional subfolder, e.g. `corpus/raw_captions/$GroupName`. Regardless of group, tracks can be further organized into subfolfers by channel by specifying `--channels`.
 
 For very large lists of videos, `--resume` and `--limit` can be used to resume from the Nth video and limit processing to N total videos, respectively.
-
-### Automatically cleaning caption files
-
-Documentation coming soon!
-
-### Parsing caption files
-
-Documentation coming soon!
