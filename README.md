@@ -2,13 +2,11 @@
 
 ---
 
-<h1 align="center">YouDePP</h1>
+<h1 align="center">YouDePP: YouTube Dependency Parsing Pipeline</h1>
 
 <p align="center">
   <img width="500px" alt="Sample results from the dependency study." src="data/plots/model_fits_diff_betas.png">
 </p>
-
-<h2 align="center">The YouTube Dependency Parsing Pipeline</h2>
 
 ## Pipeline
 
